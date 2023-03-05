@@ -85,6 +85,13 @@ def genPage(group, tid, md):
     output = template.replace('{{group}}', group.replace('_', ' ').replace('/', ' '))
     output = output.replace('{{title}}', md['subject'])
     
+    topicNav = ''
+    if topic['prevTopicId'] != 0:
+        topicNav = '<a href="'+str(topic['prevTopicId'])+'.html">[Previous Topic]</a> '
+    if topic['nextTopicId'] != 0:
+        topicNav = topicNav + '<a href="'+str(topic['nextTopicId'])+'.html">[Next Topic]</a>'
+    output = output.replace('{{topicNav}}', topicNav)
+    
     content = ''
     messages = sorted(topic['messages'], key=lambda msg: msg['msgId'])
     for msg in messages:
