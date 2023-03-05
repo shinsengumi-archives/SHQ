@@ -13,14 +13,9 @@ def readEncodedFile(file):
         content = json.load(f)
         f.close()
     except:
-        try:
-            f = open(file, encoding='shift_jis')
-            content = json.load(f)
-            f.close()
-        except:
-            f = open(file, encoding='iso-8859-1')
-            content = json.load(f)
-            f.close()
+        f = open(file, encoding='iso-8859-1')
+        content = json.load(f)
+        f.close()
     return content
 
 
@@ -44,7 +39,7 @@ def genPage(group, tid, md):
         content = content + '<div id="msg-'+str(msg['msgId'])+'">\n'
         
         date = datetime.fromtimestamp(int(msg['postDate']))
-        content = content + '['+date.strftime('%Y-%m-%d %H:%M:%S')+']\n'
+        content = content + '#'+str(msg['msgId'])+' ['+date.strftime('%Y-%m-%d %H:%M:%S')+']\n'
         
         if isTest:
             content = content + ' '+str(msg['msgId'])+' '+str(msg['prevInTopic'])+' '+str(msg['nextInTopic'])+'\n'
@@ -125,7 +120,7 @@ def genIndex(group):
         else:
             nReplies = str(nReplies) + ' replies'
             
-        content = content + '<li><b>['+date.strftime('%Y-%m-%d %H:%M')+']</b> '
+        content = content + '<li>#'+str(tid)+' <b>['+date.strftime('%Y-%m-%d %H:%M')+']</b> '
         content = content + '<a href="forum/'+str(tid)+'.html">'+md['subject']+'</a> '
         content = content + '<b>('+nReplies+')</b> '
         content = content + '- <i>'+author+'</i><br/>\n'
