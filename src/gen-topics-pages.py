@@ -10,7 +10,7 @@ isTest = False
 testTids = [1]
 
 def decodeJapanese(content):    
-    #content = html.unescape(content)
+    content = html.unescape(content)
     ichars = [i for i in range(len(content)) if ord(content[i]) > 127]
     istart = -1
     chunks = []
