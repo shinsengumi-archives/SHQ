@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "DVD news",
+            "postDate": "1095267176",
+            "msgId": 1601,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNDg3MzY4LjQwMDAzMDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1600,
+            "nextInTime": 1602,
+            "topicId": 1601,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If you, like me, have a collection of various movies/dramas in .avi format that play only on the computer in Divx or whatever then take a look at this",
+            "messageBody": "<div id=\"ygrps-yiv-1524058963\">If you, like me, have a collection of various movies/dramas in .avi <br/>\nformat that play only on the computer in Divx or whatever then take a <br/>\nlook at this baby---The PhilipsDVP642 that retails for like $70--yes <br/>\nthat&#39;s right $70.<br/>\n<br/>\nApparently it plays EVERYTHING even foreign region coded  movies....(I <br/>\ncan almost hear the Japanese version of Mibugishiden with the cool <br/>\nextras disc calling my name now...)<br/>\nHere&#39;s a link to some reviews and such<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://reviews.cnet.com/Philips_DVP642/4505-6473_7-30959433.html\">http://reviews.cnet.com/Philips_DVP642/4505-6473_7-30959433.html</a> <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n--<br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1598,
+    "nextTopicId": 1602
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "&quot;The Surviving Shinsengumi&quot; 1932",
+            "postDate": "1080777753",
+            "msgId": 251,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0Zm02cCtnaHBkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 250,
+            "nextInTime": 252,
+            "topicId": 251,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.imdb.com/find?tt=on;nm=on;mx=20;q=shinsengumi came up with some stuff The Surviving Shinsengumi (Ikinokotta Shinsengumi)1932 wow 17 years after",
+            "messageBody": "<div id=\"ygrps-yiv-2114008516\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.imdb.com/find?tt=on;nm=on;mx=20;q=shinsengumi\">http://www.imdb.com/find?tt=on;nm=on;mx=20;q=shinsengumi</a><br/>\ncame up with some stuff<br/>\n<br/>\n&quot;The Surviving Shinsengumi&quot; (Ikinokotta Shinsengumi)1932<br/>\nwow 17 years after historical Saitou dies...I don&#39;t even care if these<br/>\nfilms are subtitled or not...I&#39;d love to see them:)  I&#39;m sure some<br/>\nuniversity/studio in Japan owns copies...at least I hope so</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 223,
+    "nextTopicId": 250
+}

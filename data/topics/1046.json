@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ebay movie alert!",
+            "postDate": "1087063320",
+            "msgId": 1046,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQ0I0NTE4LjQwNzAzMDhAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1045,
+            "nextInTime": 1047,
+            "topicId": 1046,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thought I d pass this along in case anyone is interested and has a couple extra bucks in their pocket. there are 6 copies of When the Last Sword is",
+            "messageBody": "<div id=\"ygrps-yiv-1668895183\">Thought I&#39;d pass this along in case anyone is interested and has a <br/>\ncouple extra bucks in their pocket. there are 6 copies of When the Last <br/>\nSword is Drawn/Mibugishiden for sale on ebay for $12.99 + 5 shipping<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=617&item=6300686021\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=617&item=6300686021</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1042,
+    "nextTopicId": 1043
+}

@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 12287916,
+        "albumId": 188481658,
+        "photoId": 1084783585,
+        "photoName": "Okita and Kondou",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "shimazuryu",
+        "modificationDate": 1086617839,
+        "creationDate": 1086617839,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Doujinshi, from somewhere online (I forgot). Translated by Masayoshi.",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/tn/wQkwq73tetljxNk6nHxa/name/n_a",
+                "height": 96,
+                "width": 61,
+                "size": 1958,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/sn/wQkwq73tetljxNk6nHxa/name/n_a",
+                "height": 480,
+                "width": 306,
+                "size": 39018,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/hr/wQkwq73tetljxNk6nHxa/name/n_a",
+                "height": 800,
+                "width": 510,
+                "size": 95516,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12287916,
+        "albumId": 188481658,
+        "photoId": 1176322910,
+        "photoName": "Isami Kondo versi Justsensei",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "iuiung",
+        "modificationDate": 1126841875,
+        "creationDate": 1126841875,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/tn/YN81sonte9Zo9KMFc0DC/name/n_a",
+                "height": 96,
+                "width": 80,
+                "size": 2283,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/sn/YN81sonte9Zo9KMFc0DC/name/n_a",
+                "height": 400,
+                "width": 333,
+                "size": 15287,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/hr/YN81sonte9Zo9KMFc0DC/name/n_a",
+                "height": 400,
+                "width": 333,
+                "size": 15287,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

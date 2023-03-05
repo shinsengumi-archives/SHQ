@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Interesting post on 3-hajime.com",
+            "postDate": "1087244966",
+            "msgId": 1063,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhbDFyNisxcTVtQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNhazl1NSt0cjJqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1061,
+            "nextInTopic": 0,
+            "prevInTime": 1062,
+            "nextInTime": 1064,
+            "topicId": 1061,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... On it. Will reply with translation soon. --M.",
+            "messageBody": "<div id=\"ygrps-yiv-933689122\"><blockquote><span title=\"ireply\">&gt; For anyone who has fancy translation software or who could read<br/>\n&gt; Japanese (I am begging)<br/>\n<br/>\n </span></blockquote>On it. Will reply with translation soon.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Interesting post on 3-hajime.com",
+            "postDate": "1087220485",
+            "msgId": 1061,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhazl1NSt0cjJqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1063,
+            "prevInTime": 1060,
+            "nextInTime": 1062,
+            "topicId": 1061,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone who has fancy translation software or who could read Japanese (I am begging) on http://www.3-hajime.com/cgi-local/bbs_06.cgi entry for 6/14 ",
+            "messageBody": "<div id=\"ygrps-yiv-3161894\">For anyone who has fancy translation software or who could read<br/>\nJapanese (I am begging)<br/>\n<br/>\non <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.3-hajime.com/cgi-local/bbs_06.cgi\">http://www.3-hajime.com/cgi-local/bbs_06.cgi</a> entry for 6/14<br/>\n(Hijikata icon) there is a guy (oh my gosh a GUY posted on 3-hajime!)<br/>\nwho said this:<br/>\n<br/>\nHeaven dragon Sho, beginning, today. è«¾ æ With you say. From now on,<br/>\nevery acquaintance. To tell the truth my wife with Kitakata city<br/>\ngraduate something, the lineage of the grandmother is the Aizu feudal<br/>\nclan loyal retainer. You think that there is a memorial stone monument<br/>\nof the person, &quot;Nakane United States seven&quot;, in Kumakura, but that<br/>\nperson becomes the grandfather of the grandmother of the wife. It<br/>\nseems that as for this person at the time of æ è¾° war being in blue<br/>\ndragon party, it survives, causes &quot;thought bridge incident&quot; incident,<br/>\ngoes to Seinan war. It is drawn Saigo prosperously and together with<br/>\nthe brocade picture of Seinan war. After that, returning to Kumakura,<br/>\nbeing to commit hara-kiri, it does, but that time, Saito one where had<br/>\nbecome the policeman helped the United States seven from the spy, so<br/>\nis. Naturally, as for the blood of that United States seven it is not<br/>\nflowing to me, but when you think, that that blood is succeeded in the<br/>\nchildren, you think very in pride. When this time, going home in<br/>\nKitakata, you think that I would like to go to visiting a grave.<br/>\n<br/>\nbasically his wife is related to an Aizu retainer who served in the<br/>\nblue dragon party (for those of you who are new the defense of Aizu<br/>\nwas split into age groups, genbu/turtle (oldest), seiryu? dragon,<br/>\nphoenix (Saitou was part of phoenix) and white tiger (youngest<br/>\nguys)...the rest I&#39;m not clear...the man is happy that his kids have<br/>\nAizu blood in their veins it seems</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1036,
+    "nextTopicId": 1064
+}

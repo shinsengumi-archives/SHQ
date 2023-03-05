@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "March 21st Aizu---be there!",
+            "postDate": "1079813617",
+            "msgId": 69,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzaThsaCszZnVwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 68,
+            "nextInTime": 70,
+            "topicId": 69,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Well, if any of you are planning for a trip to Japan you may want to plan it so that when you visit Aizu you are there when they are having a festival... Aizu",
+            "messageBody": "<div id=\"ygrps-yiv-1910141544\">Well, if any of you are planning for a trip to Japan you may want to<br/>\nplan it so that when you visit Aizu you are there when they are having<br/>\na festival...<br/>\n<br/>\nAizu higan shishi<br/>\n21 March<br/>\nAizu wakamatsu, Fukushima Prefecture<br/>\nLion dances are performed around the city marking the end of the long<br/>\nwinter and the Buddhist services of the equinoctial week.<br/>\n<br/>\nSource....<a rel=\"nofollow\" target=\"_blank\" href=\"http://japanvisitor.com/jc/mar_fest.html\">http://japanvisitor.com/jc/mar_fest.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 66,
+    "nextTopicId": 70
+}

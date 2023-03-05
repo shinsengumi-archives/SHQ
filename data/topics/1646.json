@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "One more",
+            "postDate": "1096227781",
+            "msgId": 1646,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqNzY0NSt2bHBtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1645,
+            "nextInTime": 1647,
+            "topicId": 1646,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Okay, from that painting, I can tell you the name of one more, whose name appears to her left-- Ougi Yuna (if I m reading it right). --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1316246326\">Okay, from that painting, I can tell you the name of one more, whose<br/>\nname appears to her left-- Ougi Yuna (if I&#39;m reading it right).<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1644,
+    "nextTopicId": 1233
+}

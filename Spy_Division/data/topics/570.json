@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 438216,
+            "authorName": "unsafesects",
+            "from": "&quot;unsafesects&quot; &lt;mindglue@...&gt;",
+            "profile": "unsafesects",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Disturbing.",
+            "postDate": "1111388084",
+            "msgId": 570,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxbHIzays0cTRtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 569,
+            "nextInTime": 571,
+            "topicId": 570,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The most disturbing thing ever was seeing the word Shinsengumi on www.somethingawful.com. By the way, if you like that bizarre",
+            "messageBody": "<div id=\"ygrps-yiv-293192382\">The most disturbing thing ever was seeing the word &quot;Shinsengumi&quot; on<br/>\nwww.somethingawful.com.<br/>\n<br/>\nBy the way, if you like that bizarre Domo-kun-in-a-Shinsengumi-uniform<br/>\nthing, you can win one of them in the current contest if you are good<br/>\nwith the artworks.  You have to create an ad for a fictional J-List<br/>\nproduct.<br/>\n<br/>\nAngrybee</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 568,
+    "nextTopicId": 571
+}

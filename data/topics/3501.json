@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 75865379,
+            "authorName": "shinsengumi3@****",
+            "from": "shinsengumi3@...",
+            "profile": "otakuvidel",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "",
+            "postDate": "1327830300",
+            "msgId": 3501,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhDRUFDODFDRDNGNjgzMi0xMTIwLTEyQkI0QHdlYm1haWwtbTE1Ni5zeXNvcHMuYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3500,
+            "nextInTime": 3502,
+            "topicId": 3501,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.childscapes.net/wp-content/uploads/fgallery/image.php?got128.gif",
+            "messageBody": "<div id=\"ygrps-yiv-1781807002\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.childscapes.net/wp-content/uploads/fgallery/image.php?got128.gif\">http://www.childscapes.net/wp-content/uploads/fgallery/image.php?got128.gif</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3498,
+    "nextTopicId": 3502
+}

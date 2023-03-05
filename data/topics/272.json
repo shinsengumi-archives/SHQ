@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "IGNORE: Testing time delay",
+            "postDate": "1080950119",
+            "msgId": 272,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0a3VoNytkZm1yQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 271,
+            "nextInTime": 273,
+            "topicId": 272,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I posted a reply to Tiffany s comment on Saitou and the detention center and it s yet to show up, almost two hours later, but a new message from her has shown",
+            "messageBody": "<div id=\"ygrps-yiv-1179156231\">I posted a reply to Tiffany&#39;s comment on Saitou and the detention <br/>\ncenter and it&#39;s yet to show up, almost two hours later, but a new <br/>\nmessage from her has shown up on the list site.  Just seeing how long <br/>\nit takes for this to show up.  (Still no response from Yahoo to my <br/>\nquery... grrr.)<br/>\n<br/>\nphil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 266,
+    "nextTopicId": 278
+}

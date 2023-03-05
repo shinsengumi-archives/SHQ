@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "You are all invited to &quot;Shinsengumi Masterpiece Theatre&quot;",
+            "postDate": "1136332262",
+            "msgId": 738,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwZjJsNitpN2xpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 737,
+            "nextInTime": 739,
+            "topicId": 738,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.shinsengumihq.com/MFD.htm can you do better? .ofcourse. so submit something. be creative again, the movies are hosted on a different server so it",
+            "messageBody": "<div id=\"ygrps-yiv-1673919901\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/MFD.htm\">http://www.shinsengumihq.com/MFD.htm</a><br/>\n<br/>\ncan you do better?<br/>\n<br/>\n.ofcourse.<br/>\n<br/>\nso submit something.<br/>\n<br/>\nbe creative<br/>\n<br/>\nagain, the movies are hosted on a different server so it doesn&#39;t <br/>\ninterfere with SHQ.com bandwidth and all that<br/>\n--------------------------------------------<br/>\nplease see &quot;2006&quot; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com\">http://www.shinsengumihq.com</a> for all the updates</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 735,
+    "nextTopicId": 739
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi Fiction Database",
+            "postDate": "1080706668",
+            "msgId": 82,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZGdwYytrbW9hQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 81,
+            "nextInTime": 83,
+            "topicId": 82,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I started a Shinsengumi Fiction Database for stories stored in fanfiction.net or elsewhere on the net.  Everyone can add records so pitch in and gather the",
+            "messageBody": "<div id=\"ygrps-yiv-1108195468\">I started a Shinsengumi Fiction Database for stories stored in<br/>\nfanfiction.net or elsewhere on the net.  Everyone can add records so<br/>\npitch in and gather the best fiction in one place:)<br/>\n<br/>\nIf you are a writer on ff.net please list your Shinsengumi/Saitou<br/>\nstories:)<br/>\n<br/>\nDue to the overwhelming number of RK stories on ff.net the Shinsengumi<br/>\nkind of get &quot;lost&quot; and so it is absolutely necessary to bring these<br/>\nstories to the forefront.<br/>\n<br/>\nIn the future, when time permits we can probably convert the database<br/>\nto html/links for the SHQ page.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 80,
+    "nextTopicId": 50
+}

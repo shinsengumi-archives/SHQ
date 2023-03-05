@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 201251068,
+            "authorName": "mitayas",
+            "from": "&quot;mitayas&quot; &lt;mitayas@...&gt;",
+            "profile": "mitayas",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Mandatory Viewing of this Fanart",
+            "postDate": "1220429901",
+            "msgId": 910,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc5bGg4ZCsxZ2lhQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGcyYWJobCtpOHRqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 900,
+            "nextInTopic": 0,
+            "prevInTime": 909,
+            "nextInTime": 911,
+            "topicId": 899,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "nice work! :) ... http://ameblo.jp/mitayashi",
+            "messageBody": "<div id=\"ygrps-yiv-890337596\">nice work! :)<br/>\n<br/>\n--------------<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://ameblo.jp/mitayashi\">http://ameblo.jp/mitayashi</a><br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;secretary&quot;<br/>\n&lt;secretarytocapt3@...&gt; wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; It&#39;s an order...<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629\">http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629</a><br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 252774361,
+            "authorName": "kikue.mugen",
+            "from": "&quot;kikue.mugen&quot; &lt;kikue.mugen@...&gt;",
+            "profile": "kikue.mugen",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Mandatory Viewing of this Fanart",
+            "postDate": "1212879767",
+            "msgId": 900,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcyZjQybittMWhqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGcyYWJobCtpOHRqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 899,
+            "nextInTopic": 910,
+            "prevInTime": 899,
+            "nextInTime": 901,
+            "topicId": 899,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The character on the far left looks like a chibi Charlie Brown character.  Still kewt though.",
+            "messageBody": "<div id=\"ygrps-yiv-469359005\">The character on the far left looks like a chibi Charlie Brown<br/>\ncharacter.  Still kewt though.<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;secretary&quot;<br/>\n&lt;secretarytocapt3@...&gt; wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; It&#39;s an order...<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629\">http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629</a><br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Mandatory Viewing of this Fanart",
+            "postDate": "1212723573",
+            "msgId": 899,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcyYWJobCtpOHRqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 900,
+            "prevInTime": 898,
+            "nextInTime": 900,
+            "topicId": 899,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It s an order... http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629",
+            "messageBody": "<div id=\"ygrps-yiv-64321382\">It&#39;s an order...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629\">http://tohlee.deviantart.com/art/Concept-Shinsengumi-82878629</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 897,
+    "nextTopicId": 906
+}

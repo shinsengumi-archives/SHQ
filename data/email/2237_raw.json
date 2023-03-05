@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "NTaqHBpIu3zj_by2HmUnSxhO3SMqaYZ53Gw34PV1fmRKRtXusEWtK_gvXesn8wDL8MWbOM74XfvztjE",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1110064026",
+    "msgId": 2237,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMTAwNjQwMjYuNzU1LjgyNTU5LncxMDdAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 2220,
+    "nextInTopic": 2422,
+    "prevInTime": 2236,
+    "nextInTime": 2238,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        :",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 41219 invoked from network); 5 Mar 2005 23:07:36 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m8.grp.scd.yahoo.com with QMQP; 5 Mar 2005 23:07:36 -0000\r\nReceived: from unknown (HELO n1a.bulk.scd.yahoo.com) (66.94.237.35)\n  by mta1.grp.scd.yahoo.com with SMTP; 5 Mar 2005 23:07:36 -0000\r\nDomainKey-Signature: \r\nReceived: from [66.218.69.3] by n1.bulk.scd.yahoo.com with NNFMP; 05 Mar 2005 23:07:36 -0000\r\nReceived: from [66.218.66.74] by mailer3.bulk.scd.yahoo.com with NNFMP; 05 Mar 2005 23:07:36 -0000\r\nDate: 5 Mar 2005 23:07:06 -0000\r\nMessage-ID: &lt;1110064026.755.82559.w107@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.94.237.35\r\n\r\n\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /TigersJapanTimesSEPT271928.jpg \n  Uploaded by : spiritus_saitou &lt;spiritus_saitou@...&gt; \n  Description : Byakkotai article - Japan Times - Sept 1928 \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/TigersJapanTimesSEPT271928.jpg \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nspiritus_saitou &lt;spiritus_saitou@...&gt;\n \n\n\n\n\n\n\n\n"
+}

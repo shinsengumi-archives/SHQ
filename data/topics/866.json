@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "This is what happens...",
+            "postDate": "1085524462",
+            "msgId": 866,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTI1MjIzNDIyLjg5Mzc3LnFtYWlsQHdlYjIxNDEwLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 865,
+            "nextInTime": 867,
+            "topicId": 866,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... when you start googling new key words... like Kojima Family. Have we run into this site before?  What a surprise to bring up a Shinsengumi site while",
+            "messageBody": "<div id=\"ygrps-yiv-1364086881\">... when you start googling new key words... like Kojima Family.<br/>\n <br/>\nHave we run into this site before?  What a surprise to bring up a Shinsengumi site while searching for Kojima.  Doubt it&#39;s the same family, but I&#39;m just getting started.<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.tourism.metro.tokyo.jp/english/winter2/shinsen/\">http://www.tourism.metro.tokyo.jp/english/winter2/shinsen/</a><br/>\n <br/>\nphil (who didn&#39;t need more things to procrastinate with)<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 864,
+    "nextTopicId": 855
+}

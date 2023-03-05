@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: PBS: Japan: Memoirs of a Secret Empire",
+            "postDate": "1084844549",
+            "msgId": 751,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4YnBtNSs1OWs2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM4Ym5qbStrM3QyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 750,
+            "nextInTopic": 0,
+            "prevInTime": 750,
+            "nextInTime": 752,
+            "topicId": 750,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What would be *really* cool is if this happened to be a prelude, an introduction, to PBS picking up the NHK drama.  Anyone got any PBS connections??  :-D ",
+            "messageBody": "<div id=\"ygrps-yiv-1545564451\">What would be *really* cool is if this happened to be a prelude, an <br/>\nintroduction, to PBS picking up the NHK drama.  Anyone got any PBS <br/>\nconnections??  :-D<br/>\n<br/>\nThanks for the heads-up and the link!!  With my luck, KAET has <br/>\nalready started showing it (or shown it).<br/>\n<br/>\nphil (who&#39;s spent the whole afternoon writing thanks to that stupid <br/>\nmovie and will try to keep it a one-shot story and NOT start another <br/>\nmulti-parter)<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Grace Battista&quot; &lt;mg_batt@y...&gt; wrote:<br/>\n&gt; You people probably already know about this but for those who do <br/>\nnot <br/>\n&gt; PBS is going to air Japan: Memoirs of a Secret Empire. I&#39;m not sure <br/>\n&gt; how many episodes it is but so far I think they will show three on <br/>\n&gt; WTTW Chicago on May 26 8PM. You&#39;ll have to check your own listings <br/>\n&gt; though...<br/>\n&gt; <br/>\n&gt; They also have a nicely done website tacking the subject divided <br/>\n&gt; into &quot;Enter Edo&quot;, &quot;Travel Tokaido&quot; and a timeline... Good if you&#39;re <br/>\n&gt; like me who needed a crash course.... ^_^<br/>\n&gt; Here&#39;s the link:  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pbs.org/empires/japan/index.html\">http://www.pbs.org/empires/japan/index.html</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 122717733,
+            "authorName": "Grace Battista",
+            "from": "&quot;Grace Battista&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "PBS: Japan: Memoirs of a Secret Empire",
+            "postDate": "1084842422",
+            "msgId": 750,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4Ym5qbStrM3QyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 751,
+            "prevInTime": 749,
+            "nextInTime": 751,
+            "topicId": 750,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "You people probably already know about this but for those who do not PBS is going to air Japan: Memoirs of a Secret Empire. I m not sure how many episodes it",
+            "messageBody": "<div id=\"ygrps-yiv-1103099649\">You people probably already know about this but for those who do not <br/>\nPBS is going to air Japan: Memoirs of a Secret Empire. I&#39;m not sure <br/>\nhow many episodes it is but so far I think they will show three on <br/>\nWTTW Chicago on May 26 8PM. You&#39;ll have to check your own listings <br/>\nthough...<br/>\n<br/>\nThey also have a nicely done website tacking the subject divided <br/>\ninto &quot;Enter Edo&quot;, &quot;Travel Tokaido&quot; and a timeline... Good if you&#39;re <br/>\nlike me who needed a crash course.... ^_^<br/>\nHere&#39;s the link:  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pbs.org/empires/japan/index.html\">http://www.pbs.org/empires/japan/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 738,
+    "nextTopicId": 758
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Anyone Know German?",
+            "postDate": "1100615762",
+            "msgId": 1838,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuZDM4aStxMWNwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1837,
+            "nextInTime": 1839,
+            "topicId": 1838,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "General Eduard Schnell by Kurt Meissner (ARTICLE IS IN GERMAN) 1052 KB PDF file with full citations on first page ",
+            "messageBody": "<div id=\"ygrps-yiv-1410132648\">&quot;General&quot; Eduard Schnell<br/>\nby Kurt Meissner<br/>\n(ARTICLE IS IN GERMAN)<br/>\n1052 KB<br/>\nPDF file with full citations on first page<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Gen.EduardSchnell.pdf\">http://1happyturtle.com/makoto/Gen.EduardSchnell.pdf</a><br/>\n*Schnell is connected to Aizu*</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1837,
+    "nextTopicId": 1801
+}

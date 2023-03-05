@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Shinsengumi on Youtube.com",
+            "postDate": "1150300414",
+            "msgId": 784,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU2cGJkdSszMXFiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 782,
+            "nextInTime": 786,
+            "topicId": 784,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "These are fanmovies so I ll post them here: shinsengumi festival (have I gone insane or are the Aizu Joushitai in the parade too? LOOOK!!!! how many times do",
+            "messageBody": "<div id=\"ygrps-yiv-393805456\">These are fanmovies so I&#39;ll post them here:<br/>\n<br/>\nshinsengumi festival (have I gone insane or are the Aizu Joushitai <br/>\nin the parade too? LOOOK!!!! how many times do we have to say, <br/>\nJoushitai and Shinsengumi crossovers make great anime/manga!)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=euVJpHLjdq8\">http://www.youtube.com/watch?v=euVJpHLjdq8</a><br/>\n<br/>\nmore from the same event<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=kGA8Yt-75ho\">http://www.youtube.com/watch?v=kGA8Yt-75ho</a><br/>\n<br/>\nHijikata Toshizo Memorial:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=20PUzMQvGYA\">http://www.youtube.com/watch?v=20PUzMQvGYA</a><br/>\n<br/>\nHijikata at Hakodate (vid-game)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=-KhnNYrHxRY\">http://www.youtube.com/watch?v=-KhnNYrHxRY</a><br/>\n<br/>\nShinsengumi Swordfight for the Tourists<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=5MWI6a0scUQ\">http://www.youtube.com/watch?v=5MWI6a0scUQ</a><br/>\n<br/>\nAdorable Little Cosplayer<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=cvbwx2EeMO4\">http://www.youtube.com/watch?v=cvbwx2EeMO4</a><br/>\n<br/>\n(YES!) Saitou Hajime Fangirl Tribute<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=Ga6hUHWtAoI\">http://www.youtube.com/watch?v=Ga6hUHWtAoI</a></div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/5MWI6a0scUQ?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/cvbwx2EeMO4?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/Ga6hUHWtAoI?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/-KhnNYrHxRY?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/euVJpHLjdq8?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/20PUzMQvGYA?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/kGA8Yt-75ho?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 782,
+    "nextTopicId": 786
+}

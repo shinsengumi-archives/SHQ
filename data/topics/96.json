@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Okita&#39;s letter",
+            "postDate": "1080067652",
+            "msgId": 96,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcTBvNCs0b3FzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 95,
+            "nextInTime": 97,
+            "topicId": 96,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m going to give a VERY loose translation. The letter is in classical Japanese, which makes my head hurt even more than Babelfish. ... (from ",
+            "messageBody": "<div id=\"ygrps-yiv-2019087018\">I&#39;m going to give a VERY loose translation. The letter is in classical<br/>\nJapanese, which makes my head hurt even more than Babelfish.<br/>\n<br/>\n-----------<br/>\n<br/>\n(from<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.h3.dion.ne.jp/~sally-h/daisukiokita_letter_satou2_1_flame.html)\">http://www.h3.dion.ne.jp/~sally-h/daisukiokita_letter_satou2_1_flame.html)</a><br/>\n<br/>\n(Dated Keio 1 (1865), August 4)<br/>\n<br/>\n    The summer heat is still bothering everyone. People are sitting<br/>\naround doing nothing, but taxes keep coming in-- you know how that can be.<br/>\n     Kyoto is safe for now, but stay alert, because you never<br/>\nknow...we won&#39;t spare anyone who causes problems.<br/>\n      Please send my regards to everyone, starting with Sonba-sama<br/>\n(&quot;valuable mother&quot;-- his or Satou&#39;s?). I hope that all is well and<br/>\nthat things are peaceful. Please also convey my special regards to Mr.<br/>\nIshida Hijikata (Hijikata Toshizou&#39;s father-- hence, the &quot;Ishida&quot;<br/>\npowder, I suppose).<br/>\n<br/>\n      This ends my message.<br/>\n<br/>\n       Keio 1, August 4<br/>\n<br/>\n       (to) Sato Hikogorou-sama<br/>\n<br/>\n                                             (from) OKITA SOUJI</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 95,
+    "nextTopicId": 99
+}

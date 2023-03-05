@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "Grace Battista",
+            "from": "&quot;Grace Battista&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengumi drama on bittorrent (FTP?)",
+            "postDate": "1081391406",
+            "msgId": 328,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1MmRmZStjaGRyQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQwNzMwNzUxLjEwODAzMDRAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 315,
+            "nextInTopic": 0,
+            "prevInTime": 327,
+            "nextInTime": 329,
+            "topicId": 315,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... drama ... Oh man... I d be all over this, if only my dsl came back to life (still waiting 8 more days though)... Still have dial-up... If anyone can",
+            "messageBody": "<div id=\"ygrps-yiv-1780425299\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, Barbara Sheridan &lt;bsher213@b...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; According to a poster on LiveJournal episode 1 of the Shinsengumi <br/>\n </span></blockquote>drama <br/>\n<blockquote><span title=\"ireply\"> &gt; is available at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.downloadanime.org\">http://www.downloadanime.org</a> <br/>\n&gt; <br/>\n&gt; You have to misspell Shinsengumi to find it via the search though---<br/>\n <br/>\n&gt; type in shinesengumi<br/>\n&gt; <br/>\n&gt; It&#39;s a big file---350mb<br/>\n&gt; <br/>\n&gt; -- <br/>\n&gt; Barbara Sheridan<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n<br/>\n </span></blockquote>Oh man... I&#39;d be all over this, if only my dsl came back to life <br/>\n(still waiting 8 more days though)... Still have dial-up... If anyone <br/>\ncan download this maybe we can put it up on an ftp server? Oh and if <br/>\nwe have larger files that can&#39;t be stored in yahoo anymore we can <br/>\nalso do that. I&#39;m willing to setup an ftp server and keep my PC up <br/>\nmost of the time when I get my dsl back up again, although my upload <br/>\nspeed to you will only be 20kb because eventhough they say I have <br/>\nmuch more in reality I only get that. (Don&#39;t ask me why... Phones <br/>\ncompanies.. -_-) I would put up an http server but I never learned <br/>\nhow to... Maybe in two months or so I&#39;d learn how but no time right <br/>\nnow to set up http... Let me know what you guys think.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi drama on bittorrent",
+            "postDate": "1081280337",
+            "msgId": 315,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNzMwNzUxLjEwODAzMDRAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 328,
+            "prevInTime": 314,
+            "nextInTime": 316,
+            "topicId": 315,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "According to a poster on LiveJournal episode 1 of the Shinsengumi drama is available at http://www.downloadanime.org You have to misspell Shinsengumi to find",
+            "messageBody": "<div id=\"ygrps-yiv-2008496341\">According to a poster on LiveJournal episode 1 of the Shinsengumi drama <br/>\nis available at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.downloadanime.org\">http://www.downloadanime.org</a> <br/>\n<br/>\nYou have to misspell Shinsengumi to find it via the search though--- <br/>\ntype in shinesengumi<br/>\n<br/>\nIt&#39;s a big file---350mb<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 323,
+    "nextTopicId": 318
+}

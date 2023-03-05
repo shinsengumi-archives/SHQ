@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "KYOTO TWILIGHT",
+            "postDate": "1192421186",
+            "msgId": 856,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZldXAwMitpcXZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 855,
+            "nextInTime": 857,
+            "topicId": 856,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Logo: http://1happyturtle.com/K-Light/K-light2.jpg A friend and I created an alternate universe for the Shinsengumi...it s not crazy sci-fi futuristic or",
+            "messageBody": "<div id=\"ygrps-yiv-901181985\">Logo:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/K-Light/K-light2.jpg\">http://1happyturtle.com/K-Light/K-light2.jpg</a><br/>\n<br/>\nA friend and I created an alternate universe for the Shinsengumi...it&#39;s <br/>\nnot &quot;crazy&quot; sci-fi futuristic or anything.<br/>\n<br/>\nWe quickly sketched a premis.<br/>\n<br/>\nIt won&#39;t go into the details of the story yet...we just wanted to <br/>\nestablish a &quot;universe&quot; however some of the material in the sketch is <br/>\nnot detailed in the actual series (we pretend as if it&#39;s an animated <br/>\nseries).  <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/K-Light/KYOTOTWILIGHT.doc\">http://1happyturtle.com/K-Light/KYOTOTWILIGHT.doc</a><br/>\n<br/>\nyou can direct comments/gripes/ridicule off-list to secretarytocapt3(at)<br/>\nhotmail.com XD<br/>\n<br/>\nwe were just having fun...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 851,
+    "nextTopicId": 857
+}

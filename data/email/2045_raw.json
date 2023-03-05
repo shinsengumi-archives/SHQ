@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "P29ZUO11doxiqsy9vx36fRUrACj8trxbUnPdiE-pFaNFXlx0OrZraJEKtiD_Uqrzs7uRVyhc1meYQ70",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1105768759",
+    "msgId": 2045,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMDU3Njg3NTkuMTQ0Ny43NjgxNC53MTIyQHlhaG9vZ3JvdXBzLmNvbT4="
+    },
+    "prevInTopic": 2043,
+    "nextInTopic": 2090,
+    "prevInTime": 2044,
+    "nextInTime": 2046,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        :",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 80792 invoked from network); 15 Jan 2005 05:59:52 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m20.grp.scd.yahoo.com with QMQP; 15 Jan 2005 05:59:52 -0000\r\nReceived: from unknown (HELO n11a.bulk.scd.yahoo.com) (66.94.237.16)\n  by mta2.grp.scd.yahoo.com with SMTP; 15 Jan 2005 05:59:52 -0000\r\nReceived: from [66.218.66.58] by n11.bulk.scd.yahoo.com with NNFMP; 15 Jan 2005 05:59:22 -0000\r\nReceived: from [66.218.66.89] by mailer7.bulk.scd.yahoo.com with NNFMP; 15 Jan 2005 05:59:22 -0000\r\nDate: 15 Jan 2005 05:59:19 -0000\r\nMessage-ID: &lt;1105768759.1447.76814.w122@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.94.237.16\r\n\r\n\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /LowCityHighCity.htm \n  Uploaded by : secretarytocapt3 &lt;secretarytocapt3@...&gt; \n  Description : Low City, HIgh City Tokyo from Edo to the Earthquake \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/LowCityHighCity.htm \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nsecretarytocapt3 &lt;secretarytocapt3@...&gt;\n \n\n\n\n\n\n\n\n"
+}

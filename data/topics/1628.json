@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Picture from Aizu Festival!!!! - Addendum",
+            "postDate": "1096048612",
+            "msgId": 1631,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqMW41NCs4czBxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDQwOTI0MDAwNDA4LjQ4NjE3LnFtYWlsQHdlYjYwODAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 1628,
+            "nextInTopic": 0,
+            "prevInTime": 1630,
+            "nextInTime": 1632,
+            "topicId": 1628,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "SK, Your pictures look fine ^_^ also I am working on fanart of Nakano Takeko of Aizu s Women s Brigade to commemorate this celebration in the castle town. ",
+            "messageBody": "<div id=\"ygrps-yiv-1372028940\">SK,<br/>\nYour pictures look fine ^_^ <br/>\nalso I am working on fanart of Nakano Takeko of Aizu&#39;s Women&#39;s Brigade<br/>\nto commemorate this celebration in the castle town.<br/>\nHino-shinsengumi.com club is EXTREMELY active and they have been<br/>\ndiscussing their participation for weeks so I&#39;m glad you got to see<br/>\nthem.  Just so everyone knows after the memorial for Saitou, there is<br/>\ngoing to be the 4th annual Shinsengumi symposium (aren&#39;t we all<br/>\nenvious?)...so this is happening on Sat 25 in Japan...around Friday<br/>\n24th night time in the USA anyone with DSL should watch the streaming<br/>\nmovies at the Aizu/Fukushima website (go to shinsengumimb.com &gt;&gt;&gt;<br/>\nShinsengumi History&gt;&gt;&gt; AIZU to get the links).<br/>\n<br/>\nsecretarytocapt3<br/>\n(^_^)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 2682610,
+            "authorName": "Serizawa Kamo",
+            "from": "Serizawa Kamo &lt;serizawakamo@...&gt;",
+            "profile": "serizawakamo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Picture from Aizu Festival!!!! - Addendum",
+            "postDate": "1095984248",
+            "msgId": 1628,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwOTI0MDAwNDA4LjQ4NjE3LnFtYWlsQHdlYjYwODAzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDEwOTU5MjgyMjMuODM2LjI5NjMxLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1631,
+            "prevInTime": 1627,
+            "nextInTime": 1629,
+            "topicId": 1628,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... As I was unable to upload to the Aizu Festival album, I uploaded the pictures to the root album. They are the last three pictures. The first is a picture",
+            "messageBody": "<div id=\"ygrps-yiv-646964837\"><blockquote><span title=\"ireply\">&gt; Subject: Picture from Aizu Festival!!!!<br/>\n<br/>\n </span></blockquote>As I was unable to upload to the Aizu Festival album,<br/>\nI uploaded the pictures to the &quot;root&quot; album. They are<br/>\nthe last three pictures.<br/>\n<br/>\nThe first is a picture of the Aizu Shinsengumi parade.<br/>\nThere was another Shinsengumi people in the parade,<br/>\nbut they were from Hino, if I&#39;m not mistaken.<br/>\n<br/>\nThe second picture is Yamamoto Koji (Hijikata<br/>\nToshizo).<br/>\n<br/>\nThe third is Sho Ei (Shimada Kai / Ginga Blue).<br/>\n<br/>\n<br/>\n<br/>\nSerizawa Kamo<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n_______________________________<br/>\nDo you Yahoo!?<br/>\nDeclare Yourself - Register online to vote today!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://vote.yahoo.com\">http://vote.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1614,
+    "nextTopicId": 1632
+}

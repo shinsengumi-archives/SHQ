@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Test",
+            "postDate": "1080182434",
+            "msgId": 60,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGdyMis3dTdiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 59,
+            "nextInTime": 61,
+            "topicId": 60,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since 2 of my messages in a row have not appeared, I just want to see if Yahoo will accept a short post... --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1264551262\">Since 2 of my messages in a row have not appeared, I just want to see<br/>\nif Yahoo will accept a short post...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 56,
+    "nextTopicId": 61
+}

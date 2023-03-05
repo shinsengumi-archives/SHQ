@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT: Kamikaze pilots",
+            "postDate": "1082886630",
+            "msgId": 564,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2ZzFsNit2ZDg5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 563,
+            "nextInTime": 565,
+            "topicId": 564,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Some of you who have been involved in the discussion on kamikaze pilots might be interested in this. The History Channel is having a program on at 10p.m. ET",
+            "messageBody": "<div id=\"ygrps-yiv-1645710746\">Some of you who have been involved in the discussion on kamikaze <br/>\npilots might be interested in this. The History Channel is having a <br/>\nprogram on at 10p.m. ET called &quot;Military Blunders&quot; that will be going <br/>\nover the Battle of Midway and the role of the kamikaze pilots during <br/>\nthe war. I wonder if they&#39;ll bring up anything about their attempting <br/>\nto be like the samurai? It might be interesting to see what they have <br/>\nto say on the matter anyway.<br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 527,
+    "nextTopicId": 566
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1348668879",
+            "msgId": 3512,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDg2Njg4NzkuODY5NTEuWWFob29NYWlsTmVvQHdlYjExMzIxNC5tYWlsLmdxMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3511,
+            "nextInTime": 3513,
+            "topicId": 3512,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://interiordesignfortlauderdale.com/wp-content/plugins/akismet/google.html?frg=ogbh.mig&fgw=fth.mhsg&ydl=ndrp [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1407056289\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://interiordesignfortlauderdale.com/wp-content/plugins/akismet/google.html?frg=ogbh.mig&fgw=fth.mhsg&ydl=ndrp\">http://interiordesignfortlauderdale.com/wp-content/plugins/akismet/google.html?frg=ogbh.mig&fgw=fth.mhsg&ydl=ndrp</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3511,
+    "nextTopicId": 3513
+}

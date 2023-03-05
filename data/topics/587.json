@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 59905708,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Calendar system explained + Zodiac",
+            "postDate": "1083179059",
+            "msgId": 587,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2b3Y3aitybGZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 586,
+            "nextInTime": 588,
+            "topicId": 587,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "finally the calendar system explained...nice and neat http://www.pbs.org/teachersource/mathline/concepts/y2k/activity2.shtm I know that back at the Miburo Y.G.",
+            "messageBody": "<div id=\"ygrps-yiv-540067705\">finally the calendar system explained...nice and neat<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pbs.org/teachersource/mathline/concepts/y2k/activity2.shtm\">http://www.pbs.org/teachersource/mathline/concepts/y2k/activity2.shtm</a><br/>\n<br/>\nI know that back at the Miburo Y.G. we discussed the years in which<br/>\nsome members of the Shinsengumi were born in.  Refresh my memory was<br/>\nS.H. born in the Year of the Dragon 1844 many calculators don&#39;t go<br/>\nthat far back?  And we&#39;ll probably never know what year Okita was born<br/>\nin since there is conflicting info on how old he was when he died.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 585,
+    "nextTopicId": 588
+}

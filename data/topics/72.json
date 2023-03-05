@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "List and personal calendars",
+            "postDate": "1079833487",
+            "msgId": 72,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMzIxMDE0NDQ3LjEzMjM3LnFtYWlsQHdlYjIxNDA0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 71,
+            "nextInTime": 73,
+            "topicId": 72,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A heads-up.  Apparently times are not converted when the entry is imported (at least to a personal Yahoo calendar)... it s still listed in EST.  6:00AM EST",
+            "messageBody": "<div id=\"ygrps-yiv-953349159\">A heads-up.  Apparently times are not converted when the entry is imported (at least to a personal Yahoo calendar)... it&#39;s still listed in EST.  6:00AM EST doesn&#39;t do me much good when that&#39;s 4:00AM where I&#39;m at.  :-)  Just thought you should be aware.  Check your local schedules if you see something you really want to watch!  (Unless someone else has figured out how to make it convert... I&#39;m always missing places where I should click...)<br/>\n <br/>\npachi<br/>\n<br/>\nDo you Yahoo!?<br/>\nYahoo! Finance Tax Center - File online. File on time.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 71,
+    "nextTopicId": 73
+}

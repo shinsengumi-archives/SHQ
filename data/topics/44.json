@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Like duh",
+            "postDate": "1079665740",
+            "msgId": 44,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMzE5MDMwOTAwLjczMzg3LnFtYWlsQHdlYjIxNDA4Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 43,
+            "nextInTime": 45,
+            "topicId": 44,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "See what you did to me?  I just now noticed his name in your post.  Sheesh... clueless Do you Yahoo!? Yahoo! Mail - More reliable, more storage, less spam ",
+            "messageBody": "<div id=\"ygrps-yiv-2065087649\">See what you did to me?  I just now noticed his name in your post.  Sheesh...<br/>\n <br/>\nclueless<br/>\n<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - More reliable, more storage, less spam<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 42,
+    "nextTopicId": 45
+}

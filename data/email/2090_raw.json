@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "EgSpMcoH5bBqylQtDPb9yGnFKQMRt_sXsijpV40sJW12asxQ5WR_WhzEr72K2V-kapvCQbLp83IGB8I",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1106346244",
+    "msgId": 2090,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMDYzNDYyNDQuNDEwMjkuMzg5NTEudzEyMkB5YWhvb2dyb3Vwcy5jb20+"
+    },
+    "prevInTopic": 2045,
+    "nextInTopic": 2091,
+    "prevInTime": 2089,
+    "nextInTime": 2091,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Matsudaira.bmp ",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 73604 invoked from network); 21 Jan 2005 22:24:05 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m6.grp.scd.yahoo.com with QMQP; 21 Jan 2005 22:24:05 -0000\r\nReceived: from unknown (HELO n17a.bulk.scd.yahoo.com) (66.94.237.46)\n  by mta2.grp.scd.yahoo.com with SMTP; 21 Jan 2005 22:24:04 -0000\r\nReceived: from [66.218.66.59] by n17.bulk.scd.yahoo.com with NNFMP; 21 Jan 2005 22:24:04 -0000\r\nReceived: from [66.218.66.89] by mailer8.bulk.scd.yahoo.com with NNFMP; 21 Jan 2005 22:24:04 -0000\r\nDate: 21 Jan 2005 22:24:04 -0000\r\nMessage-ID: &lt;1106346244.41029.38951.w122@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.94.237.46\r\n\r\n\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Matsudaira.bmp \n  Uploaded by : shinsengumihq &lt;shinsengumihq@...&gt; \n  Description : Matsudaira news article \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/Matsudaira.bmp \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nshinsengumihq &lt;shinsengumihq@...&gt;\n \n\n\n\n\n\n\n\n"
+}

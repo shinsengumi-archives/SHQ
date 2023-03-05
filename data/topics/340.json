@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: --TURN OFF EMAIL NOTIFICATIONS---",
+            "postDate": "1081532428",
+            "msgId": 341,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1Nm42YytvZm5qQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM1Nm1tMit2azg0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 340,
+            "nextInTopic": 0,
+            "prevInTime": 340,
+            "nextInTime": 342,
+            "topicId": 340,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry, but I prefer to work at getting Yahoo to look into the problem and fix it before I go to that extreme.  :-)  I m on too many lists to be checking that",
+            "messageBody": "<div id=\"ygrps-yiv-85368445\">Sorry, but I prefer to work at getting Yahoo to look into the problem <br/>\nand fix it before I go to that extreme.  :-)  I&#39;m on too many lists <br/>\nto be checking that many sites for new mail.  They may have been <br/>\nslow , but Yahoo has always been responsive to my queries.  <br/>\nCertainly, though, if someone is receiving 24 copies of the same <br/>\nmessages... damn, I&#39;d take Tiffany&#39;s advice.  Fortunately, I&#39;m not <br/>\nhaving that problem.<br/>\n<br/>\nphil (lucky for once)<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Tiffany&quot; &lt;tnamwong@w...&gt; wrote:<br/>\n&gt; You all have to edit membership and turn off email<br/>\n&gt; notifications...unless you want your inboxes filled...<br/>\n&gt; <br/>\n&gt; :( </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 156728904,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "--TURN OFF EMAIL NOTIFICATIONS---",
+            "postDate": "1081531906",
+            "msgId": 340,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1Nm1tMit2azg0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 341,
+            "prevInTime": 339,
+            "nextInTime": 341,
+            "topicId": 340,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "You all have to edit membership and turn off email notifications...unless you want your inboxes filled...",
+            "messageBody": "<div id=\"ygrps-yiv-1362809090\">You all have to edit membership and turn off email<br/>\nnotifications...unless you want your inboxes filled...<br/>\n<br/>\n:(</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 338,
+    "nextTopicId": 326
+}

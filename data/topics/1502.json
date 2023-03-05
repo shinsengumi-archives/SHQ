@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Japanese Constitution 1889",
+            "postDate": "1092844570",
+            "msgId": 1502,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmdnU2cSticDhrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1501,
+            "nextInTime": 1503,
+            "topicId": 1502,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I searched on jstor.org for Takeaki Enomoto and found the article the Japanese Constitution written by Kenneth Colegrove *unless I ve gone completely insane",
+            "messageBody": "<div id=\"ygrps-yiv-1755844245\">I searched on jstor.org for Takeaki Enomoto and found the article <br/>\n&quot;the Japanese Constitution&quot;<br/>\nwritten by Kenneth Colegrove<br/>\n<br/>\n*unless I&#39;ve gone completely insane I&#39;m pretty sure I have not <br/>\nuploaded/hosted this article before...<br/>\n<br/>\nYou may download the pdf file (citation is on the first page as <br/>\nalways)<br/>\nat <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.streamload.com/secretarytocapt3\">http://www.streamload.com/secretarytocapt3</a><br/>\npassword makoto<br/>\nfolder &quot;ARTICLES&quot;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1496,
+    "nextTopicId": 1494
+}

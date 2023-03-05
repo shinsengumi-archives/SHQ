@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "QPJqCO0rPvMbHVJdwZx_LAPCgxAc4nDjJoynMFXq1DMwoBXWbJJ8DL2rJsq7Tp9ngk1mHq3u7tytUcw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1079672175",
+    "msgId": 50,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwNzk2NzIxNzUuMTAzMC4yNzExLncyNUB5YWhvb2dyb3Vwcy5jb20+"
+    },
+    "prevInTopic": 49,
+    "nextInTopic": 52,
+    "prevInTime": 49,
+    "nextInTime": 51,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Shinsengumi",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 54419 invoked from network); 19 Mar 2004 04:56:18 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m3.grp.scd.yahoo.com with QMQP; 19 Mar 2004 04:56:18 -0000\r\nReceived: from unknown (HELO n37.grp.scd.yahoo.com) (66.218.66.105)\n  by mta4.grp.scd.yahoo.com with SMTP; 19 Mar 2004 04:56:17 -0000\r\nX-eGroups-Return: notify@yahoogroups.com\r\nReceived: from [66.218.67.145] by n37.grp.scd.yahoo.com with NNFMP; 19 Mar 2004 04:56:15 -0000\r\nReceived: (qmail 2773 invoked by uid 65534); 19 Mar 2004 04:56:15 -0000\r\nDate: 19 Mar 2004 04:56:15 -0000\r\nMessage-ID: &lt;1079672175.1030.2711.w25@yahoogroups.com&gt;\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.218.66.105\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Shinsengumi artifacts/shinsengumi_sleeveinsignia_bw.jpeg \n  Uploaded by : shimazuryu &lt;patriot014@...&gt; \n  Description : Detailed shot of the sleeve insignia (black and white) \n\nYou can access this file at the URL\n\nhttp://groups.yahoo.com/group/SHQ/files/Shinsengumi%20artifacts/shinsengumi_sleeveinsignia_bw.jpeg \n\nTo learn more about file sharing for your group, please visit\n\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nshimazuryu &lt;patriot014@...&gt;\n \n\n\n\n\n"
+}

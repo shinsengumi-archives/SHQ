@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Eerie",
+            "postDate": "1084989381",
+            "msgId": 779,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjUwRHRZWmxMUVkzcjgwMDA0N2ZjOEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 778,
+            "nextInTime": 780,
+            "topicId": 779,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I saw a sticker on a streetlight pole today. Said something like: When the wolves die, freedom dies . --M. ",
+            "messageBody": "<div id=\"ygrps-yiv-783202370\">I saw a sticker on a streetlight pole today. Said something like:<br/>\n<br/>\n&quot;When the wolves die, freedom dies&quot;.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your messages with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 776,
+    "nextTopicId": 772
+}

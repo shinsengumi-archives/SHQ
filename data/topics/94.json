@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fiction on the website",
+            "postDate": "1080058217",
+            "msgId": 94,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjA2MTY5LjUwMzAwMDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 93,
+            "nextInTime": 95,
+            "topicId": 94,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just wanted to let everyone know that some new things have been added to the SHQ webpage last night and this morning in the fiction section. (see link at end",
+            "messageBody": "<div id=\"ygrps-yiv-11286333\">Just wanted to let everyone know that some new things have been added to <br/>\nthe SHQ webpage last night and this morning in the fiction section. (see <br/>\nlink at end of message)  I invite you all to take a look around the <br/>\nplace and feel free to email me off list with any comments, questions or <br/>\nsuggestions<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/spydivision.htm\">http://www.shinsengumihq.com/spydivision.htm</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 87,
+    "nextTopicId": 95
+}

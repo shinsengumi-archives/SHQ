@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 257415091,
+            "authorName": "rei shinoda",
+            "from": "rei shinoda &lt;shinoda_rei_goku@...&gt;",
+            "profile": "shinoda_rei_goku",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "rei shinoda",
+            "postDate": "1361348165",
+            "msgId": 3519,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNjEzNDgxNjUuODkyMTMuWWFob29NYWlsTmVvQHdlYjE5MzMwMy5tYWlsLnNnMy55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3518,
+            "nextInTime": 3520,
+            "topicId": 3519,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://swingswingswing.co.uk/bptj/i9xc1&p5g5bck5e5sfz4vw1b3thxizeupc4 [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1771992831\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://swingswingswing.co.uk/bptj/i9xc1&p5g5bck5e5sfz4vw1b3thxizeupc4\">http://swingswingswing.co.uk/bptj/i9xc1&p5g5bck5e5sfz4vw1b3thxizeupc4</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3518,
+    "nextTopicId": 3527
+}

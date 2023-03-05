@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Shinsengumi on Youtube",
+            "postDate": "1144966729",
+            "msgId": 769,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUxbWlvOSs2NGtlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 768,
+            "nextInTime": 770,
+            "topicId": 769,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.youtube.com/results? search=shinsengumi&search_type=search_videos",
+            "messageBody": "<div id=\"ygrps-yiv-723834915\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/results?\">http://www.youtube.com/results?</a><br/>\nsearch=shinsengumi&search_type=search_videos</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 768,
+    "nextTopicId": 770
+}

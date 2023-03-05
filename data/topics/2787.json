@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "DOMO",
+            "postDate": "1149094020",
+            "msgId": 2787,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU1a2hhNCtlODU5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2786,
+            "nextInTime": 2788,
+            "topicId": 2787,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just wanted to thank everyone for being there for me when I needed information or just for someone to chat with. Everyone thats a member on this group (I",
+            "messageBody": "<div id=\"ygrps-yiv-100846430\">I just wanted to thank everyone for being there for me when I needed <br/>\ninformation or just for someone to chat with. Everyone thats a member <br/>\non this group (I like to call it my clan) are loyal to each other just <br/>\nlike the orignal Shinsengumi were and in that way threw you guys I <br/>\nhave a lot of love for my clan. I&#39;m glad everyone liked my tattoo as <br/>\nmuch as I do. I couldn&#39;t and maybe wouldn&#39;t have done it with out you <br/>\nguys. Like I said I just wanted to take time out and thank you all for <br/>\nyour wisdom and help in the Shinsengumi world. May thier names never <br/>\nbe forgottan and may thier spirts live on. DOMO SHINSENGUMIhq <br/>\nDOMO...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2786,
+    "nextTopicId": 2789
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 75865379,
+            "authorName": "shinsengumi3@****",
+            "from": "shinsengumi3@...",
+            "profile": "otakuvidel",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "",
+            "postDate": "1331570060",
+            "msgId": 948,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhDRUNFODUxQkZFODI2MC1EMTgtMTM1NzBAV2VibWFpbC1tMTA1LnN5c29wcy5hb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 946,
+            "nextInTime": 949,
+            "topicId": 948,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://emplearium.com/templates/digitalnature/admin_templates/mywork.php?cow176.jpeg",
+            "messageBody": "<div id=\"ygrps-yiv-2056386927\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://emplearium.com/templates/digitalnature/admin_templates/mywork.php?cow176.jpeg\">http://emplearium.com/templates/digitalnature/admin_templates/mywork.php?cow176.jpeg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 945,
+    "nextTopicId": 949
+}

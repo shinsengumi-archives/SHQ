@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 187730799,
+            "authorName": "Zelie Z",
+            "from": "Zelie Z &lt;zelie417@...&gt;",
+            "profile": "zelie417",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1348735879",
+            "msgId": 3513,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDg3MzU4NzkuMjgxODQuWWFob29NYWlsTmVvQHdlYjEyMTkwMS5tYWlsLm5lMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3512,
+            "nextInTime": 3514,
+            "topicId": 3513,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.htcrhyme.pl/wp-content/plugins/google.html?we=gwhj.jig&fgw=y.jyg&eec=nllc [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1783087336\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.htcrhyme.pl/wp-content/plugins/google.html?we=gwhj.jig&fgw=y.jyg&eec=nllc\">http://www.htcrhyme.pl/wp-content/plugins/google.html?we=gwhj.jig&fgw=y.jyg&eec=nllc</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3512,
+    "nextTopicId": 3499
+}

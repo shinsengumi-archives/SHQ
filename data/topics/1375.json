@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182822216,
+            "authorName": "ktamae@****",
+            "from": "ktamae@...",
+            "profile": "tamagot93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK drama story book vol.2",
+            "postDate": "1089990270",
+            "msgId": 1375,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFkNS4yNjJiMTNjMC4yZTI5NDg3ZUBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1374,
+            "nextInTime": 1376,
+            "topicId": 1375,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.nhk-book.co.jp/taiga/index.html Featuring the second part of the drama is now available. Tama [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1726783972\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nhk-book.co.jp/taiga/index.html\">http://www.nhk-book.co.jp/taiga/index.html</a><br/>\nFeaturing the second part of the drama is now available.<br/>\n<br/>\nTama<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1374,
+    "nextTopicId": 1376
+}

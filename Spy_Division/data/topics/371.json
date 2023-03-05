@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RK Saitou + astronomy",
+            "postDate": "1095385494",
+            "msgId": 371,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpZGZpbStpZjc3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 370,
+            "nextInTime": 372,
+            "topicId": 371,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Historical SAitou was born in the year of the dragon. http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm now the animal zodiac also has more specific",
+            "messageBody": "<div id=\"ygrps-yiv-1600595485\">Historical SAitou was born in the year of the dragon.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm\">http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm</a><br/>\nnow the animal zodiac also has more specific profiles and associates<br/>\nthe animal zodiac with the elements...<br/>\n<br/>\nI believe that &lt;RK&gt; Saitou is a Metal Dragon...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.chinavoc.com/zodiac/dragon/five.asp\">http://www.chinavoc.com/zodiac/dragon/five.asp</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 369,
+    "nextTopicId": 370
+}

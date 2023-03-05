@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "More roadwork.",
+            "postDate": "1082802171",
+            "msgId": 125,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2ZGY1citoazJqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 124,
+            "nextInTime": 126,
+            "topicId": 125,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Found this at http://www.koyagi.com/ACPages/ACmain.html The name of the Eastern Sea Road was the Tokaido road. It ran mostly along the Pacific coast and has",
+            "messageBody": "<div id=\"ygrps-yiv-450616332\">Found this at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.koyagi.com/ACPages/ACmain.html\">http://www.koyagi.com/ACPages/ACmain.html</a><br/>\n<br/>\nThe name of the Eastern Sea Road was the Tokaido road. It ran mostly <br/>\nalong the Pacific coast and has been around since before they thought <br/>\nto keep track of history in Japan. It said there were 53 shukuba <br/>\nmachi along the route. These were posting stations were travelers <br/>\nrested and were controlled by the Bakufu. Remember, they did this to <br/>\nkeep track of potential threats to the Shogun. The road is mostly <br/>\ncovered by the Tokaido highway now, but you can still see parts of <br/>\nthe old road today and the Shinkansen line is supposed to run more or <br/>\nless alongside the old route.<br/>\n<br/>\nApparently it was one of five Gokaido or main highways during the Edo <br/>\nperiod. The site listed one other route. The Nakasendo road was about <br/>\n500km or 310 miles long and had 67 shukuba machi. It began in <br/>\nNihonbashi in Edo and ended in Kyoto, cutting through the mountainous <br/>\ncentral region of Japan. Because it was a much harder way, it was <br/>\nless travelled than the Tokaido road.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 113,
+    "nextTopicId": 119
+}

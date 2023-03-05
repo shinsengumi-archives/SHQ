@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "HELP!",
+            "postDate": "1080226932",
+            "msgId": 162,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjJGNDc0LjIwOTA3MDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 161,
+            "nextInTime": 163,
+            "topicId": 162,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Are there any HTML savvy folk out there? Apparently some how, some way I have offended the Great Cyber Gods of the Universe and they re playing fast and loose",
+            "messageBody": "<div id=\"ygrps-yiv-1985634501\">Are there any HTML savvy folk out there? Apparently some how, some way I <br/>\nhave offended the Great Cyber Gods of the Universe and they&#39;re playing <br/>\nfast and loose with the SHQ website as it relates to Internet Explorer.<br/>\n<br/>\nI used the same web page program to do the SHQ site as I used on my <br/>\nauthor web site and that works fine with both Netscape and IE but the <br/>\nSHQ site is getting totally screwed especially the fiction main menu <br/>\nand  subdivisions--they will not work anymore with IE and I swear I <br/>\ndidn&#39;t do anything to the files.<br/>\n<br/>\nIf you are someone or know someone who might be able to give me a much <br/>\nneeded clue or 12 on fixing this problem please contact me offlist<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Bsher213@...\">Bsher213@...</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 140,
+    "nextTopicId": 165
+}

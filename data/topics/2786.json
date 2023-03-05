@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Bakumatsu swordsmen",
+            "postDate": "1148872028",
+            "msgId": 2786,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMjc3RjAwNDdGMzFCQzA2MTg2ODIzOTlGOUQwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2785,
+            "nextInTime": 2787,
+            "topicId": 2786,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu3/kenshi.html This may be of some interest to those of you who want to study Bakumatsu-era swordsmen. From",
+            "messageBody": "<div id=\"ygrps-yiv-1186778055\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu3/kenshi.html\">http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu3/kenshi.html</a><br/>\n<br/>\nThis may be of some interest to those of you who want to study Bakumatsu-era <br/>\nswordsmen.<br/>\n<br/>\nFrom left to right in this picture you can see some of the famous swordsmen <br/>\nwho survived the Boshin War--<br/>\n<br/>\n-Saitou Yakuro (the 2nd generation Saitou Yakuro, no relation to Saitou <br/>\nHajime)<br/>\n-Mutsu Munemitsu (later important in the Meiji government)<br/>\n-Tani Tateki (samurai of TOSA, who wanted Kondou Isami dead)<br/>\n-Sakakibara Kenkichi (Bakufu retainer believed to have been the best <br/>\nswordsman of the Meiji era)<br/>\n-Tanaka Mitsuaki (never heard of him)<br/>\n<br/>\nYet another interesting little fact about the era...<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2785,
+    "nextTopicId": 2787
+}

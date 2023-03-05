@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: http://www.the-shinsengumi.com UPDATES",
+            "postDate": "1092236042",
+            "msgId": 1483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmZGJ1YStnMGxlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNmZGJoOStiNnZrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1482,
+            "nextInTopic": 0,
+            "prevInTime": 1482,
+            "nextInTime": 1484,
+            "topicId": 1482,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.the-shinsengumi.com/douga09.htm has Nagakura Shinpachi s jinbaori...the items shown are NOT NHK Taiga props...they are all in a museum...the guide",
+            "messageBody": "<div id=\"ygrps-yiv-1837342749\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/douga09.htm\">http://www.the-shinsengumi.com/douga09.htm</a><br/>\nhas Nagakura Shinpachi&#39;s jinbaori...the items shown are NOT NHK <br/>\nTaiga props...they are all in a museum...the guide points to an old <br/>\nvest and says &quot;Nagakura Shinpachi&quot; jinbaori!!!!!<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;secretary&quot; &lt;secretarytocapt3@h...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"qreply\"> &gt; *new vids are at the bottom*<br/>\n&gt; VIDS<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/siseki.htm\">http://www.the-shinsengumi.com/siseki.htm</a><br/>\n&gt; <br/>\n&gt; PAY SPECIAL ATTENTION TO THIS ONE....MUSEUM SHOWING ARTIFACTS<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/douga09.htm\">http://www.the-shinsengumi.com/douga09.htm</a><br/>\n&gt; <br/>\n&gt; all vids are great...(^_^) </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "http://www.the-shinsengumi.com UPDATES",
+            "postDate": "1092235625",
+            "msgId": 1482,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmZGJoOStiNnZrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1483,
+            "prevInTime": 1481,
+            "nextInTime": 1483,
+            "topicId": 1482,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "*new vids are at the bottom* VIDS http://www.the-shinsengumi.com/siseki.htm PAY SPECIAL ATTENTION TO THIS ONE....MUSEUM SHOWING ARTIFACTS ",
+            "messageBody": "<div id=\"ygrps-yiv-1696735067\">*new vids are at the bottom*<br/>\nVIDS<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/siseki.htm\">http://www.the-shinsengumi.com/siseki.htm</a><br/>\n<br/>\nPAY SPECIAL ATTENTION TO THIS ONE....MUSEUM SHOWING ARTIFACTS<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/douga09.htm\">http://www.the-shinsengumi.com/douga09.htm</a><br/>\n<br/>\nall vids are great...(^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1467,
+    "nextTopicId": 1473
+}

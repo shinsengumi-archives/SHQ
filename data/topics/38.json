@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "Grace Battista",
+            "from": "&quot;Grace Battista&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello everyone!",
+            "postDate": "1079642105",
+            "msgId": 38,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzZDE1cCtuaGk3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 37,
+            "nextInTime": 39,
+            "topicId": 38,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone! I ve joined the new list.... Sorry if this post will be short and uninformative... Just wanted to let everyone know I m glad there s a new list",
+            "messageBody": "<div id=\"ygrps-yiv-410595570\">Hello everyone! I&#39;ve joined the new list.... Sorry if this post will <br/>\nbe short and uninformative... Just wanted to let everyone know I&#39;m <br/>\nglad there&#39;s a new list and that after I return to the country after <br/>\nthis vacation of mine, I&#39;ll be posting better stuff. See you all! <br/>\nHopefully soon.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 37,
+    "nextTopicId": 39
+}

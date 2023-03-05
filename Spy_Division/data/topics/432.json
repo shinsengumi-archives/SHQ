@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hey",
+            "postDate": "1099974482",
+            "msgId": 432,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtcGgwaSszZmZ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 431,
+            "nextInTime": 433,
+            "topicId": 432,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m getting better now slowly yet surely I am getting there. Though I still suffer from bouts of coughing to the point of I can t breath, but I m going to get",
+            "messageBody": "<div id=\"ygrps-yiv-1236624024\">I&#39;m getting better now slowly yet surely I am getting there. Though I <br/>\nstill suffer from bouts of coughing to the point of I can&#39;t breath, <br/>\nbut I&#39;m going to get better.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 427,
+    "nextTopicId": 433
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 171080443,
+            "authorName": "celinayuka",
+            "from": "&quot;celinayuka&quot; &lt;celinayuka@...&gt;",
+            "profile": "celinayuka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Jo!!!!!!!",
+            "postDate": "1096421934",
+            "msgId": 381,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqZDNuZStsNHZpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 380,
+            "nextInTime": 382,
+            "topicId": 381,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I´m a Shinsengumi fan from Brazil!! Actually I don´t know much thing about the manga.... I watch the NHK taiga. Just it! I loved Jo new pics!!! Jo---2",
+            "messageBody": "<div id=\"ygrps-yiv-1169494324\">Hi! I´m a Shinsengumi fan from Brazil!! Actually I don´t know much <br/>\nthing about the manga.... I watch the NHK taiga. Just it!<br/>\nI loved Jo new pics!!!&quot;Jo---2&quot; (looks like a magazine) is my fave!!! <br/>\nHow charming and mysterious he looks.... oh god!!! And his <br/>\nvoice.... :) I like Shingo, Kouji, Tanihara, Tatsuya..... all these <br/>\nguys are really good actors and so handsome (perfect combination!)<br/>\n<br/>\n<br/>\n..::Yuka::..</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 374,
+    "nextTopicId": 383
+}

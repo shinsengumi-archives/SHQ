@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 137309602,
+            "authorName": "Chris deMonch",
+            "from": "Chris deMonch &lt;themightysupercracker@...&gt;",
+            "profile": "themightysupercracker",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Dear:",
+            "postDate": "1315586782",
+            "msgId": 3498,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzMTU1ODY3ODIuNjczMzkuWWFob29NYWlsTmVvQHdlYjEyMDEwNi5tYWlsLm5lMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3497,
+            "nextInTime": 3499,
+            "topicId": 3498,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi friend: It s a new day! My friend tell me a good place, he bought a New Apple iPhone 4 HD 4G 32GB from this website: ishuny.com This phone is the newest",
+            "messageBody": "<div id=\"ygrps-yiv-941678560\">Hi friend:<br/>\nIt&#39;s a new day! My friend tell me a good <br/>\nplace, he bought a New Apple iPhone 4 HD 4G 32GB from this website: ishuny.com This phone is the newest model and it is <br/>\nvery cheap, If you want new and muti-function digital products, this website <br/>\nmust be your best choice. If you interested, you can have a try and placed an <br/>\norder on this web.<br/>\nHope this may be useful for you.<br/>\nBest <br/>\nregards<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3497,
+    "nextTopicId": 3501
+}

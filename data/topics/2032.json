@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Dai-bosatsu Toge (pics)",
+            "postDate": "1105645852",
+            "msgId": 2032,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzNmplcys5YzVkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2031,
+            "nextInTime": 2033,
+            "topicId": 2032,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Go to Files find the folder Dai-bosatsu Toge known to us via the film, SWORD OF DOOM, and the more high profile film portraying the Shinsengumi check out the",
+            "messageBody": "<div id=\"ygrps-yiv-1159386451\">Go to Files find the folder &quot;Dai-bosatsu Toge&quot;<br/>\nknown to us via the film, SWORD OF DOOM, and the more high profile <br/>\nfilm portraying the Shinsengumi<br/>\ncheck out the scans (from the BOOK) of Ryunosuke vs thief...these <br/>\nare rare images....my copy is from 1929 and its falling apart...<br/>\n<br/>\nDai-bosatsu Toge is a really famous novel and the story is not just <br/>\nabout a psychopathic swordsman...but about morality (^_^)<br/>\n<br/>\nI also scanned the photo of the mountain pass where the story <br/>\nbegan...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2030,
+    "nextTopicId": 2034
+}

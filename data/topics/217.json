@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: ADV Manga Acquires PMK",
+            "postDate": "1080683514",
+            "msgId": 218,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjlFQkZBLjIwNzAwMDhAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGM0Y29uNyszZzhmQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGM0Y29uNyszZzhmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 217,
+            "nextInTopic": 0,
+            "prevInTime": 217,
+            "nextInTime": 219,
+            "topicId": 217,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The ADV site didn t have any release info for it that I saw. *pout* I do know that the anime has things in much different order than the manga though (such",
+            "messageBody": "<div id=\"ygrps-yiv-281209\">Tiffany wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Yay!...I don&#39;t think PMK will ever be on Cartoon Network or anything...unless they edit out Maro and the OKita double entirely<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>The ADV site didn&#39;t have any release info for it that I saw. *pout* I do <br/>\nknow that the anime has things in much different order than the manga <br/>\nthough (such as Saitou & Yamanami&#39;s first appearances)<br/>\n<br/>\nNo Maro though since he was the anime writers&#39; invention. AS the world&#39;s <br/>\nonly Maro fan I think he was a most interesting character and they could <br/>\nhave done a lot with him as a subplot, too bad they screwed it <br/>\nup--really, really screwed it up in his last episode.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ADV Manga Acquires PMK",
+            "postDate": "1080682023",
+            "msgId": 217,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0Y29uNyszZzhmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 218,
+            "prevInTime": 216,
+            "nextInTime": 218,
+            "topicId": 217,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yay!...I don t think PMK will ever be on Cartoon Network or anything...unless they edit out Maro and the OKita double entirely ",
+            "messageBody": "<div id=\"ygrps-yiv-1608718826\">Yay!...I don&#39;t think PMK will ever be on Cartoon Network or<br/>\nanything...unless they edit out Maro and the OKita double entirely<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.animenewsnetwork.com/pressrelease.php?id=303\">http://www.animenewsnetwork.com/pressrelease.php?id=303</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 216,
+    "nextTopicId": 219
+}

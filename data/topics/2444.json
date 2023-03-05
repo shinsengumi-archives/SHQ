@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Nyoraido (Buddha Hall) Pictures",
+            "postDate": "1116739177",
+            "msgId": 2444,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2cDRwOSs3ODl0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2443,
+            "nextInTime": 2445,
+            "topicId": 2444,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Serizawa Kamo contributed more pictures for us https://mywebspace.wisc.edu/tnamwong/web/Nyoraido.zip (1.15mb)temporary hosting until they are reduced further",
+            "messageBody": "<div id=\"ygrps-yiv-2033982414\">Serizawa Kamo contributed more pictures for us<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"https://mywebspace.wisc.edu/tnamwong/web/Nyoraido.zip\">https://mywebspace.wisc.edu/tnamwong/web/Nyoraido.zip</a><br/>\n(1.15mb)temporary hosting until they are reduced further and moved to<br/>\nShinsengumihq.com permanently---he took the pictures on a very<br/>\nbeautiful day!<br/>\n<br/>\nTo read about Nyoraido in Saitou Hajime&#39;s please see &quot;files&quot;<br/>\n&quot;SAitou Hajime Translations&quot; and see the chronology<br/>\nSeptember 5, 1868--battle fought with other remaining members of the<br/>\nShinsengumi</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2441,
+    "nextTopicId": 2445
+}

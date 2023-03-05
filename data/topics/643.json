@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Need help with evil babelfish.",
+            "postDate": "1083518829",
+            "msgId": 643,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3M2IxZCtlb2N0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 642,
+            "nextInTime": 644,
+            "topicId": 643,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Once again the evil babelfish is hiding information that I really need. I ve been trying to learn more about the town where Saito moved to and it seems to be",
+            "messageBody": "<div id=\"ygrps-yiv-558911710\">Once again the evil babelfish is hiding information that I really <br/>\nneed. I&#39;ve been trying to learn more about the town where Saito moved <br/>\nto and it seems to be located between two rivers. Unfortunately I&#39;m <br/>\nnot sure if I&#39;m reading the names of these rivers correctly. It looks <br/>\nlike one is called the Shingo river and the other says Izumisawa five <br/>\nTogawa. Would that be Izumisawa Goro Togawa? Or could they be named <br/>\nsomething else entirely? That sounds really odd for a river name. The <br/>\nsite is www.gonohe.net/ <br/>\n<br/>\nIncidently, Gonohe is located near the city of Hachinohe, way below <br/>\nthe area actually known as the Shimokita peninsula. This region is <br/>\nstill fairly barren though. In fact, even today it seems farmers and <br/>\nothers who live in the area move to Tokyo during the winter season.<br/>\n<br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 618,
+    "nextTopicId": 631
+}

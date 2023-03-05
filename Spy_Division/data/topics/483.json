@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sakura Wars/Shinsengumi Crossover",
+            "postDate": "1103508882",
+            "msgId": 483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxNWNpaSs0c3VwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 482,
+            "nextInTime": 484,
+            "topicId": 483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since the anime Sakura Wars takes place in the Taisho era, and since Nagakura and Saitou (among others) lived until then, I just wanted to announce my",
+            "messageBody": "<div id=\"ygrps-yiv-510949679\">Since the anime &quot;Sakura Wars&quot; takes place in the Taisho era, and since<br/>\nNagakura and Saitou (among others) lived until then, I just wanted to<br/>\nannounce my intention to write a crossover story-- probably with<br/>\nShinguuji Sakura talking to an elderly Nagakura in one of the parks in<br/>\nTokyo that they both seem to frequent.<br/>\n<br/>\nAnd maybe a kendo lesson or two ^_^ Since I like Sakura AND Nagakura<br/>\nso very very much.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 477,
+    "nextTopicId": 478
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Animal Zodiac",
+            "postDate": "1095369567",
+            "msgId": 1604,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpZDAwditjdjYzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNpYzR1Nis0bzFyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1603,
+            "nextInTopic": 0,
+            "prevInTime": 1603,
+            "nextInTime": 1605,
+            "topicId": 1603,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm interesting...this should go in the spy division actually...it may be fun to develop fictional",
+            "messageBody": "<div id=\"ygrps-yiv-1553420299\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm\">http://japan.chez.tiscali.fr/Horoscope/Japan/horoscope.htm</a><br/>\ninteresting...this should go in the spy division actually...it may be <br/>\nfun to develop fictional characters based on their astrological <br/>\nprofile...this is just for fun<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;secretary&quot; &lt;secretarytocapt3@h...&gt; wrote:<br/>\n&gt; KEYWORD...this is the CHINESE animal Zodiac<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wisdomportal.com/Dates/ChineseLunarYears.html\">http://www.wisdomportal.com/Dates/ChineseLunarYears.html</a><br/>\n&gt; figure out your favorite Shinsengumi&#39;s birth sign...again the <br/>\n&gt; Japanese zodiac is probably different<br/>\n&gt; <br/>\n&gt; secretarytocapt3 </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Chinese Animal Zodiac",
+            "postDate": "1095341830",
+            "msgId": 1603,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpYzR1Nis0bzFyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1604,
+            "prevInTime": 1602,
+            "nextInTime": 1604,
+            "topicId": 1603,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "KEYWORD...this is the CHINESE animal Zodiac http://www.wisdomportal.com/Dates/ChineseLunarYears.html figure out your favorite Shinsengumi s birth sign...again",
+            "messageBody": "<div id=\"ygrps-yiv-1660447905\">KEYWORD...this is the CHINESE animal Zodiac<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wisdomportal.com/Dates/ChineseLunarYears.html\">http://www.wisdomportal.com/Dates/ChineseLunarYears.html</a><br/>\nfigure out your favorite Shinsengumi&#39;s birth sign...again the <br/>\nJapanese zodiac is probably different<br/>\n<br/>\nsecretarytocapt3</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1602,
+    "nextTopicId": 1605
+}

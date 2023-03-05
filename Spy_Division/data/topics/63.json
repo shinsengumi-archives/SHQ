@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "A note about my latest chapter",
+            "postDate": "1080178843",
+            "msgId": 63,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGRhcithNXUzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 62,
+            "nextInTime": 64,
+            "topicId": 63,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just a note: Chapter 9 is best appreciated if read while listening to Evanescence s Whisper -- especially during the battle scene. Thanks. --M.",
+            "messageBody": "<div id=\"ygrps-yiv-927383016\">Just a note:<br/>\n<br/>\nChapter 9 is best appreciated if read while listening to Evanescence&#39;s<br/>\n&quot;Whisper&quot;-- especially during the battle scene.<br/>\n<br/>\nThanks.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 62,
+    "nextTopicId": 64
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "PMK &quot;special&quot; --warning",
+            "postDate": "1080830410",
+            "msgId": 260,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNkMyOUNBLjkwMTAyMDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 259,
+            "nextInTime": 261,
+            "topicId": 260,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If you get wind of  an alleged PeaceMaker Kurogane special from Anime Keep do not waste your time or disk space downloading. It is a total piece of crap that I",
+            "messageBody": "<div id=\"ygrps-yiv-509081229\">If you get wind of  an alleged PeaceMaker Kurogane special from Anime <br/>\nKeep do not waste your time or disk space downloading. It is a total <br/>\npiece of crap that I deleted about one minute into it. All they did was <br/>\ntake the episode where Tetsu meets Saya in Shimabara and inserted a <br/>\nbunch of lame/crude dialogue in place of the correct subtitles.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 259,
+    "nextTopicId": 263
+}

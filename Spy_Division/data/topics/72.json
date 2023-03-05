@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Writers and writing",
+            "postDate": "1080310187",
+            "msgId": 72,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjQzOUFCLjMwMDA5MDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 71,
+            "nextInTime": 73,
+            "topicId": 72,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This link to an article was posted on my paranormal writers loop ( PNwriters) and it is so true, and comes across like Saitou Hajime s philosophy on all things",
+            "messageBody": "<div id=\"ygrps-yiv-2007780243\">This link to an article was posted on my paranormal writers loop ( <br/>\nPNwriters) and it is so true, and comes across like Saitou Hajime&#39;s  <br/>\nphilosophy on all things authorly (if he had been a writer, of  course) <br/>\nthat I thought some of you might be interested in seeing it.  So here&#39;s <br/>\nthe link click away and become enlightened<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.scalzi.com/whatever/archives/000701.html\">http://www.scalzi.com/whatever/archives/000701.html</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 71,
+    "nextTopicId": 66
+}

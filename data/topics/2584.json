@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [SHQ] Hajimemashite",
+            "postDate": "1129370453",
+            "msgId": 2586,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMTVDRTYxQTBEQkQ0QUUxQURENTQ5NTlGN0MwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRpcGR0citnNW5iQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2584,
+            "nextInTopic": 0,
+            "prevInTime": 2585,
+            "nextInTime": 2587,
+            "topicId": 2584,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Welcome, and hello from Kyoto. I am so incredibly tired after touring today, but I managed to get a good amount of Shinsengumi stuff, including a banner and a",
+            "messageBody": "<div id=\"ygrps-yiv-935877200\">Welcome, and hello from Kyoto.<br/>\n<br/>\nI am so incredibly tired after touring today, but I managed to get a good <br/>\namount of Shinsengumi stuff, including a banner and a figurine of Kondo <br/>\nIsami.<br/>\n<br/>\nThe Okita Soji lighters were really cool looking, but I didn&#39;t get one. <br/>\nMaybe next time...<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 239443881,
+            "authorName": "sakuramoonshadow",
+            "from": "&quot;sakuramoonshadow&quot; &lt;sakuramoonshadow@...&gt;",
+            "profile": "sakuramoonshadow",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hajimemashite",
+            "postDate": "1129331451",
+            "msgId": 2584,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpcGR0citnNW5iQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2586,
+            "prevInTime": 2583,
+            "nextInTime": 2585,
+            "topicId": 2584,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "So here I am, new fan.  I love the Shinsengumi and have ever since I first saw Rurouni Kenshin--any version of them is fine by me, but I like Kaze Hikaru and",
+            "messageBody": "<div id=\"ygrps-yiv-2140238391\">So here I am, new fan.  I love the Shinsengumi and have ever since I <br/>\nfirst saw Rurouni Kenshin--any version of them is fine by me, but I <br/>\nlike Kaze Hikaru and the NHK Shinsengumi a lot . . . anyway, hi there <br/>\neveryone!  Okita Souji is the best!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2585,
+    "nextTopicId": 2138
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182822216,
+            "authorName": "ktamae@****",
+            "from": "ktamae@...",
+            "profile": "tamagot93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese TV show featuring Aizu colony in US",
+            "postDate": "1104859361",
+            "msgId": 2010,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFmYi4yYWQ1YjFlLjJmMGMyYWUxQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2009,
+            "nextInTime": 2011,
+            "topicId": 2010,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A very popular Japanese TV quiz show called, Sekai Fushigi Hakken (Discovering the mysteries of the world) will feature Aizu colony in California in the next",
+            "messageBody": "<div id=\"ygrps-yiv-1900605920\">A very popular Japanese TV quiz show called, &quot;Sekai Fushigi <br/>\nHakken&quot;(Discovering the mysteries of the world) will feature Aizu colony in California in the <br/>\nnext episode which will be aired 8 January.<br/>\n<br/>\nAccording to the official site of the show,<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.tbs.co.jp/f-hakken/mystery_1.html\">http://www.tbs.co.jp/f-hakken/mystery_1.html</a><br/>\nthey&#39;ll talk about Schenel and Aizu people settled in US after Boshin war, <br/>\nespecially young Japanese girl Okei. <br/>\n<br/>\nI remember sec mentioned about a team of Japanese TV coming to report about <br/>\nAizu colony in California a while back.<br/>\n<br/>\nOf course, I&#39;ll see the show hoping share more info.<br/>\n<br/>\nTama<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2009,
+    "nextTopicId": 2011
+}

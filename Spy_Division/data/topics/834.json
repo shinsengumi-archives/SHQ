@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Audio fic/ &quot;Interrogation&quot;",
+            "postDate": "1179340770",
+            "msgId": 834,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYyZmo1MisydGZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 833,
+            "nextInTime": 835,
+            "topicId": 834,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Come on over to ",
+            "messageBody": "<div id=\"ygrps-yiv-253381532\">Come on over to<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net/chloemichelle/index.htm\">http://www.barbarasheridan.net/chloemichelle/index.htm</a> and check out<br/>\nthe online interview I did with a couple of samurai...<br/>\n<br/>\nScroll down past the video trailer for the link and written transcript<br/>\n<br/>\nBarb Sheridan/<br/>\nChloe Michelle<br/>\nFollow Emmi Maeda to another land, another time<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mardigraspublishing.com/mirrormirror.html\">http://www.mardigraspublishing.com/mirrormirror.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 826,
+    "nextTopicId": 835
+}

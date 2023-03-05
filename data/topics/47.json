@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Just posted to Photos in SHQ...again for you, Phil....",
+            "postDate": "1079668792",
+            "msgId": 47,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjI3clBGV3kzckIwN1gwMDAwM2VhOEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 46,
+            "nextInTime": 48,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just posted a pic of Sagara Souzou s gravestone. Apparently it s in the Aoyama cemetery near Tokyo. --M. ",
+            "messageBody": "<div id=\"ygrps-yiv-1193129861\">Just posted a pic of Sagara Souzou&#39;s gravestone. Apparently it&#39;s in the <br/>\nAoyama cemetery near Tokyo.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your e-mail with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 46,
+    "nextTopicId": 48
+}

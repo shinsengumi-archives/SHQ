@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Story translations",
+            "postDate": "1100536212",
+            "msgId": 1837,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxOThEOTk0LjQwMzAwMDJAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1836,
+            "nextInTime": 1838,
+            "topicId": 1837,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello people, I came across this link to some translated Japanese stories on another list. I ve only read one of the translated stories so far but it was most",
+            "messageBody": "<div id=\"ygrps-yiv-1909818243\">Hello people,<br/>\n<br/>\nI came across this link to some translated Japanese stories on another <br/>\nlist. I&#39;ve only read one of the translated stories so far but it was <br/>\nmost interesting.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.kcc.zaq.ne.jp/dfeea307/\">http://www.kcc.zaq.ne.jp/dfeea307/</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1836,
+    "nextTopicId": 1838
+}

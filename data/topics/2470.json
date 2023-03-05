@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 187753429,
+            "authorName": "yuukuei02b@****",
+            "from": "yuukuei02b@...",
+            "profile": "abyssinianran",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Delay in Hillsborough&#39;s book",
+            "postDate": "1120270495",
+            "msgId": 2470,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhkLjJhMmJlMGI2LjJmZjc1MjlmQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2469,
+            "nextInTime": 2471,
+            "topicId": 2470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "With regards to Hillsborough s new book, I was planning on buying it directly from the Manhattan Kinokuniya. They first had it listed in their  computer that",
+            "messageBody": "<div id=\"ygrps-yiv-541671921\">With regards to Hillsborough&#39;s new book, I was planning on buying it  <br/>\ndirectly from the Manhattan Kinokuniya. They first had it listed in their  computer <br/>\nthat it would arrive by April 30, but the last time I went back  there (around <br/>\ntwo weeks ago), they said it would be available on July 30.  Apparently <br/>\nHillsborough is in frequent contact with the store, but since he&#39;s  not publishing <br/>\nit himself, its release is delayed. Hopefully they will have it  by the end of <br/>\nthis month.<br/>\n <br/>\n- Anastasia<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2462,
+    "nextTopicId": 2471
+}

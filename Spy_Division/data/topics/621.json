@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190694914,
+            "authorName": "long_commute",
+            "from": "&quot;long_commute&quot; &lt;long_commute@...&gt;",
+            "profile": "long_commute",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "&quot;The Shinsengumi&quot; clan on Halo 2 (Xbox)",
+            "postDate": "1119484738",
+            "msgId": 621,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ5Y3UwMis4ZThoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 620,
+            "nextInTime": 622,
+            "topicId": 621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I am a member of The Shinsengumi clan on the online version of Halo 2 (which is only available for Xbox 2). We have 95 members and room for 5 more --",
+            "messageBody": "<div id=\"ygrps-yiv-2020428388\">Hello,<br/>\n<br/>\nI am a member of &quot;The Shinsengumi&quot; clan on the online version of Halo 2 <br/>\n(which is only available for Xbox 2). <br/>\n<br/>\nWe have 95 members and room for 5 more -- if anyone would like to join, <br/>\nplease let me know. It&#39;s a lot of fun.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 620,
+    "nextTopicId": 622
+}

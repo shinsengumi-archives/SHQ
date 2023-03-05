@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "One last banner",
+            "postDate": "1088026668",
+            "msgId": 325,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNiY3Q3YytoZW9iQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 324,
+            "nextInTime": 326,
+            "topicId": 325,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m just not in the right frame of mind to write (dang it), so I m goofing off.  Though I haven t done anything with it or promoted it, maybe it would help to",
+            "messageBody": "<div id=\"ygrps-yiv-1997551664\">I&#39;m just not in the right frame of mind to write (dang it), so I&#39;m <br/>\ngoofing off.  Though I haven&#39;t done anything with it or promoted it, <br/>\nmaybe it would help to have a banner for the lj, too, so...  It&#39;s in <br/>\nthe Site Banners album.<br/>\n<br/>\nSecretary, Wounds, Barb... use if you so desire (and if possible).<br/>\n<br/>\nIf I can&#39;t write, at least I can sit back and imagine, ne?  :-P<br/>\n<br/>\nphil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 324,
+    "nextTopicId": 326
+}

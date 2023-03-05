@@ -1,0 +1,31 @@
+{
+    "userId": 1533100,
+    "authorName": "Barbara Sheridan",
+    "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+    "profile": "bsher213",
+    "replyTo": "LIST",
+    "senderId": "EoZ_UruvHe1VwZFMUyxAaEYtyXJWhzhYQEBlgsmFgF_RO7d_kFUBNVx2G8RV04iqV5KTY4NTWD7sqKISJGA4mYxMRMOMqzcdcqXN_rhbUyJVbgs",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "mail going astray",
+    "postDate": "1080176047",
+    "msgId": 136,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDQwNjIyREFGLjkwNTA0MDhAYmVsbGF0bGFudGljLm5ldD4=",
+        "inReplyToHeader": "PGMzdGExZStuNzh2QGVHcm91cHMuY29tPg==",
+        "referencesHeader": "PGMzdGExZStuNzh2QGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 134,
+    "nextInTopic": 142,
+    "prevInTime": 135,
+    "nextInTime": 137,
+    "topicId": 124,
+    "numMessagesInTopic": 20,
+    "msgSnippet": "A message I posted around 9 this morning  just hit my inbox about an hour ago 11 hr late but later sent mail seems to have arrived on time.  Go figure Barbara",
+    "rawEmail": "Return-Path: &lt;bsher213@...&gt;\r\nX-Sender: bsher213@...\r\nX-Apparently-To: SHQ@yahoogroups.com\r\nReceived: (qmail 24455 invoked from network); 25 Mar 2004 00:53:59 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m14.grp.scd.yahoo.com with QMQP; 25 Mar 2004 00:53:59 -0000\r\nReceived: from unknown (HELO out012.verizon.net) (206.46.170.137)\n  by mta5.grp.scd.yahoo.com with SMTP; 25 Mar 2004 00:53:58 -0000\r\nReceived: from bellatlantic.net ([141.151.162.203]) by out012.verizon.net\n          (InterMail vM.5.01.06.06 201-253-122-130-106-20030910) with ESMTP\n          id &lt;20040325005358.LOIH18295.out012.verizon.net@...&gt;\n          for &lt;SHQ@yahoogroups.com&gt;; Wed, 24 Mar 2004 18:53:58 -0600\r\nMessage-ID: &lt;40622DAF.9050408@...&gt;\r\nDate: Wed, 24 Mar 2004 19:54:07 -0500\r\nUser-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)\r\nX-Accept-Language: en-us, en, ja\r\nMIME-Version: 1.0\r\nTo: SHQ@yahoogroups.com\r\nReferences: &lt;c3ta1e+n78v@...&gt;\r\nIn-Reply-To: &lt;c3ta1e+n78v@...&gt;\r\nContent-Type: text/plain; charset=us-ascii; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-Authentication-Info: Submitted using SMTP AUTH at out012.verizon.net from [141.151.162.203] at Wed, 24 Mar 2004 18:53:57 -0600\r\nX-eGroups-Remote-IP: 206.46.170.137\r\nFrom: Barbara Sheridan &lt;bsher213@...&gt;\r\nSubject: mail going astray\r\nX-Yahoo-Group-Post: member; u=1533100\r\nX-Yahoo-Profile: bsher213\r\n\r\nA message I posted around 9 this morning  just hit my inbox about an hour ago 11 hr late but later sent mail seems to have arrived on time.  Go figure\n \nBarbara Sheridan\t\n\nhttp://www.barbarasheridan.net\n\n\n\n\n"
+}

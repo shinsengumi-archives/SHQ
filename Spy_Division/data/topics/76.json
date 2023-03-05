@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Humor Me",
+            "postDate": "1080350204",
+            "msgId": 76,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0Mmtscys0NjcyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 75,
+            "nextInTime": 77,
+            "topicId": 76,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Some of you who started out with the Miburo list will recall the Top Ten Reasons to Join the Shinsengumi and the What Saito Would Never Do post from there.",
+            "messageBody": "<div id=\"ygrps-yiv-817504299\">Some of you who started out with the Miburo list will recall the Top <br/>\nTen Reasons to Join the Shinsengumi and the What Saito Would Never Do <br/>\npost from there. Well, we need more of both. I&#39;ve been chatting with <br/>\nBarb and I&#39;m going to attempt to come up with some humor stuff for <br/>\nour website. Those two posts seem like as good a place to start as <br/>\nany.<br/>\n<br/>\nAmong the other topics I&#39;m considering is some sort of Shinsengumi <br/>\nLife Lessons category. So yeah, I need input for that as well. If <br/>\nanyone has anything they want to contribute please post it to the <br/>\nlist or e-mail me ASAP. Thanks.<br/>\n<br/>\n-MissBehavin (Digging herself deeper into the hole by taking on new <br/>\nprojects.)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 75,
+    "nextTopicId": 77
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hijikata Calligraphy + Shiba Ryotaro",
+            "postDate": "1108318203",
+            "msgId": 2186,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1bzU1citpcWRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2184,
+            "nextInTime": 2187,
+            "topicId": 2186,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "links to insert in http://www.globalgate/nifty.com sample of Hijikata s calligraphy on glass http://blog.drecom.jp/hinojyukuhonjin_kentoukai/ Shiba Ryotaro and",
+            "messageBody": "<div id=\"ygrps-yiv-1648915229\">links to insert in <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.globalgate/nifty.com\">http://www.globalgate/nifty.com</a><br/>\nsample of Hijikata&#39;s calligraphy on glass<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://blog.drecom.jp/hinojyukuhonjin_kentoukai/\">http://blog.drecom.jp/hinojyukuhonjin_kentoukai/</a><br/>\n<br/>\nShiba Ryotaro<br/>\nand those yellow rape blossoms (think about the NHK Shinsengumi! <br/>\nepisode with Yamanami and Akesato)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shibazaidan.or.jp/contents/zaidan/nanohana/index.html\">http://www.shibazaidan.or.jp/contents/zaidan/nanohana/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2184,
+    "nextTopicId": 2187
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 218430503,
+            "authorName": "F Khanume",
+            "from": "&quot;F Khanume&quot; &lt;jinchuulover@...&gt;",
+            "profile": "firuzekhanume2002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kondo",
+            "postDate": "1111725825",
+            "msgId": 2364,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyNDM5NzAxLjAwMDAwMy4wMjMyMEBQWDE4MDA+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2363,
+            "nextInTime": 2365,
+            "topicId": 2364,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I found this site (in French) that mentions notable heroes/ warriors of Japan, and among them, they list Kondo. The interesting detail, however, it s the",
+            "messageBody": "<div id=\"ygrps-yiv-771147367\">I found this site (in French) that mentions notable heroes/ warriors of<br/>\nJapan, and among them, they list Kondo. The interesting detail, however, it<br/>\ns the picture of an sculpure/bust of Kondo beside the note about him.  <br/>\n<br/>\nHere it is<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samourais.free.fr/S_Guerriers.html\">http://samourais.free.fr/S_Guerriers.html</a><br/>\n<br/>\nFiruze<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2363,
+    "nextTopicId": 2362
+}

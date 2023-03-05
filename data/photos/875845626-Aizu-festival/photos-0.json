@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 875845626,
+        "photoId": 1744147051,
+        "photoName": "Koji Yamamoto in parade",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bsher213",
+        "modificationDate": 1095917559,
+        "creationDate": 1095917559,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/fTDLrwztfdUMiCQqb5Pm/name/n_a",
+                "height": 96,
+                "width": 78,
+                "size": 2996,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/fTDLrwztfdUMiCQqb5Pm/name/n_a",
+                "height": 400,
+                "width": 327,
+                "size": 26234,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/fTDLrwztfdUMiCQqb5Pm/name/n_a",
+                "height": 400,
+                "width": 327,
+                "size": 26234,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 875845626,
+        "photoId": 1733506149,
+        "photoName": "Shinsengumi-puppy( from Tama)",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bsher213",
+        "modificationDate": 1096094118,
+        "creationDate": 1096094118,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/DbcjAdntfdJfTwOkycik/name/n_a",
+                "height": 96,
+                "width": 78,
+                "size": 2186,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/DbcjAdntfdJfTwOkycik/name/n_a",
+                "height": 400,
+                "width": 327,
+                "size": 19357,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/DbcjAdntfdJfTwOkycik/name/n_a",
+                "height": 400,
+                "width": 327,
+                "size": 19357,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

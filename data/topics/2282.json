@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 205312014,
+            "authorName": "Akaiken Hogo",
+            "from": "&quot;Akaiken Hogo&quot; &lt;shadowlightning89@...&gt;",
+            "profile": "akaiken_hogo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I guess this would be my introduction for you all.",
+            "postDate": "1110668750",
+            "msgId": 2282,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwdnNrZSttZWI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2281,
+            "nextInTime": 2283,
+            "topicId": 2282,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "1) I hate my real name. My s/n is Akaiken hogo which roughly means red sword that defends in japanese 2) when I first heard of the shinsengumi, it was from",
+            "messageBody": "<div id=\"ygrps-yiv-1197854360\">1) I hate my real name. My s/n is Akaiken hogo which roughly <br/>\nmeans &quot;red sword that defends&quot; in japanese<br/>\n<br/>\n2) when I first heard of the shinsengumi, it was from my friends <br/>\ntalking about ruroni Kenshin, then I read an article about <br/>\npeacemaker and started watching the DVDs<br/>\n<br/>\n3) I dunno if I have a fave shinsengumi member, I don&#39;t really know <br/>\nthat much about them all to choose.<br/>\n<br/>\n4) as I said Ive seen dvds 1-3 of peacemaker, and I saw the samurai <br/>\nX movie,which has saito, but it takes place after the revolution.<br/>\n<br/>\n5) I don&#39;t have a favorite quite yet, so I wouldn&#39;t know.<br/>\n6) Not really.<br/>\n<br/>\nThese are replys to the questions in the email titled : [SHQ] Admin: <br/>\nImportant Shinsengumi Business</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2280,
+    "nextTopicId": 2283
+}

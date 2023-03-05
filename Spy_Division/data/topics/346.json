@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 97466505,
+            "authorName": "nana_41175",
+            "from": "&quot;nana_41175&quot; &lt;nana_41175@...&gt;",
+            "profile": "nana_41175",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Gohatto pics",
+            "postDate": "1091888878",
+            "msgId": 346,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmMm90ZSs5bGZwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 345,
+            "nextInTime": 347,
+            "topicId": 346,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I have uploaded some Gohatto (my latest obsession) pics onto the photos section. I hope you guys will enjoy. Most of them are pics of Okita Souji (my",
+            "messageBody": "<div id=\"ygrps-yiv-1246928676\">Hi!<br/>\n<br/>\nI have uploaded some Gohatto (my latest obsession) pics onto the <br/>\nphotos section. I hope you guys will enjoy. Most of them are pics of <br/>\nOkita Souji (my favorite) as portrayed by Takeda Shinji, although I <br/>\nwill include other pictures as well next time.^________^<br/>\n<br/>\nNana</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 342,
+    "nextTopicId": 344
+}

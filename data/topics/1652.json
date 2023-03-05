@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yet again",
+            "postDate": "1096233893",
+            "msgId": 1652,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzNnVSV0N5N3JqY3gwMDAwNzUwYUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1651,
+            "nextInTime": 1653,
+            "topicId": 1652,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Saigou Tomiko Nagai Sadako Monna Rieko Mind-blowing, ain t it? --M. _________________________________________________________________ Protect your PC - get",
+            "messageBody": "<div id=\"ygrps-yiv-1281619027\">Saigou Tomiko<br/>\nNagai Sadako<br/>\nMonna Rieko<br/>\n<br/>\n<br/>\n<br/>\nMind-blowing, ain&#39;t it?<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nProtect your PC - get McAfee.com VirusScan Online <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963\">http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1651,
+    "nextTopicId": 1657
+}

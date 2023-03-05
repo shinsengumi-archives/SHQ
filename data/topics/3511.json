@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 205893631,
+            "authorName": "Nancy Duong",
+            "from": "Nancy Duong &lt;lilsuika@...&gt;",
+            "profile": "lilsuika",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "postDate": "1348605091",
+            "msgId": 3511,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDg2MDUwOTEuOTAxMTguWWFob29NYWlsTmVvQHdlYjE0MTEwNC5tYWlsLmJmMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3510,
+            "nextInTime": 3512,
+            "topicId": 3511,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://moorecreativeinc.com/wp-content/plugins/akismet/google.html?uig=bc.jig&rth=wjog.hhj&mhh=bksa [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-801785034\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://moorecreativeinc.com/wp-content/plugins/akismet/google.html?uig=bc.jig&rth=wjog.hhj&mhh=bksa\">http://moorecreativeinc.com/wp-content/plugins/akismet/google.html?uig=bc.jig&rth=wjog.hhj&mhh=bksa</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3503,
+    "nextTopicId": 3512
+}

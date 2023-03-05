@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Imperial Court communications to Shogunate",
+            "postDate": "1105812992",
+            "msgId": 2049,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzN0EyREIzQ0VCMkU0Q0M1MzExOTcxOUY4QzBAcGh4LmdibD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2048,
+            "nextInTime": 2050,
+            "topicId": 2049,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "From Charismatic Bureaucrat: A Political Biography of Matsudaira Sadanobu 1758-1829, by Herman Ooms. When the court wished to take some action that was",
+            "messageBody": "<div id=\"ygrps-yiv-1069101616\">From &quot;Charismatic Bureaucrat: A Political Biography of Matsudaira Sadanobu <br/>\n1758-1829,&quot; by Herman Ooms.<br/>\n<br/>\n&quot;When the court wished to take some action that was unprecedented, it had to <br/>\nconfer with the Bakufu through the Bakufu&#39;s Kyoto deputy (Kyoto Shoshidai). <br/>\nContract with the deputy was maintained through two court officials (buke <br/>\ndenso, messengers to the military) who were in charge of transmitting <br/>\nmemorials to and from the Kyoto deputy. The deputy relayed important matters <br/>\nto the Senior Council in Edo by couriers, who traveled the distance between <br/>\nKyoto and Edo in about six days. Bakufu decisions followed the same route <br/>\nback to the court messengers, but these latter had no direct access to the <br/>\nEmperor. They contacted the kampaku or imperial advisor who then conferred <br/>\nwith the Emperor.&quot;<br/>\n<br/>\nBut if it involved Aizu, and since the Shogun came to Osaka Castle and later <br/>\nNijo Castle, the communication could probably be done right there. Aizu was <br/>\nalso probably directly apprised of this stuff.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1424,
+    "nextTopicId": 2033
+}

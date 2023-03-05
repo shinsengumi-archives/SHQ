@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 174393936,
+            "authorName": "Jon Mesina",
+            "from": "&quot;Jon Mesina&quot; &lt;okita_souji@...&gt;",
+            "profile": "okitasoji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Shinsengumi Drama files",
+            "postDate": "1080909784",
+            "msgId": 266,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDQwMWM0MThiMCQwYzc2ODBhMCQwMjAwYThjMEBPbW9pa2FuZT4=",
+                "referencesHeader": "PGM0MDk0dCtramdmQGVHcm91cHMuY29tPiA8MDAwNjAxYzQxMzEzJDE4NTIyNzAwJDAyMDBhOGMwQE9tb2lrYW5lPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 265,
+            "nextInTime": 267,
+            "topicId": 266,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ok I have 2 episodes of the Shinsengumi drama encoded and i m working on the next 3 right now. Currently the filesizes are 400megs average for an episode with",
+            "messageBody": "<div id=\"ygrps-yiv-1743567994\">Ok I have 2 episodes of the Shinsengumi drama encoded and i&#39;m working on the next 3 right now. Currently the filesizes are 400megs average for an episode with the current video compression (DIVX5) and audio (MP3). With the way the files are, i&#39;ll only be able to distro these via DVDs instead of CDs, and I know some of you may not have DVD drives to read the files. Or distro them on many many cds. <br/>\n<br/>\nSo, basically it all comes down to, do you want smaller files at the expense of quality?<br/>\n<br/>\nOn another note, if anyone knows how to get these files loaded on a bittorrent server, i&#39;ll do that to make them easily available to those who do have a high speed connection.  <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 261,
+    "nextTopicId": 272
+}

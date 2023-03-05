@@ -1,0 +1,44 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 2049138091,
+        "photoId": 1654607566,
+        "photoName": "Yamamoto Koji",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "secretarytocapt3",
+        "modificationDate": 1160321666,
+        "creationDate": 1160321666,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Yamamoto Koji as NHK Shinsengumi&#39;s HIJIKATA",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/d0mbRX7tfNQ89rXIJmgu/name/n_a",
+                "height": 70,
+                "width": 96,
+                "size": 1780,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/d0mbRX7tfNQ89rXIJmgu/name/n_a",
+                "height": 276,
+                "width": 377,
+                "size": 14075,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/d0mbRX7tfNQ89rXIJmgu/name/n_a",
+                "height": 276,
+                "width": 377,
+                "size": 14075,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

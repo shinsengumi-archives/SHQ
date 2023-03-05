@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] We have a picture of Sasaki Tadasaburou AND of &quot;Aizu Kotetsu&quot;",
+            "postDate": "1104813180",
+            "msgId": 2008,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxREExQzdDLjYwMjA3MDhAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PEJBWTIyLUY3MDMwQzhDMkMyMkY4ODlGMUE0NjM5RjkxMEBwaHguZ2JsPg==",
+                "referencesHeader": "PEJBWTIyLUY3MDMwQzhDMkMyMkY4ODlGMUE0NjM5RjkxMEBwaHguZ2JsPg=="
+            },
+            "prevInTopic": 2007,
+            "nextInTopic": 0,
+            "prevInTime": 2007,
+            "nextInTime": 2009,
+            "topicId": 2007,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I know the name Aizu-Kotetsu from Sec s comments on the Yakuza of the day maybe he was the leader? ... -- Barbara Sheridan http://www.barbarasheridan.net",
+            "messageBody": "<div id=\"ygrps-yiv-643584936\">I know the name Aizu-Kotetsu from Sec&#39;s comments on the Yakuza of the <br/>\nday maybe he was the leader?<br/>\n<br/>\nHirotada Tokugawa wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu2/kotetu.html\">http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu2/kotetu.html</a><br/>\n&gt;<br/>\n&gt;The link labels him as &quot;Aizu Kotetsu.&quot; No idea who this person is.<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "We have a picture of Sasaki Tadasaburou AND of &quot;Aizu Kotetsu&quot;",
+            "postDate": "1104812254",
+            "msgId": 2007,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUY3MDMwQzhDMkMyMkY4ODlGMUE0NjM5RjkxMEBwaHguZ2JsPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2008,
+            "prevInTime": 2006,
+            "nextInTime": 2008,
+            "topicId": 2007,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu2/kotetu.html The link labels him as Aizu Kotetsu. No idea who this person is. AND-- my favorite: ",
+            "messageBody": "<div id=\"ygrps-yiv-1043920955\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu2/kotetu.html\">http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu2/kotetu.html</a><br/>\n<br/>\nThe link labels him as &quot;Aizu Kotetsu.&quot; No idea who this person is.<br/>\n<br/>\n<br/>\nAND-- my favorite: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu3/tadasaburo.html\">http://www.dokidoki.ne.jp/home2/quwatoro/bakumatu3/tadasaburo.html</a><br/>\n<br/>\nSASAKI TADASABUROU.....-FINALLY- we have a picture!<br/>\n<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1979,
+    "nextTopicId": 2009
+}

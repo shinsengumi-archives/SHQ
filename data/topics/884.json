@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] sekihoutai stuff momoiro sent",
+            "postDate": "1085772777",
+            "msgId": 886,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTI4MTkzMjU3LjIyOTQ0LnFtYWlsQHdlYjIxNDA2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGM5N3RubCs1NDRqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 884,
+            "nextInTopic": 0,
+            "prevInTime": 885,
+            "nextInTime": 887,
+            "topicId": 884,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please thank momoiro personally for me!  I really, really appreciate the discussion and the graphic. phil secretary  wrote: from",
+            "messageBody": "<div id=\"ygrps-yiv-221110990\">Please thank momoiro personally for me!  I really, really appreciate the discussion and the graphic.<br/>\n <br/>\nphil<br/>\n<br/>\nsecretary &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:secretarytocapt3@...\">secretarytocapt3@...</a>&gt; wrote:<br/>\nfrom momoiro<br/>\nanalysis of the name sekihoutai...I dunno if it is helpful since you <br/>\nall discussed this already<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Sekihoutai-kaisetu.jpg\">http://1happyturtle.com/makoto/Sekihoutai-kaisetu.jpg</a><br/>\nclick to enlarge<br/>\n<br/>\n<br/>\n<br/>\nvisit <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/SHQ_Spy_Division/\">http://groups.yahoo.com/group/SHQ_Spy_Division/</a><br/>\n<br/>\nour companion list featuring fanfiction/art <br/>\n<br/>\n<br/>\nYahoo! Groups SponsorADVERTISEMENT<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nYahoo! Groups Links<br/>\n<br/>\n   To visit your group on the web, go to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/SHQ/\">http://groups.yahoo.com/group/SHQ/</a><br/>\n  <br/>\n   To unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ-unsubscribe@yahoogroups.com\">SHQ-unsubscribe@yahoogroups.com</a><br/>\n  <br/>\n   Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "sekihoutai stuff momoiro sent",
+            "postDate": "1085766197",
+            "msgId": 884,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5N3RubCs1NDRqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 886,
+            "prevInTime": 883,
+            "nextInTime": 885,
+            "topicId": 884,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "from momoiro analysis of the name sekihoutai...I dunno if it is helpful since you all discussed this already ",
+            "messageBody": "<div id=\"ygrps-yiv-1063970098\">from momoiro<br/>\nanalysis of the name sekihoutai...I dunno if it is helpful since you <br/>\nall discussed this already<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Sekihoutai-kaisetu.jpg\">http://1happyturtle.com/makoto/Sekihoutai-kaisetu.jpg</a><br/>\nclick to enlarge</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 883,
+    "nextTopicId": 842
+}

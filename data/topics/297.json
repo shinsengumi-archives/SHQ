@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi-- Ikedaya mini-movie somethingorother",
+            "postDate": "1081107591",
+            "msgId": 297,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0cG9hNys1NWl2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 296,
+            "nextInTime": 298,
+            "topicId": 297,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://cgi2.nhk.or.jp/sonotoki/movies/shinsengumi.mpg A short clip about Kondou and the initial attack on the Ikedaya-- how the Shinsengumi fought at a",
+            "messageBody": "<div id=\"ygrps-yiv-1313976933\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi2.nhk.or.jp/sonotoki/movies/shinsengumi.mpg\">http://cgi2.nhk.or.jp/sonotoki/movies/shinsengumi.mpg</a><br/>\n<br/>\nA short clip about Kondou and the initial attack on the Ikedaya-- how<br/>\nthe Shinsengumi fought at a disadvantage (4 to 20).<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 295,
+    "nextTopicId": 304
+}

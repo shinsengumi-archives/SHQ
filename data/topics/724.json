@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 91986516,
+            "authorName": "Kuraichan17@****",
+            "from": "Kuraichan17@...",
+            "profile": "shikurai17",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT: japanese stores in Boston?",
+            "postDate": "1084594310",
+            "msgId": 724,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJkLjQwNTNhYmEzLjJkZDZmMjg2QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 723,
+            "nextInTime": 725,
+            "topicId": 724,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry about the OT but I need some help. I m about to take a trip to Boston, Massachusetts in 2 weeks and I was wondering if anyone knew of some stores that",
+            "messageBody": "<div id=\"ygrps-yiv-1692090766\">Sorry about the OT but I need some help. I&#39;m about to take a trip to Boston, <br/>\nMassachusetts in 2 weeks and I was wondering if anyone knew of some stores <br/>\nthat sells Japanese manga, anime and movies. Any help would be great. Thanks!<br/>\n<br/>\n<br/>\n<br/>\nKurai <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 723,
+    "nextTopicId": 719
+}

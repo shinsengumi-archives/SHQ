@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 240390617,
+            "authorName": "James",
+            "from": "&quot;James&quot; &lt;dogdemonxxx16@...&gt;",
+            "profile": "dogdemonxxx16",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "My shinsengumi memorial website",
+            "postDate": "1143844113",
+            "msgId": 768,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUwa2FlaCtpYWE0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 767,
+            "nextInTime": 769,
+            "topicId": 768,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This is for all those shinsengumi who have died and will never be forgotten.http://groups.yahoo.com/group/memorialserviseofshinsengumi",
+            "messageBody": "<div id=\"ygrps-yiv-1599455177\">This is for all those shinsengumi who have died and will never be <br/>\nforgotten.<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/memorialserviseofshinsengumi\">http://groups.yahoo.com/group/memorialserviseofshinsengumi</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 767,
+    "nextTopicId": 769
+}

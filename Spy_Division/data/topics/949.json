@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 287757533,
+            "authorName": "Bonnie Johnston",
+            "from": "Bonnie Johnston &lt;bonnielala@...&gt;",
+            "profile": "persiphatta",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SHQ_Spy_Division] TRAILER FEATURING SAITOU IN RK MOVIE",
+            "postDate": "1342467950",
+            "msgId": 950,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PENBSkN4RFVISGk9dDNBVEEtTjRLcFUzM28ydnRNelpNRVBUaXpGWWhPazNEcEQ5S0FZd0BtYWlsLmdtYWlsLmNvbT4=",
+                "inReplyToHeader": "PGp1MXE3ditmNjdpQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGp1MXE3ditmNjdpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 949,
+            "nextInTopic": 0,
+            "prevInTime": 949,
+            "nextInTime": 951,
+            "topicId": 949,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "*squee!*  Does anyone have any idea when this will be released in America? Bonnie On Mon, Jul 16, 2012 at 2:32 PM, secretarytocapt3 ",
+            "messageBody": "<div id=\"ygrps-yiv-1662848207\">*squee!*  Does anyone have any idea when this will be released in America?<br/>\n<br/>\nBonnie<br/>\n<br/>\n<br/>\nOn Mon, Jul 16, 2012 at 2:32 PM, secretarytocapt3 &lt;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:secretarytocapt3@...\">secretarytocapt3@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; **<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Special thanks to Mio Yamada for forwarding the link to me!!!!<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://cinema.pia.co.jp/news/157127/47229/\">http://cinema.pia.co.jp/news/157127/47229/</a><br/>\n&gt;<br/>\n&gt; Be careful you may fall in love all over again (^_^)<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "TRAILER FEATURING SAITOU IN RK MOVIE",
+            "postDate": "1342467135",
+            "msgId": 949,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGp1MXE3ditmNjdpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 950,
+            "prevInTime": 948,
+            "nextInTime": 950,
+            "topicId": 949,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Special thanks to Mio Yamada for forwarding the link to me!!!! http://cinema.pia.co.jp/news/157127/47229/ Be careful you may fall in love all over again (^_^)",
+            "messageBody": "<div id=\"ygrps-yiv-1388614055\">Special thanks to Mio Yamada for forwarding the link to me!!!!<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cinema.pia.co.jp/news/157127/47229/\">http://cinema.pia.co.jp/news/157127/47229/</a><br/>\n<br/>\nBe careful you may fall in love all over again (^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 948,
+    "nextTopicId": 951
+}

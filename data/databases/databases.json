@@ -1,0 +1,18 @@
+{
+    "tableCount": 1,
+    "tables": [
+        {
+            "tableId": "2",
+            "name": "TOPICS",
+            "description": "Important topics and msg#",
+            "owner": "secretarytocapt3",
+            "noOfRecords": 0,
+            "ownerUserId": 185890146,
+            "dateCreated": 1107800936,
+            "dateLastModified": 1107800936,
+            "whoEditTable": "MODERATORS_OR_OWNER",
+            "whoAddRecords": "SUBSCRIBERS",
+            "whoEditRecords": "MODERATORS_OR_OWNER"
+        }
+    ]
+}

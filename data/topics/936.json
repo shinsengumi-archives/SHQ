@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 187644690,
+            "authorName": "Chibi Aiko",
+            "from": "Chibi Aiko &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Show on the Tokaido Road tonight.",
+            "postDate": "1086107743",
+            "msgId": 937,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjAxMTYzNTQzLjU0NDIyLnFtYWlsQHdlYjUwMTAzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGM5aTE3NitjaDdsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 936,
+            "nextInTopic": 0,
+            "prevInTime": 936,
+            "nextInTime": 938,
+            "topicId": 936,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "GAK! I don t know what channel that s on for COX! I ll find it, don t worry. I ll record it too. ... Do you Yahoo!? Friends.  Fun. Try the all-new Yahoo!",
+            "messageBody": "<div id=\"ygrps-yiv-1810594182\">GAK! I don&#39;t know what channel that&#39;s on for COX! I&#39;ll find it, don&#39;t worry. I&#39;ll record it too.<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Show on the Tokaido Road tonight.",
+            "postDate": "1086097446",
+            "msgId": 936,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5aTE3NitjaDdsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 937,
+            "prevInTime": 935,
+            "nextInTime": 937,
+            "topicId": 936,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "History Channel International is having a program on tonight at 10pm EST and again at 2am EST on the Tokaido Road in Japan. This is the famous highway that ran",
+            "messageBody": "<div id=\"ygrps-yiv-1197623146\">History Channel International is having a program on tonight at 10pm <br/>\nEST and again at 2am EST on the Tokaido Road in Japan. This is the <br/>\nfamous highway that ran between Edo/Tokyo and Kyoto. Just thought I&#39;d <br/>\ngive everyone a heads up. <br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 930,
+    "nextTopicId": 938
+}

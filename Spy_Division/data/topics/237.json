@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Round Robin Idea",
+            "postDate": "1083775884",
+            "msgId": 237,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwOTkxQjhDLjgwNjA0MDZAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 236,
+            "nextInTime": 238,
+            "topicId": 237,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here s one that could go from dramatic angst or all out comedy depending on who is writing at each point--- Hajime Through the Looking Glass: Either PMK of RK",
+            "messageBody": "<div id=\"ygrps-yiv-852908051\">Here&#39;s one that could go from dramatic angst or all out comedy depending <br/>\non who is writing at each point---<br/>\n<br/>\nHajime Through the Looking Glass:<br/>\n<br/>\n Either PMK of RK Saitou stumble upon said mystical looking glass <br/>\n(Perhaps at Maro&#39;s smoldering ruin of a mansion) and ends up in the <br/>\nother&#39;s universe and of course their co-horts and acquaintances will go <br/>\nlooking for the missing Wolf and stumble through the glass as well.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 233,
+    "nextTopicId": 142
+}

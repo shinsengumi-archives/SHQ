@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [SHQ] Anyone know about this exhibit at the Edo Tokyo Museum?",
+            "postDate": "1123932888",
+            "msgId": 2510,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GNDIwNjQyMTFCODhDQTBFMUJFNzdERTlGQkYwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRkazhobytpZWlhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2509,
+            "nextInTopic": 0,
+            "prevInTime": 2509,
+            "nextInTime": 2511,
+            "topicId": 2509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just from the look of it it seems to have been in conjunction with last year s Taiga drama. I wouldn t be surprised if it was still going on, though,",
+            "messageBody": "<div id=\"ygrps-yiv-701094502\">Just from the look of it it seems to have been in conjunction with last <br/>\nyear&#39;s Taiga drama. I wouldn&#39;t be surprised if it was still going on, <br/>\nthough, especially considering that they&#39;re going to have the continuation <br/>\nthis coming year.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 203797881,
+            "authorName": "michaelcarcana",
+            "from": "&quot;michaelcarcana&quot; &lt;michaelcarcana@...&gt;",
+            "profile": "michaelcarcana",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Anyone know about this exhibit at the Edo Tokyo Museum?",
+            "postDate": "1123919224",
+            "msgId": 2509,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkazhobytpZWlhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2510,
+            "prevInTime": 2508,
+            "nextInTime": 2510,
+            "topicId": 2509,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The article is dated July last year, so I don t know if the exhibit is even still there or not.  I can t really make too much of the translations I m getting,",
+            "messageBody": "<div id=\"ygrps-yiv-216614066\">The article is dated July last year, so I don&#39;t know if the exhibit is<br/>\neven still there or not.  I can&#39;t really make too much of the<br/>\ntranslations I&#39;m getting, and the museum&#39;s English site is welcome,<br/>\nbut not very informative.  From what I can tell you can&#39;t order from<br/>\ntheir museum store online.  Check out the cover to one of the exhibits<br/>\nbooks at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://allabout.co.jp/entertainment/kabuki/closeup/CU20040703A/shinsengumi002.jpg\">http://allabout.co.jp/entertainment/kabuki/closeup/CU20040703A/shinsengumi002.jpg</a><br/>\nIt looks like it might have a lot of photos and information - and the<br/>\nEdo Tokyo museum is known to be unusually English friendly.<br/>\n<br/>\nDoes anyone know anything else about this exhibit?<br/>\n<br/>\nThanks yo,<br/>\nMichael</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2508,
+    "nextTopicId": 2511
+}

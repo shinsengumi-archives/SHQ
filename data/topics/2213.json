@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Questionaire for NHK SHINSENGUMI",
+            "postDate": "1109434121",
+            "msgId": 2213,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2cTZ1OSsyczd0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2212,
+            "nextInTime": 2214,
+            "topicId": 2213,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "it isn t an official questionnaire just from the wonderful people at hino-shinsengumi....seems that the Yamanami episode is taking the lead.... ",
+            "messageBody": "<div id=\"ygrps-yiv-1148574897\">it isn&#39;t an &quot;official&quot; questionnaire just from the wonderful people <br/>\nat hino-shinsengumi....seems that the Yamanami episode is taking the <br/>\nlead....<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nifty.com/globalgate\">http://www.nifty.com/globalgate</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://kibahonpo.cool.ne.jp/cgi-bin/hinoshin/annketo/qnaire2.cgi\">http://kibahonpo.cool.ne.jp/cgi-bin/hinoshin/annketo/qnaire2.cgi</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2209,
+    "nextTopicId": 2214
+}

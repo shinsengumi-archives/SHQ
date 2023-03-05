@@ -1,0 +1,632 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1341316730,
+        "photoName": "Okita Soji Feature",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1150686798,
+        "creationDate": 1150686798,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Mori, p.10-p.11",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/wtLMWLTtedV99T_oCX7D/name/n_a",
+                "height": 64,
+                "width": 96,
+                "size": 1325,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/wtLMWLTtedV99T_oCX7D/name/n_a",
+                "height": 319,
+                "width": 480,
+                "size": 40055,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/wtLMWLTtedV99T_oCX7D/name/n_a",
+                "height": 532,
+                "width": 800,
+                "size": 102992,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1881608531,
+        "photoName": "Okita Soji Feature",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1150686799,
+        "creationDate": 1150686799,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Mori, p.12-p.13",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/wQ3ncfztctnA3zbs5MU9/name/n_a",
+                "height": 64,
+                "width": 96,
+                "size": 1256,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/wQ3ncfztctnA3zbs5MU9/name/n_a",
+                "height": 319,
+                "width": 480,
+                "size": 34826,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/wQ3ncfztctnA3zbs5MU9/name/n_a",
+                "height": 532,
+                "width": 800,
+                "size": 89316,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 914660195,
+        "photoName": "Okita Soji Feature by Mori",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1154978770,
+        "creationDate": 1154978770,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.71",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/44p7yzfle9XQ7Hb4.bs-/name/n_a",
+                "height": 96,
+                "width": 62,
+                "size": 993,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/44p7yzfle9XQ7Hb4.bs-/name/n_a",
+                "height": 480,
+                "width": 312,
+                "size": 18999,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/44p7yzfle9XQ7Hb4.bs-/name/n_a",
+                "height": 800,
+                "width": 520,
+                "size": 42109,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 703759657,
+        "photoName": "Okita Soji Feature by Mori",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1154978771,
+        "creationDate": 1154978771,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 4,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.72",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/GwTb1ZnretIY9A8tryM-/name/n_a",
+                "height": 96,
+                "width": 62,
+                "size": 1145,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/GwTb1ZnretIY9A8tryM-/name/n_a",
+                "height": 480,
+                "width": 312,
+                "size": 29598,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/GwTb1ZnretIY9A8tryM-/name/n_a",
+                "height": 769,
+                "width": 500,
+                "size": 68071,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1884459746,
+        "photoName": "Okita Soji Feature by Mori",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1154978771,
+        "creationDate": 1154978771,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 5,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.73",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/focyWIPtctm1tyjhq4de/name/n_a",
+                "height": 96,
+                "width": 62,
+                "size": 1206,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/focyWIPtctm1tyjhq4de/name/n_a",
+                "height": 480,
+                "width": 312,
+                "size": 25240,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/focyWIPtctm1tyjhq4de/name/n_a",
+                "height": 769,
+                "width": 500,
+                "size": 59345,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 918928980,
+        "photoName": "Okita Soji Feature by Mori",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1154978951,
+        "creationDate": 1154978951,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 6,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.74 - p.75",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/NN2wcfLle9ncDjMSs1c-/name/n_a",
+                "height": 96,
+                "width": 94,
+                "size": 1593,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/NN2wcfLle9ncDjMSs1c-/name/n_a",
+                "height": 480,
+                "width": 468,
+                "size": 37350,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/NN2wcfLle9ncDjMSs1c-/name/n_a",
+                "height": 770,
+                "width": 750,
+                "size": 86891,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1216214313,
+        "photoName": "Rekishi Dokuhon: July 1995 issue",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159926358,
+        "creationDate": 1159926358,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 7,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.54 - p.55",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/a8J4sKLteNCtK1St9ILp/name/n_a",
+                "height": 71,
+                "width": 96,
+                "size": 1859,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/a8J4sKLteNCtK1St9ILp/name/n_a",
+                "height": 353,
+                "width": 480,
+                "size": 35385,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/a8J4sKLteNCtK1St9ILp/name/n_a",
+                "height": 588,
+                "width": 800,
+                "size": 88448,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 2063996881,
+        "photoName": "Rekishi Dokuhon: July 1995 issue",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159926358,
+        "creationDate": 1159926358,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 8,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.56 - p.57",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/lrovix3uetd.xN1BXMmE/name/n_a",
+                "height": 70,
+                "width": 96,
+                "size": 1824,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/lrovix3uetd.xN1BXMmE/name/n_a",
+                "height": 348,
+                "width": 480,
+                "size": 34186,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/lrovix3uetd.xN1BXMmE/name/n_a",
+                "height": 580,
+                "width": 800,
+                "size": 86998,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 258219533,
+        "photoName": "Rekishi Dokuhon: July 1995 issue",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159926359,
+        "creationDate": 1159926359,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 9,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.58 - p.59",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/HAmqXlDuf9nA8F0.4kQ-/name/n_a",
+                "height": 70,
+                "width": 96,
+                "size": 1802,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/HAmqXlDuf9nA8F0.4kQ-/name/n_a",
+                "height": 348,
+                "width": 480,
+                "size": 43185,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/HAmqXlDuf9nA8F0.4kQ-/name/n_a",
+                "height": 580,
+                "width": 800,
+                "size": 107147,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 182455337,
+        "photoName": "Shinsengumi Dokuhon",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159927676,
+        "creationDate": 1159927676,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 10,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "The Ichimura Brothers, p14 - p.15",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/iFvP80HtctP9LfHwOXg-/name/n_a",
+                "height": 75,
+                "width": 96,
+                "size": 1435,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/iFvP80HtctP9LfHwOXg-/name/n_a",
+                "height": 373,
+                "width": 480,
+                "size": 28758,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/iFvP80HtctP9LfHwOXg-/name/n_a",
+                "height": 622,
+                "width": 800,
+                "size": 67741,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 474774094,
+        "photoName": "Shinsengumi Dokuhon",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159927677,
+        "creationDate": 1159927677,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 11,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "The Ichimura Brothers, p16 - p.17",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/ZqKnEc3ofdW_ZxeHjwE-/name/n_a",
+                "height": 75,
+                "width": 96,
+                "size": 1390,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/ZqKnEc3ofdW_ZxeHjwE-/name/n_a",
+                "height": 373,
+                "width": 480,
+                "size": 24579,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/ZqKnEc3ofdW_ZxeHjwE-/name/n_a",
+                "height": 622,
+                "width": 800,
+                "size": 59100,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1794398000,
+        "photoName": "Shinsengumi Dokuhon",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1159927678,
+        "creationDate": 1159927678,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 12,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "The Ichimura Brothers, p18 - p.19",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/rwnFqKvtfdgSNmhgDRwW/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1747,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/rwnFqKvtfdgSNmhgDRwW/name/n_a",
+                "height": 359,
+                "width": 480,
+                "size": 35202,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/rwnFqKvtfdgSNmhgDRwW/name/n_a",
+                "height": 599,
+                "width": 800,
+                "size": 80648,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1699043923,
+        "photoName": "floorplan of the Ikedaya",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1166864744,
+        "creationDate": 1166864744,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 13,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Shinsengumi Master&#39;s Bible, p.59",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/5aF0BmztfNguxOUufnBm/name/n_a",
+                "height": 96,
+                "width": 63,
+                "size": 1863,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/5aF0BmztfNguxOUufnBm/name/n_a",
+                "height": 480,
+                "width": 314,
+                "size": 32199,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/5aF0BmztfNguxOUufnBm/name/n_a",
+                "height": 800,
+                "width": 524,
+                "size": 80349,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 55414115,
+        "photoName": "floorplan",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1166865174,
+        "creationDate": 1166865174,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 14,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "floorplan of the Ikedaya",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/H3zcE83pf9VwCjp.cA--/name/n_a",
+                "height": 96,
+                "width": 78,
+                "size": 2372,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/H3zcE83pf9VwCjp.cA--/name/n_a",
+                "height": 480,
+                "width": 391,
+                "size": 31546,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/H3zcE83pf9VwCjp.cA--/name/n_a",
+                "height": 800,
+                "width": 651,
+                "size": 76131,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1946056499,
+        "photoId": 1531685111,
+        "photoName": "Rekishi Dokuhon December 1997 issue",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "sevenofwiki",
+        "modificationDate": 1171008611,
+        "creationDate": 1171008611,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 15,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "p.152 - p.153",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/dZGuHPftf9JVTq7ncOyv/name/n_a",
+                "height": 75,
+                "width": 96,
+                "size": 1567,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/dZGuHPftf9JVTq7ncOyv/name/n_a",
+                "height": 373,
+                "width": 480,
+                "size": 39317,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/dZGuHPftf9JVTq7ncOyv/name/n_a",
+                "height": 622,
+                "width": 800,
+                "size": 99974,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

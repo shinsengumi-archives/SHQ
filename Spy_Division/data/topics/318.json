@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Glad you made their membership commit seppuku phil!",
+            "postDate": "1086784977",
+            "msgId": 318,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhNzBraCttaWRpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 316,
+            "nextInTime": 319,
+            "topicId": 318,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "D****d spammers! I see you ve set the thing to moderate new member posts and made their membership commit seppuku. Let s hope that keeps them out of here! What",
+            "messageBody": "<div id=\"ygrps-yiv-2058749737\">D****d spammers! I see you&#39;ve set the thing to moderate new member <br/>\nposts and made their membership commit seppuku. Let&#39;s hope that keeps <br/>\nthem out of here! What gets me is their gall! &quot;You recieved this <br/>\nbecause you joined OUR group...&quot; What do you mean OUR group?! You&#39;re <br/>\nnot a part of this group! YOU unsubscribe. Jerks...<br/>\n<br/>\nSorry. I just had a rough night at work and that ticked me off to no <br/>\nend.<br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 310,
+    "nextTopicId": 319
+}

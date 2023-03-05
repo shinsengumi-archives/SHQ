@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 35628803,
+            "authorName": "sherlgirl",
+            "from": "sherlgirl &lt;sherlgirl@...&gt;",
+            "profile": "sherlinelee",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Peacemaker artist illustration book available",
+            "postDate": "1106368822",
+            "msgId": 2092,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMi4wLjE0LjAuMjAwNTAxMjEyMzM0NDQuMDIwOTAyMjBAcG9wLm1pbmRzcHJpbmcuY29tPg==",
+                "inReplyToHeader": "PGNzcm4wcitxamxAZUdyb3Vwcy5jb20+",
+                "referencesHeader": "PGNzcm4wcitxamxAZUdyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 2089,
+            "nextInTopic": 0,
+            "prevInTime": 2091,
+            "nextInTime": 2093,
+            "topicId": 2089,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For those who are fans of the Peacemaker Kurogane Series and Nanae Chrno s depiction of the Shinsengumi: Animebooks (based out of West Coast) has this new",
+            "messageBody": "<div id=\"ygrps-yiv-125344653\">For those who are fans of the Peacemaker Kurogane Series and Nanae Chrno&#39;s depiction of the Shinsengumi:<br/>\n<br/>\nAnimebooks (based out of West Coast) has this new artbook in stock. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.animebooks.com/nachilku.html\">http://www.animebooks.com/nachilku.html</a><br/>\nNanae Chrono Illustrations - Kuronoga<br/>\n<br/>\n<br/>\nNanae Chrono is the artist of the popular &quot;Peace Maker Kurogane&quot; series. This is the first illustrations book from this artist.<br/>\n<br/>\n84 pages. Measures 10.5&quot; X 10.2&quot;. Text in Japanese. <br/>\n<br/>\n<br/>\nSasuga (based out of East Coast) <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sasugabooks.com/product_info.php?products_id=33767\">http://www.sasugabooks.com/product_info.php?products_id=33767</a><br/>\n<br/>\n<br/>\nThis will certainly save some of you the cost of ordering from Amazon.jp .<br/>\n<br/>\nS <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "CORRECTION",
+            "postDate": "1106337627",
+            "msgId": 2089,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzcm4wcitxamxAZUdyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2092,
+            "prevInTime": 2088,
+            "nextInTime": 2090,
+            "topicId": 2089,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ugh I m such an idiot Sec s email is secretarytocapt3(at)hotmail.com Sorry",
+            "messageBody": "<div id=\"ygrps-yiv-875455290\">Ugh I&#39;m such an idiot Sec&#39;s email is secretarytocapt3(at)hotmail.com<br/>\n<br/>\nSorry</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2088,
+    "nextTopicId": 2094
+}

@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "V6rvKKTBl0-pvdLesBFR55ifmpNevsLrsSctx4gCOdKOr4ScULRips4k0toOPkAau1yWX9L14Q7mZsA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Poll results for SHQ",
+    "postDate": "1111310195",
+    "msgId": 2346,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMTEzMTAxOTUuMTMuMzg0NTEubTIxQHlhaG9vZ3JvdXBzLmNvbT4="
+    },
+    "prevInTopic": 2345,
+    "nextInTopic": 2347,
+    "prevInTime": 2345,
+    "nextInTime": 2347,
+    "topicId": 2344,
+    "numMessagesInTopic": 5,
+    "msgSnippet": "The following SHQ poll is now closed.  Here are the final results: POLL QUESTION: Do you feel that the SHQ is helping you to learn about the things you wanted",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 38452 invoked by uid 7800); 20 Mar 2005 09:16:35 -0000\r\nDate: 20 Mar 2005 09:16:35 -0000\r\nMessage-ID: &lt;1111310195.13.38451.m21@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: polls \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: Poll results for SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nThe following SHQ poll is now closed.  Here are the \nfinal results: \n\n\nPOLL QUESTION: Do you feel that the SHQ is helping you \nto learn about the things you wanted to \nknow? \n\nCHOICES AND RESULTS\n- Yes, 10 votes, 76.92%  \n- No, 3 votes, 23.08%  \n\n\n\nFor more information about this group, please visit \nhttp://groups.yahoo.com/group/SHQ \n\nFor help with Yahoo! Groups, please visit\nhttp://help.yahoo.com/help/us/groups/ \n\n \n\n\n\n"
+}

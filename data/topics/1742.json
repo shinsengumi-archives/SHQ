@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 187644690,
+            "authorName": "Kaori Akayama",
+            "from": "Kaori Akayama &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Other Shinsengumi anime/manga series?",
+            "postDate": "1098224878",
+            "msgId": 1748,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDE5MjIyNzU4LjkzOTEzLnFtYWlsQHdlYjUwMTAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNsMjZsOCsxMGs2OUBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 1742,
+            "nextInTopic": 0,
+            "prevInTime": 1747,
+            "nextInTime": 1750,
+            "topicId": 1742,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For manga, I only know of Kaze Hikaru , but I m not so sure on anime other than Rurouni Kenshin, and that s morely Ishin Shishi focused. ",
+            "messageBody": "<div id=\"ygrps-yiv-1144321203\">For manga, I only know of &quot;Kaze Hikaru&quot;, but I&#39;m not so sure on anime other than Rurouni Kenshin, and that&#39;s morely Ishin Shishi focused.<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a> <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Other Shinsengumi anime/manga series?",
+            "postDate": "1098161640",
+            "msgId": 1742,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsMjZsOCsxMGs2OUBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1748,
+            "prevInTime": 1741,
+            "nextInTime": 1743,
+            "topicId": 1742,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know if there will be any other anime or manga series with the Shinsengumi in it?",
+            "messageBody": "<div id=\"ygrps-yiv-398530600\">Does anyone know if there will be any other anime or manga series <br/>\nwith the Shinsengumi in it?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1747,
+    "nextTopicId": 1750
+}

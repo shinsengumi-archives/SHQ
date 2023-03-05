@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "tnamwong",
+            "from": "&quot;tnamwong&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SHQ.com Links Page",
+            "postDate": "1109200014",
+            "msgId": 2209,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2ajJhZSt0Z2x1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2208,
+            "nextInTime": 2210,
+            "topicId": 2209,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I updated http://www.shinsengumihq.com/links.htm the Japanese sites are very very very informative The English sites need some reformatting Thanks to MissB for",
+            "messageBody": "<div id=\"ygrps-yiv-2133762242\">I updated <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/links.htm\">http://www.shinsengumihq.com/links.htm</a><br/>\nthe Japanese sites are very very very informative<br/>\n<br/>\nThe English sites need some reformatting<br/>\n<br/>\nThanks to MissB for sharing the links from the RPG<br/>\n<br/>\n(I will be adding yet MORE links in a couple of days)<br/>\n<br/>\nI found it difficult to categorize English sites into &quot;fansites&quot; <br/>\nvs &quot;historical&quot; sites because almost all sites are a combination of <br/>\nboth</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2206,
+    "nextTopicId": 2213
+}

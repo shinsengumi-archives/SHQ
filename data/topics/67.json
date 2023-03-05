@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Some of you may want to sit down for this announcement...",
+            "postDate": "1079811260",
+            "msgId": 67,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjYwa0Z3a25rMjdYY1kwMDAwNWRjZkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 66,
+            "nextInTime": 68,
+            "topicId": 67,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ahem. Are all of you sitting down? OK. I have posted, under Locations , pictures of Okita s gravestone. AND... Are you _all_ sitting down? OK. In Artifacts ,",
+            "messageBody": "<div id=\"ygrps-yiv-1117164428\">Ahem.<br/>\n<br/>\nAre all of you sitting down?<br/>\n<br/>\nOK. I have posted, under &quot;Locations&quot;, pictures of Okita&#39;s gravestone. AND...<br/>\n<br/>\nAre you _all_ sitting down?<br/>\n<br/>\nOK. In &quot;Artifacts&quot;, I have posted pictures of Hijikata&#39;s armored headband <br/>\n(hachigane). At least, the metal part of it. It&#39;s got an inscription on the <br/>\ninside, and a sword scar on the outside.<br/>\n<br/>\nNice, huh?<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nMSN 8 with e-mail virus protection service: 2 months FREE* <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/virus\">http://join.msn.com/?page=features/virus</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 65,
+    "nextTopicId": 66
+}

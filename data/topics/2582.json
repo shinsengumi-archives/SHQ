@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 199432555,
+            "authorName": "weeweet88888",
+            "from": "&quot;weeweet88888&quot; &lt;weeweet88888@...&gt;",
+            "profile": "weeweet88888",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "hijikata toshizo + susumu",
+            "postDate": "1128960983",
+            "msgId": 2582,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpZTQ0bitvaDgwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2581,
+            "nextInTime": 2583,
+            "topicId": 2582,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, i am a new fan. Is there any sites of anime PMK gallery of hijikata,and susumu? or rather all characters? I have seen good screencaps of souji, however,",
+            "messageBody": "<div id=\"ygrps-yiv-866794523\">Hi, i am a new fan. Is there any sites of anime PMK gallery of <br/>\nhijikata,and susumu? or rather all characters?<br/>\n<br/>\nI have seen good screencaps of souji, however, fail to find hijikata <br/>\nfront view gallery or screencaps of anime. can send me links? Thank you <br/>\nvery much. <br/>\n<br/>\nand hi to all SHQ members.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2565,
+    "nextTopicId": 2578
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185811891,
+            "authorName": "Maria Charmed",
+            "from": "&quot;Maria Charmed&quot; &lt;amarie2003@...&gt;",
+            "profile": "mariacharned",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK shinsengumi - big favor",
+            "postDate": "1092549617",
+            "msgId": 1487,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmbXU1aCtuZGhtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1486,
+            "nextInTime": 1488,
+            "topicId": 1487,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi ^-^ I ve seen here message once, some movies uploded to streamload (Onmyoji, Sanjuro etc). So i wonder, if anybody could upload NHK episodes for few days",
+            "messageBody": "<div id=\"ygrps-yiv-1294245505\">Hi ^-^<br/>\nI&#39;ve seen here message once, some movies uploded to streamload <br/>\n(Onmyoji, Sanjuro etc). So i wonder, if anybody could upload NHK <br/>\nepisodes for few days too?  I&#39;m asking for only because bittorrent <br/>\ndoesn&#39;t work on my computer -.- But i&#39;ll have a chance to see them, <br/>\nif anybody help ^-^<br/>\nThanks in advance</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1473,
+    "nextTopicId": 1489
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Rurouni Kenshin Fanart Contest",
+            "postDate": "1115063503",
+            "msgId": 618,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ1NjBjZis0dnQ4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 617,
+            "nextInTime": 619,
+            "topicId": 618,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "complete with cool prizes!!!! http://hakubaikou.com/contests/2005/frames.html",
+            "messageBody": "<div id=\"ygrps-yiv-1122844538\">complete with cool prizes!!!!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hakubaikou.com/contests/2005/frames.html\">http://hakubaikou.com/contests/2005/frames.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 615,
+    "nextTopicId": 619
+}

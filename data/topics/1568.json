@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182822216,
+            "authorName": "ktamae@****",
+            "from": "ktamae@...",
+            "profile": "tamagot93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New series of Shinsengumi figures by Furuta",
+            "postDate": "1094567887",
+            "msgId": 1568,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0LjE2MDFhZWJmLjJlNmYyMWNmQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1567,
+            "nextInTime": 1569,
+            "topicId": 1568,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://homepage3.nifty.com/TeamWakamatsu/ They have produced already the series Ikedaya. ( see the photos below), and the new series will be available from",
+            "messageBody": "<div id=\"ygrps-yiv-1791548048\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://homepage3.nifty.com/TeamWakamatsu/\">http://homepage3.nifty.com/TeamWakamatsu/</a><br/>\n<br/>\nThey have produced already the series Ikedaya. ( see the photos below), and <br/>\nthe new series will be available from September 13 in Japan.<br/>\n<br/>\nThis time the series called,&quot;Shinsensgumi Senjoroku&quot;( Shinsengumi records of <br/>\nthe battles), including for exempla Serizawa Kamo at Yamatoya, Kondo Isami at <br/>\nIkedaya, Hjikata at the battle of Toba-Fushimi, Yamanami Keisuke at Iwaki <br/>\nMasuya, Hijikata Tosizo&#39;s last battle at Goryokaku, the last battle of Okita <br/>\netc...<br/>\n<br/>\nTama<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1559,
+    "nextTopicId": 1551
+}

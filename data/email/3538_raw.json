@@ -1,0 +1,31 @@
+{
+    "userId": 547746129,
+    "authorName": "",
+    "from": "&lt;bmc333@...&gt;",
+    "profile": "bmc333@####",
+    "replyTo": "LIST",
+    "senderId": "rlUKGqfWwdLoUmTcTi0tcJRPQGV6XZVv07rZbLw9LOkGYnuVKa7luz7Hv4O32QBDLjF3ObFP4sElTVYPwg",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Re: time line discrepancy - writing senior thesis need help!",
+    "postDate": "1395315582",
+    "msgId": 3538,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGxnZWsxdSt1MTJvZTRAWWFob29Hcm91cHMuY29tPg==",
+        "inReplyToHeader": "PGxnOGc4ZSsxa2pucmRzQFlhaG9vR3JvdXBzLmNvbT4=",
+        "referencesHeader": "PGxnOGc4ZSsxa2pucmRzQFlhaG9vR3JvdXBzLmNvbT4="
+    },
+    "prevInTopic": 3537,
+    "nextInTopic": 3539,
+    "prevInTime": 3537,
+    "nextInTime": 3539,
+    "topicId": 3537,
+    "numMessagesInTopic": 9,
+    "msgSnippet": "As far as I remember, Sakamoto was attacked at the Terada-ya at that time. He escaped with a terrible injury to his arm. I ll get back to you further once I",
+    "rawEmail": "Return-Path: &lt;bmc333@...&gt;\r\nReceived: (qmail 48039 invoked by uid 102); 20 Mar 2014 20:01:40 -0000\r\nReceived: from unknown (HELO mtaq3.grp.bf1.yahoo.com) (10.193.84.142)\n  by m11.grp.bf1.yahoo.com with SMTP; 20 Mar 2014 20:01:40 -0000\r\nReceived: (qmail 23555 invoked from network); 20 Mar 2014 20:01:40 -0000\r\nReceived: from unknown (HELO n8-vm0.bullet.mail.bf1.yahoo.com) (72.30.234.88)\n  by mtaq3.grp.bf1.yahoo.com with SMTP; 20 Mar 2014 20:01:40 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1395345700; bh=FrpmHjkxAn+ukQs8zFyMPRQwQBoMrbteINlTD07nV6w=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Date:X-Received:Message-ID:X-Mailer:MIME-Version:References:In-Reply-To:X-Yahoo-Newman-Property:Content-Type:X-Originating-IP:X-eGroups-Msg-Info:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:To:Sender:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-eGroups-Approved-By:X-eGroups-Auth; b=zU/IxcOVjLCqYG0P/fJ7Clqlc4c9sTpktvn9jiqvkDj4nGtBdhdhKHDo6euEkf2bxFTdI50aYukRDSHvIKuyXuENVIbXOXQD0C84H71MIlT9qnG8oxIgRh7SE7lRnsTKVfW8l8cwQWgVwZcImrcgEASlw7X70pEkrTJYQZuI7zw=\r\nReceived: from [66.196.81.176] by n8.bullet.mail.bf1.yahoo.com with NNFMP; 20 Mar 2014 20:01:40 -0000\r\nReceived: from [10.193.75.127] by t6.bullet.mail.bf1.yahoo.com with NNFMP; 20 Mar 2014 20:01:40 -0000\r\nReceived: from [127.0.0.1] by gapi5.grp.bf1.yahoo.com with NNFMP; 20 Mar 2014 20:01:40 -0000\r\nX-Sender: bmc333@...\r\nX-Apparently-To: SHQ@yahoogroups.com\r\nX-Received: (qmail 2993 invoked by uid 102); 20 Mar 2014 11:39:43 -0000\r\nX-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m16.grp.bf1.yahoo.com with SMTP; 20 Mar 2014 11:39:43 -0000\r\nX-Received: (qmail 24976 invoked from network); 20 Mar 2014 11:39:43 -0000\r\nX-Received: from unknown (HELO n3-vm1.bullet.mail.bf1.yahoo.com) (72.30.235.213)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 20 Mar 2014 11:39:43 -0000\r\nX-Received: from [66.196.81.178] by n3.bullet.mail.bf1.yahoo.com with NNFMP; 20 Mar 2014 11:39:42 -0000\r\nX-Received: from [10.193.242.243] by t8.bullet.mail.bf1.yahoo.com with NNFMP; 20 Mar 2014 11:39:42 -0000\r\nDate: 20 Mar 2014 04:39:42 -0700\r\nX-Received: from [127.0.0.1] by gapi2.grp.bf1.yahoo.com with NNFMP; 20 Mar 2014 11:39:42 -0000\r\nMessage-ID: &lt;lgek1u+u12oe4@...&gt;\r\nX-Mailer: Yahoo Groups Message Poster\r\nMIME-Version: 1.0\r\nReferences: &lt;lg8g8e+1kjnrds@...&gt;\r\nIn-Reply-To: &lt;lg8g8e+1kjnrds@...&gt;\r\nX-Yahoo-Newman-Property: groups-compose\r\nContent-Type: multipart/alternative; boundary=&quot;9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV&quot;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &lt;bmc333@...&gt;\r\nSubject: Re: time line discrepancy - writing senior thesis need help!\r\nX-Yahoo-Group-Post: member; u=547746129; y=DLwxlx5s3YkybXxFgYbdN8KIQKrNgm5-NCGcOljZbYDsVgzFE00ka3stqYdfYOk\r\nX-Yahoo-Profile: bmc333@...\r\nTo: SHQ@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: bsher213 via web; 20 Mar 2014 13:01:40 -0000\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/plain;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nDQpBcyBmYXIgYXMgSSByZW1lbWJlciwgU2FrYW1vdG8gd2FzIGF0dGFja2VkIGF0IHRoZSBUZXJh\r\nZGEteWEgYXQgdGhhdCB0aW1lLiBIZSBlc2NhcGVkIHdpdGggYSB0ZXJyaWJsZSBpbmp1cnkgdG8g\r\naGlzIGFybS4gSSdsbCBnZXQgYmFjayB0byB5b3UgZnVydGhlciBvbmNlIEkgZ2V0IGhvbWUgbGF0\r\nZXIgdGhpcyBhZnRlcm5vb24uIERvIHlvdSBuZWVkIGEgY2l0YXRpb24gZnJvbSBSb211bHVzJ3Mg\r\nYm9vaz8gTGlrZSB0aGUgcGFnZSBudW1iZXJzIGFuZCBzdWNoPyBJIGNhbiBmZXRjaCB0aGF0IGZv\r\nciB5b3UgdG9vLiBHb29kIGx1Y2sgd2l0aCB5b3VyIHRoZXNpcyE=\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV\r\nContent-Type:  text/html;  charset=utf-8 \r\nContent-Transfer-Encoding: base64\r\n\r\nPGJyIGNsYXNzPSJ5dWktY3Vyc29yIj5BcyBmYXIgYXMgSSByZW1lbWJlciwgU2FrYW1vdG8gd2Fz\r\nIGF0dGFja2VkIGF0IHRoZSBUZXJhZGEteWEgYXQgdGhhdCB0aW1lLiBIZSBlc2NhcGVkIHdpdGgg\r\nYSB0ZXJyaWJsZSBpbmp1cnkgdG8gaGlzIGFybS4gSSYjMzk7bGwgZ2V0IGJhY2sgdG8geW91IGZ1\r\ncnRoZXIgb25jZSBJIGdldCBob21lIGxhdGVyIHRoaXMgYWZ0ZXJub29uLiBEbyB5b3UgbmVlZCBh\r\nIGNpdGF0aW9uIGZyb20gUm9tdWx1cyYjMzk7cyBib29rPyBMaWtlIHRoZSBwYWdlIG51bWJlcnMg\r\nYW5kIHN1Y2g/IEkgY2FuIGZldGNoIHRoYXQgZm9yIHlvdSB0b28uIEdvb2QgbHVjayB3aXRoIHlv\r\ndXIgdGhlc2lzIQ==\r\n\r\n\r\n--9nlWnTS9ocNmxdhsK3FKVLWiM6a5jwOaA8HvrLV--\r\n\n"
+}

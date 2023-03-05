@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 2682610,
+            "authorName": "Serizawa Kamo",
+            "from": "Serizawa Kamo &lt;serizawakamo@...&gt;",
+            "profile": "serizawakamo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Miburo - Shinsetsu Shinsengumi",
+            "postDate": "1085879059",
+            "msgId": 906,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTMwMDEwNDE5Ljg4Ni5xbWFpbEB3ZWI2MDgwNi5tYWlsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDEwODU4NDQxMTAuODA5LjU1MzcwLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 905,
+            "nextInTime": 907,
+            "topicId": 906,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Uploaded in the Photos section some scans of a manga called Shinsetsu Shinsengumi (original title: Miburo ). This is the famous(?) manga featuring Serizawa",
+            "messageBody": "<div id=\"ygrps-yiv-2008219605\">Uploaded in the Photos section some scans of a manga<br/>\ncalled Shinsetsu Shinsengumi (original title:<br/>\n&quot;Miburo&quot;).<br/>\n<br/>\nThis is the famous(?) manga featuring Serizawa Kamo<br/>\n(no, not me :P), used by Watsuki Nobuhiro as a model<br/>\nfor Jin-eh. As you can see, it&#39;s fairly obvious. :D<br/>\n<br/>\nThe manga itself, although FAR from the real facts, is<br/>\nvery good, IMHO.<br/>\n<br/>\n<br/>\nSerizawa Kamo<br/>\n<br/>\n<br/>\n\t<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun.  Try the all-new Yahoo! Messenger.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://messenger.yahoo.com/\">http://messenger.yahoo.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 894,
+    "nextTopicId": 910
+}

@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 12287916,
+        "albumId": 1723210273,
+        "photoId": 427361929,
+        "photoName": "Spy pic",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "spiritus_saitou",
+        "modificationDate": 1079556030,
+        "creationDate": 1079556030,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/tn/xqVLi8HoeNYqj4PrtYI-/name/n_a",
+                "height": 96,
+                "width": 96,
+                "size": 3901,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/sn/xqVLi8HoeNYqj4PrtYI-/name/n_a",
+                "height": 360,
+                "width": 360,
+                "size": 34544,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/hr/xqVLi8HoeNYqj4PrtYI-/name/n_a",
+                "height": 360,
+                "width": 360,
+                "size": 34544,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

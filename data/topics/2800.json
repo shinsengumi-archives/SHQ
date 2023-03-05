@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 169037229,
+            "authorName": "rosewhite",
+            "from": "rosewhite &lt;rosewhite772000@...&gt;",
+            "profile": "rosewhite772000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Graphic Site",
+            "postDate": "1150141915",
+            "msgId": 2800,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwNjEyMTk1MTU1LjY3OTUyLnFtYWlsQHdlYjUyMDA5Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2799,
+            "nextInTime": 2801,
+            "topicId": 2800,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Note: forwarded message attached. __________________________________________________ Do You Yahoo!? Tired of spam?  Yahoo! Mail has the best spam protection",
+            "messageBody": "<div id=\"ygrps-yiv-1105779595\">Note: forwarded message attached.<br/>\n __________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a> <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2313,
+    "nextTopicId": 2799
+}

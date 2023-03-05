@@ -1,0 +1,125 @@
+{
+    "totalMsgInTopic": 4,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "GBattista (hajimenokizu)",
+            "from": "&quot;GBattista (hajimenokizu)&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Hello Again",
+            "postDate": "1101656075",
+            "msgId": 1870,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvY3I2YitnNzF2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNvOGd1NSsxMDkwakBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 1867,
+            "nextInTopic": 0,
+            "prevInTime": 1869,
+            "nextInTime": 1871,
+            "topicId": 1865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... to ... for ... Try sasugabooks.com they are based in the USA. But if you want something that is entirely english and Shinsengumi... I think you have to",
+            "messageBody": "<div id=\"ygrps-yiv-1688426744\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;darkmalik&quot; &lt;jcolburn1@c...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; I have only 10 minutes left till I have to get off so I would like <br/>\n </span></blockquote>to <br/>\n<blockquote><span title=\"ireply\"> &gt; ask if anyone knows where there are any books on the Shinsengumi <br/>\n </span></blockquote>for <br/>\n<blockquote><span title=\"ireply\"> &gt; sale, that are here in the U.S.?<br/>\n<br/>\n </span></blockquote>Try sasugabooks.com they are based in the USA. But if you want <br/>\nsomething that is entirely english and Shinsengumi... I think you <br/>\nhave to wait a month or two (or you can pre-order) Romulus <br/>\nHillsborough&#39;s Shinsengumi.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ] Hello Again",
+            "postDate": "1101514630",
+            "msgId": 1867,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYyNkE5ODVGM0VEQkQ1NjE2NDVFRDFDOUZCQjBAcGh4LmdibD4=",
+                "inReplyToHeader": "PGNvOGd1NitnbGxrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1866,
+            "nextInTopic": 1870,
+            "prevInTime": 1866,
+            "nextInTime": 1868,
+            "topicId": 1865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In the Kinokuniya bookstore in New York, in the Sanseido bookstore in Edgewater, New Jersey, and in the BookOff store in New York. And also in more locations",
+            "messageBody": "<div id=\"ygrps-yiv-1641380335\">In the Kinokuniya bookstore in New York, in the Sanseido bookstore in <br/>\nEdgewater, New Jersey, and in the BookOff store in New York. And also in <br/>\nmore locations on the West Coast.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello Again",
+            "postDate": "1101514502",
+            "msgId": 1865,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvOGd1NitnbGxrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1866,
+            "prevInTime": 1864,
+            "nextInTime": 1866,
+            "topicId": 1865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have only 10 minutes left till I have to get off so I would like to ask if anyone knows where there are any books on the Shinsengumi for sale, that are here",
+            "messageBody": "<div id=\"ygrps-yiv-1842105096\">I have only 10 minutes left till I have to get off so I would like to <br/>\nask if anyone knows where there are any books on the Shinsengumi for <br/>\nsale, that are here in the U.S.?</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello Again",
+            "postDate": "1101514501",
+            "msgId": 1866,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvOGd1NSsxMDkwakBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 1865,
+            "nextInTopic": 1867,
+            "prevInTime": 1865,
+            "nextInTime": 1867,
+            "topicId": 1865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have only 10 minutes left till I have to get off so I would like to ask if anyone knows where there are any books on the Shinsengumi for sale, that are here",
+            "messageBody": "<div id=\"ygrps-yiv-1556881891\">I have only 10 minutes left till I have to get off so I would like to <br/>\nask if anyone knows where there are any books on the Shinsengumi for <br/>\nsale, that are here in the U.S.?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1868,
+    "nextTopicId": 1873
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Happy New Year~!!",
+            "postDate": "1104638518",
+            "msgId": 2003,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUY3NkVCQTMyMDkwMUNERTk4RjNFNEU5RjlGMEBwaHguZ2JsPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2002,
+            "nextInTime": 2004,
+            "topicId": 2003,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Now Yahoo stopped bouncing my account messages, Happy New Year everyone. Momoiro usagi-san, Tama-san, Serizawa-san to minna: Akemashite omedetou gozaimasu.",
+            "messageBody": "<div id=\"ygrps-yiv-1123196031\">Now Yahoo stopped bouncing my account messages, Happy New Year everyone.<br/>\n<br/>\nMomoiro usagi-san, Tama-san, Serizawa-san to minna: Akemashite omedetou <br/>\ngozaimasu. Kotoshi mo yoroshiku onegai moushiagemasu.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2002,
+    "nextTopicId": 2004
+}

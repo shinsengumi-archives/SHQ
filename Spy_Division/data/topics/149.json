@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saitou Meets Sherlock",
+            "postDate": "1083182759",
+            "msgId": 149,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwOTAwRUE3LjgwMTA3MDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 148,
+            "nextInTime": 150,
+            "topicId": 149,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just wanted to say that for anyone who plans to do the SH Meets SH challenge I d be happy to try and answer any questions on Victorian England as I have a ton",
+            "messageBody": "<div id=\"ygrps-yiv-1631508139\">Just wanted to say that for anyone who plans to do the SH Meets SH <br/>\nchallenge I&#39;d be happy to try and answer any questions on Victorian <br/>\nEngland as I have a ton of books on the subject.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 115,
+    "nextTopicId": 177
+}

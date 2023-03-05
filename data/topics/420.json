@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Heads-up on samurai films on IFC tonight",
+            "postDate": "1082071585",
+            "msgId": 420,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1bjVuMSs1OXI4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 419,
+            "nextInTime": 421,
+            "topicId": 420,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Kevin let me know that IFC (Independent Film Channel) is showing three samurai films **tonight** in honor of Kill Bill Vol. 2 coming out.  (Which reminds me,",
+            "messageBody": "<div id=\"ygrps-yiv-362175282\">Kevin let me know that IFC (Independent Film Channel) is showing <br/>\nthree samurai films **tonight** in honor of &quot;Kill Bill Vol. 2&quot; coming <br/>\nout.  (Which reminds me, I need to get the SHQ calendar updated!)<br/>\n<br/>\n&quot;Kill&quot; (1968)<br/>\n&quot;Three Outlaw Samurai&quot; (1964)<br/>\n&quot;Samurai Spy&quot; (1965)<br/>\n<br/>\nNone are Shinsengumi-related, but I know many of us are still <br/>\ninterested in samurai films.  There&#39;s also a 15-minute &quot;making of&quot; <br/>\nfor the new movie.<br/>\n<br/>\nphil (whose head is still spinning over &quot;Cruel Story...&quot;)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 364,
+    "nextTopicId": 422
+}

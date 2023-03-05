@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Another picture",
+            "postDate": "1080002785",
+            "msgId": 34,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzbzFkMStsOHNqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 33,
+            "nextInTime": 35,
+            "topicId": 34,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have posted another picture under Single Originals , this time of Hiro in the alternate future from Jidai Monogatari -- or, as he is known in that",
+            "messageBody": "<div id=\"ygrps-yiv-114232832\">I have posted another picture under &quot;Single Originals&quot;, this time of <br/>\nHiro in the alternate future from &quot;Jidai Monogatari&quot;-- or, as he is <br/>\nknown in that universe-- Tokugawa Suruga no Kami Minamoto Hirotada <br/>\nAson, Edo Bakufu Nijuuni taishogun&quot; (translation: &quot;Tokugawa, <br/>\nProtector of Suruga, Minamoto Hirotada Ason, 22nd Tokugawa shogun&quot;). <br/>\nCheck it out!<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 33,
+    "nextTopicId": 35
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Yamakawa Siblings fanart",
+            "postDate": "1110340931",
+            "msgId": 559,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwbHNnMyttbWpsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 558,
+            "nextInTime": 560,
+            "topicId": 559,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "form Tokugawa Hirotada http://fukushima.cool.ne.jp/ykcome/3800.jpg http://fukushima.cool.ne.jp/ykcome/yamakawas0.jpg ",
+            "messageBody": "<div id=\"ygrps-yiv-1709770215\">form Tokugawa Hirotada<br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://fukushima.cool.ne.jp/ykcome/3800.jpg\">http://fukushima.cool.ne.jp/ykcome/3800.jpg</a><br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://fukushima.cool.ne.jp/ykcome/yamakawas0.jpg\">http://fukushima.cool.ne.jp/ykcome/yamakawas0.jpg</a><br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://fukushima.cool.ne.jp/ykcome/sutematsu.gif\">http://fukushima.cool.ne.jp/ykcome/sutematsu.gif</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://fukushima.cool.ne.jp/ykcome/yamakawake.gif\">http://fukushima.cool.ne.jp/ykcome/yamakawake.gif</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 554,
+    "nextTopicId": 561
+}

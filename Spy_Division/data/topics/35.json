@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mini-manga posted",
+            "postDate": "1080015961",
+            "msgId": 35,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzb2U4cCtoaGtpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 34,
+            "nextInTime": 36,
+            "topicId": 35,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Mini-manga posted under Manga Originals . These were the origins of Jidai Monogatari... --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1001923342\">Mini-manga posted under &quot;Manga Originals&quot;. These were the origins of<br/>\nJidai Monogatari...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 34,
+    "nextTopicId": 36
+}

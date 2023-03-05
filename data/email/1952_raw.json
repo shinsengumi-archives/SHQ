@@ -1,0 +1,31 @@
+{
+    "userId": 201511129,
+    "authorName": "Jime",
+    "from": "Jime &lt;aku_soku_zan_wolf_of_mibu@...&gt;",
+    "profile": "aku_soku_zan_wolf_of_mibu",
+    "replyTo": "LIST",
+    "senderId": "a99oQBrpXWALhlKALBkjjKQ8zwNj19lCvF43vlATvFyMr852JboKCt-rN2PlvKslX2rsOQ5z7MRtjkMf2dv0cnjl74q8HZFYi5OiFZhej78",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [SHQ] Saving the NHK flash animation 4 MAC",
+    "postDate": "1103676508",
+    "msgId": 1952,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDMxRDA1OEM4LTUzQjMtMTFEOS1BMDBGLTAwMDM5MzNGNzFCNEB5YWhvby5kZT4=",
+        "inReplyToHeader": "PDIwMDQxMjIxMjIyMTIyLjQ0ODc1LnFtYWlsQHdlYjUzNjAyLm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PDIwMDQxMjIxMjIyMTIyLjQ0ODc1LnFtYWlsQHdlYjUzNjAyLm1haWwueWFob28uY29tPg=="
+    },
+    "prevInTopic": 1951,
+    "nextInTopic": 0,
+    "prevInTime": 1951,
+    "nextInTime": 1953,
+    "topicId": 1950,
+    "numMessagesInTopic": 3,
+    "msgSnippet": "... Hi Yuki-san! you can use Internet Explorer and steal it out of the Temporary Items folder (Home folder) ~/Library/Preferences/Explorer.Temporary files -",
+    "rawEmail": "Return-Path: &lt;aku_soku_zan_wolf_of_mibu@...&gt;\r\nReceived: (qmail 36555 invoked from network); 22 Dec 2004 01:48:04 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m13.grp.scd.yahoo.com with QMQP; 22 Dec 2004 01:48:04 -0000\r\nReceived: from unknown (HELO n16a.bulk.scd.yahoo.com) (66.94.237.45)\n  by mta2.grp.scd.yahoo.com with SMTP; 22 Dec 2004 01:48:04 -0000\r\nReceived: from [66.218.66.59] by n16.bulk.scd.yahoo.com with NNFMP; 22 Dec 2004 01:47:54 -0000\r\nReceived: from [66.218.67.165] by mailer8.bulk.scd.yahoo.com with NNFMP; 22 Dec 2004 01:47:54 -0000\r\nX-Sender: aku_soku_zan_wolf_of_mibu@...\r\nX-Apparently-To: SHQ@yahoogroups.com\r\nReceived: (qmail 4671 invoked from network); 22 Dec 2004 00:48:49 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m6.grp.scd.yahoo.com with QMQP; 22 Dec 2004 00:48:49 -0000\r\nReceived: from unknown (HELO smtp002.mail.ukl.yahoo.com) (217.12.11.33)\n  by mta1.grp.scd.yahoo.com with SMTP; 22 Dec 2004 00:48:49 -0000\r\nReceived: from unknown (HELO ?192.168.0.2?) (aku?soku?zan?wolf?of?mibu@217.88.120.155 with plain)\n  by smtp002.mail.ukl.yahoo.com with SMTP; 22 Dec 2004 00:48:31 -0000\r\nMime-Version: 1.0 (Apple Message framework v619)\r\nIn-Reply-To: &lt;20041221222122.44875.qmail@...&gt;\r\nReferences: &lt;20041221222122.44875.qmail@...&gt;\r\nMessage-Id: &lt;31D058C8-53B3-11D9-A00F-0003933F71B4@...&gt;\r\nDate: Wed, 22 Dec 2004 01:48:28 +0100\r\nTo: SHQ@yahoogroups.com\r\nX-Mailer: Apple Mail (2.619)\r\nX-eGroups-Remote-IP: 217.12.11.33\r\nFrom: Jime &lt;aku_soku_zan_wolf_of_mibu@...&gt;\r\nSubject: Re: [SHQ] Saving the NHK flash animation 4 MAC\r\nX-Yahoo-Group-Post: member; u=201511129\r\nX-Yahoo-Profile: aku_soku_zan_wolf_of_mibu\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: bsher213 &lt;bsher213@...&gt; via web; 22 Dec 2004 01:47:50 -0000\r\nX-eGroups-Remote-IP: 66.94.237.45\r\n\r\n\n\nOn 21. Dez 2004, at 23:21 Uhr, Yuki-san wrote:\n&gt;  is there one for mac?\n&gt;  --- bsher213 &lt;bsher213@...&gt; wrote:\n\n\nHi Yuki-san!\n\nyou can use Internet Explorer and steal it out of the Temporary Items \nfolder\n(Home folder) ~/Library/Preferences/Explorer.Temporary files\n- wait til the animation has loaded, then do not close the explorer \nwindow! and go grab the swf file out of the folder. Most files open in \nSafari, IE or Quicktime Player.\nSome, however, do not -_-;\n\nBut there are ways to work around that.\n\nIn Safari, open page, let it load, go to the menu, &quot;view source&quot; and \nsearch for (find) &quot;.swf&quot;. Then paste the address into the browser \nwindow, err.. how to explain that... well, in place of whatever was \nbehind the last slash on the page...\nthen &quot;save as&quot;, and it should save it as swf file.\n\nOr send me the URL and I&#39;ll try to grab it for you\n\nRegards,\n\nSan\n\n\n~ Me, I&#39;m myself. whatever they say can&#39;t change that. ~\n\nLJ: hungry_worm\n\nHungry Worms tiny juicy apple grows here:\n        http://homepage.mac.com/santiphoenix/iblog/index.html\n\n\n[Non-text portions of this message have been removed]\n\n\n\n\n\n"
+}

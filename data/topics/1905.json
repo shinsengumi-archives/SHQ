@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 35628803,
+            "authorName": "sherlgirl@mindspring.com",
+            "from": "sherlgirl@...",
+            "profile": "sherlinelee",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "PMK Okita statuette, and Burai",
+            "postDate": "1102608796",
+            "msgId": 1905,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwOXRpcytlNGgyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1904,
+            "nextInTime": 1906,
+            "topicId": 1905,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "An alert fan notified me that Amazon Japan has upgraded or resolved whatever existing problems there were with the ordering system and that ordering is now",
+            "messageBody": "<div id=\"ygrps-yiv-774496994\">An alert fan notified me that Amazon Japan has upgraded or resolved <br/>\nwhatever existing problems there were with the ordering system and <br/>\nthat ordering is now much easier for us non-Japanese speaking folks.<br/>\n<br/>\nNew PMK figure for Okita Souji:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.amazon.co.jp/exec/obidos/ASIN/486127124X/qid=1102608224/ref\">http://www.amazon.co.jp/exec/obidos/ASIN/486127124X/qid=1102608224/ref</a><br/>\n=pd_ka_0/250-9652696-0601009<br/>\n<br/>\n<br/>\nAlso, I wanted to ask if people can list what attempts were made to <br/>\ntranslate Burai into English?  Working on a side project now with <br/>\nBurai so need to know.<br/>\n<br/>\nThanks<br/>\nS</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1888,
+    "nextTopicId": 1906
+}

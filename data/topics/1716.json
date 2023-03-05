@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "GYAH!  HOW did I manage to miss THAT one???",
+            "postDate": "1097292563",
+            "msgId": 1716,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDA5MDMyOTIzLjgwNjE4LnFtYWlsQHdlYjUxMTA2Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1715,
+            "nextInTime": 1717,
+            "topicId": 1716,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tonight, on TCM (Turner Classic Movies), their TCM import is Gate of Hell ( Jigokumon ) from 1953, directed by Kinugasa Teinosuke.  Major award-winner ---",
+            "messageBody": "<div id=\"ygrps-yiv-1729160854\">Tonight, on TCM (Turner Classic Movies), their TCM import is &quot;Gate of Hell&quot; (&quot;Jigokumon&quot;) from 1953, directed by Kinugasa Teinosuke.  Major award-winner --- Palme d&#39;Or (first Japanese film to win the Grand Prix) at Cannes and the Oscar for Best Foreign Film (honorary award since the category wasn&#39;t made official until the next year).  13th/14th century samurai love story.  (A note of interest, apparently the director was known for female roles (oyama?) in silent film.)  Shows TONIGHT at 2:30 AM EST, 11:30 PM PST.<br/>\n <br/>\nMea culpa!<br/>\nphil<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nvote.yahoo.com - Register online to vote today!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1714,
+    "nextTopicId": 1702
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "For the Male members of the group",
+            "postDate": "1083348951",
+            "msgId": 626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwOTI5N0Q3LjgwMjA3MDZAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 625,
+            "nextInTime": 627,
+            "topicId": 626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I made up a little Thank You page for the gentlemen of the list who have put up with our fundoshi fangirl moments and who have so kindly translated the",
+            "messageBody": "<div id=\"ygrps-yiv-630576318\">I made up a little &quot;Thank You&quot; page for the gentlemen of the list who <br/>\nhave put up with our fundoshi fangirl moments and who have so kindly <br/>\ntranslated the fish&#39;s babbling and shared their knowledge of all things <br/>\nShinsengumi<br/>\n<br/>\nGentlemen, this one&#39;s for you:<br/>\n<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/Thanks.htm\">http://www.shinsengumihq.com/Thanks.htm</a><br/>\n<br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 586,
+    "nextTopicId": 609
+}

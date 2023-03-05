@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 12287916,
+        "albumId": 502689233,
+        "photoId": 758967042,
+        "photoName": "A Katamori Christmas!",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "shimazuryu",
+        "modificationDate": 1104204099,
+        "creationDate": 1104204099,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/tn/8jc.I9Hrf9kPoa4pyM4-/name/n_a",
+                "height": 78,
+                "width": 96,
+                "size": 1737,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/sn/8jc.I9Hrf9kPoa4pyM4-/name/n_a",
+                "height": 388,
+                "width": 480,
+                "size": 19320,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/hr/8jc.I9Hrf9kPoa4pyM4-/name/n_a",
+                "height": 646,
+                "width": 800,
+                "size": 38859,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

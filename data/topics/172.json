@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Delay in posts sent to the lists",
+            "postDate": "1080260604",
+            "msgId": 172,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMzI2MDAyMzI0LjM4MDQ0LnFtYWlsQHdlYjIxNDAxLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 171,
+            "nextInTime": 173,
+            "topicId": 172,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Have no idea when you re going to see this, but I wanted to let everyone know, I ve sent in a query to yahoo asking why we are experiencing these increasingly",
+            "messageBody": "<div id=\"ygrps-yiv-1713509779\">Have no idea when you&#39;re going to see this, but I wanted to let everyone know, I&#39;ve sent in a query to yahoo asking why we are experiencing these increasingly frustrating delays in messages showing up both on the list sites and in personal mailboxes.  Sometimes they respond quickly, sometimes they don&#39;t.  Even if the situation clears up as soon as I&#39;ve sent this, I&#39;ve also asked them if there is someplace within yahoo where someone can check for service disruption updates.<br/>\n <br/>\nphil<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Finance Tax Center - File online. File on time.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 122,
+    "nextTopicId": 124
+}

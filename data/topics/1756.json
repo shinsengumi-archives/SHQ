@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Interesting T-shirt",
+            "postDate": "1098462862",
+            "msgId": 1757,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNzkzNjhFLjEwODA0MDVAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNsYjZpaSszcWk1QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNsYjZpaSszcWk1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1756,
+            "nextInTopic": 0,
+            "prevInTime": 1756,
+            "nextInTime": 1758,
+            "topicId": 1756,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ah yes I saw that some time ago --I WANT one! It should probably say on the back -- Oh wait I AM a barbarian, damn.... ... -- Barbara Sheridan ",
+            "messageBody": "<div id=\"ygrps-yiv-359180775\">Ah yes I saw that some time ago --I WANT one! It should probably say on <br/>\nthe back --&quot;Oh wait I AM a barbarian, damn....&quot;<br/>\n<br/>\nunsafesects wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;This t-shirt from J-list may amuse some:<br/>\n&gt;<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jbox.com/PRODUCT/SHIRT-BLACKSHIP/TEXT/SHRT/TSHR/\">http://www.jbox.com/PRODUCT/SHIRT-BLACKSHIP/TEXT/SHRT/TSHR/</a><br/>\n&gt;<br/>\n&gt;Yes.<br/>\n&gt;<br/>\n&gt;A &quot;sonno joi&quot; t-shirt.<br/>\n&gt;<br/>\n&gt;Angrybee<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n<br/>\n </span></blockquote>-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 438216,
+            "authorName": "unsafesects",
+            "from": "&quot;unsafesects&quot; &lt;mindglue@...&gt;",
+            "profile": "unsafesects",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Interesting T-shirt",
+            "postDate": "1098456466",
+            "msgId": 1756,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsYjZpaSszcWk1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1757,
+            "prevInTime": 1755,
+            "nextInTime": 1757,
+            "topicId": 1756,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This t-shirt from J-list may amuse some: http://www.jbox.com/PRODUCT/SHIRT-BLACKSHIP/TEXT/SHRT/TSHR/ Yes. A sonno joi t-shirt. Angrybee",
+            "messageBody": "<div id=\"ygrps-yiv-173739682\">This t-shirt from J-list may amuse some:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jbox.com/PRODUCT/SHIRT-BLACKSHIP/TEXT/SHRT/TSHR/\">http://www.jbox.com/PRODUCT/SHIRT-BLACKSHIP/TEXT/SHRT/TSHR/</a><br/>\n<br/>\nYes.<br/>\n<br/>\nA &quot;sonno joi&quot; t-shirt.<br/>\n<br/>\nAngrybee</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1755,
+    "nextTopicId": 1683
+}

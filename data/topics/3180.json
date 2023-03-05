@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 289509690,
+            "authorName": "lokieternal1",
+            "from": "&quot;lokieternal1&quot; &lt;lokieternal1@...&gt;",
+            "profile": "lokieternal1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "translation?",
+            "postDate": "1172541393",
+            "msgId": 3180,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzMDM0aCtmMGJyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3179,
+            "nextInTime": 3181,
+            "topicId": 3180,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a picture whit japanese writing on it, I was wondering if any one could translate it for me?",
+            "messageBody": "<div id=\"ygrps-yiv-1858708897\">I have a picture whit japanese writing on it, I was wondering if any<br/>\none could translate it for me?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3179,
+    "nextTopicId": 3181
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nagakura made a handbag?????",
+            "postDate": "1110055910",
+            "msgId": 2234,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwZDY1Nis3aGtyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2233,
+            "nextInTime": 2235,
+            "topicId": 2234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://8614.teacup.com/hijikata/bbs2 the poster provided information on Nagakura and how he made a bag/handbag/knapsack of some sort... now 3 internet",
+            "messageBody": "<div id=\"ygrps-yiv-144510755\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://8614.teacup.com/hijikata/bbs2\">http://8614.teacup.com/hijikata/bbs2</a><br/>\nthe poster provided information on Nagakura and how he made a <br/>\nbag/handbag/knapsack of some sort...<br/>\n<br/>\nnow 3 internet translators translated that bag as a &quot;louis vuitton&quot; <br/>\nbag (stop laughing)....these online translators are HILARIOUS<br/>\n<br/>\nok what I do know is that the poster is interested in historical <br/>\nNagakura, and he/she even built a site for him <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.jp/chivalrous_samurai/index.html\">http://www.geocities.jp/chivalrous_samurai/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2203,
+    "nextTopicId": 2219
+}

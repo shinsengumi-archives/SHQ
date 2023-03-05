@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Apologies",
+            "postDate": "1112204159",
+            "msgId": 578,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyZW8xditsMTZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 577,
+            "nextInTime": 579,
+            "topicId": 578,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry for the sudden rush of answers to the question.  ^_^  (And, stupid me WOULD forget that OOC is used in fanfic, too.) First YIM started acting up on me",
+            "messageBody": "<div id=\"ygrps-yiv-1900730220\">Sorry for the sudden rush of answers to the question.  ^_^  (And, <br/>\nstupid me WOULD forget that OOC is used in fanfic, too.)<br/>\n<br/>\nFirst YIM started acting up on me and crashing my computer.  Now I&#39;m <br/>\nhaving trouble with mail.  &gt;_&lt;  The more they change things, the more <br/>\nmy computer is not digesting it well.  (old age)<br/>\n<br/>\nAgain, sorry about that.<br/>\n<br/>\nphil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 572,
+    "nextTopicId": 579
+}

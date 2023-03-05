@@ -1,0 +1,61 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Calling all Moviemakers",
+            "postDate": "1183468511",
+            "msgId": 845,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY2ZGk0ditoNGRrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 844,
+            "nextInTime": 846,
+            "topicId": 845,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I think I need to devote 2-4 days of my time to just fixing some things and the new SHQ will launch (a test site is currently being hosted on a",
+            "messageBody": "<div id=\"ygrps-yiv-924756000\">Hello,<br/>\nI think I need to devote 2-4 days of my time to just fixing some <br/>\nthings and the new SHQ will launch (a test site is currently being <br/>\nhosted on a different server).  But I just need to set aside those <br/>\ndays either for the 4th of July or push it to next week because I <br/>\nhave to work and makeup hours due to the midweek holiday.  But in any <br/>\ncase the site will unfortunately look different from the artistic <br/>\ndesign we have now...but it&#39;s the only and most fastest solution we <br/>\ncan think of.<br/>\n<br/>\nI wanted the new look to feature a nice film on the front page to <br/>\nmake the site look lively.  Rather than an animated music video like <br/>\nthe dozens of those already on youtube I was wondering if any fan <br/>\nwould like to make their own unique creation to submit.  The film <br/>\nwould link to the Makoto Film Dojo where we store alot of multimedia <br/>\nmaterial.<br/>\n<br/>\nAn independent animated or live action film doesn&#39;t have to be 5-10 <br/>\nminutes long---it can be as little as 1 minute long and need not have <br/>\nan extensive epic story.  It can be an expression of a poem or <br/>\nfeeling.  You can take just a paragraph out of history and try to <br/>\nvisually capture it.<br/>\n<br/>\nOr illustrate your own fanfic or songfic and scan the panels and <br/>\ncreate a film (this is like drawing your own 1-2 page manga and then <br/>\nscanning it in pieces)<br/>\n<br/>\nif you are a photographer you can take pics of thematic centerpieces <br/>\nand work them into drawings or combine with music<br/>\n<br/>\nin other words you don&#39;t need a budget or even a cast to create a <br/>\ngood film...just your imagination! (^_^)<br/>\n<br/>\nMany people are afraid they need a fancy camera, studio or high end <br/>\ncomputers so I&#39;d like to dispel that notion by listing some vids <br/>\nbelow which use a variety of techniques to create original movies.<br/>\n<br/>\n[none of the vids have anything to do with Japan...but I am listing <br/>\nthem to demonstrate that low budget can still be artistically <br/>\neffective---you will notice that some vids utilize minimal movement, <br/>\nbut their goal is to be original]<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=YhgMvirwzOU\">http://www.youtube.com/watch?v=YhgMvirwzOU</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=U8WdI47rvdo\">http://www.youtube.com/watch?v=U8WdI47rvdo</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=RP4vepofWeg\">http://www.youtube.com/watch?v=RP4vepofWeg</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=sW6wWSCBCf0\">http://www.youtube.com/watch?v=sW6wWSCBCf0</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=fa0CJK8iQzE\">http://www.youtube.com/watch?v=fa0CJK8iQzE</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=Zi_760pnGtg\">http://www.youtube.com/watch?v=Zi_760pnGtg</a><br/>\n<br/>\nAnyways this is almost the middle of summer already and anyone who <br/>\nwould like to put in some time for art may want to give this project <br/>\na try...what I can guarantee is that when it&#39;s on SHQ...someone or <br/>\nrather alot of people will see it and it makes the work very <br/>\ngratifying.  <br/>\n<br/>\nYou can also upload the film to youtube and email us the link so we <br/>\ncan embed it on the site...or give us the original file to host as a <br/>\nbackup.</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/sW6wWSCBCf0?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/U8WdI47rvdo?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/fa0CJK8iQzE?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/YhgMvirwzOU?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/RP4vepofWeg?wmode=opaque",
+                    "type": "VIDEO"
+                },
+                {
+                    "url": "http://www.youtube.com/embed/Zi_760pnGtg?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 843,
+    "nextTopicId": 846
+}

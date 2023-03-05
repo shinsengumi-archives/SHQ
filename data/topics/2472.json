@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 224091597,
+            "authorName": "guuchan",
+            "from": "guuchan &lt;jungleguuchan@...&gt;",
+            "profile": "onigiribeanie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kido Shinsengumi Moeyo Ken TV",
+            "postDate": "1121008966",
+            "msgId": 2472,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMi4wLjE0LjAuMjAwNTA3MTAxMTIxMDQuMDIxMDA1NDBAcG9wLmVhcnRobGluay5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2471,
+            "nextInTime": 2473,
+            "topicId": 2472,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "FYI: Fansubbing appears to have started on the TV series of this game/OVA series by AnimeBT (http://www.anime-bt.com/index1.php). S red-bird.org",
+            "messageBody": "<div id=\"ygrps-yiv-186606922\">FYI:<br/>\n<br/>\nFansubbing appears to have started on the TV series of this game/OVA series by AnimeBT (<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.anime-bt.com/index1.php)\">http://www.anime-bt.com/index1.php)</a>.<br/>\n<br/>\nS<br/>\nred-bird.org</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2471,
+    "nextTopicId": 2473
+}

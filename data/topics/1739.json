@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Matsunosuke SAkurai (Samurai of Aizu in California)",
+            "postDate": "1098143418",
+            "msgId": 1739,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsMWtycSs1a25pQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1738,
+            "nextInTime": 1740,
+            "topicId": 1739,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Matsunosuke Sakurai was a character in the book The Far Side of the Moon by Jonathan Pearce ISBN 0741409100.  Matsunosuke SAkurai is also a historical",
+            "messageBody": "<div id=\"ygrps-yiv-1646332663\">Matsunosuke Sakurai was a character in the book &quot;The Far Side of the<br/>\nMoon&quot; by Jonathan Pearce ISBN 0741409100.  Matsunosuke SAkurai is also<br/>\na historical figure...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Matsunosuke.jpg\">http://1happyturtle.com/makoto/Matsunosuke.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1733,
+    "nextTopicId": 1740
+}

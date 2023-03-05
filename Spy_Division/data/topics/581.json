@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Outstanding Fanart Gallery",
+            "postDate": "1112406017",
+            "msgId": 581,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQya3Q2MSszOHBsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 580,
+            "nextInTime": 582,
+            "topicId": 581,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Look for the SAitou Collection as well... http://okiso.huming.com/sinsengumi/gllery.htm Originally contributed by Jiaxin at http://www.shinsengumimb.com",
+            "messageBody": "<div id=\"ygrps-yiv-383340290\">Look for the SAitou Collection as well...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://okiso.huming.com/sinsengumi/gllery.htm\">http://okiso.huming.com/sinsengumi/gllery.htm</a><br/>\n<br/>\nOriginally contributed by &quot;Jiaxin&quot; at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com\">http://www.shinsengumimb.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 579,
+    "nextTopicId": 582
+}

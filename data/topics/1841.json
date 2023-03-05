@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Memorial + Song",
+            "postDate": "1100703966",
+            "msgId": 1842,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuZnBjdStob29sQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNuZnA4citvbjh0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1841,
+            "nextInTopic": 0,
+            "prevInTime": 1841,
+            "nextInTime": 1843,
+            "topicId": 1841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "(sorry) I meant SHINSENGUMI **ARTIFACTS*** not ARTICLES",
+            "messageBody": "<div id=\"ygrps-yiv-914324816\">(sorry) I meant SHINSENGUMI **ARTIFACTS*** not ARTICLES<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; and uploaded it to &quot;PHOTOS&quot; &gt;&gt;&gt; SHINSENGUMI ARTICLES. </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Memorial + Song",
+            "postDate": "1100703835",
+            "msgId": 1841,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuZnA4citvbjh0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1842,
+            "prevInTime": 1840,
+            "nextInTime": 1842,
+            "topicId": 1841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I uploaded a photo, from Tama, of a memorial pillar at Mibu Temple it turns out that the engraved words on the pillar are from the song translated by Serizawa",
+            "messageBody": "<div id=\"ygrps-yiv-1551863813\">I uploaded a photo, from Tama, of a memorial pillar at Mibu Temple <br/>\nit turns out that the engraved words on the pillar are from the song <br/>\ntranslated by Serizawa Kamo in message #1271!<br/>\n<br/>\nI placed the translation and picture of the pillar onto one image <br/>\nand uploaded it to &quot;PHOTOS&quot; &gt;&gt;&gt; SHINSENGUMI ARTICLES.<br/>\n<br/>\nIf you are new and haven&#39;t heard the song yet please visit <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.streamload.com/green_2\">http://www.streamload.com/green_2</a><br/>\nclick on &quot;shinsengumi&quot;<br/>\nthen go to the &quot;Shinsengumi, Articles, Screencaps, TMPD, <br/>\nSeinan/Satsuma, Music Vids, Scanlations&quot; folder<br/>\nand search for &quot;Aa Shinsengumi&quot; MP3<br/>\n[password] miburo<br/>\n<br/>\nwouldn&#39;t it be neat of some of the song lyrics are remixed into a <br/>\nmore modern format? ^_^  (I actually like it the way it is too)<br/>\n<br/>\nAgain everyone can thank Tama and Serizawa Kamo for their <br/>\ncontributions!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1826,
+    "nextTopicId": 1534
+}

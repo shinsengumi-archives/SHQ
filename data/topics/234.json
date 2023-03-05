@@ -1,0 +1,157 @@
+{
+    "totalMsgInTopic": 5,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengummies...?",
+            "postDate": "1080705553",
+            "msgId": 244,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZGZtaCs0MG5vQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM0ZGUyaytrYWl0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 242,
+            "nextInTopic": 0,
+            "prevInTime": 243,
+            "nextInTime": 245,
+            "topicId": 234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Suzuki means Sacred tree or something akin to that. I was unsure what to choose, so I thought of the grass around the tree...as well as the Bertie Bott s",
+            "messageBody": "<div id=\"ygrps-yiv-607243334\"><blockquote><span title=\"ireply\">&gt; Grass???  Am I missing something you&#39;re alluding to?<br/>\n<br/>\n </span></blockquote>Suzuki means &quot;Sacred tree&quot; or something akin to that. I was unsure<br/>\nwhat to choose, so I thought of the grass around the tree...as well as<br/>\nthe Bertie Bott&#39;s Jelly Bean that tastes like grass.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Re: Shinsengummies...?",
+            "postDate": "1080705001",
+            "msgId": 242,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNkEzRkU5LjcwNzAwQGJlbGxhdGxhbnRpYy5uZXQ+",
+                "inReplyToHeader": "PGM0ZGV2NCs3cTE4QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGM0ZGV2NCs3cTE4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 241,
+            "nextInTopic": 244,
+            "prevInTime": 241,
+            "nextInTime": 243,
+            "topicId": 234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Sure Maro shouldn t be tuuti-frutti?????? -- Barbara Sheridan http://www.barbarasheridan.net",
+            "messageBody": "<div id=\"ygrps-yiv-2015034713\">Tiffany wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Maro...cinnamon like FIRE hot Red Tamales<br/>\n&gt;Sano...chocolate/cocoa :)<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Sure Maro shouldn&#39;t be tuuti-frutti??????<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengummies...?",
+            "postDate": "1080704804",
+            "msgId": 241,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZGV2NCs3cTE4QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM0ZGUyaytrYWl0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 239,
+            "nextInTopic": 242,
+            "prevInTime": 240,
+            "nextInTime": 242,
+            "topicId": 234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Maro...cinnamon like FIRE hot Red Tamales Sano...chocolate/cocoa :)",
+            "messageBody": "<div id=\"ygrps-yiv-1114017187\">Maro...cinnamon like FIRE hot Red Tamales<br/>\nSano...chocolate/cocoa :)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengummies...?",
+            "postDate": "1080703892",
+            "msgId": 239,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZGUyaytrYWl0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM0ZDlrOCs1NjMwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 234,
+            "nextInTopic": 241,
+            "prevInTime": 238,
+            "nextInTime": 240,
+            "topicId": 234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Grass???  Am I missing something you re alluding to?  (If it s in PMK, I m only up to episode 16). No, Suzuki should be firecracker red with a cinnamon",
+            "messageBody": "<div id=\"ygrps-yiv-952175617\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Shimazu Masayoshi&quot; &lt;patriot014@h...&gt; <br/>\nwrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt;Suzuki--Grass flavor &lt;&lt;<br/>\n<br/>\n </span></blockquote>Grass???  Am I missing something you&#39;re alluding to?  (If it&#39;s in <br/>\nPMK, I&#39;m only up to episode 16).<br/>\n<br/>\nNo, Suzuki should be firecracker red with a cinnamon red-hot <br/>\nflavor... maybe a white coconut-flavored spot in the center... in <br/>\nhonor of him rebelling against the Shinsengumi and joining up with <br/>\nthe Sekihoutai.  :-D<br/>\n<br/>\nphil (gotta stick up for my Sekihoutai guys... grass... hn... how did <br/>\nhe come up with grass?)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengummies...?",
+            "postDate": "1080699336",
+            "msgId": 234,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZDlrOCs1NjMwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 239,
+            "prevInTime": 233,
+            "nextInTime": 235,
+            "topicId": 234,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This actually reminds me of the Bertie Bott s All-Flavored Beans , from  Harry Potter. This being said...Kondou, Hijikata, and the 10 captains... --M. ",
+            "messageBody": "<div id=\"ygrps-yiv-1008180336\">This actually reminds me of the &quot;Bertie Bott&#39;s All-Flavored Beans&quot;,<br/>\nfrom  Harry Potter. This being said...Kondou, Hijikata, and the 10<br/>\ncaptains...<br/>\n<br/>\n--M.<br/>\n================================<br/>\n<br/>\nKondou-- Multiple-daifuku (Japanese sweets) flavor-- since he liked to<br/>\nstuff several sweets into his mouth at a time.<br/>\n<br/>\nHijikata-- The flavor of the ultra ULTRA sour version of the WarHeads<br/>\ncandy-- the one that makes your mouth want to explode.<br/>\n<br/>\nOkita-- Cherry blossom flavor-- very light, and will vanish before you<br/>\nknow it.<br/>\n<br/>\nNagakura-- Stomped vegetable flavor<br/>\n<br/>\nSaitou-- Soba/ramen flavor (brought to you by Maruchan...lol)<br/>\n<br/>\nMatsubara-- Sweat flavor (since he was so big and trained so much)<br/>\n<br/>\nTakeda-- Rainbow Sherbet flavor (nudge nudge)...<br/>\n<br/>\nInoue-- Moldy flavor<br/>\n<br/>\nTani-- Watery, with a light lime flavor<br/>\n<br/>\nToudou-- Tangerine flavor<br/>\n<br/>\nSuzuki--Grass flavor<br/>\n<br/>\nHarada-- Ayu-nee&#39;s extra-special large adzuki rice flavor</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 220,
+    "nextTopicId": 223
+}

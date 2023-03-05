@@ -1,0 +1,29 @@
+{
+    "userId": 108589066,
+    "authorName": "Shimazu Masayoshi",
+    "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+    "profile": "shimazuryu",
+    "replyTo": "LIST",
+    "senderId": "zSt9zC3fagwAW1yq5-zK9500EW8d0agmPpdpxwy03fH1TkX9Ae3YNcLw63ZzSUWoNJPR1LgASbq_hKBv9PompJPRWp8q_E13Xx3QWWFBoX1N38g",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Test",
+    "postDate": "1080182434",
+    "msgId": 60,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGMzdGdyMis3dTdiQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 59,
+    "nextInTime": 61,
+    "topicId": 60,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Since 2 of my messages in a row have not appeared, I just want to see if Yahoo will accept a short post... --M.",
+    "rawEmail": "Return-Path: &lt;patriot014@...&gt;\r\nX-Sender: patriot014@...\r\nX-Apparently-To: SHQ_Spy_Division@yahoogroups.com\r\nReceived: (qmail 13558 invoked from network); 25 Mar 2004 02:40:55 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m16.grp.scd.yahoo.com with QMQP; 25 Mar 2004 02:40:55 -0000\r\nReceived: from unknown (HELO n21.grp.scd.yahoo.com) (66.218.66.77)\n  by mta4.grp.scd.yahoo.com with SMTP; 25 Mar 2004 02:40:55 -0000\r\nReceived: from [66.218.67.173] by n21.grp.scd.yahoo.com with NNFMP; 25 Mar 2004 02:40:36 -0000\r\nDate: Thu, 25 Mar 2004 02:40:34 -0000\r\nTo: SHQ_Spy_Division@yahoogroups.com\r\nMessage-ID: &lt;c3tgr2+7u7b@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 113\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.77\r\nFrom: &quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;\r\nSubject: Test\r\nX-Yahoo-Group-Post: member; u=108589066\r\nX-Yahoo-Profile: shimazuryu\r\n\r\nSince 2 of my messages in a row have not appeared, I just want to see\nif Yahoo will accept a short post...\n\n--M.\n\n\n"
+}

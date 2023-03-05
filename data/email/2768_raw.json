@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "9EM5lF035qlPsl-QMpO9JwWqzBDhWoESgPN-rM_h1Pqv3B2kp_DCYYMrYvI9U60Q7UOxOkPGkQO0n3E",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1146101892",
+    "msgId": 2768,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExNDYxMDE4OTIuNzQ5LjU1MDY0LncxMDhAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 2542,
+    "nextInTopic": 3400,
+    "prevInTime": 2767,
+    "nextInTime": 2769,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Kondou",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 27060 invoked from network); 27 Apr 2006 01:38:14 -0000\r\nReceived: from unknown (66.218.67.36)\n  by m28.grp.scd.yahoo.com with QMQP; 27 Apr 2006 01:38:14 -0000\r\nReceived: from unknown (HELO n19c.bullet.sc5.yahoo.com) (66.163.187.210)\n  by mta10.grp.scd.yahoo.com with SMTP; 27 Apr 2006 01:38:14 -0000\r\nReceived: from [66.163.187.120] by n19.bullet.sc5.yahoo.com with NNFMP; 27 Apr 2006 01:38:12 -0000\r\nReceived: from [66.218.66.58] by t1.bullet.sc5.yahoo.com with NNFMP; 27 Apr 2006 01:38:12 -0000\r\nReceived: from [66.218.66.75] by t7.bullet.scd.yahoo.com with NNFMP; 27 Apr 2006 01:38:12 -0000\r\nDate: 27 Apr 2006 01:38:12 -0000\r\nMessage-ID: &lt;1146101892.749.55064.w108@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Kondou execution.JPG \n  Uploaded by : shimazuryu &lt;patriot014@...&gt; \n  Description : Contemporary Newspaper Article on Kondou&#39;s Execution, from &quot;Koko Shinbun&quot; newspaper \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/Kondou%20execution.JPG \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nshimazuryu &lt;patriot014@...&gt;\n \n\n\n\n\n\n\n\n"
+}

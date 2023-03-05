@@ -1,0 +1,29 @@
+{
+    "userId": 173227807,
+    "authorName": "spiritus_saitou",
+    "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+    "profile": "spiritus_saitou",
+    "replyTo": "LIST",
+    "senderId": "2nu1iFC42_60PsT0aWtpl880MW5e1mR6ywlFS_ir_YesQb_ZpOTEmD-kv01wDAHM1v6fAeWqzL8mEZ_qIvNA4gVRU9tFLyIVM3u75RQnDsIhXiJq",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Test message... please ignore",
+    "postDate": "1079796377",
+    "msgId": 30,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGMzaG5xcCthbzAzQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 29,
+    "nextInTime": 31,
+    "topicId": 30,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Just tweaking things...",
+    "rawEmail": "Return-Path: &lt;spiritus_saitou@...&gt;\r\nX-Sender: spiritus_saitou@...\r\nX-Apparently-To: SHQ_Spy_Division@yahoogroups.com\r\nReceived: (qmail 75620 invoked from network); 20 Mar 2004 15:26:18 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m13.grp.scd.yahoo.com with QMQP; 20 Mar 2004 15:26:18 -0000\r\nReceived: from unknown (HELO n36.grp.scd.yahoo.com) (66.218.66.104)\n  by mta5.grp.scd.yahoo.com with SMTP; 20 Mar 2004 15:26:18 -0000\r\nReceived: from [66.218.67.144] by n36.grp.scd.yahoo.com with NNFMP; 20 Mar 2004 15:26:18 -0000\r\nDate: Sat, 20 Mar 2004 15:26:17 -0000\r\nTo: SHQ_Spy_Division@yahoogroups.com\r\nMessage-ID: &lt;c3hnqp+ao03@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 24\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.104\r\nFrom: &quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;\r\nSubject: Test message... please ignore\r\nX-Yahoo-Group-Post: member; u=173227807\r\nX-Yahoo-Profile: spiritus_saitou\r\n\r\nJust tweaking things...\n\n\n"
+}

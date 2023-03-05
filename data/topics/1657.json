@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Shinsengumi Newsletter?",
+            "postDate": "1096293497",
+            "msgId": 1657,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqOTY5cCtqN2U5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1656,
+            "nextInTime": 1658,
+            "topicId": 1657,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If anyone understands how this page works please let me know I would like to sign up for the newsletter but I can t figure out how ",
+            "messageBody": "<div id=\"ygrps-yiv-466713985\">If anyone understands how this page works please let me know I would<br/>\nlike to sign up for the newsletter but I can&#39;t figure out how<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hino-shinsengumi.com/mm/\">http://www.hino-shinsengumi.com/mm/</a><br/>\nif anyone finds other newsletters in Japanese please contact me...I am<br/>\nactually willing to sit there and read &quot;translations&quot; by nifty...it<br/>\nseems that the symposium at Aizu has resulted in alot of information <br/>\nsecretarytocapt3 (a) hotmail.com<br/>\nAIM badgerturtle</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1652,
+    "nextTopicId": 1659
+}

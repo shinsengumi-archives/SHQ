@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: New Chapter in the Online Gojou (Mature)",
+            "postDate": "1207001489",
+            "msgId": 883,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZzcm5paCtzNDhtQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGZzb2JvbCtiMGxjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 882,
+            "nextInTopic": 0,
+            "prevInTime": 882,
+            "nextInTime": 884,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "LOL!  Sano s mouth really got him in trouble this time...so he gets sent to a special room XD (note to readers of kikue-mugen.com now known as",
+            "messageBody": "<div id=\"ygrps-yiv-535212099\">LOL!  Sano&#39;s mouth really got him in trouble this time...so he gets<br/>\nsent to a special room XD<br/>\n<br/>\n(note to readers of kikue-mugen.com now known as samurai-on-samurai.com<br/>\nthe writing really is hard yaoi--not the cuddly stuff with all the<br/>\nparts censored in more mainstream manga, so it really is for mature<br/>\nreaders)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 252774361,
+            "authorName": "kikue.mugen",
+            "from": "&quot;kikue.mugen&quot; &lt;kikue.mugen@...&gt;",
+            "profile": "kikue.mugen",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Chapter in the Online Gojou (Mature)",
+            "postDate": "1206891093",
+            "msgId": 882,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZzb2JvbCtiMGxjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 883,
+            "prevInTime": 881,
+            "nextInTime": 883,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Chapter 86 Undisciplined http://samurai-on-samurai.com In This Chapter Who is in need of discipline? What did Saitou find out about Sano? Why did Aoshi hit a",
+            "messageBody": "<div id=\"ygrps-yiv-369183945\">Chapter 86<br/>\nUndisciplined<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai-on-samurai.com\">http://samurai-on-samurai.com</a><br/>\n<br/>\nIn This Chapter<br/>\nWho is in need of discipline?<br/>\nWhat did Saitou find out about Sano?<br/>\nWhy did Aoshi hit a woman o.o?<br/>\n <br/>\nWarning: NC17/ R18/Yaoi (Hard)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 881,
+    "nextTopicId": 890
+}

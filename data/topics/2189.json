@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fanart Contest",
+            "postDate": "1108513387",
+            "msgId": 2189,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1dTNwYiszN3ZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2188,
+            "nextInTime": 2190,
+            "topicId": 2189,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here s an entry for the fanart contest a collaboration by myself (description/concept) and the artwork from the gifted daughter Victoria ",
+            "messageBody": "<div id=\"ygrps-yiv-12053429\">Here&#39;s an entry for the fanart contest a collaboration by myself<br/>\n(description/concept) and the artwork from the gifted daughter Victoria<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net/fanart-contest.htm\">http://www.barbarasheridan.net/fanart-contest.htm</a><br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2188,
+    "nextTopicId": 2190
+}

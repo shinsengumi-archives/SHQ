@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Name that family!",
+            "postDate": "1091726763",
+            "msgId": 1466,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNldHFqYis1Y3BvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1465,
+            "nextInTime": 1467,
+            "topicId": 1466,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello knowledgeable people----I m trying to track down the kamon that appears on a kimono I found on ebay (man, I need to stay away from there!) I looked in",
+            "messageBody": "<div id=\"ygrps-yiv-2072607790\">Hello knowledgeable people----I&#39;m trying to track down the kamon that<br/>\nappears on a kimono I found on ebay (man, I need to stay away from<br/>\nthere!) I looked in the list that Okita posted back in message 704 but<br/>\nit wasn&#39;t on their list. <br/>\n<br/>\nIf anyone has time I put a scan of it in the photos section of the<br/>\ngroup (on page 2) and if you can&#39;t identify it maybe you can direct me<br/>\nto other sites with kamon displayed?<br/>\n<br/>\nThanks<br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1464,
+    "nextTopicId": 1469
+}

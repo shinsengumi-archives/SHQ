@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mito survivors from Serizawa&#39;s group",
+            "postDate": "1108436414",
+            "msgId": 2187,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjE1MDMwMDE0Ljg0NDMxLnFtYWlsQHdlYjUxMTA4Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2186,
+            "nextInTime": 2188,
+            "topicId": 2187,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Of the group of men from Mito who followed Serizawa Kamo into Kyoto with Kiyokawa & Kondou s group, I know that Nimii Nishiki and Hirayama Gorou died.  Hirama",
+            "messageBody": "<div id=\"ygrps-yiv-318643434\">Of the group of men from Mito who followed Serizawa Kamo into Kyoto with Kiyokawa & Kondou&#39;s group, I know that Nimii Nishiki and Hirayama Gorou died.  Hirama Juusuke, who was with Serizawa & Hirayama when they were murdered, survived the attack.  But what happened to him after that?  And what about a Noguchi Kenji, who also was part of Serizawa&#39;s group and the Shinsengumi... what happened to him during all of this wiping out of the Mad Duck club?  Anyone know?  Help!<br/>\n <br/>\nphil<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Yahoo! Search presents - Jib Jab&#39;s &#39;Second Term&#39;<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2186,
+    "nextTopicId": 2188
+}

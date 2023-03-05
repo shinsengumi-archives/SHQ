@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Last two Sagara images",
+            "postDate": "1109100967",
+            "msgId": 2206,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjIyMTkzNjA3LjI0NzgucW1haWxAd2ViNTExMDIubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2205,
+            "nextInTime": 2207,
+            "topicId": 2206,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "They re uploaded into totally different space, so hopefully they re more accessible.  Don t know how temporary this link will be, but for a while at least. ",
+            "messageBody": "<div id=\"ygrps-yiv-1315857820\">They&#39;re uploaded into totally different space, so hopefully they&#39;re more accessible.  Don&#39;t know how temporary this link will be, but for a while at least.<br/>\n <br/>\nThis image appears to be of some documents:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sozoko.tripod.com/ss16.jpg\">http://sozoko.tripod.com/ss16.jpg</a><br/>\n <br/>\nThis is the full page that had the group picture Sec posted the link to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sozoko.tripod.com/ss17.jpg\">http://sozoko.tripod.com/ss17.jpg</a><br/>\n <br/>\nphil<br/>\n <br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Yahoo! Search presents - Jib Jab&#39;s &#39;Second Term&#39;<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2199,
+    "nextTopicId": 2209
+}

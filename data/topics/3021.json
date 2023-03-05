@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 272003769,
+            "authorName": "Seven",
+            "from": "&quot;Seven&quot; &lt;nlf7@...&gt;",
+            "profile": "sevenofwiki",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Todou Heisuke Article on Wikipedia",
+            "postDate": "1166228718",
+            "msgId": 3021,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVsdmVkZStrNnA3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3020,
+            "nextInTime": 3022,
+            "topicId": 3021,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve started writing the Todou article on Wikipedia. Here s the current version with citations. ... Todo Heisuke (1844 - December 13, 1867) was the eighth unit",
+            "messageBody": "<div id=\"ygrps-yiv-1893256457\">I&#39;ve started writing the Todou article on Wikipedia. Here&#39;s the current version with <br/>\ncitations.<br/>\n<br/>\n--------------------<br/>\nTodo Heisuke (1844 - December 13, 1867) was the eighth unit captain of the <br/>\nShinsengumi.<br/>\n<br/>\n==Background==<br/>\nTodo was from Edo, Musashi Province (now Tokyo). Very little is known about his origin. <br/>\nAlthough he was said to be an illegitimate child of a feudal lord, it is debatable. <br/>\n(Yamamura, 179-180)<br/>\n<br/>\nTodo was a practitioner of the Hokushin Itto-ryu, trained at Chiba Shusaku Narimasa&#39;s <br/>\ndojo. (Yamamura, 181) However, according to some sources, he was trained at Ito <br/>\nKashitar?&#39;s dojo instead. (Yamamura, 182)<br/>\n<br/>\nIn around 1862, he started &quot;taking his meals&quot; at Kondou Isami&#39;s Shieikan.(Nagakura, 20<br/>\n-21)<br/>\n<br/>\n==Shinsengumi Period==<br/>\nIn 1863, Todo joined the Roshigumi with Kondo and other members of the Shieikan. <br/>\n(Yamamura, 185) After the Shinsengumi was formed, Todo first became a fukuchou jokin <br/>\n(assistant vice commander) and then became the captain of the eighth unit in 1865. <br/>\n(Yamamura, 186)<br/>\n<br/>\nTodo received a wound on his forehead during the Ikedaya Jiken on July 8, 1864. <br/>\n(Yamamura, 177)<br/>\n<br/>\n==Death==<br/>\nTodo was killed during the Aburakoji Affair on December 13, 1867.(Yamamura, 189)<br/>\n<br/>\nAccording to Nagakura Shinpachi&#39;s &quot;Shinsengumi Tenmatsuki&quot;, Kondo had wished to spare <br/>\nTodo&#39;s life. (Nagukura, 144) However, Todo was killed by a new member, Miura <br/>\nTsunesaburo, whom did not know the circumstances. (Nagakura, 145)<br/>\n<br/>\n--------------------<br/>\nReferences<br/>\nNagakura, Shinpachi. &quot;Shinsengumi Tenmatsuki&quot;. Tokyo; Shin Jinbutsu Oraisha, 1998. ISBN <br/>\n4404026706<br/>\n<br/>\nYamamura, Tatsuya. &#39;&#39;Shinsengumi Kenkyaku-Den&#39;&#39;. Tokyo: PHP Interface, 1998. ISBN <br/>\n4569601766<br/>\n<br/>\n--------------------<br/>\n<br/>\n~Seven</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3013,
+    "nextTopicId": 3018
+}

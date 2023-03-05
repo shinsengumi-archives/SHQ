@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "FF.net comes through at last!",
+            "postDate": "1079744349",
+            "msgId": 29,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNUI5NzVELjYwNjAwQGJlbGxhdGxhbnRpYy5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 28,
+            "nextInTime": 30,
+            "topicId": 29,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For you PeaceMaker fans fanfiction.net has _finally_ put up a Peacemaker Kurogane category. I asked them months ago and they blew it off someone on the PMK lj ",
+            "messageBody": "<div id=\"ygrps-yiv-1540162280\">For you PeaceMaker fans fanfiction.net has _finally_ put up a Peacemaker <br/>\nKurogane category.<br/>\n<br/>\nI asked them months ago and they blew it off someone on the PMK lj <br/>\ncommunity asks and they do it straightaway go figure  Hn<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7,
+    "nextTopicId": 30
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "4 more pics of NHK Saitou (Jo Odagiri)",
+            "postDate": "1096223802",
+            "msgId": 378,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqNzI3cStnYWw5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 376,
+            "nextInTime": 379,
+            "topicId": 378,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "go to PHOTOS  SCREENCAPS  NHK (^_^)",
+            "messageBody": "<div id=\"ygrps-yiv-1992641184\">go to &quot;PHOTOS&quot; &gt;&gt; SCREENCAPS &gt;&gt; NHK<br/>\n(^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 370,
+    "nextTopicId": 374
+}

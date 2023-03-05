@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Japanese Site",
+            "postDate": "1171242475",
+            "msgId": 3170,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVxb2VsYitzZ200QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3169,
+            "nextInTime": 3171,
+            "topicId": 3170,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Many Japanese fandom sites have gone semi-dormant now but this is what seems to be a new site.  Very sleek and we can hope for some nice updates.  It combines",
+            "messageBody": "<div id=\"ygrps-yiv-717185298\">Many Japanese fandom sites have gone semi-dormant now but<br/>\nthis is what seems to be a new site.  Very sleek and we can hope for <br/>\nsome nice updates.  It combines Aizu with the Shinsengumi as you can <br/>\ntell from the address<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://aizu-shinsengumi.jp/\">http://aizu-shinsengumi.jp/</a><br/>\n<br/>\nthey need fanart!  (^_^)<br/>\nand fanfic pronto!<br/>\n<br/>\nas for SHQ website info we just decided on the search engine logic <br/>\nthis Saturday and apparently the slow progress is because I can&#39;t <br/>\nkeyword all the images and webpages fast enough...::nervous laugh::  <br/>\nit&#39;s very tedious work</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3023,
+    "nextTopicId": 3171
+}

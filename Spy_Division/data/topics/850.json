@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Wolves_of_Mibu Contest",
+            "postDate": "1187892193",
+            "msgId": 850,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZha2k1MSs1YTEyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 849,
+            "nextInTime": 851,
+            "topicId": 850,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "You can learn all about the contest here: http://community.livejournal.com/wolves_of_mibu/39405.html",
+            "messageBody": "<div id=\"ygrps-yiv-2747498\">You can learn all about the contest here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://community.livejournal.com/wolves_of_mibu/39405.html\">http://community.livejournal.com/wolves_of_mibu/39405.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 849,
+    "nextTopicId": 851
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "MORE [NEW] Shinsengumi videos",
+            "postDate": "1096553202",
+            "msgId": 1692,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqaDN0aStnNWtiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1691,
+            "nextInTime": 1693,
+            "topicId": 1692,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.the-shinsengumi.com/siseki.htm scroll to the bottom to see new videos... audio is in Japanese :) for new members...please view the last 5 videos one",
+            "messageBody": "<div id=\"ygrps-yiv-328843052\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.the-shinsengumi.com/siseki.htm\">http://www.the-shinsengumi.com/siseki.htm</a><br/>\nscroll to the bottom to see new videos...<br/>\naudio is in Japanese :)<br/>\nfor new members...please view the last 5 videos one of them will <br/>\nshow historical Nagakura&#39;s shirt and Fujita Goro in the Seinan War <br/>\ngroup picture</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1687,
+    "nextTopicId": 1700
+}

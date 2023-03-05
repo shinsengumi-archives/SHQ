@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Historic Nagakura&#39;s Personality...",
+            "postDate": "1081624836",
+            "msgId": 357,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNzg0OTA0LjEwMzAxMDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 356,
+            "nextInTime": 358,
+            "topicId": 357,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "<div id=\"ygrps-yiv-912955653\">&lt;&lt;I understand the PMK Nagakura version is very cute but the site I<br/>\nwent to was obviously referring to the historic people because (many<br/>\nreferences to historic S.H.) although the women were attracted to<br/>\nHijikata they were kind of &quot;afraid&quot; of him.&gt;&gt;<br/>\n<br/>\nMaybe many of those folks have had the opportunity to read the book he <br/>\nwrote. Perhaps he speaks of himself and those he came in contact with in <br/>\nsuch a way that he comes across as a general &quot;nice guy&quot;.<br/>\n<br/>\nI know that I would certainly LOVE to learn more about the Shinsengumi <br/>\nmembers not only during their time in Kyoto but also before and after. <br/>\nMaybe, just maybe the Hillsborough book will give us that. I was able to <br/>\nget his Samurai Sketches through the library and I thought it was very <br/>\nwell done, it&#39;s a definite &quot;have to buy&quot; book on my list.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 356,
+    "nextTopicId": 358
+}

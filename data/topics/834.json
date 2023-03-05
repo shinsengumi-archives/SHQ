@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Attention Artists",
+            "postDate": "1085272526",
+            "msgId": 834,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQUZGMUNFLjcwMzA3MDlAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 833,
+            "nextInTime": 835,
+            "topicId": 834,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I hope to get started on an art section for the website so if any of you would like to send me copies of your work that you d like included please feel free to",
+            "messageBody": "<div id=\"ygrps-yiv-353778952\">I hope to get started on an art section for the website so if any of you <br/>\nwould like to send me copies of your work that you&#39;d like included <br/>\nplease feel free to do so and let me know if you have any captions or <br/>\nother info you&#39;d like included.<br/>\n<br/>\nAlso if you know any non list members with Shinsengumi related art you <br/>\nespecially like please pass this info on to them as well.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 832,
+    "nextTopicId": 836
+}

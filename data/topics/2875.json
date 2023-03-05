@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Pic of Okita&#39;s Grave",
+            "postDate": "1151127604",
+            "msgId": 2876,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3aWo3aytva2toQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2875,
+            "nextInTopic": 0,
+            "prevInTime": 2875,
+            "nextInTime": 2877,
+            "topicId": 2875,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Not from the best angle but check it out http://www.aizu.com/shinsengumi/ see 6/23 entry we are a few weeks from Okita s death day the blog is from the Aizu",
+            "messageBody": "<div id=\"ygrps-yiv-1347976925\">Not from the best angle but check it out<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aizu.com/shinsengumi/\">http://www.aizu.com/shinsengumi/</a><br/>\nsee 6/23 entry<br/>\n<br/>\nwe are a few weeks from Okita&#39;s death day<br/>\n<br/>\nthe blog is from the Aizu Shinsengumi Club which is partnered with the <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hino-shinsengumi.com\">http://www.hino-shinsengumi.com</a> club<br/>\n<br/>\nit contains several cosplay photos too and multiple photos of the <br/>\nFujita family grave (basically the club goes there ALL the time and <br/>\ntakes other Shinsen-fan visitors there too)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Pic of Okita&#39;s Grave",
+            "postDate": "1151127481",
+            "msgId": 2875,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3aWozcCszODVhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2876,
+            "prevInTime": 2874,
+            "nextInTime": 2876,
+            "topicId": 2875,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Not from the best angle but check it out http://www.aizu.com/shinsengumi/ see 6/23 entry we are a few weeks from Okita s death day the blog is from the Aizu",
+            "messageBody": "<div id=\"ygrps-yiv-1251577234\">Not from the best angle but check it out<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aizu.com/shinsengumi/\">http://www.aizu.com/shinsengumi/</a><br/>\nsee 6/23 entry<br/>\n<br/>\nwe are a few weeks from Okita&#39;s death day<br/>\n<br/>\nthe blog is from the Aizu Shinsengumi Club which is partnered with the <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hino-shinsengumi.com\">http://www.hino-shinsengumi.com</a> club<br/>\n<br/>\nit contains several cosplay photos too and multiple photos of the <br/>\nFujita family grave (basically the club goes there ALL the time and <br/>\ntakes other Shinsen-fan visitors there too)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2862,
+    "nextTopicId": 2879
+}

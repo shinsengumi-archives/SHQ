@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "W0T_xwVI0Dtlqn08mv5qRGgLQsOdzfxIxPwDJ07VeU9xQaklqDpUQu6a6tNjJvSyTqc2gaxCg6958YE",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New poll for SHQ",
+    "postDate": "1110711002",
+    "msgId": 2295,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMTA3MTEwMDIuMTI0LjU0MDI1LncxMThAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 2294,
+    "nextInTopic": 2296,
+    "prevInTime": 2294,
+    "nextInTime": 2296,
+    "topicId": 2292,
+    "numMessagesInTopic": 10,
+    "msgSnippet": "Enter your vote today!  A new poll has been created for the SHQ group: Do you feel that the SHQ is helping you to learn about the things you wanted to know? o",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 7497 invoked from network); 13 Mar 2005 10:50:36 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m26.grp.scd.yahoo.com with QMQP; 13 Mar 2005 10:50:36 -0000\r\nReceived: from unknown (HELO n6a.bulk.scd.yahoo.com) (66.94.237.40)\n  by mta2.grp.scd.yahoo.com with SMTP; 13 Mar 2005 10:50:36 -0000\r\nDomainKey-Signature: \r\nReceived: from [66.218.69.2] by n6.bulk.scd.yahoo.com with NNFMP; 13 Mar 2005 10:50:30 -0000\r\nReceived: from [66.218.66.85] by mailer2.bulk.scd.yahoo.com with NNFMP; 13 Mar 2005 10:50:30 -0000\r\nDate: 13 Mar 2005 10:50:02 -0000\r\nMessage-ID: &lt;1110711002.124.54025.w118@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: poll \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New poll for SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\n\nEnter your vote today!  A new poll has been created for the \nSHQ group:\n\nDo you feel that the SHQ is helping you \nto learn about the things you wanted to \nknow? \n\n  o Yes \n  o No \n\n\nTo vote, please visit the following web page:\nhttp://groups.yahoo.com/group/SHQ/surveys?id=1646862 \n\nNote: Please do not reply to this message. Poll votes are \nnot collected via email. To vote, you must go to the Yahoo! Groups \nweb site listed above.\n\nThanks!\n\n \n\n\n\n\n\n\n\n"
+}

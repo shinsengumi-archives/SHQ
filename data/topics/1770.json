@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168006318,
+            "authorName": "maximuz20032003",
+            "from": "&quot;maximuz20032003&quot; &lt;maximuz20032003@...&gt;",
+            "profile": "maximuz20032003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Shinsengumi Soundtrack",
+            "postDate": "1098827601",
+            "msgId": 1770,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsbWgwaCs3cHR2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1769,
+            "nextInTime": 1771,
+            "topicId": 1770,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone have the soundtrack?...I want to download them...Cant buy cause im not in Japan....Please I WANT THE SOUNDTRACK EVERY SONG....NHK Shinsengumi songs",
+            "messageBody": "<div id=\"ygrps-yiv-1102438577\">Does anyone have the soundtrack?...I want to download them...Cant buy <br/>\ncause im not in Japan....Please I WANT THE SOUNDTRACK EVERY <br/>\nSONG....NHK Shinsengumi songs IS DA BEST.......</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1763,
+    "nextTopicId": 1777
+}

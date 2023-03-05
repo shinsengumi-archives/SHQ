@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Fantasy Casting (PMK Okita)",
+            "postDate": "1194139565",
+            "msgId": 865,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZnajczZCtqcmtxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 864,
+            "nextInTime": 866,
+            "topicId": 865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As far as pop-culture and film goes by far my favorite Okitas are Masato Sakai in Mibugishiden the actor in MOEYOKEN (the live action one---not the anime with",
+            "messageBody": "<div id=\"ygrps-yiv-2085470939\">As far as pop-culture and film goes by far my favorite Okitas are <br/>\nMasato Sakai in Mibugishiden<br/>\nthe actor in MOEYOKEN (the live action one---not the anime with the <br/>\ndaughters of the Shinsengumi whatever)<br/>\n<br/>\nNow...I really think this young man would make a GREAT &quot;live action&quot; <br/>\nPMK OKita<br/>\n<br/>\nimagine him with very very very deep black/violet hair<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/3coudn\">http://tinyurl.com/3coudn</a><br/>\n<br/>\nhe has the balance of &quot;cute&quot; and a touch of possibly &quot;crazy&quot; in him <br/>\nthat makes him intriguing</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 864,
+    "nextTopicId": 862
+}

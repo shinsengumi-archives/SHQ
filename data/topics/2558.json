@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Star Blazers :: Space Battleship Yamato",
+            "postDate": "1127097927",
+            "msgId": 2558,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRnbDhvNyticTFrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2557,
+            "nextInTime": 2559,
+            "topicId": 2558,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I read on http://hajime3.hp.infoseek.co.jp/cgi-bin/bbs_06/bbs_06.cgi (please insert the address into http://www.nifty.com/globalgate) Other Shinsengumi boards",
+            "messageBody": "<div id=\"ygrps-yiv-819117435\">I read on <a rel=\"nofollow\" target=\"_blank\" href=\"http://hajime3.hp.infoseek.co.jp/cgi-bin/bbs_06/bbs_06.cgi\">http://hajime3.hp.infoseek.co.jp/cgi-bin/bbs_06/bbs_06.cgi</a><br/>\n(please insert the address into <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nifty.com/globalgate)\">http://www.nifty.com/globalgate)</a><br/>\nOther Shinsengumi boards will also mention &quot;Yamato&quot; and ships and<br/>\nup until this time fans will post &quot;has anyone read Yamato?&quot;<br/>\nand the question usually does not spark a conversation, which makes<br/>\nperfect sense because &quot;Space Battleship Yamato&quot; is a 30 year old<br/>\nmanga/anime which seems to have synthesized WW2 battleships with<br/>\nspaceships and notable Shinsengumi figuress into new characters.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.desslok.com/INFO/char.htm\">http://www.desslok.com/INFO/char.htm</a><br/>\nreveals the real Japanese names of some of the characters<br/>\nthe names are not just a coincedence--- &quot;makoto&quot; is also painted on<br/>\none of the spaceships.  Historical figures from the Aizu camp such as<br/>\nEd Schnell (Prussian arms dealer) is also in the series.<br/>\n<br/>\nTo learn more about this series please see:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shipschematics.net/yamato/links.html\">http://www.shipschematics.net/yamato/links.html</a><br/>\n<br/>\nFandom for this series overlaps with Star Trek<br/>\n<br/>\n::imagine::<br/>\nHijikata as Capt. Kirk<br/>\n(^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2554,
+    "nextTopicId": 2564
+}

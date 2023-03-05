@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "GBattista (hajimenokizu)",
+            "from": "&quot;GBattista (hajimenokizu)&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sec&#39;s streamload continuation",
+            "postDate": "1097543747",
+            "msgId": 1727,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNrZmI4Mys0dGJwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1726,
+            "nextInTime": 1728,
+            "topicId": 1727,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sec has sent me all the files from her streamload account. I will be leaving it up hosted at the shinsengumi folder in http://www.streamload.com/green_2 use",
+            "messageBody": "<div id=\"ygrps-yiv-1920338773\">Sec has sent me all the files from her streamload account. I will be <br/>\nleaving it up hosted at the shinsengumi folder in<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.streamload.com/green_2\">http://www.streamload.com/green_2</a><br/>\n<br/>\nuse password: miburo<br/>\n<br/>\nIf I find anything useful I&#39;ll add on to her list, but for now I <br/>\nsuggest SHQ members should check out &quot;Aizu in California&quot;. It&#39;s an <br/>\ninteresting read.<br/>\n<br/>\nThere is another folder that contains large video, manga and music <br/>\nfiles which I&#39;m sure most of us here already have. I&#39;m limiting <br/>\naccess to that so if you need access please e-mail me.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1725,
+    "nextTopicId": 1732
+}

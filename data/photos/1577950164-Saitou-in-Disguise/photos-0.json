@@ -1,0 +1,84 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 1577950164,
+        "photoId": 1928412397,
+        "photoName": "Smirking at Raijutas Plan",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "spiritus_saitou",
+        "modificationDate": 1083548625,
+        "creationDate": 1083548625,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Is this Saitou front and center among Raijuta&#39;;s henchmen?",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/yMp082rtc9NAvjkqyd_4/name/n_a",
+                "height": 65,
+                "width": 96,
+                "size": 1861,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/yMp082rtc9NAvjkqyd_4/name/n_a",
+                "height": 327,
+                "width": 480,
+                "size": 20033,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/yMp082rtc9NAvjkqyd_4/name/n_a",
+                "height": 479,
+                "width": 704,
+                "size": 44014,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 12286059,
+        "albumId": 1577950164,
+        "photoId": 1256985340,
+        "photoName": "Hiding in the Shrubbery",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "spiritus_saitou",
+        "modificationDate": 1083548676,
+        "creationDate": 1083548676,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "Waiting for Kenshin to make a move on Raijuta?",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/pVrpZLnteNTH9RIoyYqX/name/n_a",
+                "height": 65,
+                "width": 96,
+                "size": 1718,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/pVrpZLnteNTH9RIoyYqX/name/n_a",
+                "height": 324,
+                "width": 480,
+                "size": 19423,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/pVrpZLnteNTH9RIoyYqX/name/n_a",
+                "height": 476,
+                "width": 706,
+                "size": 39246,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

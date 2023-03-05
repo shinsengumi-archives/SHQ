@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "damn spammers",
+            "postDate": "1178809486",
+            "msgId": 831,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYxdmNhZSs0NmdlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 829,
+            "nextInTime": 832,
+            "topicId": 831,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry about the sexybigirl spam. I ve put Saitou on the case and now the spammer and her message are history Barb",
+            "messageBody": "<div id=\"ygrps-yiv-435627561\">Sorry about the sexybigirl spam. I&#39;ve put Saitou on the case and now<br/>\nthe spammer and her message are history<br/>\n<br/>\nBarb</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 825,
+    "nextTopicId": 826
+}

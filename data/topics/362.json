@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Book Recommendation",
+            "postDate": "1081647698",
+            "msgId": 362,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNzhBMjUyLjIwODAwMDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 361,
+            "nextInTime": 363,
+            "topicId": 362,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just borrowed this from one of the suburban branches of the library and while I ve only begun to read it, it seems to me to be a definite must buy for",
+            "messageBody": "<div id=\"ygrps-yiv-1443337270\">I just borrowed this from one of the suburban branches of the library <br/>\nand while I&#39;ve only begun to read it, it seems to me to be a definite <br/>\n&quot;must buy&quot; for anyone interested in the period as the first 200 pages <br/>\n(give or take) deals with the end of his father&#39;s reign and the Revolution.<br/>\n<br/>\nIt&#39;s a fairly new book (2002) and a large one with close to 900 pages <br/>\nwhich includes extensive and informative footnotes and bibliography.<br/>\n<br/>\nEmperor of Japan--Meiji and His World 1852--1912<br/>\n<br/>\nby Donald Keene<br/>\n<br/>\nColumbia University Press<br/>\n<br/>\nISBN: 0-231-12340-X<br/>\n<br/>\nI found it for sale through the Amazon marketplace for  $23.50 quite a <br/>\nbreak on the publisher&#39;s cover price of $40<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 360,
+    "nextTopicId": 366
+}

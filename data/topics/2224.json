@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "a new movie",
+            "postDate": "1109794836",
+            "msgId": 2224,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMjYyMDE0LjQwMTAwMDNAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2223,
+            "nextInTime": 2225,
+            "topicId": 2224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Got this info from another messageboard it sounds...interesting This interesting project by Mr. Joy Ishii called Samurai Mad Fellows , tells the story of",
+            "messageBody": "<div id=\"ygrps-yiv-1207998067\">Got this info from another messageboard it sounds...interesting<br/>\n<br/>\nThis interesting project by Mr. Joy Ishii called &quot;Samurai Mad Fellows&quot;, <br/>\ntells the story of young Sakurai, living a boring and lonely life in <br/>\nmodern Japan. One evening when he comes home from work he encounters <br/>\nToshizo Hijikata, Genzui Kusaka, Hanjiro Nakamura, Shintaro <br/>\nNakaoka...historical figures who gave their lives at the collapse of the <br/>\ngovernment of Edo.<br/>\nSakurai now has to explain to them how japanese society works nowadays.<br/>\n<br/>\ntrailer:<br/>\nwww.ishii-gumi.com/otokot...er1min.mp4 <br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ishii-gumi.com/otokotachi/trailer1min.mp4\">http://www.ishii-gumi.com/otokotachi/trailer1min.mp4</a>&gt;<br/>\n<br/>\nwebsite:<br/>\nwww.ishii-gumi.com/ &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ishii-gumi.com/\">http://www.ishii-gumi.com/</a>&gt;<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\nThe Blog-- <a rel=\"nofollow\" target=\"_blank\" href=\"http://barbarasheridan.blogspot.com/\">http://barbarasheridan.blogspot.com/</a><br/>\n<br/>\n<br/>\n<br/>\n-- <br/>\nNo virus found in this outgoing message.<br/>\nChecked by AVG Anti-Virus.<br/>\nVersion: 7.0.300 / Virus Database: 266.5.2 - Release Date: 2/28/2005</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2218,
+    "nextTopicId": 2229
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Coming attraction",
+            "postDate": "1079743428",
+            "msgId": 65,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNUI5M0M0LjcwMjAxMDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 64,
+            "nextInTime": 66,
+            "topicId": 65,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Check it out people soon we ll have a nice roomy place to browse through the facts and photos fanfiction and art..... http://shinsengumihq.com/ -- Barbara",
+            "messageBody": "<div id=\"ygrps-yiv-642596576\">Check it out people soon we&#39;ll have a nice roomy place to browse through <br/>\nthe facts and photos fanfiction and art.....<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.com/\">http://shinsengumihq.com/</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 12,
+    "nextTopicId": 67
+}

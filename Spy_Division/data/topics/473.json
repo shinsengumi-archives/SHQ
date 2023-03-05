@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "Warg3791@****",
+            "from": "Warg3791@...",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ_Spy_Division] Hello I&#39;m Back!",
+            "postDate": "1102717568",
+            "msgId": 474,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFmOS4zMzIzYTBjLjJlZWI3YzgwQGFvbC5jb20+"
+            },
+            "prevInTopic": 473,
+            "nextInTopic": 0,
+            "prevInTime": 473,
+            "nextInTime": 475,
+            "topicId": 473,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m sorry, but this list is for the sharing of stories and artwork on the Shinsengumi. Historical questions should be directed to the SHQ list please. Thank",
+            "messageBody": "<div id=\"ygrps-yiv-2113937599\">I&#39;m sorry, but this list is for the sharing of stories and artwork on the <br/>\nShinsengumi. Historical questions should be directed to the SHQ list please.<br/>\n<br/>\nThank you<br/>\n<br/>\n-MissBehavin<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello I&#39;m Back!",
+            "postDate": "1102716513",
+            "msgId": 473,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwZDZwMStybzBxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 474,
+            "prevInTime": 472,
+            "nextInTime": 474,
+            "topicId": 473,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry I ve been absent but my computer has been offline since early yesterday morning. Also I would like to know if any of the members of the Shinsengumi have",
+            "messageBody": "<div id=\"ygrps-yiv-804567178\">Sorry I&#39;ve been absent but my computer has been offline since early<br/>\nyesterday morning. Also I would like to know if any of the members of <br/>\nthe Shinsengumi have any descendants that are still alive today?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 470,
+    "nextTopicId": 469
+}

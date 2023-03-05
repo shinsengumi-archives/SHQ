@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "For those who may be interested",
+            "postDate": "1124475357",
+            "msgId": 650,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlNTdrdCtmNXNoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 649,
+            "nextInTime": 651,
+            "topicId": 650,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I posted the first two chapters of MIRROR, MIRROR, the novel I recently finished that features the Shinsengumi (they re not in the opening pages though) and if",
+            "messageBody": "<div id=\"ygrps-yiv-2058580149\">I posted the first two chapters of MIRROR, MIRROR, the novel I<br/>\nrecently finished that features the Shinsengumi (they&#39;re not in the<br/>\nopening pages though) and if anyone would like to take a peek and pop<br/>\na comment on my blog that would be great. I&#39;m very interested in what<br/>\nthe average reader thinks in terms of are you intrigued enough to want<br/>\nto find out what happens next.<br/>\n<br/>\nYou can check it out here.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net/mirror-mirror.htm\">http://www.barbarasheridan.net/mirror-mirror.htm</a><br/>\n<br/>\nEnd of self promotional spam ^_^<br/>\n<br/>\nBarbara Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 648,
+    "nextTopicId": 651
+}

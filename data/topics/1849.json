@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "the Yamazaki diary",
+            "postDate": "1100877016",
+            "msgId": 1849,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxOUUwQ0Q4LjkwMjA5MDRAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1848,
+            "nextInTime": 1850,
+            "topicId": 1849,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There s a wee write up of the recent news article on the recently found Yamazaki diary here http://www.livejournal.com/community/wolves_of_mibu/15471.html -- ",
+            "messageBody": "<div id=\"ygrps-yiv-1967045076\">There&#39;s a wee write up of the recent news article on the recently found <br/>\nYamazaki diary here<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.livejournal.com/community/wolves_of_mibu/15471.html\">http://www.livejournal.com/community/wolves_of_mibu/15471.html</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1848,
+    "nextTopicId": 1850
+}

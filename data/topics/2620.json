@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Santa Will Bring a Shinsengumi Present...",
+            "postDate": "1132286318",
+            "msgId": 2620,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRsampoZSt2YnR2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2619,
+            "nextInTime": 2621,
+            "topicId": 2620,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://news.yahoo.com/s/usatoday/20051027/en_usatoday/everybodyssamuraifighting When the Last Sword Is Drawn, the winner of last year s Japanese Academy Award",
+            "messageBody": "<div id=\"ygrps-yiv-1440677931\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://news.yahoo.com/s/usatoday/20051027/en_usatoday/everybodyssamuraifighting\">http://news.yahoo.com/s/usatoday/20051027/en_usatoday/everybodyssamuraifighting</a><br/>\n<br/>\n&quot;When the Last Sword Is Drawn, the winner of last year&#39;s Japanese<br/>\nAcademy Award for best picture, arrives on DVD Dec. 27.&quot;<br/>\nno company info (-_-)<br/>\n<br/>\nthe article mentions SHINOBI--the romantic ninja film starring Jo Odagiri<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ninjadojo.com\">http://www.ninjadojo.com</a><br/>\nhas enjoyed a new wave of topics and outstanding members<br/>\nlook for members &quot;michaeltr&quot; &quot;tsugumu&quot; and &quot;chiba2000&quot;<br/>\nyou may also search their forums for words like Shinsengumi, When the<br/>\nLast Sword was Drawn , Sword of Doom and we musn&#39;t forget the classic<br/>\nGOHATTO to study their opinions<br/>\n<br/>\nif anyone would like to contribute ideas to an article about<br/>\nShinsengumi research, web or library please email me at<br/>\nsecretarytocapt3(a)hotmail.com<br/>\nI could really use some help...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2608,
+    "nextTopicId": 2621
+}

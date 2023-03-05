@@ -1,0 +1,44 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 268345673,
+        "photoId": 561884601,
+        "photoName": "NNYamaguchixl",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "lokieternal1",
+        "modificationDate": 1172541510,
+        "creationDate": 1172541510,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/20b8dXDpfNDPgc2n9X0-/name/n_a",
+                "height": 96,
+                "width": 68,
+                "size": 2383,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/20b8dXDpfNDPgc2n9X0-/name/n_a",
+                "height": 480,
+                "width": 338,
+                "size": 37700,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/20b8dXDpfNDPgc2n9X0-/name/n_a",
+                "height": 710,
+                "width": 500,
+                "size": 79041,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

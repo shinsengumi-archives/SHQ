@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shura no Toki licensed",
+            "postDate": "1089819444",
+            "msgId": 1368,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNkM2p2aytsdGdrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1367,
+            "nextInTime": 1369,
+            "topicId": 1368,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.envirosphere.com/ 2004-07-06 mentions that Shura no Toki has been licensed by Media Blasters Shura no Toki is another anime which features the",
+            "messageBody": "<div id=\"ygrps-yiv-1481043957\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.envirosphere.com/\">http://www.envirosphere.com/</a><br/>\n2004-07-06 <br/>\nmentions that Shura no Toki has been licensed by Media Blasters<br/>\nShura no Toki is another anime which features the Shinsengumi <br/>\n(Okita)...I saw a music video of Shura no Toki and it has some <br/>\npretty good action which focuses on character technique...good stuff!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1367,
+    "nextTopicId": 1369
+}

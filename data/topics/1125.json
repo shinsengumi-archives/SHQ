@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 188101279,
+            "authorName": "Grace Battista",
+            "from": "&quot;Grace Battista&quot; &lt;wounds@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nifty translator",
+            "postDate": "1087445510",
+            "msgId": 1125,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhcjVtNitzZnUyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1124,
+            "nextInTime": 1126,
+            "topicId": 1125,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just passing by today and thought I d let you guys/gals know... I stumbled upon another translator, slightly better than babel IMHO, nifty globalgate. Here s",
+            "messageBody": "<div id=\"ygrps-yiv-439482271\">Just passing by today and thought I&#39;d let you guys/gals know... I <br/>\nstumbled upon another translator, slightly better than babel <br/>\nIMHO, &quot;nifty&quot; globalgate. <br/>\n<br/>\nHere&#39;s the link... <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nifty.com/globalgate/\">http://www.nifty.com/globalgate/</a><br/>\n<br/>\nRight below the URL field is a drop down box... Choose the second <br/>\noption and hit the button. You&#39;re all set. Bye for now... Hope <br/>\neveryone is doing well.<br/>\n<br/>\n~wounds</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1119,
+    "nextTopicId": 1108
+}

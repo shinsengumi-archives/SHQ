@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182392907,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Historic Nagakura&#39;s Personality...Shimazuryu?",
+            "postDate": "1081612646",
+            "msgId": 352,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1OTVoNitkdWoxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 351,
+            "nextInTime": 353,
+            "topicId": 352,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was reading a Japanese site and people had to fill out a questionaire like who would you want to have as your brother...and many said Nagakura Shinpachi...is",
+            "messageBody": "<div id=\"ygrps-yiv-1842173768\">I was reading a Japanese site and people had to fill out a <br/>\nquestionaire like who would you want to have as your brother...and <br/>\nmany said Nagakura Shinpachi...is there something about historic <br/>\nNagakura Shinpachi that makes him soo attractive in this way?  <br/>\n<br/>\nI understand the PMK Nagakura version is very cute but the site I <br/>\nwent to was obviously referring to the historic people because (many <br/>\nreferences to historic S.H.) although the women were attracted to <br/>\nHijikata they were kind of &quot;afraid&quot; of him.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 348,
+    "nextTopicId": 353
+}

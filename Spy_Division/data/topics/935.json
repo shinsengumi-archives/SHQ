@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 221855963,
+            "authorName": "Trevor",
+            "from": "&quot;Trevor&quot; &lt;trevorskingle@...&gt;",
+            "profile": "trevorskingle",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "walking guide to the Shinsengumi in Kyoto around Kiyamachi Dori",
+            "postDate": "1246144520",
+            "msgId": 935,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGgyNjk2OCtwcDJpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 934,
+            "nextInTime": 936,
+            "topicId": 935,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Second walking guide to the Shinsengumi in Kyoto, this time around Kiyamachi Dori published at ",
+            "messageBody": "<div id=\"ygrps-yiv-2086734653\">Second walking guide to the Shinsengumi in Kyoto, this time around Kiyamachi Dori published at<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.scribd.com/doc/16867614/English-Language-Guide-to-the-Shinsengumi-in-Kyoto-Walk-Two-Around-Kiyamachi-Street\">http://www.scribd.com/doc/16867614/English-Language-Guide-to-the-Shinsengumi-in-Kyoto-Walk-Two-Around-Kiyamachi-Street</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 933,
+    "nextTopicId": 936
+}

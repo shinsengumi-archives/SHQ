@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 272003769,
+            "authorName": "Seven",
+            "from": "&quot;Seven&quot; &lt;nlf7@...&gt;",
+            "profile": "sevenofwiki",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: PMK Music Samples",
+            "postDate": "1150512915",
+            "msgId": 2843,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU2dnF1aitmZ2trQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGU2dGtvaytsa2U0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2838,
+            "nextInTopic": 0,
+            "prevInTime": 2842,
+            "nextInTime": 2845,
+            "topicId": 2838,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve uploaded 2 more samples. http://www.savefile.com/projects.php?pid=217743 ~Seven",
+            "messageBody": "<div id=\"ygrps-yiv-663651137\">I&#39;ve uploaded 2 more samples.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/projects.php?pid=217743\">http://www.savefile.com/projects.php?pid=217743</a><br/>\n<br/>\n~Seven<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Seven&quot; &lt;nlf7@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; I&#39;ve uploaded some samples from &quot;Peace Maker Kurogane OST II&quot; and &quot;YOU GONNA FEEL <br/>\n&gt; (HAV)&quot;.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; YOU GONNA FEEL ( 4:11 ) <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files.php?fid=7558258\">http://www.savefile.com/files.php?fid=7558258</a><br/>\n&gt;  <br/>\n&gt; Sorezore no Hisou (vocal) ( 4: 57 ) <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files/2644055\">http://www.savefile.com/files/2644055</a> <br/>\n&gt; <br/>\n&gt; Mini Drama ( 9: 46 ) <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files/2833422\">http://www.savefile.com/files/2833422</a><br/>\n&gt; <br/>\n&gt; <br/>\n&gt; ~Seven<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 272003769,
+            "authorName": "Seven",
+            "from": "&quot;Seven&quot; &lt;nlf7@...&gt;",
+            "profile": "sevenofwiki",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "PMK Music Samples",
+            "postDate": "1150441044",
+            "msgId": 2838,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU2dGtvaytsa2U0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2843,
+            "prevInTime": 2837,
+            "nextInTime": 2840,
+            "topicId": 2838,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve uploaded some samples from Peace Maker Kurogane OST II and YOU GONNA FEEL (HAV) . YOU GONNA FEEL ( 4:11 ) http://www.savefile.com/files.php?fid=7558258",
+            "messageBody": "<div id=\"ygrps-yiv-884933054\">I&#39;ve uploaded some samples from &quot;Peace Maker Kurogane OST II&quot; and &quot;YOU GONNA FEEL <br/>\n(HAV)&quot;.<br/>\n<br/>\n<br/>\nYOU GONNA FEEL ( 4:11 ) <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files.php?fid=7558258\">http://www.savefile.com/files.php?fid=7558258</a><br/>\n <br/>\nSorezore no Hisou (vocal) ( 4: 57 ) <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files/2644055\">http://www.savefile.com/files/2644055</a> <br/>\n<br/>\nMini Drama ( 9: 46 ) <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.savefile.com/files/2833422\">http://www.savefile.com/files/2833422</a><br/>\n<br/>\n<br/>\n~Seven</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2831,
+    "nextTopicId": 2846
+}

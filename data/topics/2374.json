@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 218996889,
+            "authorName": "sou_ryu_sen14",
+            "from": "&quot;sou_ryu_sen14&quot; &lt;sou_ryu_sen14@...&gt;",
+            "profile": "sou_ryu_sen14",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "The irony of looking up images",
+            "postDate": "1111799039",
+            "msgId": 2374,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyMmNkdis2MGVlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2373,
+            "nextInTime": 2375,
+            "topicId": 2374,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This is something I found interesting when I was web-serfing for pictures. When I typed in Satsuma in a search engine I got  pictures that contained mostly",
+            "messageBody": "<div id=\"ygrps-yiv-853465034\">This is something I found interesting when I was web-serfing for <br/>\npictures. <br/>\nWhen I typed in &quot;Satsuma&quot; in a search engine I got  pictures that <br/>\ncontained mostly oranges and vases. When I typed in &quot;Choshu&quot; I got <br/>\npictures of big guys that looked like wrestlers.  But when I typed <br/>\nin &quot;Shinsengumi&quot; I got pages and pages of our favorite swordsmen <br/>\ngroup....It looks like that even though the Ishin Shishi won the war, <br/>\nit&#39;s the Shinsengumi that would be remembered, despite the belief <br/>\nthat &quot;the victors write the history&quot;. Talk about ironic...The <br/>\nShinsengumi at least won the media war.<br/>\n--A-chan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2365,
+    "nextTopicId": 2375
+}

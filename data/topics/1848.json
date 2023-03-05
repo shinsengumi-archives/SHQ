@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nagakura Shinpachi Documentary",
+            "postDate": "1100819088",
+            "msgId": 1848,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuajlxZytnYnY4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1847,
+            "nextInTime": 1849,
+            "topicId": 1848,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.uhb.co.jp/uhb.html It was made by his descendent and will only be shown in Hokkaido Please visit the page and click on the word for Shinsengumi... ",
+            "messageBody": "<div id=\"ygrps-yiv-854295547\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uhb.co.jp/uhb.html\">http://www.uhb.co.jp/uhb.html</a><br/>\nIt was made by his descendent and will only be shown in Hokkaido<br/>\nPlease visit the page and click on the word for Shinsengumi...<br/>\n<br/>\n*Important* Pics<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uhb.co.jp/program/041121_14/image/01.jpg\">http://www.uhb.co.jp/program/041121_14/image/01.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uhb.co.jp/program/041121_14/image/09.jpg\">http://www.uhb.co.jp/program/041121_14/image/09.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uhb.co.jp/program/041121_14/image/02.jpg\">http://www.uhb.co.jp/program/041121_14/image/02.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1847,
+    "nextTopicId": 1849
+}

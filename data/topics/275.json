@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "the great Yahoo delay mystery",
+            "postDate": "1080959680",
+            "msgId": 282,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNkUyMkMwLjgwNzA5MDZAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PDIwMDQwNDAzMDEyMjM1Ljg1ODM4LnFtYWlsQHdlYjIxNDExLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwNDAzMDEyMjM1Ljg1ODM4LnFtYWlsQHdlYjIxNDExLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 275,
+            "nextInTopic": 0,
+            "prevInTime": 281,
+            "nextInTime": 283,
+            "topicId": 275,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "<div id=\"ygrps-yiv-1139735593\">&lt;&lt;Well, my reply has yet to show... I expect it will eventually... but <br/>\nit&#39;s really aggravating when a test message sent over an hour after it <br/>\nshows up before it.&gt;&gt;<br/>\n<br/>\nOn my end the test came through and I saw your reply to Tiffany&#39;s post <br/>\nin the correct order.  Go figure.  Last week Yahoo was screwing up my <br/>\nmessages and they were all out of whack with answers to questions I <br/>\ndidn&#39;t see for over 24 hrs.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saitou living at the detention center",
+            "postDate": "1080955355",
+            "msgId": 275,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNDAzMDEyMjM1Ljg1ODM4LnFtYWlsQHdlYjIxNDExLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 282,
+            "prevInTime": 274,
+            "nextInTime": 276,
+            "topicId": 275,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Well, my reply has yet to show... I expect it will eventually... but it s really aggravating when a test message sent over an hour after it shows up before it.",
+            "messageBody": "<div id=\"ygrps-yiv-912871411\">Well, my reply has yet to show... I expect it will eventually... but it&#39;s really aggravating when a test message sent over an hour after it shows up before it.<br/>\n <br/>\nIn the meantime, the gist of what I replied was that of all days for me to be watching hours of prison history on History Channel, you would come up with your little tease of information.  If the Meiji was also structuring incarceration systems on western models (along with its armed and police forces), it would not have been unusual for Saitou/Fujita to have lived at the site as an officer, perhaps in charge of discipline (& he would&#39;ve probably been very effective, ne?).  Through the 19th and into the 20th centuries, it was more common for prison staff to live on or adjacent to the prison grounds, from the warden on down.  Given how strict and restrictive I&#39;ve read the police system was, it wouldn&#39;t surprise me if he was required to live there.  And, that&#39;s what I conclude from what you reported the woman telling you... he was an officer and he lived there, not that he was incarcerated there.<br/>\n <br/>\nIt&#39;s just one more of those incredibly fascinating things demanding a translation... which was it?  Was he an employee or an inmate????  And I wouldn&#39;t trust babelfish to give me a definitive answer.   :-D  I&#39;d *love* to know if you find out anything about it.<br/>\n <br/>\nphil (apologizing in advance for repeat of comments)<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Small Business $15K Web Design Giveaway - Enter today<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 278,
+    "nextTopicId": 284
+}

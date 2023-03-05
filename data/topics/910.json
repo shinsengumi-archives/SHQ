@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "You, too can hear Hijikata sing!",
+            "postDate": "1085955331",
+            "msgId": 910,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQkE1RDAzLjQwNzA5MDJAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 909,
+            "nextInTime": 911,
+            "topicId": 910,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In the group Files section I uploaded the mp3 file provided by  group member Tama of last week s NHK Shinsengumi episode in which Hijikata sings while a couple",
+            "messageBody": "<div id=\"ygrps-yiv-105882802\">In the group Files section I uploaded the mp3 file provided by  group <br/>\nmember Tama of last week&#39;s NHK Shinsengumi episode in which Hijikata <br/>\nsings while a couple of the other guys (Kondou, Inoue, Nagakura & <br/>\nHarada) do a dance. The video quality isn&#39;t 100% sharp but it&#39;s not bad <br/>\nand the sound is just fine.<br/>\n<br/>\nAnd you even get to see Harada showing off his bright yellow fundoshi. <br/>\nwhoa baby....<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 906,
+    "nextTopicId": 909
+}

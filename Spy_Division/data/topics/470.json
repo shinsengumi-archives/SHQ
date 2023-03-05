@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 187644690,
+            "authorName": "chibi_aiko2000",
+            "from": "&quot;chibi_aiko2000&quot; &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengumi Calendar: January",
+            "postDate": "1102555650",
+            "msgId": 472,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwODltMitydThzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEJBWTIyLUYyNEU5NzQzRUFEOUNDMzVDQUQ4QjZGOUZCNjBAcGh4LmdibD4="
+            },
+            "prevInTopic": 471,
+            "nextInTopic": 0,
+            "prevInTime": 471,
+            "nextInTime": 473,
+            "topicId": 470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "January: http://www.geocities.com/chibi_aiko2000/January.pdf Yep, that s what I ve got so far ^^ maybe when I get Adobe Photoshop for Xmas I can make it look",
+            "messageBody": "<div id=\"ygrps-yiv-1375133461\">January:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/chibi_aiko2000/January.pdf\">http://www.geocities.com/chibi_aiko2000/January.pdf</a><br/>\n<br/>\nYep, that&#39;s what I&#39;ve got so far ^^ maybe when I get Adobe Photoshop <br/>\nfor Xmas I can make it look really nice or something, but I like it <br/>\nas it is now.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ_Spy_Division] Shinsengumi Calendar: January",
+            "postDate": "1102477321",
+            "msgId": 471,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYyNEU5NzQzRUFEOUNDMzVDQUQ4QjZGOUZCNjBAcGh4LmdibD4=",
+                "inReplyToHeader": "PGNwNXQzYStxNWhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 470,
+            "nextInTopic": 472,
+            "prevInTime": 470,
+            "nextInTime": 472,
+            "topicId": 470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Where is your site? --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1248311301\">Where is your site?<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 187644690,
+            "authorName": "chibi_aiko2000",
+            "from": "&quot;chibi_aiko2000&quot; &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi Calendar: January",
+            "postDate": "1102477226",
+            "msgId": 470,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwNXQzYStxNWhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 471,
+            "prevInTime": 469,
+            "nextInTime": 471,
+            "topicId": 470,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yep, I have January now.  It s in PDF formatting.  Next I ll release February, and so on.  Thanks for all the help, you all.  I ll upload it to my site soon.",
+            "messageBody": "<div id=\"ygrps-yiv-1553856011\">Yep, I have January now.  It&#39;s in PDF formatting.  Next I&#39;ll release <br/>\nFebruary, and so on.  Thanks for all the help, you all.  I&#39;ll upload <br/>\nit to my site soon.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 467,
+    "nextTopicId": 473
+}

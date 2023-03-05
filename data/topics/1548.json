@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "3-hajime.com server move + shinsengumi M.A.",
+            "postDate": "1094051343",
+            "msgId": 1548,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNoNG9tZit0cm8yQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1547,
+            "nextInTime": 1549,
+            "topicId": 1548,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "sometime this month you will no longer be able to access 3-hajime.com you will have to go to.... http://hajime3.hp.infoseek.co.jp/index.html please update your",
+            "messageBody": "<div id=\"ygrps-yiv-724276363\">sometime this month you will no longer be able to access <br/>\n3-hajime.com you will have to go to....<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hajime3.hp.infoseek.co.jp/index.html\">http://hajime3.hp.infoseek.co.jp/index.html</a><br/>\nplease update your bookmarks<br/>\n-----------------------------------------------------------<br/>\nshinsengumi M.A...you don&#39;t have to understand 100% of the <br/>\ndiscussion but I think many of you should skim the following...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://listserv.uoguelph.ca/cgi-bin/wa?S1=iaido-l\">http://listserv.uoguelph.ca/cgi-bin/wa?S1=iaido-l</a><br/>\nuse key words &quot;shinsen&quot; and &quot;Shinsengumi&quot; you may also find people&#39;s <br/>\nnames...continue search with those names and so forth...HIGHLY <br/>\nRECOMMENDED <br/>\n-----------------------------------------------------------<br/>\nsecretarytocapt3<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com\">http://www.shinsengumimb.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com\">http://www.shinsengumihq.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumidb.com\">http://www.shinsengumidb.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1516,
+    "nextTopicId": 1553
+}

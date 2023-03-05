@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New Cosplay Pics",
+            "postDate": "1254706703",
+            "msgId": 3485,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhhYmltZisxMGswN0BlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3484,
+            "nextInTime": 3486,
+            "topicId": 3485,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Pics are by Kikue from Anime Weekend Atlanta (awa-con.com) http://shinsengumihq.com/?p=234 ~secretarytocapt3",
+            "messageBody": "<div id=\"ygrps-yiv-260969304\">Pics are by Kikue from Anime Weekend Atlanta (awa-con.com)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.com/?p=234\">http://shinsengumihq.com/?p=234</a><br/>\n<br/>\n~secretarytocapt3</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3482,
+    "nextTopicId": 3337
+}

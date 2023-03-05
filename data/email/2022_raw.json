@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "dYuBhuwxJRjMPtKzlfqhP72JCNk0n0SzfonjM276n4fnplODaotiYDOV2D4pEo3pjWXD8koLLVsNPMc",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1105501620",
+    "msgId": 2022,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMDU1MDE2MjAuMTI1OC42ODE0MS53MjVAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 113,
+    "nextInTopic": 2024,
+    "prevInTime": 2021,
+    "nextInTime": 2023,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Kiyota,Minoru The",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 59117 invoked from network); 12 Jan 2005 03:47:13 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m6.grp.scd.yahoo.com with QMQP; 12 Jan 2005 03:47:13 -0000\r\nReceived: from unknown (HELO n16a.bulk.scd.yahoo.com) (66.94.237.45)\n  by mta1.grp.scd.yahoo.com with SMTP; 12 Jan 2005 03:47:13 -0000\r\nReceived: from [66.218.66.59] by n16.bulk.scd.yahoo.com with NNFMP; 12 Jan 2005 03:47:04 -0000\r\nReceived: from [66.218.67.145] by mailer8.bulk.scd.yahoo.com with NNFMP; 12 Jan 2005 03:47:04 -0000\r\nDate: 12 Jan 2005 03:47:00 -0000\r\nMessage-ID: &lt;1105501620.1258.68141.w25@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.94.237.45\r\n\r\n\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Kiyota,Minoru The Shambhala Guide to Kendo.htm \n  Uploaded by : secretarytocapt3 &lt;secretarytocapt3@...&gt; \n  Description : Shinsengumi mentioned in Shambhala Guide to Kendo \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/Kiyota%2CMinoru%20The%20Shambhala%20Guide%20to%20Kendo.htm \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nsecretarytocapt3 &lt;secretarytocapt3@...&gt;\n \n\n\n\n\n\n\n\n"
+}

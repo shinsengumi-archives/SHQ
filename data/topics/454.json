@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "message board trouble?",
+            "postDate": "1082242747",
+            "msgId": 454,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwODFCNkJCLjMwMTA5MDFAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 453,
+            "nextInTime": 455,
+            "topicId": 454,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is anyone else having trouble with the ezboard or has that blasted babelfish . turned it against me? Yes, I do love a good conspiracy theory! -- Barbara",
+            "messageBody": "<div id=\"ygrps-yiv-669465365\">Is anyone else having trouble with the ezboard or has that blasted <br/>\nbabelfish .<br/>\nturned it against me?<br/>\n<br/>\nYes, I do love a good conspiracy theory!<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 435,
+    "nextTopicId": 405
+}

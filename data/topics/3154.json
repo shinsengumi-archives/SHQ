@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Shinsengumi Youtube Channel",
+            "postDate": "1170183536",
+            "msgId": 3154,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwbzRoZytmNW1hQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3153,
+            "nextInTime": 3155,
+            "topicId": 3154,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://shinsengumihq.livejournal.com/28036.html go ahead and friend the youtube account for now there is one vid up and all the friends listed have ",
+            "messageBody": "<div id=\"ygrps-yiv-611631003\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.livejournal.com/28036.html\">http://shinsengumihq.livejournal.com/28036.html</a><br/>\n<br/>\ngo ahead and friend the youtube account <br/>\n<br/>\nfor now there is one vid up and all the &quot;friends&quot; listed have <br/>\nShinsengumi or Bakumatsu related media<br/>\n<br/>\nin the future alot of media linked on the Makoto Film Dojo<br/>\n(including things from slide shows to audio fics, visual fics and <br/>\nindependent fan movies) will have files hosted on youtube and links to<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/mfd.html\">http://www.shinsengumihq.com/mfd.html</a> (this page is currently offline <br/>\nfor tech related magical maintenance I don&#39;t understand)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2613,
+    "nextTopicId": 3145
+}

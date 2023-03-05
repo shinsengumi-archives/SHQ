@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fanart of Nakano TAkeko",
+            "postDate": "1104125448",
+            "msgId": 491,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxbzZtOCtsNGRyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 490,
+            "nextInTime": 492,
+            "topicId": 491,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://1happyturtle.com/makoto/aizuwomensbrigade.jpg notice Nakano TAkeko and her sister Nakano Yuuko I stared at the pic for a while...figured that both",
+            "messageBody": "<div id=\"ygrps-yiv-827813445\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/aizuwomensbrigade.jpg\">http://1happyturtle.com/makoto/aizuwomensbrigade.jpg</a><br/>\nnotice Nakano TAkeko and her sister Nakano Yuuko<br/>\nI stared at the pic for a while...figured that both figures were <br/>\nreally beautiful then I drew this after deciding to combine both <br/>\ndesigns<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/NakanoTAkeko.jpg\">http://1happyturtle.com/makoto/NakanoTAkeko.jpg</a><br/>\nthe difference in mine is that Nakano Takeko is holding her death <br/>\npoem folded up in her right hand<br/>\nsecretarytocapt3<br/>\nAIM Badgerturtle</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 487,
+    "nextTopicId": 482
+}

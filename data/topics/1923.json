@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Happy Birthday Teruhime!",
+            "postDate": "1102983371",
+            "msgId": 1923,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYxOUVGRTYwOEVDNEFGQUFCOTQyRDkxOUZBQzBAcGh4LmdibD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1922,
+            "nextInTime": 1924,
+            "topicId": 1923,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Today is the birthday of Katamori s sister, Teruhime!  (13 Dec. 1832) In honor of her birthday, I have started a new livejournal: ",
+            "messageBody": "<div id=\"ygrps-yiv-949100106\">Today is the birthday of Katamori&#39;s sister, Teruhime!  (13 Dec. 1832)<br/>\n<br/>\nIn honor of her birthday, I have started a new livejournal:<br/>\n<br/>\nwww.livejournal.com/~teruhime, where &quot;Teruhime&quot; will periodically post <br/>\ninteresting tidbits about herself, the women of the Aizu Joushitai, about <br/>\nher brother, and any other (potentially embarrassing or not) tidbit she can <br/>\nfind. ^_^<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1917,
+    "nextTopicId": 1919
+}

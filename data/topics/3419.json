@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 187730799,
+            "authorName": "Zelie Z",
+            "from": "Zelie Z &lt;zelie417@...&gt;",
+            "profile": "zelie417",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SHQ] Mention of Okita in French",
+            "postDate": "1217423576",
+            "msgId": 3420,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIyNjk3LjcyNTcyLnFtQHdlYjUwMDEyLm1haWwucmUyLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PGc2cG4wcis3ZWtjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3419,
+            "nextInTopic": 0,
+            "prevInTime": 3419,
+            "nextInTime": 3421,
+            "topicId": 3419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "a rough translation: If you had to be a historical figure, who would you be? Okita Souji, the famous Shinsengumi captain, the strongest and youngest among",
+            "messageBody": "<div id=\"ygrps-yiv-1978933265\">a rough translation:<br/>\n  &quot;If you had to be a historical figure, who would you be? Okita Souji, the famous Shinsengumi captain, the strongest and youngest among them. I would like to be as gifted as him in handling the sword.&quot;<br/>\n   <br/>\n  Zelie<br/>\n  <br/>\nsecretary &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:secretarytocapt3@...\">secretarytocapt3@...</a>&gt; wrote:<br/>\n          <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.eparsa.fr/obsession/index.php?2008/07/30/27-elisee-de-\">http://www.eparsa.fr/obsession/index.php?2008/07/30/27-elisee-de-</a><br/>\notacon102<br/>\n<br/>\nAnyone here want to try translating it?<br/>\n<br/>\n&quot;Si vous deviez être un personnage célèbre qui seriez-vous ? Okita <br/>\nSouji, le célèbre capitaine du groupe Shinsengumi, le plus fort et le <br/>\nplus jeune d&#39;entre eux. J&#39;aimerai être aussi douée que lui aux <br/>\nmaniements du sabre.&quot;<br/>\n<br/>\nI&#39;m fascinated to hear what people in other parts of the world have to <br/>\nsay.<br/>\n<br/>\n<br/>\n<br/>\n                           <br/>\n<br/>\n       <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Mention of Okita in French",
+            "postDate": "1217421147",
+            "msgId": 3419,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc2cG4wcis3ZWtjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3420,
+            "prevInTime": 3418,
+            "nextInTime": 3420,
+            "topicId": 3419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.eparsa.fr/obsession/index.php?2008/07/30/27-elisee-de- otacon102 Anyone here want to try translating it? Si vous deviez être un personnage",
+            "messageBody": "<div id=\"ygrps-yiv-37684895\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.eparsa.fr/obsession/index.php?2008/07/30/27-elisee-de-\">http://www.eparsa.fr/obsession/index.php?2008/07/30/27-elisee-de-</a><br/>\notacon102<br/>\n<br/>\nAnyone here want to try translating it?<br/>\n<br/>\n&quot;Si vous deviez être un personnage célèbre qui seriez-vous ? Okita <br/>\nSouji, le célèbre capitaine du groupe Shinsengumi, le plus fort et le <br/>\nplus jeune d&#39;entre eux. J&#39;aimerai être aussi douée que lui aux <br/>\nmaniements du sabre.&quot;<br/>\n<br/>\nI&#39;m fascinated to hear what people in other parts of the world have to <br/>\nsay.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3383,
+    "nextTopicId": 3421
+}

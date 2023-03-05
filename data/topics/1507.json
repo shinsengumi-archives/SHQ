@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ATTENTION All!",
+            "postDate": "1093466824",
+            "msgId": 1507,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxMkNGQUM4LjkwNjAxMDNAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1506,
+            "nextInTime": 1508,
+            "topicId": 1507,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Our intrepid secretarytocaptthree has come up with a cool new layout for the website that I have undoubtedly screwed up terribly since it s off center on my",
+            "messageBody": "<div id=\"ygrps-yiv-985093715\">Our intrepid secretarytocaptthree has come up with a cool new layout for <br/>\nthe website that I have undoubtedly screwed up terribly since it&#39;s off <br/>\ncenter on my end since I use a different editing program *sigh*  I <br/>\nhaven&#39;t converted all the pages since I don&#39;t want to chance ruining <br/>\nthem all at once :)<br/>\nAnyway, mosey on over to <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/\">http://www.shinsengumihq.com/</a><br/>\n<br/>\nAnd let me know what you think and feel free to offer any and all <br/>\nhelpful hints and maybe an idea on where I can get Dreamweaver really <br/>\ncheap...<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1506,
+    "nextTopicId": 1259
+}

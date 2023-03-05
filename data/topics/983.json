@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Cool Book on Seinan/Satsuma War (in Japanese)",
+            "postDate": "1086469223",
+            "msgId": 983,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5dGM5NysxMTUxdkBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 981,
+            "nextInTime": 984,
+            "topicId": 983,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Both books are in Japanese...I m posting them for people who are seriously studying this time period this book was in my univ. library...pretty cool book it",
+            "messageBody": "<div id=\"ygrps-yiv-893848015\">Both books are in Japanese...I&#39;m posting them for people who are <br/>\nseriously studying this time period <br/>\n<br/>\nthis book was in my univ. library...pretty cool book it even has a <br/>\npic of Toshiyoshi Kawaji...the book is about the Seinan War<br/>\n<br/>\nTitle: Shinpen seinan senshi / [hensha Rikuj¯o Jieitai Kita Kumamoto <br/>\nSh¯ushinkai]. <br/>\nEdition: Dai 3-han. <br/>\nPublisher: T¯oky¯o : Hara Shob¯o, Sh¯owa 54 [1979] <br/>\nDescription: 504 p., [11] leaves of plates : ill. ; 22 cm. &atlas (2 <br/>\np., [59] leaves of plates : 59 maps ; 21 cm.) <br/>\nSeries: Meiji hyakunenshi s¯osho ; Dai 265-kan <br/>\nOCLC: (RLIN)WIUO87-B452  <br/>\n-----------------------------------------------<br/>\nand this book has just maps of each battle (color coded too)<br/>\nTitle: Shinpen seinan senshi. Fuzushu´ <br/>\nPublisher: T¯oky¯o : Harashob¯o, 1977. <br/>\nDescription: 56 : ill. ; 22 cm. <br/>\nOCLC: (OCoLC)33689196</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 979,
+    "nextTopicId": 985
+}

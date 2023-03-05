@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Reminder and call for contributions",
+            "postDate": "1085768300",
+            "msgId": 286,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQjc4MjZDLjcwNDA3MDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 285,
+            "nextInTime": 287,
+            "topicId": 286,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "EVERYONE is welcome to submit information, commentary, movie / anime reviews/ art fiction/ what-have-you for Shinsengumi related things you may have seen. It",
+            "messageBody": "<div id=\"ygrps-yiv-1720732895\">EVERYONE is welcome to submit information, commentary, movie / anime <br/>\nreviews/ art fiction/ what-have-you for Shinsengumi related things you <br/>\nmay have seen. It doesn&#39;t matter if it&#39;s already represented on the site <br/>\nI think it would be great to get as many opinions as we can since we all <br/>\nview thing differently.<br/>\n<br/>\nI added a few comments to the run down of Shinsengumi Keppuroku that <br/>\nSecretarytocapt3 wrote and  Okita contributed his thoughts to what he&#39;s <br/>\nseen of the new NHK drama.  Have anything to add to my ramblings on PMK <br/>\nor RK or the kenshin OVAs? C&#39;mon and toss &#39;em my way.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 284,
+    "nextTopicId": 289
+}

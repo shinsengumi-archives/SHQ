@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "GBattista (hajimenokizu)",
+            "from": "&quot;GBattista (hajimenokizu)&quot; &lt;mg_batt@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Saitou Fanart at Shinsengumihq.com",
+            "postDate": "1121315940",
+            "msgId": 625,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiNHE5NCs4aG4xQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRiM2kyais1azdzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 623,
+            "nextInTopic": 0,
+            "prevInTime": 624,
+            "nextInTime": 626,
+            "topicId": 623,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Oh I saw this up on ebay a while back. I think it was done with india ink... Anyway Ai and co are great people. Everyone should check out their",
+            "messageBody": "<div id=\"ygrps-yiv-687405862\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;secretary&quot; <br/>\n&lt;secretarytocapt3@h...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; From AI please click on the image to see the full image<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/art.htm\">http://www.shinsengumihq.com/art.htm</a><br/>\n&gt; I really love the mixture of lines, texture and care taken in drawing <br/>\n&gt; Saitou&#39;s fingers (I hate drawing hands!)<br/>\n&gt; Outstanding!<br/>\n<br/>\n </span></blockquote>Oh I saw this up on ebay a while back. I think it was done with india <br/>\nink... Anyway Ai and co are great people. Everyone should check out <br/>\ntheir site/portfolio at www.ai-dax.com<br/>\n<br/>\nAnd while we&#39;re on the subject of art... Elfwood.com has archived some <br/>\ngreat fanart on Saitou too, just use the google search within their <br/>\nwebsite.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Saitou Fanart at Shinsengumihq.com",
+            "postDate": "1121274771",
+            "msgId": 623,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiM2kyais1azdzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 625,
+            "prevInTime": 622,
+            "nextInTime": 624,
+            "topicId": 623,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "From AI please click on the image to see the full image http://www.shinsengumihq.com/art.htm I really love the mixture of lines, texture and care taken in",
+            "messageBody": "<div id=\"ygrps-yiv-349132802\">From AI please click on the image to see the full image<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/art.htm\">http://www.shinsengumihq.com/art.htm</a><br/>\nI really love the mixture of lines, texture and care taken in drawing <br/>\nSaitou&#39;s fingers (I hate drawing hands!)<br/>\nOutstanding!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 622,
+    "nextTopicId": 624
+}

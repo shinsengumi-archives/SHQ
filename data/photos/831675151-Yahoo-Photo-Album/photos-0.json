@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 12286059,
+        "albumId": 831675151,
+        "photoId": 1735173049,
+        "photoName": "Spy+pic",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "bsher213",
+        "modificationDate": 1079567683,
+        "creationDate": 1079567683,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/tn/lNJ_v5ztfdLyt57KO3nk/name/n_a",
+                "height": 96,
+                "width": 96,
+                "size": 3889,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/sn/lNJ_v5ztfdLyt57KO3nk/name/n_a",
+                "height": 360,
+                "width": 360,
+                "size": 34549,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/hr/lNJ_v5ztfdLyt57KO3nk/name/n_a",
+                "height": 360,
+                "width": 360,
+                "size": 34549,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

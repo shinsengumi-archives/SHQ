@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi Gryphon",
+            "postDate": "1088012316",
+            "msgId": 324,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjIzMTczODM2LjIwNzI3LnFtYWlsQHdlYjIxNDA5Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 323,
+            "nextInTime": 325,
+            "topicId": 324,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Pop on over to the LJ, look under Friends, and find the entry that announces getting a great deal on a digital camera (I ve lost the title... it s a long",
+            "messageBody": "<div id=\"ygrps-yiv-119746100\">Pop on over to the LJ, look under Friends, and find the entry that announces getting a great deal on a digital camera (I&#39;ve lost the title... it&#39;s a long one... starts with &quot;Holy Crap&quot;).  It&#39;s currently the first entry:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.livejournal.com/community/shq_spy_office/friends\">http://www.livejournal.com/community/shq_spy_office/friends</a><br/>\n <br/>\nImpressive, I think.  :-D<br/>\n <br/>\nphil<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nNew and Improved Yahoo! Mail - Send 10MB messages!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 323,
+    "nextTopicId": 325
+}

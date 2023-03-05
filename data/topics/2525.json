@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "RE: [SHQ] which one is good",
+            "postDate": "1124689491",
+            "msgId": 2526,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMjczRjUzOUQ3Q0Y3NTQ5MjFGNEVBRDlGQjYwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRlYm9ncCtyZjZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2525,
+            "nextInTopic": 0,
+            "prevInTime": 2525,
+            "nextInTime": 2527,
+            "topicId": 2525,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Black with white triangles? It s better to wear white with black triangles, as black with white triangles may be confused with the costume of the 47 Ronin as",
+            "messageBody": "<div id=\"ygrps-yiv-99685998\">Black with white triangles? It&#39;s better to wear white with black triangles, <br/>\nas black with white triangles may be confused with the costume of the 47 <br/>\nRonin as portrayed in Kabuki.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "which one is good",
+            "postDate": "1124689241",
+            "msgId": 2525,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlYm9ncCtyZjZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2526,
+            "prevInTime": 2524,
+            "nextInTime": 2526,
+            "topicId": 2525,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If I would go to Japan to the festival of Shinsengumi and wore the black and white would I be looked looked down on?",
+            "messageBody": "<div id=\"ygrps-yiv-1286992316\">If I would go to Japan to the festival of Shinsengumi and wore the <br/>\nblack and white would I be looked looked down on?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2523,
+    "nextTopicId": 2527
+}

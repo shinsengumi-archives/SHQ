@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Fanart from Japanese sites",
+            "postDate": "1129516839",
+            "msgId": 685,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpdjJ2NytiYWttQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 684,
+            "nextInTime": 686,
+            "topicId": 685,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Okita http://www9.plala.or.jp/airi/shinsen/okita2.html Shinsengumi at Aizu http://www9.plala.or.jp/airi/shinsen/aidu.html Saitou ",
+            "messageBody": "<div id=\"ygrps-yiv-1219482562\">Okita<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www9.plala.or.jp/airi/shinsen/okita2.html\">http://www9.plala.or.jp/airi/shinsen/okita2.html</a><br/>\n<br/>\nShinsengumi at Aizu<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www9.plala.or.jp/airi/shinsen/aidu.html\">http://www9.plala.or.jp/airi/shinsen/aidu.html</a><br/>\n<br/>\nSaitou<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www9.plala.or.jp/airi/shinsen/hazime.html\">http://www9.plala.or.jp/airi/shinsen/hazime.html</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www9.plala.or.jp/airi/shinsen/nenga.html\">http://www9.plala.or.jp/airi/shinsen/nenga.html</a><br/>\n<br/>\nSeveral Shinsengumi pages are linked up to Aizu &quot;fandoms&quot; which<br/>\nfeature some historical figures from that domain who were<br/>\nfriends/comrades with Saitou</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 672,
+    "nextTopicId": 670
+}

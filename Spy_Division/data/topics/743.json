@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 253532186,
+            "authorName": "kool_kendo_4life",
+            "from": "&quot;kool_kendo_4life&quot; &lt;kool_kendo_4life@...&gt;",
+            "profile": "kool_kendo_4life",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Serizawa Kamo",
+            "postDate": "1136604127",
+            "msgId": 743,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwbmM0dis5cjNqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 742,
+            "nextInTime": 744,
+            "topicId": 743,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "he was a ruler with a cruel heart I think Isami Kondo is much better than him he was foolish Serizawa to be the commander.",
+            "messageBody": "<div id=\"ygrps-yiv-730606867\">he was a ruler with a cruel heart I think Isami Kondo is much better <br/>\nthan him he was foolish Serizawa to be the commander.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 740,
+    "nextTopicId": 744
+}

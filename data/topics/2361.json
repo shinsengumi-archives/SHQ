@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "great deal on Mibu Gishi Den",
+            "postDate": "1111638740",
+            "msgId": 2361,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyNDI0MkQ0LjIwMjA1MDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2360,
+            "nextInTime": 2362,
+            "topicId": 2361,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Samurai dvd ( a very reliable dealer) is currently offering When the Last Sword is Drawn a/k/a Mibugishiden both the single disc and the 2 disc version with eh",
+            "messageBody": "<div id=\"ygrps-yiv-117739745\">Samurai dvd ( a very reliable dealer) is currently offering When the <br/>\nLast Sword is Drawn a/k/a Mibugishiden both the single disc and the 2 <br/>\ndisc version with eh extra features disc (features unsubtitled)<br/>\n<br/>\nCheck it out here.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://p214.ezboard.com/ftheninjadojo89233frm15.showMessage?topicID=57.topic\">http://p214.ezboard.com/ftheninjadojo89233frm15.showMessage?topicID=57.topic</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\nThe Blog-- <a rel=\"nofollow\" target=\"_blank\" href=\"http://barbarasheridan.blogspot.com/\">http://barbarasheridan.blogspot.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2278,
+    "nextTopicId": 2363
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 272003769,
+            "authorName": "Seven",
+            "from": "&quot;Seven&quot; &lt;nlf7@...&gt;",
+            "profile": "sevenofwiki",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Yamanami Keisuke-need help!",
+            "postDate": "1175340613",
+            "msgId": 3225,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV1bGdvNStjN3NrQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGV1bGJrNytkNmw0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3224,
+            "nextInTopic": 0,
+            "prevInTime": 3224,
+            "nextInTime": 3226,
+            "topicId": 3224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I don t think so. ... He was said to be small-statured and pale-skinned. ~Seven",
+            "messageBody": "<div id=\"ygrps-yiv-1635361733\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Akimiya&quot; &lt;melianeth@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Does a photo or some painting, drawing exist of him?! <br/>\n<br/>\n </span></blockquote>I don&#39;t think so.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Or some<br/>\n&gt; informations concerning his physical features?! <br/>\n<br/>\n </span></blockquote>He was said to be small-statured and pale-skinned.<br/>\n<br/>\n~Seven</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 151389047,
+            "authorName": "Akimiya",
+            "from": "&quot;Akimiya&quot; &lt;melianeth@...&gt;",
+            "profile": "melianeth",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Yamanami Keisuke-need help!",
+            "postDate": "1175335367",
+            "msgId": 3224,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV1bGJrNytkNmw0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3225,
+            "prevInTime": 3213,
+            "nextInTime": 3225,
+            "topicId": 3224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does a photo or some painting, drawing exist of him?! Or some informations concerning his physical features?! (So far I have found none! But I think at least a",
+            "messageBody": "<div id=\"ygrps-yiv-2040769414\">Does a photo or some painting, drawing exist of him?! Or some<br/>\ninformations concerning his physical features?! <br/>\n<br/>\n(So far I have found none! But I think at least a drawing might exist<br/>\nor some descriptions of him!!)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3209,
+    "nextTopicId": 3226
+}

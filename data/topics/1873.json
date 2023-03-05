@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "a fun thing",
+            "postDate": "1101679813",
+            "msgId": 1873,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxQUE0Q0M1LjEwMzA0MDlAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1872,
+            "nextInTime": 1874,
+            "topicId": 1873,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I came across this on the Jdorama site it s a name generator that converts your name to a Japanese equivalent I am: Nakashima Miharu :) 中島 Nakashima",
+            "messageBody": "<div id=\"ygrps-yiv-1340678203\">I came across this on the Jdorama site it&#39;s a name generator that <br/>\nconverts your name to a Japanese &quot;equivalent&quot;<br/>\n<br/>\nI am: Nakashima Miharu :)<br/>\n<br/>\n中島 Nakashima (center of the island) 美晴 Miharu (beautiful clear sky)<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1865,
+    "nextTopicId": 1859
+}

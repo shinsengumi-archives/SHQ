@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Website News",
+            "postDate": "1089862192",
+            "msgId": 1369,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwRjVGQTMwLjkwOTA0MDJAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1368,
+            "nextInTime": 1370,
+            "topicId": 1369,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Check this out ---we have over 1,100 hits to SHQ and that s just in the two weeks or so since I got the page counter to work! -- Barbara Sheridan ",
+            "messageBody": "<div id=\"ygrps-yiv-1296478791\">Check this out ---we have over 1,100 hits to SHQ and that&#39;s just in the <br/>\ntwo weeks or so since I got the page counter to work!<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1368,
+    "nextTopicId": 1370
+}

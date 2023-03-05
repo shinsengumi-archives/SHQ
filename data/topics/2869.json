@@ -1,0 +1,72 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] [Okita Souji] SHINSENGUMI VAMPIRE {needs to be confirmed}",
+            "postDate": "1150914709",
+            "msgId": 2870,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ0OTk5MDk1LjkwNjA0MDFAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGU3YzJhaCt0anN2QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGU3YzJhaCt0anN2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2869,
+            "nextInTopic": 0,
+            "prevInTime": 2869,
+            "nextInTime": 2871,
+            "topicId": 2869,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey! That was my idea! Barb Sheridan http://www.dragonsdisciple.com",
+            "messageBody": "<div id=\"ygrps-yiv-1471201768\">Hey! That was my idea!<br/>\n<br/>\nBarb Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dragonsdisciple.com\">http://www.dragonsdisciple.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "[Okita Souji] SHINSENGUMI VAMPIRE {needs to be confirmed}",
+            "postDate": "1150913681",
+            "msgId": 2869,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3YzJhaCt0anN2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2870,
+            "prevInTime": 2868,
+            "nextInTime": 2870,
+            "topicId": 2869,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ok so some of us have either read or heard of Shinsengumi in fantasy crossovers with all sorts of supernatural touches. I have bothered so many people ---",
+            "messageBody": "<div id=\"ygrps-yiv-1610372924\">Ok so some of us have either read or heard of Shinsengumi in fantasy <br/>\ncrossovers with all sorts of supernatural touches.<br/>\n<br/>\nI have bothered so many people --- especially those who write about <br/>\nvampires... about something like this<br/>\n<br/>\nbut it seems that some theatre company beat us to it (warning, <br/>\ncampiness ahead)<br/>\n<br/>\nand I got totally confused, it seems that the clip is showing 2 <br/>\ndifferent productions, one is the vampire one, the other is a stage <br/>\nshow<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=Xeyh42cM4pc\">http://www.youtube.com/watch?v=Xeyh42cM4pc</a></div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/Xeyh42cM4pc?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 2857,
+    "nextTopicId": 2872
+}

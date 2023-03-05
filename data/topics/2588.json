@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 204003644,
+            "authorName": "oiattack",
+            "from": "&quot;oiattack&quot; &lt;oiattack@...&gt;",
+            "profile": "oiattack",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hello everone",
+            "postDate": "1129617426",
+            "msgId": 2588,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRqMjU2aStyMHZwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2587,
+            "nextInTime": 2589,
+            "topicId": 2588,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, i just joined so i thought that i d interduse myself. I m 21 years in age currenty in college for computer science, and i ve allways had an keen intrest",
+            "messageBody": "<div id=\"ygrps-yiv-1726811077\">Hello, i just joined so i thought that i&#39;d interduse myself.<br/>\nI&#39;m 21 years in age currenty in college for computer science, and i&#39;ve<br/>\nallways had an keen intrest in the japanese culture, history, and film<br/>\naswell as anime. I first got intrested in the shinsengumi from the<br/>\nanime Rurouni Kenshin, with Saitou as my favorite charector. Soon<br/>\nafter i found myself trying to get a hold on anything that deals with<br/>\nthe Shinsengumi. Right now i&#39;m currently reading &quot;Shinsengumi: The<br/>\nShogun&#39;s Last Samurai Corps&quot; and i cant seem to put it down.<br/>\n<br/>\nHeres a list of some Shinsengumi related materials i own:<br/>\n<br/>\nanime:<br/>\nRurouni Kenshin (all three arks)<br/>\nPeace Maker<br/>\nShura no Toki<br/>\n<br/>\nMovies:<br/>\nMibugishiden (When the Last Sword is Drawn)<br/>\nTaboo<br/>\n<br/>\nBooks:<br/>\nShinsengumi: The Shogun&#39;s Last Samurai Corps<br/>\nSakamoto Ryoma and the Meiji Restoration<br/>\n<br/>\nand probably soom other stuff i cant think of<br/>\n<br/>\nanyway nice to meet everyone</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2138,
+    "nextTopicId": 2589
+}

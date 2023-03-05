@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Sorry, wrong url for Hakodate site.",
+            "postDate": "1111150339",
+            "msgId": 2341,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxZWl1Mys5NzFxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2340,
+            "nextInTime": 2342,
+            "topicId": 2341,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The correct url is http://www.0033worldnavi.com/featured_city/en/hakodate/page3.php",
+            "messageBody": "<div id=\"ygrps-yiv-1017165139\">The correct url is <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.0033worldnavi.com/featured_city/en/hakodate/page3.php\">http://www.0033worldnavi.com/featured_city/en/hakodate/page3.php</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2340,
+    "nextTopicId": 2332
+}

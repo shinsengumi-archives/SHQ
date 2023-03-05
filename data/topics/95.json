@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Okita letter",
+            "postDate": "1080061351",
+            "msgId": 95,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcHFqNysxYXJnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 94,
+            "nextInTime": 96,
+            "topicId": 95,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Have posted a pic of a letter by Okita to Satou Hikogorou (Kondou s friend). Will have a translation later today. --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1533630635\">Have posted a pic of a letter by Okita to Satou Hikogorou (Kondou&#39;s<br/>\nfriend). Will have a translation later today.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 94,
+    "nextTopicId": 96
+}

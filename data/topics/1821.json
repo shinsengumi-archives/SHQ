@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "2 pics &gt;&gt;&gt; &quot;Photos&quot;",
+            "postDate": "1099927181",
+            "msgId": 1821,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtbzJxZCtsMTZqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1820,
+            "nextInTime": 1822,
+            "topicId": 1821,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "the image of Nagakura s daughter and the new picture of Fujita Goro is in Photos folder which deals with Shinsengumi and related people. I have been",
+            "messageBody": "<div id=\"ygrps-yiv-2089908197\">the image of Nagakura&#39;s daughter and the new picture of Fujita Goro is<br/>\nin &quot;Photos&quot;&gt;&gt;&gt;folder which deals with Shinsengumi and related people.<br/>\n<br/>\nI have been following posts at <a rel=\"nofollow\" target=\"_blank\" href=\"http://hajime3.hp.infoseek.co.jp/index.html\">http://hajime3.hp.infoseek.co.jp/index.html</a><br/>\n<br/>\nand one person believes that the new Fujita Goro picture is a collage<br/>\n(a combination of 2-3 images)...but just because it is a collage does<br/>\nnot mean that the man identified is NOT Fujita Goro because collaging<br/>\nwas used in that era to fit people onto one image for convenience (^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1820,
+    "nextTopicId": 1813
+}

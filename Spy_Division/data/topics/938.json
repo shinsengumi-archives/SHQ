@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "For Yamanami Fans...",
+            "postDate": "1254585730",
+            "msgId": 938,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhhN3NpMisxMzM3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 937,
+            "nextInTime": 939,
+            "topicId": 938,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.elaineforlife.com/LaineysBlog/tabid/463/EntryId/133/Welcome.aspx tinyurl: http://tinyurl.com/ygo44kb Falling Through Glass now available at Liquid",
+            "messageBody": "<div id=\"ygrps-yiv-1156445858\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.elaineforlife.com/LaineysBlog/tabid/463/EntryId/133/Welcome.aspx\">http://www.elaineforlife.com/LaineysBlog/tabid/463/EntryId/133/Welcome.aspx</a><br/>\n<br/>\ntinyurl: <a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/ygo44kb\">http://tinyurl.com/ygo44kb</a><br/>\n<br/>\nFalling Through Glass now available at Liquid Silver Books features several Shinsengumi but Yamanami and Hijikata are the dominant figures.<br/>\n<br/>\nCheck it out (^_^).</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 937,
+    "nextTopicId": 547
+}

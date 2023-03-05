@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Availability: Japan - Memoirs of a Secret Empire",
+            "postDate": "1085636969",
+            "msgId": 876,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTI3MDU0OTI5LjYxNTYucW1haWxAd2ViMjE0MDkubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 875,
+            "nextInTime": 877,
+            "topicId": 876,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone who is/was unable to view the program, it s available on DVD and VHS through PBS for $29.98 (plus shipping/handling).  They re advertising the",
+            "messageBody": "<div id=\"ygrps-yiv-691758037\">For anyone who is/was unable to view the program, it&#39;s available on DVD and VHS through PBS for $29.98 (plus shipping/handling).  They&#39;re advertising the following number for ordering:<br/>\n <br/>\n1-800-PLAY-PBS<br/>\n <br/>\nYou might also check the PBS website at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pbs.org/\">http://www.pbs.org/</a> ... it may be available there too, though they&#39;re not advertising it.<br/>\n <br/>\nphil<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 869,
+    "nextTopicId": 873
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Help! Shinsengumi books!",
+            "postDate": "1173717741",
+            "msgId": 3187,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV0M3Z0ZCsxMGM4YkBlR3JvdXBzLmNvbT4=",
+                "inReplyToHeader": "PGV0MzcxZSs1b2Y0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3185,
+            "nextInTopic": 0,
+            "prevInTime": 3186,
+            "nextInTime": 3188,
+            "topicId": 3185,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think you can find most books over at http://www.amazon.co.jp you just have to try to get the the titles or author names in Japanese and do a search.  The",
+            "messageBody": "<div id=\"ygrps-yiv-1620523912\">I think you can find most books over at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.amazon.co.jp\">http://www.amazon.co.jp</a><br/>\nyou just have to try to get the the titles or author names in Japanese <br/>\nand do a search.  The last 3 are really the most common.  But I know <br/>\nthat sometimes filling out the order page on Amazon.co.jp can be <br/>\nreally hard.  Is there an online Japanese bookstore in your country?  <br/>\nThey can order these books for you.  In regards to Kan Shimosawa you <br/>\nhave to take his info at &quot;face value&quot;...some details are hard to trace <br/>\nto a source and you have to make a judgment call on some of his <br/>\nresearch.  He represents a truly early attempt at gathering <br/>\ninformation in this field (so his job was really difficult).<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Akimiya&quot; &lt;melianeth@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; Does anyone know where I can buy online the following books in <br/>\njapanese:<br/>\n&gt; <br/>\n&gt; Yamamura, &quot;Shinsengumi Shougenroku&quot;<br/>\n&gt; Michio Hirao, &quot;Shinsengumi shiroku&quot; (and others)<br/>\n&gt; Kan, Shimosawa, &quot; Shinsengumi Shimatsu&quot; (and others)<br/>\n&gt; nakagura, &quot; shinsengumi tenmatsuki&quot;<br/>\n&gt; Shimada Kai records<br/>\n&gt; <br/>\n&gt; I guess perhapst in some spezialised shops!! I&#39;d be very grateful if<br/>\n&gt; someone could point me out some names of shops, or some links to try <br/>\nout!!<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 151389047,
+            "authorName": "Akimiya",
+            "from": "&quot;Akimiya&quot; &lt;melianeth@...&gt;",
+            "profile": "melianeth",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Help! Shinsengumi books!",
+            "postDate": "1173692270",
+            "msgId": 3185,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV0MzcxZSs1b2Y0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3187,
+            "prevInTime": 3184,
+            "nextInTime": 3186,
+            "topicId": 3185,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know where I can buy online the following books in japanese: Yamamura, Shinsengumi Shougenroku Michio Hirao, Shinsengumi shiroku (and others) ",
+            "messageBody": "<div id=\"ygrps-yiv-909395507\">Does anyone know where I can buy online the following books in japanese:<br/>\n<br/>\nYamamura, &quot;Shinsengumi Shougenroku&quot;<br/>\nMichio Hirao, &quot;Shinsengumi shiroku&quot; (and others)<br/>\nKan, Shimosawa, &quot; Shinsengumi Shimatsu&quot; (and others)<br/>\nnakagura, &quot; shinsengumi tenmatsuki&quot;<br/>\nShimada Kai records<br/>\n<br/>\nI guess perhapst in some spezialised shops!! I&#39;d be very grateful if<br/>\nsomeone could point me out some names of shops, or some links to try out!!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3184,
+    "nextTopicId": 3189
+}

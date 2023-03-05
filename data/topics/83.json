@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "If only",
+            "postDate": "1079922416",
+            "msgId": 83,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNUU0RUYwLjEwNjA1MDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 82,
+            "nextInTime": 84,
+            "topicId": 83,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ever wonder what might have happened had the Japanese dealt differently with Perry when he landed there? Check out this Today in Alternate History chronicle of",
+            "messageBody": "<div id=\"ygrps-yiv-1247334236\">Ever wonder what might have happened had the Japanese dealt differently <br/>\nwith Perry when he landed there? Check out this Today in Alternate <br/>\nHistory chronicle of possible events.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.othertimelines.com/viewtimeline.php?timelineID=333\">http://www.othertimelines.com/viewtimeline.php?timelineID=333</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 77,
+    "nextTopicId": 82
+}

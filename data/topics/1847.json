@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Itou the man, the Legend",
+            "postDate": "1100759934",
+            "msgId": 1847,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxOUM0MzdFLjEwNjA1MDVAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1845,
+            "nextInTime": 1848,
+            "topicId": 1847,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In honor of Itou-sensei s passing this day in 1867 I give you a small but sincere photo tribute to him in a few of his many incarnations... ",
+            "messageBody": "<div id=\"ygrps-yiv-1902590843\">In honor of Itou-sensei&#39;s passing this day in 1867 I give you a small<br/>\nbut sincere photo tribute to him in a few of his many incarnations...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/itou_tribute.htm\">http://www.shinsengumihq.com/itou_tribute.htm</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1845,
+    "nextTopicId": 1848
+}

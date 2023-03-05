@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Site of the Ito Dojo",
+            "postDate": "1114552325",
+            "msgId": 2428,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyNkVCODA1LjEwMTA1MDlAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2427,
+            "nextInTime": 2429,
+            "topicId": 2428,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tama  has once again come up with some very very cool info for us--the site of the Ito Dojo. Until the info goes up on the main SHQ site you can see the map",
+            "messageBody": "<div id=\"ygrps-yiv-633906253\">Tama  has once again come up with some very very cool info for us--the <br/>\nsite of the Ito Dojo. Until the info goes up on the main SHQ site you <br/>\ncan see the map and read more at the link below.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.greatestjournal.com/users/itou_ookura/1091.html\">http://www.greatestjournal.com/users/itou_ookura/1091.html</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\nThe Blog-- <a rel=\"nofollow\" target=\"_blank\" href=\"http://barbarasheridan.blogspot.com/\">http://barbarasheridan.blogspot.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2427,
+    "nextTopicId": 2429
+}

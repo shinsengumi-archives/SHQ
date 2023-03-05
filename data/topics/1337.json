@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 154879386,
+            "authorName": "Misery Mirror",
+            "from": "&quot;Misery Mirror&quot; &lt;misery_mirror@...&gt;",
+            "profile": "miserymirror",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ] ] Question - (OT sorta)",
+            "postDate": "1088918853",
+            "msgId": 1339,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTEtRjY1bmx5ZzM1c1F0Z1QwMDA3M2FhY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 1338,
+            "nextInTopic": 0,
+            "prevInTime": 1338,
+            "nextInTime": 1340,
+            "topicId": 1337,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Shinsengumi what exactly?  You mean the NHK drama that s been running all year?  It does air on Saturdays in California (with subtitles--lucky CA people) and",
+            "messageBody": "<div id=\"ygrps-yiv-654136901\">Shinsengumi what exactly?  You mean the NHK drama that&#39;s been running<br/>\nall year?  It does air on Saturdays in California (with subtitles--lucky<br/>\nCA people) and the regular NHK airing is Sundays. The Sunday Japanese<br/>\nbroadcast is about 6 weeks or so ahead of the subtitled version.<br/>\n<br/>\n--Uh yeah, sorry. That drama series.<br/>\nIt&#39;s supposed to be airing right at this moment, but it&#39;s not. It&#39;s been <br/>\nreplaced with something about drums. o.O<br/>\nAny idea why?<br/>\n<br/>\nThen, the guide from my reciever/dish tends to be really screwy, so perhaps <br/>\nthey&#39;ll be airing it later on.<br/>\n<br/>\nMiser Bellatrix<br/>\n<br/>\n_________________________________________________________________<br/>\nIs your PC infected? Get a FREE online computer virus scan from McAfee� <br/>\nSecurity. <a rel=\"nofollow\" target=\"_blank\" href=\"http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963\">http://clinic.mcafee.com/clinic/ibuy/campaign.asp?cid=3963</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "] Question - (OT sorta)",
+            "postDate": "1088918477",
+            "msgId": 1338,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwRTc5M0NELjgwNzAyMDZAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNjODNsZCtsOTRzQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNjODNsZCtsOTRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1337,
+            "nextInTopic": 1339,
+            "prevInTime": 1337,
+            "nextInTime": 1339,
+            "topicId": 1337,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Shinsengumi what exactly?  You mean the NHK drama that s been running all year?  It does air on Saturdays in California (with subtitles--lucky CA people)",
+            "messageBody": "<div id=\"ygrps-yiv-197814466\">Miser Bellatrix wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Isn&#39;t the Shinsengumi supposed to be airing today? o.O<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Shinsengumi what exactly?  You mean the NHK drama that&#39;s been running <br/>\nall year?  It does air on Saturdays in California (with subtitles--lucky <br/>\nCA people) and the regular NHK airing is Sundays. The Sunday Japanese <br/>\nbroadcast is about 6 weeks or so ahead of the subtitled version.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 154879386,
+            "authorName": "Miser Bellatrix",
+            "from": "&quot;Miser Bellatrix&quot; &lt;misery_mirror@...&gt;",
+            "profile": "miserymirror",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Question - (OT sorta)",
+            "postDate": "1088917997",
+            "msgId": 1337,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjODNsZCtsOTRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1338,
+            "prevInTime": 1336,
+            "nextInTime": 1338,
+            "topicId": 1337,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Isn t the Shinsengumi supposed to be airing today? o.O",
+            "messageBody": "<div id=\"ygrps-yiv-541886334\">Isn&#39;t the Shinsengumi supposed to be airing today? o.O</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1320,
+    "nextTopicId": 1340
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "2 Outstanding Fanart",
+            "postDate": "1126753361",
+            "msgId": 659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRnYW84aCtxYm9sQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 658,
+            "nextInTime": 660,
+            "topicId": 659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.gatotsuz.com/gz.php?id=principal or just http://www.gatotsuz.com scroll down to see 2 Saitou/Shinsengumi fanart 1 has been posted here probably a",
+            "messageBody": "<div id=\"ygrps-yiv-252445128\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gatotsuz.com/gz.php?id=principal\">http://www.gatotsuz.com/gz.php?id=principal</a><br/>\nor just <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gatotsuz.com\">http://www.gatotsuz.com</a><br/>\n<br/>\nscroll down to see 2 Saitou/Shinsengumi fanart<br/>\n1 has been posted here probably a year ago, the other one is a new<br/>\nrendition of Nobuhiro&#39;s work---but notice the artist&#39;s take on a young<br/>\nSAitou---truly outstanding/professional work!!!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 658,
+    "nextTopicId": 660
+}

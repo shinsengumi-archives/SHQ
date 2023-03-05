@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Website",
+            "postDate": "1087744251",
+            "msgId": 1216,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwRDVBOEZCLjUwMDAxQGJlbGxhdGxhbnRpYy5uZXQ+"
+            },
+            "prevInTopic": 16,
+            "nextInTopic": 0,
+            "prevInTime": 1215,
+            "nextInTime": 1217,
+            "topicId": 16,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just to let you all know I made a few changes to the home page including a different group shot a/k/a the photo we d all die to get our hands on if it really",
+            "messageBody": "<div id=\"ygrps-yiv-1812423581\">Just to let you all know I made a few changes to the home page including <br/>\na different &quot;group shot&quot; a/k/a the photo we&#39;d all die to get our hands <br/>\non if it really existed. I _finally_ got the bright idea to put links to <br/>\nthe new additions in the  newly added &quot;what&#39;s new&quot; space. I added the <br/>\nfirst part of the filmography so if anyone has any comments on any of <br/>\nthe films you&#39;ve seen please feel free to send them here or to me <br/>\npersonally to include.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Website",
+            "postDate": "1079542755",
+            "msgId": 16,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzYTA1MytvdTgzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1216,
+            "prevInTime": 15,
+            "nextInTime": 17,
+            "topicId": 16,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve created the long-awaited website (still in progress): www.geocities.com/shieikandojo/seimon.html Check it out! --M. (a.k.a. Kondou)",
+            "messageBody": "<div id=\"ygrps-yiv-1382216146\">I&#39;ve created the long-awaited website (still in progress):<br/>\n<br/>\nwww.geocities.com/shieikandojo/seimon.html<br/>\n<br/>\nCheck it out!<br/>\n<br/>\n--M. (a.k.a. Kondou)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1214,
+    "nextTopicId": 1220
+}

@@ -1,0 +1,63 @@
+{
+    "numOfMembers": 342,
+    "dateCreated": 1079547261,
+    "name": "SHQ_Spy_Division",
+    "membersVis": "SUBSCRIBERS",
+    "groupVis": "ALL",
+    "messagesVis": "SUBSCRIBERS",
+    "filesVis": "SUBSCRIBERS",
+    "linksVis": "MODERATORS",
+    "calendarVis": "NOBODY",
+    "databaseVis": "MODERATORS",
+    "pollsVis": "SUBSCRIBERS",
+    "photosVis": "SUBSCRIBERS",
+    "replyTo": "LIST",
+    "summary": "SHQ Spy Division",
+    "categoryId": 1600017756,
+    "categoryPath": "/Entertainment & Arts/Comics and Animation/Anime/",
+    "categoryName": "Anime",
+    "attachments": "ATTACHMENTS_DISABLED",
+    "restricted": "OPEN",
+    "groupHomePage": {
+        "groupId": 12287916,
+        "photoInfo": [
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/homepage/name/943769.jpg?type=sn",
+                "height": 360,
+                "width": 360,
+                "size": 0,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/homepage/name/943769.jpg?type=tn",
+                "height": 96,
+                "width": 96,
+                "size": 0,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/homepage/name/943769.jpg?type=hr",
+                "height": 360,
+                "width": 360,
+                "size": 0,
+                "photoType": "hr"
+            }
+        ]
+    },
+    "groupCoverPhoto": {
+        "groupId": 12287916,
+        "hasCoverImage": false,
+        "photoInfo": [
+            {
+                "displayURL": "http://l.yimg.com/ru/defcovers/1600016068/cat.jpg",
+                "height": 0,
+                "width": 0,
+                "size": 0,
+                "photoType": "or"
+            }
+        ]
+    },
+    "emailDomain": "yahoogroups.com",
+    "adult": false,
+    "bucketId": "GB0"
+}

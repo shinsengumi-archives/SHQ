@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Recent website additions",
+            "postDate": "1081392013",
+            "msgId": 330,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNzRCQjhELjIwNjA0MDNAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 329,
+            "nextInTime": 331,
+            "topicId": 330,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I put the first installment up of Kyoto s Most Wanted please feel free to contribute any text or images you d like to see. ",
+            "messageBody": "<div id=\"ygrps-yiv-413858060\">I put the first installment up of Kyoto&#39;s Most Wanted please feel free <br/>\nto contribute any text or images you&#39;d like to see.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/crossovers.htm\">http://www.shinsengumihq.com/crossovers.htm</a><br/>\n<br/>\nLast week I also uploaded some more images to the Facts section, pics <br/>\nwe&#39;ve gathered of Shinsengumi members and also some of their belongings, <br/>\ntheir burial places etc.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/photos.htm\">http://www.shinsengumihq.com/photos.htm</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 318,
+    "nextTopicId": 336
+}

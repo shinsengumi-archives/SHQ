@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New never before seen pics!!",
+            "postDate": "1079981629",
+            "msgId": 86,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzbmNudCs1MDRsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 85,
+            "nextInTime": 87,
+            "topicId": 86,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The scanner is FINALLY working! Check Shinsengumi and Related People under Photos for some never before seen photos of familiar faces-- like a new picture",
+            "messageBody": "<div id=\"ygrps-yiv-550462489\">The scanner is FINALLY working! Check &quot;Shinsengumi and Related People&quot;<br/>\nunder &quot;Photos&quot; for some never before seen photos of familiar faces--<br/>\nlike a new picture of Matsudaira Katamori, and an alternate picture of<br/>\nTokugawa Mikako!<br/>\n<br/>\nAll photos in this particular upload are from &quot;Tokugawa Yoshinobu&quot;, by<br/>\nTakano Kiyoshi-sensei.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 85,
+    "nextTopicId": 87
+}

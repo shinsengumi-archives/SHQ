@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Shinsengumi! SP corrected link",
+            "postDate": "1136447395",
+            "msgId": 2667,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwMTA1MDc0OTU1LjQ4NDMyLnFtYWlsQHdlYjMxNTEzLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2666,
+            "nextInTime": 2668,
+            "topicId": 2667,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "So it decided to add the parenthesis to the URL.  Sorry about that.  The link to the main torrent page (not the link to the episode itself) is: ",
+            "messageBody": "<div id=\"ygrps-yiv-1722801282\">So it decided to add the parenthesis to the URL.  Sorry about that.  The link to the main torrent page (not the link to the episode itself) is:<br/>\n   <br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.d-addicts.com/forum/torrents.php\">http://www.d-addicts.com/forum/torrents.php</a> <br/>\n   <br/>\n  phil<br/>\n<br/>\n\t\t\t<br/>\n---------------------------------<br/>\nYahoo! Photos<br/>\n Ring in the New Year with Photo Calendars. Add photos, events, holidays, whatever.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2655,
+    "nextTopicId": 2673
+}

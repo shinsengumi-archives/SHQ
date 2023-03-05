@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re:  PMK Okita fanart",
+            "postDate": "1124301303",
+            "msgId": 649,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzMDM3OUY3LjIwODAxMDBAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGRkdnNxZytncDY0QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRkdnNxZytncDY0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 648,
+            "nextInTopic": 0,
+            "prevInTime": 648,
+            "nextInTime": 650,
+            "topicId": 648,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... That s really cute!! And thank you one and all who answered by informal survey on the novel featuring the Shinsengumi. -- Barbara Sheridan ",
+            "messageBody": "<div id=\"ygrps-yiv-1055121864\">Wu Jia-xin wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://cat.oekakist.com/sorbet\">http://cat.oekakist.com/sorbet</a><br/>\n<br/>\n </span></blockquote>That&#39;s really cute!!<br/>\nAnd thank you one and all who answered by informal survey on the novel <br/>\nfeaturing the Shinsengumi.<br/>\n<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\nThe Blog-- <a rel=\"nofollow\" target=\"_blank\" href=\"http://barbarasheridan.blogspot.com/\">http://barbarasheridan.blogspot.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 210196887,
+            "authorName": "Wu Jia-xin",
+            "from": "&quot;Wu Jia-xin&quot; &lt;jiaxin_nyo@...&gt;",
+            "profile": "jiaxin_nyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "PMK Okita fanart",
+            "postDate": "1124300432",
+            "msgId": 648,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkdnNxZytncDY0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 649,
+            "prevInTime": 647,
+            "nextInTime": 649,
+            "topicId": 648,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://cat.oekakist.com/sorbet If no one else has drawn on the board, it should still be at the very top.",
+            "messageBody": "<div id=\"ygrps-yiv-1212949816\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://cat.oekakist.com/sorbet\">http://cat.oekakist.com/sorbet</a><br/>\n<br/>\nIf no one else has drawn on the board, it should still be at the very <br/>\ntop.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 647,
+    "nextTopicId": 650
+}

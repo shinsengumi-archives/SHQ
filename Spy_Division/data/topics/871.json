@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Shinsengumi Sausage",
+            "postDate": "1197560395",
+            "msgId": 871,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZqcmpvYithaW9oQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 870,
+            "nextInTime": 872,
+            "topicId": 871,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please examine this http://www.youtube.com/watch?v=D2Ewqp3-_qU so essentially a normal sausage can be upgraded to shinsengumi sausage because it was in the",
+            "messageBody": "<div id=\"ygrps-yiv-1028836739\">Please examine this<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=D2Ewqp3-_qU\">http://www.youtube.com/watch?v=D2Ewqp3-_qU</a><br/>\n<br/>\nso essentially a normal sausage can be upgraded to &quot;shinsengumi<br/>\nsausage&quot; because it was in the Shinsengumi refrigerator.<br/>\n<br/>\nI think that it&#39;s incredibly dangerous for anyone to accept a<br/>\nsuggestively shaped food item stored by the Shinsengumi XD<br/>\n<br/>\n:: that is my yaoi moment for the day ::<br/>\n<br/>\nbut anyways I love the Gintama chara design for Kondou...I wish the<br/>\nshow was a bit more well written in terms of the humor XD</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/D2Ewqp3-_qU?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 853,
+    "nextTopicId": 513
+}

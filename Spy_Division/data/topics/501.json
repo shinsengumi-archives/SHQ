@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fanart for Fanfic",
+            "postDate": "1107922839",
+            "msgId": 501,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1YzMybitwbTNkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 500,
+            "nextInTime": 502,
+            "topicId": 501,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What Lies Beneath http://www.fanfiction.net/s/1614241/1/ a fanfic which brings RK characters into the modern world Fanart ",
+            "messageBody": "<div id=\"ygrps-yiv-719222414\">What Lies Beneath<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fanfiction.net/s/1614241/1/\">http://www.fanfiction.net/s/1614241/1/</a><br/>\na fanfic which brings RK characters into the modern world<br/>\n<br/>\nFanart<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/wlbfanart.jpg\">http://1happyturtle.com/makoto/wlbfanart.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 499,
+    "nextTopicId": 504
+}

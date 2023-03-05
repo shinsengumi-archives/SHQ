@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Nagakura at the Movies",
+            "postDate": "1086791647",
+            "msgId": 1019,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQzcxRkRGLjgwODAwMDNAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNhNzRnaysxdHZwQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNhNzRnaysxdHZwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1018,
+            "nextInTopic": 0,
+            "prevInTime": 1018,
+            "nextInTime": 1020,
+            "topicId": 1018,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I read the post las night but couldn t think of a single thing to reply--amazing ain t it? :-D I think the guys who survived into the early 20th century",
+            "messageBody": "<div id=\"ygrps-yiv-1448308352\">secretary wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I&#39;m surprised no one has replied to momoiro-usagi&#39;s post over at <br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com\">http://www.shinsengumimb.com</a><br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>I read the post las night but couldn&#39;t think of a single thing to <br/>\nreply--amazing ain&#39;t it? :-D I think the guys who survived into the <br/>\nearly 20th century would just as speechless at seeing so many &quot;new&quot;  and <br/>\nto them unusual things like phones, electric lights, movies, early <br/>\ncars.  I have this image of one of both of them being confronted with a <br/>\ncar for the first time and  instinctively reaching for a  sword to fend <br/>\noff the noisy beast.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nagakura at the Movies",
+            "postDate": "1086788948",
+            "msgId": 1018,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhNzRnaysxdHZwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1019,
+            "prevInTime": 1017,
+            "nextInTime": 1019,
+            "topicId": 1018,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m surprised no one has replied to momoiro-usagi s post over at http://www.shinsengumimb.com about how Nagakura Shinpachi watched foreign silent films (at",
+            "messageBody": "<div id=\"ygrps-yiv-270232291\">I&#39;m surprised no one has replied to momoiro-usagi&#39;s post over at <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com\">http://www.shinsengumimb.com</a><br/>\n<br/>\nabout how Nagakura Shinpachi watched foreign silent films (at this <br/>\npoint I think only the USA+W.Europe and I think Russia?) made them.  <br/>\nNagakura died in 1915, same year as Fujita Goro.  Wouldn&#39;t it be <br/>\nfunny if these two senior citizens went to the movies together and <br/>\nwatched let&#39;s say the Three Musketeers...I&#39;m sure they would take <br/>\ngreat interest in the fencing.  Momoiro-usagi&#39;s post brought a smile <br/>\nto my face as I imagine his children and grand-children thinking &quot;uh <br/>\noh if Grandpa Nagakura get&#39;s bored he&#39;s going to start talking about <br/>\nhis days in the Shinsengumi for the 1,043rd time let&#39;s send him to <br/>\nthe movies&quot; LOL!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1009,
+    "nextTopicId": 1020
+}

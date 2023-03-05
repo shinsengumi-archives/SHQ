@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hakubaikou.com Fanart Contest",
+            "postDate": "1086923387",
+            "msgId": 319,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhYjdwcitkNGEyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 318,
+            "nextInTime": 320,
+            "topicId": 319,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Check it out! http://www.hakubaikou.com/contests/2004/index.html#prizes",
+            "messageBody": "<div id=\"ygrps-yiv-533771101\">Check it out!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hakubaikou.com/contests/2004/index.html#prizes\">http://www.hakubaikou.com/contests/2004/index.html#prizes</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 318,
+    "nextTopicId": 320
+}

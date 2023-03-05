@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Shinsengumi Haori Anyone?",
+            "postDate": "1215526253",
+            "msgId": 3405,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc0dnNoZCtrYWpzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDU1Nzg0Ny4yNzgyNi5xbUB3ZWIzODAwMi5tYWlsLm11ZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 3404,
+            "nextInTopic": 0,
+            "prevInTime": 3404,
+            "nextInTime": 3406,
+            "topicId": 3404,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, Feel free to give us the dev-art link once you are done.  I can paste your message to the Shinsengumi LJ blog as well. For me personally, I can t buy a",
+            "messageBody": "<div id=\"ygrps-yiv-1471766375\">Hello,<br/>\n<br/>\nFeel free to give us the dev-art link once you are done.  I can paste <br/>\nyour message to the Shinsengumi LJ blog as well.<br/>\n<br/>\nFor me personally, I can&#39;t buy a haori at this time---I just spent <br/>\nmoney on something else recently.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, Bunny ^_^ &lt;shenlong71328@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; Hey all!<br/>\n&gt; <br/>\n&gt; To put things bluntly, I was wondering about making Shinsengumi <br/>\nhaori and selling them.   Would any of the members of this mailing <br/>\nlist be interested in getting one if I offer them?   I figure that <br/>\nthis would be the best place to offer something like this.   I <br/>\nalready made one that I wore everyday at the Anime Expo this last <br/>\nweekend and I plan on putting pictures up online on my DeviantArt <br/>\npage.<br/>\n&gt; <br/>\n&gt; As of now, this is just a hypothesis.   I just want to see what <br/>\nyour opinions are and if anyone would be interested.<br/>\n&gt; <br/>\n&gt; -Bunneh <br/>\n&gt; ^_______^<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt;       <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 216498584,
+            "authorName": "Bunny ^_^",
+            "from": "Bunny ^_^ &lt;shenlong71328@...&gt;",
+            "profile": "shenlong71328",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Shinsengumi Haori Anyone?",
+            "postDate": "1215468145",
+            "msgId": 3404,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU1Nzg0Ny4yNzgyNi5xbUB3ZWIzODAwMi5tYWlsLm11ZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3405,
+            "prevInTime": 3403,
+            "nextInTime": 3405,
+            "topicId": 3404,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey all! To put things bluntly, I was wondering about making Shinsengumi haori and selling them.   Would any of the members of this mailing list be interested",
+            "messageBody": "<div id=\"ygrps-yiv-1665887739\">Hey all!<br/>\n<br/>\nTo put things bluntly, I was wondering about making Shinsengumi haori and selling them.   Would any of the members of this mailing list be interested in getting one if I offer them?   I figure that this would be the best place to offer something like this.   I already made one that I wore everyday at the Anime Expo this last weekend and I plan on putting pictures up online on my DeviantArt page.<br/>\n<br/>\nAs of now, this is just a hypothesis.   I just want to see what your opinions are and if anyone would be interested.<br/>\n<br/>\n-Bunneh <br/>\n^_______^<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3403,
+    "nextTopicId": 3307
+}

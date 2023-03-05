@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New picture of Suzuki Mikisaburou!!",
+            "postDate": "1099500501",
+            "msgId": 1799,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzOGhzS2Q2UVI3ajEwMDAxMTgyMEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1798,
+            "nextInTime": 1800,
+            "topicId": 1799,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://page.freett.com/sukechika/gif/suzuki.gif Younger, too... --M. _________________________________________________________________ Don t just search. Find.",
+            "messageBody": "<div id=\"ygrps-yiv-242448990\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://page.freett.com/sukechika/gif/suzuki.gif\">http://page.freett.com/sukechika/gif/suzuki.gif</a><br/>\n<br/>\nYounger, too...<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nDon&#39;t just search. Find. Check out the new MSN Search! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.msn.com/\">http://search.msn.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1784,
+    "nextTopicId": 1802
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi TV",
+            "postDate": "1089626426",
+            "msgId": 1362,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjdG5mcSs3cjRnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1361,
+            "nextInTime": 1363,
+            "topicId": 1362,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ok, so I m in one of my not-so-sane moods and I was thinking about what TV shows different Shinsengumi members were best suited for. Here s what I ve come up",
+            "messageBody": "<div id=\"ygrps-yiv-1966128878\">Ok, so I&#39;m in one of my not-so-sane moods and I was thinking about <br/>\nwhat TV shows different Shinsengumi members were best suited for. <br/>\nHere&#39;s what I&#39;ve come up with so far:<br/>\n<br/>\nLaw & Order: Hijikata, Saito, and Okita<br/>\nFear Factor: Hijikata and Saito<br/>\nElimidate: Hijikata<br/>\nThe Weakest Link: Yamanami<br/>\nKeeping Up Appearances: Ito<br/>\nMarried with Children: Saito<br/>\nJeopardy: Serizawa<br/>\nDr. Phil: Miki<br/>\nFriends: Hijikata, Kondo, Okita, and Inoue<br/>\nJust Shoot Me: Kondo<br/>\nGeneral Hospital: Okita <br/>\n<br/>\nOk, you can lynch me now...<br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1361,
+    "nextTopicId": 1363
+}

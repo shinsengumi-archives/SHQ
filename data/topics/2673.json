@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Torrent file of Special",
+            "postDate": "1136511359",
+            "msgId": 2675,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwa2hodisxNG05QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRwa2Z1aitubTNuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2673,
+            "nextInTopic": 0,
+            "prevInTime": 2674,
+            "nextInTime": 2676,
+            "topicId": 2673,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "You ll find the information in the post I sent last night http://groups.yahoo.com/group/SHQ/message/2665 phil ... someone please send me the",
+            "messageBody": "<div id=\"ygrps-yiv-1848879826\">You&#39;ll find the information in the post I sent last night <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/SHQ/message/2665\">http://groups.yahoo.com/group/SHQ/message/2665</a> <br/>\n<br/>\nphil<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;aishiterukouji&quot; &lt;KoujiDaisuki76@g...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Is there a torrent file for the Hijikata special? If there is could <br/>\n </span></blockquote>someone please send me the <br/>\n<blockquote><span title=\"qreply\"> &gt; link or the website? Thank you<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 213934342,
+            "authorName": "aishiterukouji",
+            "from": "&quot;aishiterukouji&quot; &lt;KoujiDaisuki76@...&gt;",
+            "profile": "aishiterukouji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Torrent file of Special",
+            "postDate": "1136509715",
+            "msgId": 2673,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwa2Z1aitubTNuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2675,
+            "prevInTime": 2672,
+            "nextInTime": 2674,
+            "topicId": 2673,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is there a torrent file for the Hijikata special? If there is could someone please send me the link or the website? Thank you",
+            "messageBody": "<div id=\"ygrps-yiv-1043267182\">Is there a torrent file for the Hijikata special? If there is could someone please send me the <br/>\nlink or the website? Thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2667,
+    "nextTopicId": 2680
+}

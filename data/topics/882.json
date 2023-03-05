@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Upcoming Shinsengumi Book-",
+            "postDate": "1085687923",
+            "msgId": 882,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQjY0ODczLjYwOTA0MDhAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 881,
+            "nextInTime": 883,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just received this in my email from Mr. Hillsborough and thought you d all be interested.... My publisher tells me that the official publication date is",
+            "messageBody": "<div id=\"ygrps-yiv-1257994677\">I just received this in my email from Mr. Hillsborough and thought you&#39;d <br/>\nall be interested....<br/>\n<br/>\nMy publisher tells me that the official publication date is January 2005. I<br/>\nthink they might be available earlier. Amazon.com seems to already be taking<br/>\norders at a big discount. But all of this business is out of my hands.<br/>\nBest regards,<br/>\nRomulus Hillsborough&gt;&gt;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 878,
+    "nextTopicId": 883
+}

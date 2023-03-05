@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Update",
+            "postDate": "1108454197",
+            "msgId": 510,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1czl2bCtyYWthQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 509,
+            "nextInTime": 511,
+            "topicId": 510,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Update on my entry in the Moeyoken fanart contest: Name: Tokugawa Aoi (Yoshinobu s daughter) Also known as: Aoi-hime Age: 22 Weapons: Katana/wakizashi, tanto,",
+            "messageBody": "<div id=\"ygrps-yiv-129842311\">Update on my entry in the Moeyoken fanart contest:<br/>\n<br/>\nName: Tokugawa Aoi (Yoshinobu&#39;s daughter)<br/>\nAlso known as: Aoi-hime<br/>\nAge: 22<br/>\nWeapons: Katana/wakizashi, tanto, naginata, Smith & Wesson revolver,<br/>\nand kunai (the thin kind that looks like a nail).<br/>\nCarries: Tanto in obi knot, (sometimes) revolver in her large sleeves,<br/>\nand kunai in...secret places. ;)<br/>\nCharacter: Aristocratic. Deliciously, seductively arrogant. Like the<br/>\none girl in high school who was so incredibly beautiful yet utterly<br/>\nunapproachable. Occasionally has Matsudaira and Kondou&#39;s daughters<br/>\nover for sleepovers or tea ceremony.<br/>\n<br/>\nWill post when the scanner at school is repaired.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 504,
+    "nextTopicId": 511
+}

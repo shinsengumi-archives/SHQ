@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Message sent to Yahoo Customer Care",
+            "postDate": "1081526013",
+            "msgId": 338,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1Nmd0dCtwNGtmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 337,
+            "nextInTime": 339,
+            "topicId": 338,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve just sent in a feedback form to Yahoo Customer Care about the problems this group is having in delayed and multiple message delivery to inboxes.  (And",
+            "messageBody": "<div id=\"ygrps-yiv-1102495045\">I&#39;ve just sent in a feedback form to Yahoo Customer Care about the <br/>\nproblems this group is having in delayed and multiple message <br/>\ndelivery to inboxes.  (And it&#39;s not just this group... I&#39;m having <br/>\nproblems with all of them I receive mail from.)  I&#39;ve also suggested <br/>\nthat they create a page where customers can access information about <br/>\nproblems the system is experiencing for updates, and if one already <br/>\nexists, WHERE?, because I can&#39;t find one anywhere.<br/>\n<br/>\nI discovered the first message I sent about this problem never got to <br/>\nsupport personnel because I sent it from the wrong text box.  Mea <br/>\nculpa...<br/>\n<br/>\nWill let you know what they say...<br/>\n<br/>\nphil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 336,
+    "nextTopicId": 340
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "New Shinsengumi Manga focus on Saito Hajime and Hijikata in Aizu",
+            "postDate": "1352670824",
+            "msgId": 951,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGs3cDZwOCszdWxqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 950,
+            "nextInTime": 952,
+            "topicId": 951,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.animenewsnetwork.com/news/2012-11-10/otomen-aya-kanno-to-launch-shinsengumi-manga Kanno first delved into the Shinsengumi with her Hokus&#333;",
+            "messageBody": "<div id=\"ygrps-yiv-748326432\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.animenewsnetwork.com/news/2012-11-10/otomen-aya-kanno-to-launch-shinsengumi-manga\">http://www.animenewsnetwork.com/news/2012-11-10/otomen-aya-kanno-to-launch-shinsengumi-manga</a><br/>\n<br/>\n&quot;Kanno first delved into the Shinsengumi with her Hokus&#333; Shinsengumi manga, and it has been eight years since her last Shinsengumi manga, K&#333;tetsu no Hana. The new story will be set in the Aizu region of northern Japan.&quot;<br/>\n<br/>\nIt&#39;s about time.<br/>\n<br/>\nMany Shinsengumi or the group formerly known officially as the Shinsengumi headed to Aizu and did its part to defend the feud.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 949,
+    "nextTopicId": 952
+}

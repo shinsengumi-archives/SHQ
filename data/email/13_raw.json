@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "uQEgoW-h96tbCofKnKBFU7a1CmDt3O2Rwlcs_tv0PaR4_QBH-igqH5M-LgVwv5BFcEJU49kcMkjMhrk",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1079542386",
+    "msgId": 13,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwNzk1NDIzODYuNzA2OS4zNDI2My53MzhAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 49,
+    "prevInTime": 12,
+    "nextInTime": 14,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Shinsengumi book",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 38364 invoked from network); 17 Mar 2004 16:54:23 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m12.grp.scd.yahoo.com with QMQP; 17 Mar 2004 16:54:23 -0000\r\nReceived: from unknown (HELO n4.grp.scd.yahoo.com) (66.218.66.88)\n  by mta6.grp.scd.yahoo.com with SMTP; 17 Mar 2004 16:54:23 -0000\r\nX-eGroups-Return: notify@yahoogroups.com\r\nReceived: from [66.218.67.159] by n4.grp.scd.yahoo.com with NNFMP; 17 Mar 2004 16:53:07 -0000\r\nReceived: (qmail 34328 invoked by uid 65534); 17 Mar 2004 16:53:06 -0000\r\nDate: 17 Mar 2004 16:53:06 -0000\r\nMessage-ID: &lt;1079542386.7069.34263.w38@yahoogroups.com&gt;\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.218.66.88\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Shinsengumi book scans & misc /Okita.jpg \n  Uploaded by : okitasoji &lt;okita_souji@...&gt; \n  Description :  \n\nYou can access this file at the URL\n\nhttp://groups.yahoo.com/group/SHQ/files/Shinsengumi%20book%20scans%20%26%20misc%20/Okita.jpg \n\nTo learn more about file sharing for your group, please visit\n\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nokitasoji &lt;okita_souji@...&gt;\n \n\n\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Regarding the Passing of Hakubaikou",
+            "postDate": "1234883073",
+            "msgId": 3459,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGduZWptMStpbjMzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3458,
+            "nextInTime": 3460,
+            "topicId": 3459,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If anyone here was introduced to the Shinsengumi by Rurouni Kenshin and the immense fandom here in the US then you likely visited or even contributed to",
+            "messageBody": "<div id=\"ygrps-yiv-2085881477\">If anyone here was introduced to the Shinsengumi by Rurouni Kenshin<br/>\nand the immense fandom here in the US then you likely visited or even<br/>\ncontributed to Hakubaikou.com.<br/>\n<br/>\nThis message is from her family:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hakubaikou.deviantart.com/journal/23241045/\">http://hakubaikou.deviantart.com/journal/23241045/</a><br/>\n<br/>\n~secretarytocapt3</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3456,
+    "nextTopicId": 3461
+}

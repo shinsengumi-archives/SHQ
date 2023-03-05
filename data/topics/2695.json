@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 8059821,
+            "authorName": "zhusanna",
+            "from": "&quot;zhusanna&quot; &lt;wsehome@...&gt;",
+            "profile": "zhusanna",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Saitou mention in new manga book",
+            "postDate": "1137704180",
+            "msgId": 2695,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxb3VkaytldDBmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2694,
+            "nextInTime": 2696,
+            "topicId": 2695,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "500 Manga Heroes & Villains Helen McCarthy Barron s Educational Series, Inc ISBN 0764132016 Saitou is actually part of the Antiheroes section.  There s two ",
+            "messageBody": "<div id=\"ygrps-yiv-148317104\">500 Manga Heroes & Villains<br/>\nHelen McCarthy<br/>\nBarron&#39;s Educational Series, Inc<br/>\nISBN 0764132016<br/>\n<br/>\n<br/>\nSaitou is actually part of the &quot;Antiheroes&quot; section.  There&#39;s two <br/>\npictures from the RK manga and a quick summary of the time period.<br/>\n<br/>\nThe basics: McCarthy says that Watsuki makes it hard to decide if <br/>\nSaitou is a scoundrel or a just a man doing the best he can during <br/>\ndifficult times.  Saitou&#39;s interactions with Kenshin shows him to <br/>\nbe callous, but his fondness for Okita and Tokio show another side.<br/>\nShe also calls him a tragic figure - he remains the same while the<br/>\nworld is changing around him.<br/>\n<br/>\nAn interesting little book for manga fans.<br/>\n<br/>\n<br/>\n--zhusanna</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2694,
+    "nextTopicId": 2696
+}

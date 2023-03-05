@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "one more thing",
+            "postDate": "1124776066",
+            "msgId": 2530,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlZWRhMiszdGNsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2529,
+            "nextInTime": 2531,
+            "topicId": 2530,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "we just e-mail everyone to find out to. if i have to i ll do the e- mailing by myself.",
+            "messageBody": "<div id=\"ygrps-yiv-718969734\">we just e-mail everyone to find out to. if i have to i&#39;ll do the e-<br/>\nmailing by myself.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2527,
+    "nextTopicId": 2531
+}

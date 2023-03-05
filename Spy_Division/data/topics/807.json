@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi In a School Play",
+            "postDate": "1164083859",
+            "msgId": 807,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVqdHZxaitjNHVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 806,
+            "nextInTime": 810,
+            "topicId": 807,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "all in Japanese (T_T) there are some nice lighting touches http://www.youtube.com/watch?v=UK01gEZzsew",
+            "messageBody": "<div id=\"ygrps-yiv-1776716788\">all in Japanese (T_T)<br/>\nthere are some nice lighting touches<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=UK01gEZzsew\">http://www.youtube.com/watch?v=UK01gEZzsew</a></div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/UK01gEZzsew?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 806,
+    "nextTopicId": 810
+}

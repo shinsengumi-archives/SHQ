@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 174393936,
+            "authorName": "Jon Mesina",
+            "from": "&quot;Jon Mesina&quot; &lt;okita_souji@...&gt;",
+            "profile": "okitasoji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Japanese text translator",
+            "postDate": "1081707535",
+            "msgId": 366,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDcwMWM0MWZmMSQ3NDk0ZTE3MCQwMjAwYThjMEBPbW9pa2FuZT4=",
+                "referencesHeader": "PGM1YnVwZSt1NGQzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 365,
+            "nextInTime": 367,
+            "topicId": 366,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A different one than babelfish. Follow the instructions at the top. After that, you ll be able to mouse over Japanese text to see its meaning. ",
+            "messageBody": "<div id=\"ygrps-yiv-240778383\">A different one than babelfish. Follow the instructions at the top. After that, you&#39;ll be able to mouse over Japanese text to see its meaning. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.rikai.com/perl/Home.pl\">http://www.rikai.com/perl/Home.pl</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 362,
+    "nextTopicId": 371
+}

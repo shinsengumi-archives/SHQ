@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "The Best of Dev-Art",
+            "postDate": "1187370278",
+            "msgId": 849,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZhNGtmNis0Z2N0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 848,
+            "nextInTime": 850,
+            "topicId": 849,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sometimes I get really fatigued and just flip through dev-art for fun this time I listed the best findings: http://shinsengumihq.livejournal.com/33569.html I",
+            "messageBody": "<div id=\"ygrps-yiv-62083001\">Sometimes I get really fatigued and just flip through dev-art for fun<br/>\nthis time I listed the best findings:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.livejournal.com/33569.html\">http://shinsengumihq.livejournal.com/33569.html</a><br/>\n<br/>\nI LOVE THIS OUTSTANDING FANWORK (sooo smexy)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://loveliesbleeding2.deviantart.com/art/Mibu-s-Last-38197056\">http://loveliesbleeding2.deviantart.com/art/Mibu-s-Last-38197056</a><br/>\nit&#39;s original, moody and goes to show that if you can&#39;t find time to <br/>\ndraw you can always create digital work</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 847,
+    "nextTopicId": 850
+}

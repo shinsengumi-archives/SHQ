@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Nakano in naginata",
+            "postDate": "1110524837",
+            "msgId": 2249,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMTg0MDQzQTYxRTQwRUFENTlDRTMyNTlGNTMwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2248,
+            "nextInTime": 2250,
+            "topicId": 2249,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Looks like there s still a Nakano in naginata after all these years. http://www.scnf.org/inf.jpg --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1303540033\">Looks like there&#39;s still a Nakano in naginata after all these years.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.scnf.org/inf.jpg\">http://www.scnf.org/inf.jpg</a><br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2247,
+    "nextTopicId": 2120
+}

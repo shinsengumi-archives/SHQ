@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 177037420,
+            "authorName": "Sarah",
+            "from": "&quot;Sarah&quot; &lt;xblade01@...&gt;",
+            "profile": "blithe147",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new to this place",
+            "postDate": "1101679494",
+            "msgId": 453,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvZGkyNitscDFtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 452,
+            "nextInTime": 454,
+            "topicId": 453,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey i m new. I m getting into Shinsengumi so if you wanna chat PM me back!",
+            "messageBody": "<div id=\"ygrps-yiv-1671291207\">Hey i&#39;m new. I&#39;m getting into Shinsengumi so if you wanna chat PM me <br/>\nback!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 451,
+    "nextTopicId": 458
+}

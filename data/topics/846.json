@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Keyword List for jstor.org",
+            "postDate": "1085355683",
+            "msgId": 846,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4cmNyMyticDVuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 845,
+            "nextInTime": 847,
+            "topicId": 846,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Now that you all are getting some info on these folks/groups I was wondering if you can come up with a list of keywords. University/college libraries will",
+            "messageBody": "<div id=\"ygrps-yiv-231100376\">Now that you all are getting some info on these folks/groups I was<br/>\nwondering if you can come up with a list of keywords. <br/>\nUniversity/college libraries will allow acces to <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jstor.org\">http://www.jstor.org</a><br/>\nfor free (it is basically a gigantic collection of journal articles<br/>\nfrom all disciplines).  The problem is the various spellings of terms.<br/>\nTake for example Shinsengumi, Shinsen gumi, sinsengumi, Shin Sen Gumi<br/>\netc.  If you can email me offlist with the info I&#39;ll work on it as<br/>\ntime permits.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 844,
+    "nextTopicId": 851
+}

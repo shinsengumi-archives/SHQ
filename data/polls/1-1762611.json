@@ -1,0 +1,233 @@
+{
+    "groupName": "SHQ",
+    "creator": "spiritus_saitou",
+    "viewerNickname": "qwertyuiop4321@.***",
+    "surveyId": 1762611,
+    "listId": 12286059,
+    "dateCreated": 1124781241,
+    "userIdCreated": 173227807,
+    "dateEnd": 0,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "AFRICA AND EUROPE\n\nSHQ is an international community of people who share at \nleast one common interest --- the Shinsengumi!  But where in \nthe world do we all live?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 11750458,
+            "selectionText": "Africa (central)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750459,
+            "selectionText": "Africa (north)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750460,
+            "selectionText": "Africa (south)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750461,
+            "selectionText": "Austria",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750461,
+                    "surveyId": 1762611,
+                    "userId": 307768494,
+                    "email": "hijikatakamatari@yahoo.de"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750462,
+            "selectionText": "Belgium",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750463,
+            "selectionText": "Denmark",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750464,
+            "selectionText": "Europe (eastern)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750464,
+                    "surveyId": 1762611,
+                    "userId": 256469543,
+                    "nickname": "battosai_laura",
+                    "email": "battosai_laura@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750465,
+            "selectionText": "Europe (other)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750466,
+            "selectionText": "Finland",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750467,
+            "selectionText": "France",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 11750467,
+                    "surveyId": 1762611,
+                    "userId": 140723811,
+                    "guid": "5CURWXPAUZCOXLA74WK2LK3AKM",
+                    "nickname": "martftx",
+                    "email": "animefantoo@.###"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750468,
+            "selectionText": "Germany",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 11750468,
+                    "surveyId": 1762611,
+                    "userId": 46157452,
+                    "nickname": "ayumiikari",
+                    "email": "AyumiIkari@****"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750469,
+            "selectionText": "Ireland",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750470,
+            "selectionText": "Italy",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750471,
+            "selectionText": "Netherlands",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750472,
+            "selectionText": "Norway",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750473,
+            "selectionText": "Portugal",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750474,
+            "selectionText": "Russia",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750474,
+                    "surveyId": 1762611,
+                    "userId": 139663133,
+                    "guid": "JVXU4QY2RCRZDMT7RALSHVEB7U",
+                    "nickname": "mariacharned",
+                    "email": "lady.amarie@rambler.ru"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750475,
+            "selectionText": "Spain",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750476,
+            "selectionText": "Sweden",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750477,
+            "selectionText": "Switzerland",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750478,
+            "selectionText": "United Kingdom (England)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750478,
+                    "surveyId": 1762611,
+                    "userId": 253289194,
+                    "email": "zombiekyokun@yahoo.co.uk"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750479,
+            "selectionText": "United Kingdom (Scotland)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750480,
+            "selectionText": "United Kingdom (Wales, N. Ireland)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 8,
+    "previousSurveyId": 0,
+    "nextSurveyId": 1762610
+}

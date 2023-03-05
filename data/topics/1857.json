@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Other Bakusin.com links",
+            "postDate": "1101338260",
+            "msgId": 1857,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvMzRxaytkcjE5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1856,
+            "nextInTime": 1858,
+            "topicId": 1857,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.bakusin.com/eiketu/ryoujyun.html Bio of Matsumoto Ryojun. http://www.bakusin.com/eiketu/sagawa.html Bio of Sagawa Kanbei ",
+            "messageBody": "<div id=\"ygrps-yiv-1058367271\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bakusin.com/eiketu/ryoujyun.html\">http://www.bakusin.com/eiketu/ryoujyun.html</a><br/>\n<br/>\nBio of Matsumoto Ryojun.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bakusin.com/eiketu/sagawa.html\">http://www.bakusin.com/eiketu/sagawa.html</a><br/>\n<br/>\nBio of Sagawa Kanbei<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bakusin.com/eiketu/tanomo.html\">http://www.bakusin.com/eiketu/tanomo.html</a><br/>\n<br/>\nBio of Saigou Tanomo<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bakusin.com/eiketu/yamakawa.html\">http://www.bakusin.com/eiketu/yamakawa.html</a><br/>\n<br/>\nYamakawa Ookura bio<br/>\n<br/>\nMore soon.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1856,
+    "nextTopicId": 1858
+}

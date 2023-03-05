@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "more chibi art",
+            "postDate": "1103676037",
+            "msgId": 485,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxYWZxNSs0aW9vQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 484,
+            "nextInTime": 486,
+            "topicId": 485,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello people I ve taken the liberty of uploading into the Photos--- Illustrations section a colorized bit of chibi art courtesy of my resident artist Child #2.",
+            "messageBody": "<div id=\"ygrps-yiv-1995428689\">Hello people <br/>\n<br/>\nI&#39;ve taken the liberty of uploading into the Photos---&gt;Illustrations<br/>\nsection a colorized bit of chibi art courtesy of my resident artist<br/>\nChild #2. It depicts the rather sad end of the era but it&#39;s kind of<br/>\ncute...<br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 478,
+    "nextTopicId": 459
+}

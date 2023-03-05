@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Uploaded Image info",
+            "postDate": "1081003997",
+            "msgId": 288,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0bWo0dCtzbGZsQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMDkwMWM0MTkyOSRiNjdjZWIxMCQwMjAwYThjMEBPbW9pa2FuZT4="
+            },
+            "prevInTopic": 279,
+            "nextInTopic": 0,
+            "prevInTime": 287,
+            "nextInTime": 289,
+            "topicId": 279,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yeah, Serizawa Kamo s site mentions Yoshimura Kanichiro and yes he was a kenjutsu teacher in the Shinsengumi AND I did find some book on him at amazon.co.jp ",
+            "messageBody": "<div id=\"ygrps-yiv-2064771992\">Yeah, Serizawa Kamo&#39;s site mentions Yoshimura Kanichiro and yes he was<br/>\na kenjutsu teacher in the Shinsengumi AND I did find some book on him<br/>\nat amazon.co.jp<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Jon Mesina&quot; &lt;okita_souji@o...&gt; wrote:<br/>\n&gt; Scans are from An Illustrated Guide to the Shinsengumi<br/>\n<br/>\n&gt; Second and Third Images: Info about Mibu Gishi Den&#39;s Yoshimura<br/>\nKanichiro. I&#39;m guessing someone asked if there was really someone in<br/>\nthe Shinsengumi by that name. <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 174393936,
+            "authorName": "Jon Mesina",
+            "from": "&quot;Jon Mesina&quot; &lt;okita_souji@...&gt;",
+            "profile": "okitasoji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Uploaded Image info",
+            "postDate": "1080962037",
+            "msgId": 279,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDkwMWM0MTkyOSRiNjdjZWIxMCQwMjAwYThjMEBPbW9pa2FuZT4=",
+                "referencesHeader": "PGM0a25qcis4bW9hQGVHcm91cHMuY29tPiA8NDA2REU2NDEuMjA5MDEwMkBiZWxsYXRsYW50aWMubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 288,
+            "prevInTime": 278,
+            "nextInTime": 280,
+            "topicId": 279,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Scans are from An Illustrated Guide to the Shinsengumi First image: Info about the Shiban or death squad . Hijikata in PMK mentions this in ep 20 or 21. It s",
+            "messageBody": "<div id=\"ygrps-yiv-1228174382\">Scans are from An Illustrated Guide to the Shinsengumi<br/>\n<br/>\nFirst image: Info about the Shiban or &quot;death squad&quot;. Hijikata in PMK mentions this in ep 20 or 21. It&#39;s a group of 4 people that head in first during a raid. <br/>\n<br/>\nSecond and Third Images: Info about Mibu Gishi Den&#39;s Yoshimura Kanichiro. I&#39;m guessing someone asked if there was really someone in the Shinsengumi by that name. <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 284,
+    "nextTopicId": 289
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "we can chat now",
+            "postDate": "1084924719",
+            "msgId": 770,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4ZTd2ZiszbXV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 769,
+            "nextInTime": 771,
+            "topicId": 770,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I caught a couple of people at shinsengumimb.com...but no one is looking up to see that I m waiting in the chat room :)",
+            "messageBody": "<div id=\"ygrps-yiv-1883990914\">I caught a couple of people at shinsengumimb.com...but no one is<br/>\nlooking up to see that I&#39;m waiting in the chat room :)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 758,
+    "nextTopicId": 760
+}

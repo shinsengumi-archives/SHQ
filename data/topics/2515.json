@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 224091597,
+            "authorName": "guuchan",
+            "from": "guuchan &lt;jungleguuchan@...&gt;",
+            "profile": "onigiribeanie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SHQ] KONNICHIWA SAMURAI",
+            "postDate": "1124400732",
+            "msgId": 2516,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMi4zLjQuMC4yMDA1MDgxODE3MjUxMi4wMjlkYjM1MEBwb3AuZWFydGhsaW5rLm5ldD4=",
+                "inReplyToHeader": "PGRlMWc3MitnN3U3QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRlMWc3MitnN3U3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2515,
+            "nextInTopic": 0,
+            "prevInTime": 2515,
+            "nextInTime": 2517,
+            "topicId": 2515,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Logan -  If you are up to the task of purchasing or renting (through your local Chinese/Korean/Japanese retail market-rental), there is a DVD release of",
+            "messageBody": "<div id=\"ygrps-yiv-1850750755\">At 04:17 AM 8/18/2005, you wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;I wanted to know how can i see the Tv show of the Shinsengumi. I would <br/>\n&gt;love to see it for myself. Can anyone direct me? <br/>\n&gt;thanks Logan,<br/>\n<br/>\n </span></blockquote>Logan -  If you are up to the task of purchasing or renting (through your local Chinese/Korean/Japanese retail market-rental), there is a DVD release of the Shinsengumi drama.  The legal release is put out by Geneon(Pioneer) and is purchasable at websites like YesAsia.<br/>\n<br/>\nVolume 1 (I believe of 2) is YesAsia Catalog No.:1003916602. Volume 2 should also be listed.<br/>\n<br/>\nAlternatively, if you have a good connection, you may download fansubs using bittorrent.  See <a rel=\"nofollow\" target=\"_blank\" href=\"http://d-addicts.com/forum/torrents.php\">http://d-addicts.com/forum/torrents.php</a> for the list of torrents, and their corresponding FAQ if you are unfamiliar with the p2p client Bittorrent.<br/>\n<br/>\n From my understanding the available torrent is taken from a screengrab of the subtitled  English version that aired in some select places in the U.S.  The subtitles are embedded , not softsubs.<br/>\n<br/>\nThere have been a few &#39;regionless&#39; editions that have shown up on Ebay.  Most likely, unless they state that they are Region 2, Geneon releases these are pirated versions.  I do not know if they are copies of the legal releases, or are HK versions (with questionable English subtitles) or pressings of the fansub versions. Buyer beware.  <br/>\n<br/>\n<br/>\nS<br/>\n<br/>\n*red-bird.org*</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "KONNICHIWA SAMURAI",
+            "postDate": "1124353058",
+            "msgId": 2515,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlMWc3MitnN3U3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2516,
+            "prevInTime": 2514,
+            "nextInTime": 2516,
+            "topicId": 2515,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I wanted to know how can i see the Tv show of the Shinsengumi. I would love to see it for myself. Can anyone direct me? thanks Logan,",
+            "messageBody": "<div id=\"ygrps-yiv-1376959602\">I wanted to know how can i see the Tv show of the Shinsengumi. I would <br/>\nlove to see it for myself. Can anyone direct me? <br/>\nthanks Logan,</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2514,
+    "nextTopicId": 2517
+}

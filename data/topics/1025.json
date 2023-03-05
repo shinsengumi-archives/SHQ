@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "More on Shinpachi",
+            "postDate": "1086815823",
+            "msgId": 1025,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhN3VvZitxdDR1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1024,
+            "nextInTime": 1026,
+            "topicId": 1025,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "--Bunkyu 3 (1863)- joined Kondou and co. in joining the Roshitai. Upon arrival in Kyoto, joined Kondou, Serizawa, and co. in leaving the now traitorous",
+            "messageBody": "<div id=\"ygrps-yiv-1228900408\">--Bunkyu 3 (1863)- joined Kondou and co. in joining the Roshitai. Upon<br/>\narrival in Kyoto, joined Kondou, Serizawa, and co. in leaving the now<br/>\ntraitorous Roshitai.<br/>\n<br/>\n--One of the charter members of the Mibu Roushigumi, formed by the<br/>\nKyoto Shugoshoku (&quot;Kyoto Protector&quot;) Matsudaira Higo no Kami<br/>\n(Katamori, of Aizu), and headed by Kondou and Serizawa.<br/>\n<br/>\n--After the events of the 18th day of the 8th month (September 18,<br/>\n1863), the group became known as &quot;Shinsengumi&quot; (with the permission of<br/>\nthe Imperial court, I believe).<br/>\n<br/>\n--Nagakura then became the captain of the 2nd unit, and a fukuchou<br/>\njokin (assistant vice commander).<br/>\n<br/>\nMore soon.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1005,
+    "nextTopicId": 1022
+}

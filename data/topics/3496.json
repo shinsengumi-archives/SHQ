@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Yet Another Shinsegumi Series",
+            "postDate": "1301362309",
+            "msgId": 3496,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGltcmNxNStrbHN2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3495,
+            "nextInTime": 3497,
+            "topicId": 3496,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I haven t had time to look closer at this but this was suggested by Michael over at NinjaDojo.com: http://www.nhk.or.jp/jidaigeki/shinsengumi/",
+            "messageBody": "<div id=\"ygrps-yiv-1773083064\">I haven&#39;t had time to look closer at this but this was suggested by Michael over at NinjaDojo.com:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nhk.or.jp/jidaigeki/shinsengumi/\">http://www.nhk.or.jp/jidaigeki/shinsengumi/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3495,
+    "nextTopicId": 3497
+}

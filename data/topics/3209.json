@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "Re: [SHQ] Multiple Messages, an apology",
+            "postDate": "1175122180",
+            "msgId": 3213,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ2MEFGMTA0LjQwNTA3QGJlbGxhdGxhbnRpYy5uZXQ+",
+                "inReplyToHeader": "PGV1ZXFvdStwdnZnQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGV1ZXFvdStwdnZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3209,
+            "nextInTopic": 0,
+            "prevInTime": 3209,
+            "nextInTime": 3224,
+            "topicId": 3209,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It s a Yahell problem M. It s happening on my writers and publishers lists too. -- ~ Barbara Sheridan http://www.barbarasheridan.net ",
+            "messageBody": "<div id=\"ygrps-yiv-1093349783\">It&#39;s a Yahell problem M. It&#39;s happening on my writers&#39; and publishers&#39;  <br/>\nlists too.<br/>\n<br/>\n-- <br/>\n~ Barbara Sheridan<br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.dragonsdisciple.com\">http://www.dragonsdisciple.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://slash-and-burn.blogspot.com/\">http://slash-and-burn.blogspot.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Multiple Messages, an apology",
+            "postDate": "1175121502",
+            "msgId": 3209,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV1ZXFvdStwdnZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3213,
+            "prevInTime": 3205,
+            "nextInTime": 3213,
+            "topicId": 3209,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Our apologies to all members who are getting multiple messages-- Seven complained that hers were coming up several times; now mine are coming up several times.",
+            "messageBody": "<div id=\"ygrps-yiv-1395228534\">Our apologies to all members who are getting multiple messages-- Seven<br/>\ncomplained that hers were coming up several times; now mine are coming<br/>\nup several times. I don&#39;t know what can be done to take care of it,<br/>\nbut we&#39;ll see what&#39;s possible.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3194,
+    "nextTopicId": 3224
+}

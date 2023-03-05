@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 262581623,
+            "authorName": "Maria k",
+            "from": "&quot;Maria k&quot; &lt;Sharow88@...&gt;",
+            "profile": "kitty246802003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: hi",
+            "postDate": "1154029751",
+            "msgId": 2943,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWM2YjFiNSRiYjk3NGRkMCQ0ZDAxYThjMEBNWUJBQlk+"
+            },
+            "prevInTopic": 2942,
+            "nextInTopic": 0,
+            "prevInTime": 2942,
+            "nextInTime": 2944,
+            "topicId": 2942,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I m new too. I m hispanic, though I speak English far better than my own language, and I m definately an otaku! I ve officially fallen in love with the",
+            "messageBody": "<div id=\"ygrps-yiv-155742507\">Hi! I&#39;m new too. I&#39;m hispanic, though I speak English far better than my own language, and I&#39;m definately an otaku! I&#39;ve officially fallen in love with the Shinsengumi so I want to learn about them! lol! It&#39;s nice to see that I&#39;m not the only one! XD<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 276740176,
+            "authorName": "&#12371;&#12429;&#12377;&#12369;",
+            "from": "&quot;&#12371;&#12429;&#12377;&#12369;&quot; &lt;okushow01@...&gt;",
+            "profile": "okushow01",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "hi",
+            "postDate": "1153982054",
+            "msgId": 2942,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVhOW1wNitpMzR0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2943,
+            "prevInTime": 2941,
+            "nextInTime": 2943,
+            "topicId": 2942,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi, Im new in here^^ Im japanese otaku Im leaning english^^ my english is not so good, but I wanna talk with you guys^^ i made website about Japanese culture,",
+            "messageBody": "<div id=\"ygrps-yiv-1798397694\">hi, Im new in here^^<br/>\nIm japanese otaku Im leaning english^^<br/>\nmy english is not so good, but I wanna talk with you guys^^<br/>\n<br/>\ni made website about Japanese culture, please chek it out and give me <br/>\nadvice about miss spell and contents ^_^<br/>\nthis is my website<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://japan.ninja-mania.jp/\">http://japan.ninja-mania.jp/</a> <br/>\n<br/>\n<br/>\nand also check out myspace<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.myspace.com/nihonngotarou\">http://www.myspace.com/nihonngotarou</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2941,
+    "nextTopicId": 2944
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Going to Japan",
+            "postDate": "1120818618",
+            "msgId": 2471,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRhbGtqcSs2aXJyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2470,
+            "nextInTime": 2472,
+            "topicId": 2471,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Alright, everyone, I thought I d make the announcement official-- come September 5, I m heading to Japan until December. I ll be in the northern part of the",
+            "messageBody": "<div id=\"ygrps-yiv-1392575610\">Alright, everyone, I thought I&#39;d make the announcement official-- come <br/>\nSeptember 5, I&#39;m heading to Japan until December. I&#39;ll be in the <br/>\nnorthern part of the country, roughly around Sendai and Aizu, so look <br/>\nforward to lots of pictures of Shinsengumi-related sites! (bear in mind <br/>\nthat Hijikata Toshizo himself stayed in Sendai on his way to <br/>\nHokkaido/Hakodate) Plus, I might (emphasis on might) be in Kyoto later <br/>\non, so I&#39;ll do my best to get to the Yagi estate (old Shinsengumi HQ).<br/>\n<br/>\nThis is not a pleasure trip-- it&#39;s part of my college education-- but <br/>\neven so, I&#39;m going to try and get new pictures and information that <br/>\nwill help us all get a better idea of these people.<br/>\n<br/>\nAratamete yoroshiku onegaishimasu! (again, please regard me well!)<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2470,
+    "nextTopicId": 2472
+}

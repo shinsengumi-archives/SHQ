@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 223291433,
+            "authorName": "anchan_kawai",
+            "from": "&quot;anchan_kawai&quot; &lt;anchan_kawai@...&gt;",
+            "profile": "anchan_kawai",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "moshi2,,,,i&#39;m souji okita nyo!!!!",
+            "postDate": "1123074141",
+            "msgId": 636,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRjcWY4dCtscXFkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 635,
+            "nextInTime": 637,
+            "topicId": 636,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "i m a new member(haha) i wanna say genki desu!!!!!!",
+            "messageBody": "<div id=\"ygrps-yiv-56093870\">i&#39;m a new member(haha)<br/>\ni wanna say genki desu!!!!!!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 635,
+    "nextTopicId": 640
+}

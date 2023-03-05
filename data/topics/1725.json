@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Apology",
+            "postDate": "1097523586",
+            "msgId": 1726,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNrZW5pMitlMGdvQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEJBWTIyLUYzOExzeHBUbGpCT2gwMDAwZjBiMUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 1725,
+            "nextInTopic": 0,
+            "prevInTime": 1725,
+            "nextInTime": 1727,
+            "topicId": 1725,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is no need to apologize. I would also like to add that this is a very instructive example of how one should cite textual resources when providing new",
+            "messageBody": "<div id=\"ygrps-yiv-1648459979\">There is no need to apologize.<br/>\nI would also like to add that this is a very instructive example of <br/>\nhow one should cite textual resources when providing new info.<br/>\nsecretarytocapt3<br/>\n(still trying to deal with dozens of books she has to read)<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Hirotada Tokugawa&quot; &lt;patriot014@h...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I&#39;m sorry, everyone. In my rush out the door I received that email <br/>\n </span></blockquote>message <br/>\n<blockquote><span title=\"ireply\"> &gt; about the alleged truth behind the Hitokiri Battousai&#39;s existence, <br/>\n </span></blockquote>and did <br/>\n<blockquote><span title=\"ireply\"> &gt; not bother to read through it carefully. As a historian-in-<br/>\n </span></blockquote>training, this is <br/>\n<blockquote><span title=\"ireply\"> &gt; a true shame on me, and for that, I humbly ask your forgiveness. <br/>\n </span></blockquote>I&#39;ll try <br/>\n<blockquote><span title=\"qreply\"> &gt; not to be so stupid from now on.<br/>\n&gt; <br/>\n&gt; --M.<br/>\n&gt; <br/>\n&gt; _________________________________________________________________<br/>\n&gt; Add photos to your e-mail with MSN 8. Get 2 months FREE*. <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Apology",
+            "postDate": "1097522048",
+            "msgId": 1725,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzOExzeHBUbGpCT2gwMDAwZjBiMUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1726,
+            "prevInTime": 1724,
+            "nextInTime": 1726,
+            "topicId": 1725,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m sorry, everyone. In my rush out the door I received that email message about the alleged truth behind the Hitokiri Battousai s existence, and did not",
+            "messageBody": "<div id=\"ygrps-yiv-2074299303\">I&#39;m sorry, everyone. In my rush out the door I received that email message <br/>\nabout the alleged truth behind the Hitokiri Battousai&#39;s existence, and did <br/>\nnot bother to read through it carefully. As a historian-in-training, this is <br/>\na true shame on me, and for that, I humbly ask your forgiveness. I&#39;ll try <br/>\nnot to be so stupid from now on.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your e-mail with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1723,
+    "nextTopicId": 1727
+}

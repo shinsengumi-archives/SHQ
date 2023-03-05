@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ_Spy_Division] Our first nasty spam",
+            "postDate": "1086653977",
+            "msgId": 315,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQzUwNjE5LjEwMjA2MDFAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNhMnA0MitlOWJhQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNhMnA0MitlOWJhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 313,
+            "nextInTopic": 0,
+            "prevInTime": 314,
+            "nextInTime": 316,
+            "topicId": 313,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Same thi happened on SHQ today but it was caught. yes you can ban them. I set the controls to moderate all new members that way if this happens it doesn t",
+            "messageBody": "<div id=\"ygrps-yiv-1389047492\">Same thi happened on SHQ today but it was caught. yes you can ban them. <br/>\nI set the controls to moderate all new members that way if this happens <br/>\nit doesn&#39;t reach the list and when a real member&#39;s first post reaches <br/>\nyou you can simply set them to non moderated.<br/>\n<br/>\nspiritus_saitou wrote:<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt;At least I don&#39;t remember any others...<br/>\n&gt;<br/>\n&gt;Anyway, I removed the offender from the membership and deleted the <br/>\n&gt;post.  Sorry I don&#39;t know of any way of retrieving such messages from <br/>\n&gt;inboxes. In future, I&#39;ll simply remove and delete without <br/>\n&gt;notification. (Is there indeed a way of &quot;banning&quot; someone... anyone <br/>\n&gt;here with any moderator/owner experience with yahoogroups that knows <br/>\n&gt;or has done this?)<br/>\n&gt;<br/>\n&gt;Sorry for the inconvenience...<br/>\n&gt;phil<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;SHQ - Shinsengumi Headquarters<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/SHQ/\">http://groups.yahoo.com/group/SHQ/</a><br/>\n&gt;SHQ - The Website<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/\">http://www.shinsengumihq.com/</a><br/>\n&gt;SHQ Spy Office -- SHQ LiveJournal<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.livejournal.com/community/shq_spy_office/\">http://www.livejournal.com/community/shq_spy_office/</a><br/>\n&gt;SHQ Message Board<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com/\">http://www.shinsengumimb.com/</a> <br/>\n&gt;Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Our first nasty spam",
+            "postDate": "1086646210",
+            "msgId": 313,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhMnA0MitlOWJhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 315,
+            "prevInTime": 311,
+            "nextInTime": 314,
+            "topicId": 313,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "At least I don t remember any others... Anyway, I removed the offender from the membership and deleted the post.  Sorry I don t know of any way of retrieving",
+            "messageBody": "<div id=\"ygrps-yiv-718790144\">At least I don&#39;t remember any others...<br/>\n<br/>\nAnyway, I removed the offender from the membership and deleted the <br/>\npost.  Sorry I don&#39;t know of any way of retrieving such messages from <br/>\ninboxes. In future, I&#39;ll simply remove and delete without <br/>\nnotification. (Is there indeed a way of &quot;banning&quot; someone... anyone <br/>\nhere with any moderator/owner experience with yahoogroups that knows <br/>\nor has done this?)<br/>\n<br/>\nSorry for the inconvenience...<br/>\nphil</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 309,
+    "nextTopicId": 310
+}

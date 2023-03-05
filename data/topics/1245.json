@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Shinsengumi books",
+            "postDate": "1088111912",
+            "msgId": 1245,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwREI0NTI4LjQwOTA4MDhAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1244,
+            "nextInTime": 1246,
+            "topicId": 1245,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For our Japanese reading members I found some upcoming books listed on Yesasia.com, have you guys heard anything about these books? There are no descriptions",
+            "messageBody": "<div id=\"ygrps-yiv-1011807536\">For our Japanese reading members I found some upcoming books listed on <br/>\nYesasia.com, have you guys heard anything about these books? There are <br/>\nno descriptions on the website. You may have to cut and paste the url<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://us.yesasia.com/en/SrAllDept.aspx?section=books&code=j&version=all&did=9945&str=shinsengumi&x=0&y=0\">http://us.yesasia.com/en/SrAllDept.aspx?section=books&code=j&version=all&did=9945&str=shinsengumi&x=0&y=0</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1239,
+    "nextTopicId": 1254
+}

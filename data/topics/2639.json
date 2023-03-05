@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 122717733,
+            "authorName": "hajimenokizu",
+            "from": "&quot;hajimenokizu&quot; &lt;mg_batt@...&gt;",
+            "profile": "hajimenokizu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Byakkotai + Hijikata  &quot;Bushido&quot;",
+            "postDate": "1133549161",
+            "msgId": 2640,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtcTRwOSs3OG50QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRtcTNyMys2NGV0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2639,
+            "nextInTopic": 0,
+            "prevInTime": 2639,
+            "nextInTime": 2641,
+            "topicId": 2639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tried to download the free trial but it won t connect (for the second download to get the manga). Hmmm yes that would make a lot of sense since in other movies",
+            "messageBody": "<div id=\"ygrps-yiv-1817604335\">Tried to download the free trial but it won&#39;t connect (for the <br/>\nsecond download to get the manga).<br/>\n<br/>\nHmmm yes that would make a lot of sense since in other movies we did <br/>\nsee younger blood go up to Goryokaku. The description of the manga <br/>\nis a little misleading though... &quot;The battle of the samurai who have <br/>\nturned their backs on the new era begins now!&quot;<br/>\n<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;secretary&quot; &lt;secretarytocapt3@h...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gentosha-comics.net/genzo-e/\">http://www.gentosha-comics.net/genzo-e/</a>  {in English}<br/>\n&gt; and it does make sense--alot of people from Aizu did head to <br/>\n </span></blockquote>Hokkaido<br/>\n<blockquote><span title=\"qreply\"> &gt; now when will someone write<br/>\n&gt; Joushitai + Hijikata<br/>\n&gt; <br/>\n&gt; (^_^)<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Byakkotai + Hijikata  &quot;Bushido&quot;",
+            "postDate": "1133548195",
+            "msgId": 2639,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtcTNyMys2NGV0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2640,
+            "prevInTime": 2638,
+            "nextInTime": 2640,
+            "topicId": 2639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.gentosha-comics.net/genzo-e/  {in English} and it does make sense--alot of people from Aizu did head to Hokkaido now when will someone write ",
+            "messageBody": "<div id=\"ygrps-yiv-1955391656\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gentosha-comics.net/genzo-e/\">http://www.gentosha-comics.net/genzo-e/</a>  {in English}<br/>\nand it does make sense--alot of people from Aizu did head to Hokkaido<br/>\nnow when will someone write<br/>\nJoushitai + Hijikata<br/>\n<br/>\n(^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2630,
+    "nextTopicId": 2641
+}

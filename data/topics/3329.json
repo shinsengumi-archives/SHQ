@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 251588711,
+            "authorName": "Franziska Steffen",
+            "from": "Franziska Steffen &lt;xfranczeskax@...&gt;",
+            "profile": "xfranczeskax",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "still reading",
+            "postDate": "1195990074",
+            "msgId": 3329,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDUwMzI0OC4zNTg0MC5xbUB3ZWIyMzEwNC5tYWlsLmlyZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3328,
+            "nextInTime": 3330,
+            "topicId": 3329,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Also always reading! Just no time or knowledge to contribute..;_; __________________________________  Ihr erstes Baby? Holen Sie sich Tipps von anderen Eltern.",
+            "messageBody": "<div id=\"ygrps-yiv-733452868\">Also always reading! Just no time or knowledge to contribute..;_;<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n        __________________________________  Ihr erstes Baby? Holen Sie sich Tipps von anderen Eltern.  www.yahoo.de/clever<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3327,
+    "nextTopicId": 3330
+}

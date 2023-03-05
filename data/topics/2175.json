@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: aizu pics",
+            "postDate": "1107970903",
+            "msgId": 2176,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1ZGkwbitmYjMxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGN1ZGhkdCtjb2FuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2175,
+            "nextInTopic": 0,
+            "prevInTime": 2175,
+            "nextInTime": 2177,
+            "topicId": 2175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "what is great about this book is that it has different kinds of maps to use as well... note the gun battle in this scene...in the biography of Yamakawa/Oyama",
+            "messageBody": "<div id=\"ygrps-yiv-1393000570\">what is great about this book is that it has different kinds of maps <br/>\nto use as well...<br/>\nnote the gun battle in this scene...in the biography of <br/>\nYamakawa/Oyama Sutematsu there is mention of girls being in charge <br/>\nof carrying cartridges from the inside of the castle to the soldiers <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu6.jpg\">http://1happyturtle.com/aizu/aizu6.jpg</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "aizu pics",
+            "postDate": "1107970301",
+            "msgId": 2175,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1ZGhkdCtjb2FuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2176,
+            "prevInTime": 2174,
+            "nextInTime": 2176,
+            "topicId": 2175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "from Hoshi, Ry¯oichi, 1935- Haisha no ishinshi : Aizu hanshi Arakawa Katsushige no nikki http://bookweb.kinokuniya.co.jp/htm/4121009673.html the photos and",
+            "messageBody": "<div id=\"ygrps-yiv-1766383219\">from<br/>\nHoshi, Ry¯oichi, 1935- Haisha no ishinshi : Aizu hanshi Arakawa <br/>\nKatsushige no nikki<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://bookweb.kinokuniya.co.jp/htm/4121009673.html\">http://bookweb.kinokuniya.co.jp/htm/4121009673.html</a><br/>\n<br/>\nthe photos and illustrations were VERY difficult to scan....<br/>\nstudents in this field really should try to find this book<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu1.jpg\">http://1happyturtle.com/aizu/aizu1.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu2.jpg\">http://1happyturtle.com/aizu/aizu2.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu3.jpg\">http://1happyturtle.com/aizu/aizu3.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu4.jpg\">http://1happyturtle.com/aizu/aizu4.jpg</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/aizu/aizu5.jpg\">http://1happyturtle.com/aizu/aizu5.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2174,
+    "nextTopicId": 2177
+}

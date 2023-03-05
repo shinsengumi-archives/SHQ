@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mimawarigumi",
+            "postDate": "1087953673",
+            "msgId": 1230,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYxN0E3bTZhcmhxN2MwMDExZDQyZUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1229,
+            "nextInTime": 1231,
+            "topicId": 1230,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just thought I d let everyone know-- having come into posession of several new sources of information, I am compiling a report on the Mimawarigumi for the",
+            "messageBody": "<div id=\"ygrps-yiv-1265936716\">Just thought I&#39;d let everyone know-- having come into posession of several <br/>\nnew sources of information, I am compiling a report on the Mimawarigumi for <br/>\nthe website. Also, as promised earlier, I will be preparing a comparative <br/>\nchart of Shinsengumi, Mimawarigumi, and related groups&#39; (such as Aizu) <br/>\nuniforms and flags.<br/>\n<br/>\nBack to work for me!!<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your messages with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1208,
+    "nextTopicId": 1231
+}

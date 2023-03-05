@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "COMING SOON!",
+            "postDate": "1085276470",
+            "msgId": 266,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4b3ZmbSs0dnZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 265,
+            "nextInTime": 267,
+            "topicId": 266,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To be posted (once I scan them in about a week): 1. My rendition of the Nakajima Nobori painting of Saitou. 2. My rendition of the Nakajima Nobori painting of",
+            "messageBody": "<div id=\"ygrps-yiv-828478201\">To be posted (once I scan them in about a week):<br/>\n<br/>\n1. My rendition of the Nakajima Nobori painting of Saitou.<br/>\n2. My rendition of the Nakajima Nobori painting of Hara Gorou&#39;s <br/>\nsister (the &quot;mystery woman&quot;).<br/>\n3. A drawing of Kawai Tsuginosuke (chief councilor of the Nagaoka <br/>\ndomain).<br/>\n4. Some other (coming soon) Bakumatsu drawings.<br/>\n<br/>\nJust thought I&#39;d let you all know.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 263,
+    "nextTopicId": 259
+}

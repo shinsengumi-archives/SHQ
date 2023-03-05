@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Yamanami&#39;s grave",
+            "postDate": "1080089509",
+            "msgId": 100,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcW0zNStudXNmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEY2N1l5amxNRkFWTkw5cGRScFYwMDAwMTZlZEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 75,
+            "nextInTopic": 0,
+            "prevInTime": 99,
+            "nextInTime": 101,
+            "topicId": 75,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since Yamanami Keisuke died under very tragic circumstances (as well as Kondou---but he was just buried right?) I wonder if his funeral is like a typical",
+            "messageBody": "<div id=\"ygrps-yiv-770752618\">Since Yamanami Keisuke died under very tragic circumstances (as well<br/>\nas Kondou---but he was just buried right?) I wonder if his funeral is<br/>\nlike a &quot;typical&quot; funeral...as I understand it the body is cremated,<br/>\nbones collected by relatives and then interred in the graves.<br/>\n<br/>\nI finally found out the need for Buddhist posthumous names &quot;kaimyo&quot;<br/>\n(from memory could be wrong)...it&#39;s to prevent the spirit from<br/>\nreturning if surviving families mention the names in<br/>\nconversations...interesting!<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Hirotada Tokugawa&quot; &lt;patriot014@h...&gt; wrote:<br/>\n&gt; I have posted a picture of Yamanami Keisuke&#39;s grave. Apparently,<br/>\nit&#39;s at the <br/>\n&gt; Hikari Temple east of Mibu Temple. I&#39;ve also posted a picture of<br/>\nMatsumae <br/>\n&gt; Castle (Hokkaido), near where Hijikata died in battle.<br/>\n&gt; <br/>\n&gt; --M.<br/>\n&gt; <br/>\n&gt; _________________________________________________________________<br/>\n&gt; MSN 8 with e-mail virus protection service: 2 months FREE* <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/virus\">http://join.msn.com/?page=features/virus</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yamanami&#39;s grave",
+            "postDate": "998361588",
+            "msgId": 75,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEY2N1l5amxNRkFWTkw5cGRScFYwMDAwMTZlZEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 100,
+            "prevInTime": 74,
+            "nextInTime": 76,
+            "topicId": 75,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have posted a picture of Yamanami Keisuke s grave. Apparently, it s at the Hikari Temple east of Mibu Temple. I ve also posted a picture of Matsumae Castle",
+            "messageBody": "<div id=\"ygrps-yiv-423547533\">I have posted a picture of Yamanami Keisuke&#39;s grave. Apparently, it&#39;s at the <br/>\nHikari Temple east of Mibu Temple. I&#39;ve also posted a picture of Matsumae <br/>\nCastle (Hokkaido), near where Hijikata died in battle.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nMSN 8 with e-mail virus protection service: 2 months FREE* <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/virus\">http://join.msn.com/?page=features/virus</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 99,
+    "nextTopicId": 101
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yamamoto Kakuma&#39;s handwriting.",
+            "postDate": "1108254600",
+            "msgId": 2184,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMTFGNkNBNTA1REE2ODkxNTA5QTMyQzlGNjkwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2181,
+            "nextInTime": 2186,
+            "topicId": 2184,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I found a FULL scan of the original of a short text by Yamamoto Kakuma, Yaeko s brother. Seems he lived on into the Meiji-- so it must ve been another brother",
+            "messageBody": "<div id=\"ygrps-yiv-362958357\">I found a FULL scan of the original of a short text by Yamamoto Kakuma, <br/>\nYaeko&#39;s brother. Seems he lived on into the Meiji-- so it must&#39;ve been <br/>\nanother brother killed at Toba-Fushimi.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://duels.doshisha.ac.jp:88/denshika/yamamoto/128/imgidx128.html\">http://duels.doshisha.ac.jp:88/denshika/yamamoto/128/imgidx128.html</a><br/>\n<br/>\n--M</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2180,
+    "nextTopicId": 2186
+}

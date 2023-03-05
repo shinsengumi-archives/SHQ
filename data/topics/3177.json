@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kon Ichikawa&#39;s animated Shinsengumi Film",
+            "postDate": "1172127364",
+            "msgId": 3177,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVyamVxNCtsZmY1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3176,
+            "nextInTime": 3178,
+            "topicId": 3177,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.youtube.com/watch?v=YkV-ZUm77FU info http://www.imdb.com/title/tt0400817/ Kon Ichikawa is a reknown director with a background in animation.  In ",
+            "messageBody": "<div id=\"ygrps-yiv-2131396254\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=YkV-ZUm77FU\">http://www.youtube.com/watch?v=YkV-ZUm77FU</a><br/>\n<br/>\ninfo<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.imdb.com/title/tt0400817/\">http://www.imdb.com/title/tt0400817/</a><br/>\n<br/>\nKon Ichikawa is a reknown director with a background in animation.  In<br/>\nthis clip he depicts Ikedaya Jigen.  One voice actor Kiichi Nakai will<br/>\ngo on to play Yoshimura Kani&#39;chiro in MIBUGISHIDEN.  This film is<br/>\nbased on the famous comic by Hiroshi Kurogane.  Back in 2000 the<br/>\nShinsengumi craze had not really taken root yet (aside from Rurouni<br/>\nKenshin based fandom) thus making this small budget venture &quot;lost&quot; to<br/>\nlater fans.  Many online communities love this depiction and I myself<br/>\nadmire the atmosphere and creativity which went into this film.  It<br/>\nwould have been neat if when a sword cuts through someone you hear the<br/>\nsound of tearing paper...<br/>\n<br/>\nI hope fans everywhere will try making their own Shinsengumi films and<br/>\ntry any genre using whatever means you have.  Last year I made<br/>\n&quot;IkeDIEya&quot; using Easter Eggs...it was fun and the exact opposite of<br/>\nKon Ichikawa&#39;s grim black and white approach...I went with a more<br/>\nbright colorful approach because it was &quot;filmed&quot; in my refrigerator. <br/>\nEven if Shinsengumi media such as manga and film have entered a<br/>\ndormant period fans can continue to have fun by producing their work<br/>\nand sharing with a community.<br/>\n<br/>\nI endeavour to report on the progress of the SHQ site very soon so<br/>\nthat all our supporter and donors can see where their contributions went.</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/YkV-ZUm77FU?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 3171,
+    "nextTopicId": 3148
+}

@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 197635464,
+            "authorName": "Linda Larsson",
+            "from": "Linda Larsson &lt;enma_o@...&gt;",
+            "profile": "enma_o",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ] Hello I&#39;m Back!",
+            "postDate": "1102774262",
+            "msgId": 1913,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMjExMTQxMTAyLjUxODcwLnFtYWlsQHdlYjg2OTAzLm1haWwudWtsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PEJBWTIyLUYzODUwM0VEMzNDRkQyNDNFNjVBMEI0OUZBOTBAcGh4LmdibD4="
+            },
+            "prevInTopic": 1912,
+            "nextInTopic": 0,
+            "prevInTime": 1912,
+            "nextInTime": 1914,
+            "topicId": 1911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Most of them are still around. I know of Kondou, Hijikata, Nagakura, and Saitou s descendants...the ones I know by name are Fujita Makoto (Saitou s descendant)",
+            "messageBody": "<div id=\"ygrps-yiv-1170417393\">Most of them are still around. I know of Kondou, Hijikata, Nagakura, and <br/>\nSaitou&#39;s descendants...the ones I know by name are Fujita Makoto (Saitou&#39;s <br/>\ndescendant) and Miyagawa Toyoji (Kondou&#39;s descendant by way of his <br/>\nnephew/adopted son Yuugorou).<br/>\n<br/>\n<br/>\nHmmm... aren&#39;t the present-day Hijikatas descended from Kiroku rather than Toshizou? I did see a rumor at the forum that he&#39;d had a kid, but that seems to be pretty unsubstantiated...<br/>\n<br/>\nLinda/enma_o<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ] Hello I&#39;m Back!",
+            "postDate": "1102731250",
+            "msgId": 1912,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzODUwM0VEMzNDRkQyNDNFNjVBMEI0OUZBOTBAcGh4LmdibD4=",
+                "inReplyToHeader": "PGNwZDZvMytyZzZuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1911,
+            "nextInTopic": 1913,
+            "prevInTime": 1911,
+            "nextInTime": 1913,
+            "topicId": 1911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Most of them are still around. I know of Kondou, Hijikata, Nagakura, and Saitou s descendants...the ones I know by name are Fujita Makoto (Saitou s descendant)",
+            "messageBody": "<div id=\"ygrps-yiv-1834385440\">Most of them are still around. I know of Kondou, Hijikata, Nagakura, and <br/>\nSaitou&#39;s descendants...the ones I know by name are Fujita Makoto (Saitou&#39;s <br/>\ndescendant) and Miyagawa Toyoji (Kondou&#39;s descendant by way of his <br/>\nnephew/adopted son Yuugorou).<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello I&#39;m Back!",
+            "postDate": "1102716483",
+            "msgId": 1911,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwZDZvMytyZzZuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1912,
+            "prevInTime": 1910,
+            "nextInTime": 1912,
+            "topicId": 1911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry I ve been absent but my computer has been offline since early yesterday morning. Also I would like to know if any of the members of the Shinsengumi have",
+            "messageBody": "<div id=\"ygrps-yiv-620180670\">Sorry I&#39;ve been absent but my computer has been offline since early<br/>\nyesterday morning. Also I would like to know if any of the members of <br/>\nthe Shinsengumi have any descendants that are still alive today?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1908,
+    "nextTopicId": 1914
+}

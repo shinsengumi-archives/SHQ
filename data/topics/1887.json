@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "BRAND NEW BOOK....",
+            "postDate": "1102028606",
+            "msgId": 1887,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvbzZ2dSs5cHQzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1886,
+            "nextInTime": 1888,
+            "topicId": 1887,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Beam of sincerity [ of the truth of the opening of a country which the winner erased - a new compilation group ], and Aizu Bushido ISBN 4761261897 ",
+            "messageBody": "<div id=\"ygrps-yiv-1209170938\">&quot;Beam of sincerity [ of the truth of the opening of a country which<br/>\nthe winner erased - a new compilation group ], and Aizu Bushido&quot;<br/>\nISBN 4761261897<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.amazon.co.jp/exec/obidos/ASIN/4761261897/qid%3D1102028155/250-3209924-7965839\">http://www.amazon.co.jp/exec/obidos/ASIN/4761261897/qid%3D1102028155/250-3209924-7965839</a><br/>\n<br/>\nI niftied the summary and review...the book goes into detail about the<br/>\ntreaties and the various Western powers.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1880,
+    "nextTopicId": 1564
+}

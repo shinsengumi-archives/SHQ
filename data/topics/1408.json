@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Alert",
+            "postDate": "1090682541",
+            "msgId": 1408,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxMDI3RUFELjEwODA4MDhAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1407,
+            "nextInTime": 1409,
+            "topicId": 1408,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think I m loving this show more and more. You need to check out the synopsis of episodes for August (url below)...first up is Nagakura s bitch and moan",
+            "messageBody": "<div id=\"ygrps-yiv-19983185\">I think I&#39;m loving this show more and more. You need to check out the <br/>\nsynopsis of episodes for August (url below)...first up is Nagakura&#39;s <br/>\nbitch and moan petition to Matsudaira...can the kinshin thing be far <br/>\nbehind???<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nhk-jn.co.jp/wp/best_e_next.htm\">http://www.nhk-jn.co.jp/wp/best_e_next.htm</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1403,
+    "nextTopicId": 1396
+}

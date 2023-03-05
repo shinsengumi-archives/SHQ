@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [SHQ_Spy_Division] death poem",
+            "postDate": "1142520015",
+            "msgId": 758,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMzg1M0QzODhERDZFOTgyNDFDQjc1OTlGRTcwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGR2Yml1bCtuaTA5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 757,
+            "nextInTopic": 0,
+            "prevInTime": 757,
+            "nextInTime": 759,
+            "topicId": 757,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Takasugi Shinsaku s death poem: (in Japanese) Omnoshiroki/ koto mo naki /yo wo omoshiroku (my rendition of it in English) To make interesting an otherwise ",
+            "messageBody": "<div id=\"ygrps-yiv-1040807733\">Takasugi Shinsaku&#39;s death poem:<br/>\n<br/>\n(in Japanese) &quot;Omnoshiroki/ koto mo naki /yo wo omoshiroku&quot;<br/>\n<br/>\n(my rendition of it in English) &quot;To make interesting an otherwise <br/>\nuninteresting world...&quot;<br/>\n<br/>\nDeath poems are supposed to be waka/tanka length, but this one is only haiku <br/>\nlength, signifying, as Watsuki Nobuhiro said in his description of Takasugi, <br/>\n&quot;Like his life, the poem has a beginning but no real end.&quot;<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 206436699,
+            "authorName": "kat",
+            "from": "&quot;kat&quot; &lt;kathleenehopkins@...&gt;",
+            "profile": "kathleenehopkins",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "death poem",
+            "postDate": "1142509333",
+            "msgId": 757,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR2Yml1bCtuaTA5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 758,
+            "prevInTime": 756,
+            "nextInTime": 758,
+            "topicId": 757,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "there is a famous death peom that goes along the lines  to make intresting an other wise boring world. Well it kind of goes that way. I was wondering if",
+            "messageBody": "<div id=\"ygrps-yiv-89410466\">there is a famous death peom that goes along the lines &quot; to make <br/>\nintresting an other wise boring world.&quot; <br/>\n<br/>\nWell it kind of goes that way. I was wondering if anyone knew how it <br/>\nwent. I&#39;m pretty sure it&#39;s Takasugi Shinsaku&#39;s death poem</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 756,
+    "nextTopicId": 759
+}

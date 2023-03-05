@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 340114110,
+            "authorName": "Pugsley",
+            "from": "&quot;Pugsley&quot; &lt;pugpugsley@...&gt;",
+            "profile": "pugpugsley1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: English Guide to Shinsengumi sites in Kyoto",
+            "postDate": "1246057733",
+            "msgId": 934,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGgyM2tlNSszZTB2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGgyMjgzOCszdXB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 933,
+            "nextInTopic": 0,
+            "prevInTime": 933,
+            "nextInTime": 935,
+            "topicId": 933,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I love this, and it really is a great guide for anyone that might already know a lot about the Shinsengumi or for those that might not, as well. I am",
+            "messageBody": "<div id=\"ygrps-yiv-501216411\">--- &quot;Trevor&quot; &lt;trevorskingle@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I&#39;ve just finished writing the first of three English <br/>\n&gt; language guides to sites related to the Shinsengumi <br/>\n&gt; and their activities in Kyoto<br/>\n<br/>\n </span></blockquote>I love this, and it really is a great guide for anyone that might already know a lot about the Shinsengumi or for those that might not, as well.<br/>\n<br/>\nI am really looking forward to seeing the rest of them!!  Thank you for doing this and for sharing it with us.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; The third will be a tour guide since the distance between <br/>\n&gt; the sites in Southern Higashiyama and Fushimi require <br/>\n&gt; public transport.<br/>\n<br/>\n </span></blockquote>Cool!!  Can we all go on a Japanese road-trip?  If so, I am certainly going on it with you!!  (o&#39;;&#39;o)<br/>\n<br/>\n~ Pugsley!!  &#92;(^O^)/</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 221855963,
+            "authorName": "Trevor",
+            "from": "&quot;Trevor&quot; &lt;trevorskingle@...&gt;",
+            "profile": "trevorskingle",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "English Guide to Shinsengumi sites in Kyoto",
+            "postDate": "1246012328",
+            "msgId": 933,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGgyMjgzOCszdXB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 934,
+            "prevInTime": 932,
+            "nextInTime": 934,
+            "topicId": 933,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve just finished writing the first of three English language guides to sites related to the Shinsengumi and their activities in Kyoto Walk One: The Lair of",
+            "messageBody": "<div id=\"ygrps-yiv-1962057513\">I&#39;ve just finished writing the first of three English language guides to sites related to the Shinsengumi and their activities in Kyoto<br/>\n<br/>\nWalk One: The Lair of the Mibu Wolves<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.scribd.com/doc/16739451/English-Language-Guide-to-the-Shinsengumi-in-Kyoto-Walk-One-Lair-of-the-Mibu-Wolves\">http://www.scribd.com/doc/16739451/English-Language-Guide-to-the-Shinsengumi-in-Kyoto-Walk-One-Lair-of-the-Mibu-Wolves</a><br/>\n<br/>\nWalk Two will be about the sites around Kiyamachi Dori<br/>\n<br/>\nThe third will be a tour guide since the distance between the sites in Southern Higashiyama and Fushimi require public transport</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 930,
+    "nextTopicId": 935
+}

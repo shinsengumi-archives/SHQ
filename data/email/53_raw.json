@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "WcJ1k8uaP3InhlPpybzujCLL6SaGYEzdRJcFHGxWkGbpkwRJ4ZeA1xUyq3WAFi7o2P4DDN0ve8ajLpQ",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1079673806",
+    "msgId": 53,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwNzk2NzM4MDYuMTg5Ny45NDQ2OS53NDlAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 52,
+    "nextInTopic": 56,
+    "prevInTime": 52,
+    "nextInTime": 54,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Shinsengumi",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 96882 invoked from network); 19 Mar 2004 05:23:29 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m1.grp.scd.yahoo.com with QMQP; 19 Mar 2004 05:23:29 -0000\r\nReceived: from unknown (HELO n8.grp.scd.yahoo.com) (66.218.66.92)\n  by mta3.grp.scd.yahoo.com with SMTP; 19 Mar 2004 05:23:29 -0000\r\nX-eGroups-Return: notify@yahoogroups.com\r\nReceived: from [66.218.67.171] by n8.grp.scd.yahoo.com with NNFMP; 19 Mar 2004 05:23:26 -0000\r\nReceived: (qmail 94538 invoked by uid 65534); 19 Mar 2004 05:23:26 -0000\r\nDate: 19 Mar 2004 05:23:26 -0000\r\nMessage-ID: &lt;1079673806.1897.94469.w49@yahoogroups.com&gt;\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.218.66.92\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Shinsengumi artifacts/Ishida_Sanyaku_leaves.jpeg \n  Uploaded by : shimazuryu &lt;patriot014@...&gt; \n  Description : Leaves used to make Ishida powder \n\nYou can access this file at the URL\n\nhttp://groups.yahoo.com/group/SHQ/files/Shinsengumi%20artifacts/Ishida_Sanyaku_leaves.jpeg \n\nTo learn more about file sharing for your group, please visit\n\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nshimazuryu &lt;patriot014@...&gt;\n \n\n\n\n\n"
+}

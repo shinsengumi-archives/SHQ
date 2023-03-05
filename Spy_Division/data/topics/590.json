@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [SHQ_Spy_Division] good, bad, indifferent?",
+            "postDate": "1112991835",
+            "msgId": 591,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMTlGQ0Y1NDYzMzI4OThBRjIxRTY0QzlGM0YwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGQzNmt0MCtjcTRwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 590,
+            "nextInTopic": 0,
+            "prevInTime": 590,
+            "nextInTime": 592,
+            "topicId": 590,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hijikata s haiku? They re actually pretty good. I don t have any on hand now, but I remember being impressed when I read them awhile ago. Oh wait! Come to",
+            "messageBody": "<div id=\"ygrps-yiv-449852745\">Hijikata&#39;s haiku? They&#39;re actually pretty good. I don&#39;t have any on hand <br/>\nnow, but I remember being impressed when I read them awhile ago. Oh wait! <br/>\nCome to think of it, the title for &quot;Kaze Hikaru&quot; comes from a Hijikata haiku <br/>\nwhich I can&#39;t remember all of, but the part I remember is &quot;Kaze <br/>\nhikaru/makoto no hata ni/....&quot; (&quot;The wind shines/upon the flag of <br/>\nmakoto/...&quot;)<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 214023305,
+            "authorName": "chickhasstick",
+            "from": "&quot;chickhasstick&quot; &lt;wlstott@...&gt;",
+            "profile": "chickhasstick",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "good, bad, indifferent?",
+            "postDate": "1112987360",
+            "msgId": 590,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQzNmt0MCtjcTRwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 591,
+            "prevInTime": 589,
+            "nextInTime": 591,
+            "topicId": 590,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since all us new folks seem to be in question asking mode I will join in.  I happened to read the manga and see the anime episode concerning the haiku at about",
+            "messageBody": "<div id=\"ygrps-yiv-225769019\">Since all us new folks seem to be in question asking mode I will <br/>\njoin in.  I happened to read the manga and see the anime episode <br/>\nconcerning the haiku at about the same time.  Hopefully, I will soon <br/>\nbe able to stop giggling madly whenever I see a french fry or a dill <br/>\npickle at the lunch table.  It is starting to make my co-workers a <br/>\nlittle nervous.<br/>\n  <br/>\n     So, in saner moments, what I am wondering:  was his haiku really <br/>\nall bad?<br/>\n<br/>\n      I remember studying the boys in baby blue in school, but there <br/>\nwas not mention of the haiku.  I have only seen the 1998 TV series and <br/>\nit was only mentioned in passing there.  I think Kondo&#39;s comment was <br/>\nsomething like &quot;....well you are improving...&quot;<br/>\n<br/>\n      I know very little about haiku, so any info. would be welcome.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 582,
+    "nextTopicId": 583
+}

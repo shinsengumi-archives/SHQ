@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Calligraphy",
+            "postDate": "1080428236",
+            "msgId": 78,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0NTBzYysxOTViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 77,
+            "nextInTime": 79,
+            "topicId": 78,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In Photos, under the Photographs section, I ve posted a scan of my most recent kanji-- Makoto , with Shinsengumi written under it, and my seal off to the",
+            "messageBody": "<div id=\"ygrps-yiv-1230712199\">In Photos, under the &quot;Photographs&quot; section, I&#39;ve posted a scan of my <br/>\nmost recent kanji-- &quot;Makoto&quot;, with &quot;Shinsengumi&quot; written under it, <br/>\nand my seal off to the left. Enjoy!<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 77,
+    "nextTopicId": 79
+}

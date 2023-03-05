@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "NsyMhvgUBs4tBNuyvnulq83VUyMOwX-vSOeg4wpM8gx-d7V4VN7a3KJ1Tt8NpMIWA3hlKI2DHSpZiRU",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1125455767",
+    "msgId": 2542,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMjU0NTU3NjcuODQ3Ljc3MDg3LncxMDNAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 2540,
+    "nextInTopic": 2768,
+    "prevInTime": 2541,
+    "nextInTime": 2543,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Introduction to",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 38506 invoked from network); 31 Aug 2005 02:36:08 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m32.grp.scd.yahoo.com with QMQP; 31 Aug 2005 02:36:08 -0000\r\nReceived: from unknown (HELO n10a.bulk.scd.yahoo.com) (66.94.237.44)\n  by mta1.grp.scd.yahoo.com with SMTP; 31 Aug 2005 02:36:08 -0000\r\nComment: DomainKeys? See http://antispam.yahoo.com/domainkeys\r\nReceived: from [66.218.69.1] by n10.bulk.scd.yahoo.com with NNFMP; 31 Aug 2005 02:36:07 -0000\r\nReceived: from [66.218.66.70] by mailer1.bulk.scd.yahoo.com with NNFMP; 31 Aug 2005 02:36:07 -0000\r\nDate: 31 Aug 2005 02:36:07 -0000\r\nMessage-ID: &lt;1125455767.847.77087.w103@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Introduction to the Shinsengumi/Paglalagom ukol sa Shinsengumi.htm \n  Uploaded by : mg_batt &lt;mg_batt@...&gt; \n  Description : Introduction - Shinsengumi (Paglagom sa Shinsengumi) - Tagalog/Filipino \n\nYou can access this file at the URL:\nhttp://groups.yahoo.com/group/SHQ/files/Introduction%20to%20the%20Shinsengumi/Paglalagom%20ukol%20sa%20Shinsengumi.htm \n\nTo learn more about file sharing for your group, please visit:\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nmg_batt &lt;mg_batt@...&gt;\n \n\n\n\n\n\n\n"
+}

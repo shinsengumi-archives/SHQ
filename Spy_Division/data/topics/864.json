@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Halloween Audio Fic &quot;Never Talk to Strangers&quot;",
+            "postDate": "1193898278",
+            "msgId": 864,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZnYnJmNitxdDdyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 863,
+            "nextInTime": 865,
+            "topicId": 864,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The following audio fic is rated pg-13 http://www.megaupload.com/?d=0MWMQSYY (10.54 minutes and around 3 mb) My favorite line The Great Nagakura is too fast",
+            "messageBody": "<div id=\"ygrps-yiv-2114076289\">The following audio fic is rated pg-13<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.megaupload.com/?d=0MWMQSYY\">http://www.megaupload.com/?d=0MWMQSYY</a> (10.54 minutes and around 3 mb)<br/>\n<br/>\nMy favorite line &quot;The Great Nagakura is too fast for snipers&quot; XD<br/>\n<br/>\n~enjoy</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 863,
+    "nextTopicId": 865
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 251588711,
+            "authorName": "Franziska Steffen",
+            "from": "Franziska Steffen &lt;xfranczeskax@...&gt;",
+            "profile": "xfranczeskax",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Okita Team? (The Okita article on Wikipedia is ready to be uploa",
+            "postDate": "1150635225",
+            "msgId": 2846,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwNjE4MTI1MzQ1LjQ1NzA3LnFtYWlsQHdlYjI1OTEzLm1haWwudWtsLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2845,
+            "nextInTime": 2847,
+            "topicId": 2846,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanx so very much for the article! I ll uptade the German wikipedia too soon. ;) ... Sie denken an Ihre Sicherheit?  Das tun wir auch. [Non-text portions of",
+            "messageBody": "<div id=\"ygrps-yiv-862333108\">Thanx so very much for the article! I&#39;ll uptade the German wikipedia too soon. ;)<br/>\n<br/>\n \t\t<br/>\n---------------------------------<br/>\nSie denken an Ihre Sicherheit?  Das tun wir auch. <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2838,
+    "nextTopicId": 2814
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hi all",
+            "postDate": "1100749086",
+            "msgId": 440,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuaDVldSs5YzZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 439,
+            "nextInTime": 441,
+            "topicId": 440,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just thought I d say that I m feeling much better now and that I can now do some reall research on my fav group the Shinsengumi!",
+            "messageBody": "<div id=\"ygrps-yiv-983404274\">I just thought I&#39;d say that I&#39;m feeling much better now and that I <br/>\ncan now do some reall research on my fav group the Shinsengumi!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 433,
+    "nextTopicId": 441
+}

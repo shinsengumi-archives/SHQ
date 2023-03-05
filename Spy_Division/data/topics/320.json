@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "rkdreams.com is back",
+            "postDate": "1087607969",
+            "msgId": 320,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNiMDRiMStnMjF1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 319,
+            "nextInTime": 321,
+            "topicId": 320,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.rkdreams.com is back online",
+            "messageBody": "<div id=\"ygrps-yiv-1686196177\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.rkdreams.com\">http://www.rkdreams.com</a> is back online</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 319,
+    "nextTopicId": 321
+}

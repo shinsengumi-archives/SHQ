@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "&quot;Shinsengumi Shimatsuki&quot; Screening in Toronto CANADA",
+            "postDate": "1214436067",
+            "msgId": 3402,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGczdWp0MytxMW1nQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3401,
+            "nextInTime": 3403,
+            "topicId": 3402,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Shinsengumi Shimatsuki The Japanese Canadian Cultural Centre presents Shinsengumi Shimatsuki (I want to Die a Samurai) July 31 at 7 p.m. as part of its Movie",
+            "messageBody": "<div id=\"ygrps-yiv-495153009\">&quot;Shinsengumi Shimatsuki<br/>\n<br/>\nThe Japanese Canadian Cultural Centre presents Shinsengumi Shimatsuki <br/>\n(I want to Die a Samurai) July 31 at 7 p.m. as part of its Movie Night <br/>\nseries. This movie is written by Shimozawa Kan (creator of the Zato Ichi <br/>\ncharacter) and is based on interviews gathered from the surviving family <br/>\nmembers of the Shinsengumi, one of the infamous paramilitary police <br/>\nforces created by the Tokugawa shogunate. This film is a realistic <br/>\nportrayal of this notorious force of ronin under the leadership of Kondo <br/>\nIsami who were created to eradicate the imperial loyalists from Kyoto. <br/>\nDaiei Films, 1963, colour with English subtitles. Cost: $5 members; $7 non-<br/>\nmembers. Japanese Canadian Cultural Centre, 6 Garamond Ct. Call 416-<br/>\n441-2345. &quot;<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.insidetoronto.com/lifestyle/Lifestyle/Arts/article/50872\">http://www.insidetoronto.com/lifestyle/Lifestyle/Arts/article/50872</a><br/>\n<br/>\nShinsengumi Shimatsuki happens to be a high quality film starring Raizo <br/>\nIchikawa <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.imdb.com/title/tt0227492/\">http://www.imdb.com/title/tt0227492/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3399,
+    "nextTopicId": 3403
+}

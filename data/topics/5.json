@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Drat it!",
+            "postDate": "1079540755",
+            "msgId": 5,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzOXU2aitkY2x0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4,
+            "nextInTime": 6,
+            "topicId": 5,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Look s like you get Saitou after all, MissB *YOU* snagged the third post.  Barb, how does she manage to do these things?? Let s see, does that make me Takeda?",
+            "messageBody": "<div id=\"ygrps-yiv-161303426\">Look&#39;s like you get Saitou after all, MissB *YOU* snagged the third <br/>\npost.  Barb, how does she manage to do these things??<br/>\n<br/>\nLet&#39;s see, does that make me Takeda?  Where&#39;s Serizawa Kamo&#39;s <br/>\nlist...  Matsubara?  I don&#39;t know a single thing about him!!  <br/>\nAlthough... if this post counts and makes it on time... I do know <br/>\n*some* things about Takeda... like Saitou killed him.  Wonderful...<br/>\n<br/>\nphil (holding out for the ninth post and Suzuki of the Sekihoutai)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 0,
+    "nextTopicId": 1
+}

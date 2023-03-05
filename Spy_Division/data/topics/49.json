@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Pic",
+            "postDate": "1080088842",
+            "msgId": 49,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcWxlYSthZnZoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 48,
+            "nextInTime": 50,
+            "topicId": 49,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have uploaded a new pic to the Single Originals section-- a pic of Yuki, after the timeline change in Jidai Monogatari . By the way, the reason that she",
+            "messageBody": "<div id=\"ygrps-yiv-1006611979\">I have uploaded a new pic to the &quot;Single Originals&quot; section-- a pic <br/>\nof Yuki, after the timeline change in &quot;Jidai Monogatari&quot;.<br/>\n<br/>\nBy the way, the reason that she has the two dots high on her forehead <br/>\nis because that was part of the makeup worn by the Imperial <br/>\ncourtiers. Since, in the new timeline, she&#39;s a granddaughter of the <br/>\nprevious emperor, she&#39;d wear her makeup like that for formal <br/>\nfunctions, like what happens at the end of the story...<br/>\n<br/>\nBut I&#39;ll save that for later...^_^...(smiles mysteriously) All I <br/>\ngotta say for now, though, is to Choshuu: Don&#39;t be so sure that <br/>\nyou&#39;re going to still end up winning...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 38,
+    "nextTopicId": 55
+}

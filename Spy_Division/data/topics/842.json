@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Manga Download Here....",
+            "postDate": "1182220111",
+            "msgId": 842,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY1N2YwZisxNnJsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 841,
+            "nextInTime": 843,
+            "topicId": 842,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Shimizu Hitomi has a friends only post here: http://community.livejournal.com/edo_meiji/65788.html so if you want a realistically drawn manga about Okita s",
+            "messageBody": "<div id=\"ygrps-yiv-1142327118\">Shimizu Hitomi has a friends only post here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://community.livejournal.com/edo_meiji/65788.html\">http://community.livejournal.com/edo_meiji/65788.html</a><br/>\n<br/>\nso if you want a realistically drawn manga about Okita&#39;s last days<br/>\nplease join <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.livejournal.com/edo_meiji,\">http://www.livejournal.com/edo_meiji,</a> friend the community<br/>\nand you&#39;ll see her post<br/>\n<br/>\nI downloaded the manga and indeed this is not a soft cuddly<br/>\nmanga...very intense!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 841,
+    "nextTopicId": 843
+}

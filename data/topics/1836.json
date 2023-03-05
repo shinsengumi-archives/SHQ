@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Show on Samurai Swords",
+            "postDate": "1100515335",
+            "msgId": 1836,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNuYTE2Nytzc2VyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1835,
+            "nextInTime": 1837,
+            "topicId": 1836,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is going to be a show on the History International channel today at 8:00pm EST and again at 12:00pm EST on samurai swords. Specifically the master",
+            "messageBody": "<div id=\"ygrps-yiv-1470149417\">There is going to be a show on the History International channel <br/>\ntoday at 8:00pm EST and again at 12:00pm EST on samurai swords. <br/>\nSpecifically the master swordsman, Masamune. Should be worth <br/>\nwatching. <br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1835,
+    "nextTopicId": 1837
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 279908244,
+            "authorName": "ryhorikawa",
+            "from": "&quot;ryhorikawa&quot; &lt;ryhorikawa@...&gt;",
+            "profile": "ryhorikawa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Book to Recommend",
+            "postDate": "1213369954",
+            "msgId": 3398,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcydTJwMitraW9zQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3397,
+            "nextInTime": 3399,
+            "topicId": 3398,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Konnichi wa SHQ-tomodachi sans, Just finished a historical novel that I d like to recommend to this site. The title is The Shogun s Gold by Masayoshi Sato",
+            "messageBody": "<div id=\"ygrps-yiv-476840674\">Konnichi wa SHQ-tomodachi sans,<br/>\n<br/>\nJust finished a historical novel that I&#39;d like to recommend to this site. The title is &quot;The <br/>\nShogun&#39;s Gold&quot; by Masayoshi Sato and is published by Kodansha. It is out of print but you can <br/>\npick up a used copy on Amazon for a really cheap price. The novel is set during the <br/>\nBakumatsu period and is about that period&#39;s exchange rate wars between the Bakufu and the <br/>\nWest. (I had read previously that according to many Japanese economist, it was the currency <br/>\nwar of this period that really underscored the end of  the Togugawa government)  What is <br/>\ninteresting is that the author chooses to tell the narrative through the eyes of Rutherford <br/>\nAlcock, Britian&#39;s first counsel general to Japan. It is a most fascinating read. The novel is set <br/>\nbetween the periods of March 1859 - December 1862. Two months later in February of <br/>\n1863, Kiyokawa Hachiro left Edo for Kyoto with his 250 strong Roshi corp. And as we know, <br/>\nwhile in Kyoto, 13 members of the Roshi broke rank with Kiyokawa and formed the <br/>\nShinsengumi. This historical novel provides a wonderful economic context to the political <br/>\nintensity and  emotions that swirled in these times.<br/>\n<br/>\n-Rodney</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3397,
+    "nextTopicId": 13
+}

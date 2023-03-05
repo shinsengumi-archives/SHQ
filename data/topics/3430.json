@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 252774361,
+            "authorName": "kikue.mugen",
+            "from": "&quot;kikue.mugen&quot; &lt;kikue.mugen@...&gt;",
+            "profile": "kikue.mugen",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Crunchyroll Acquires Peacemaker...",
+            "postDate": "1218456949",
+            "msgId": 3431,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc3cGFobCszcTRkQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGc3bG11cStzc2lsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3430,
+            "nextInTopic": 0,
+            "prevInTime": 3430,
+            "nextInTime": 3432,
+            "topicId": 3430,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ahhhh Peacemaker was such a fun one to watch. Saitou was such a spooky- ookie guy in that one wasn t he?  I loved Hijikata in that one.  So now that we re able",
+            "messageBody": "<div id=\"ygrps-yiv-905716553\">Ahhhh Peacemaker was such a fun one to watch. Saitou was such a spooky-<br/>\nookie guy in that one wasn&#39;t he?  I loved Hijikata in that one.  So <br/>\nnow that we&#39;re able to watch it legally, where&#39;s the fun in that? *hee <br/>\nhee*<br/>\n<br/>\nThanks for the heads up!<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;secretary&quot; &lt;secretarytocapt3@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.livejournal.com/37017.html\">http://shinsengumihq.livejournal.com/37017.html</a><br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Crunchyroll Acquires Peacemaker...",
+            "postDate": "1218338586",
+            "msgId": 3430,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc3bG11cStzc2lsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3431,
+            "prevInTime": 3429,
+            "nextInTime": 3431,
+            "topicId": 3430,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://shinsengumihq.livejournal.com/37017.html",
+            "messageBody": "<div id=\"ygrps-yiv-1030998346\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.livejournal.com/37017.html\">http://shinsengumihq.livejournal.com/37017.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3424,
+    "nextTopicId": 3432
+}

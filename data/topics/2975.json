@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "Andrea Smith",
+            "from": "Andrea Smith &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "i&#39;m sorry for this",
+            "postDate": "1159040780",
+            "msgId": 2975,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwOTIzMTk0NjIwLjQ4MjU1LnFtYWlsQHdlYjMyODAyLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2974,
+            "nextInTime": 2976,
+            "topicId": 2975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hey i m just trying to find my groups, so i m sorry for this.. ... Do you Yahoo!? Everyone is raving about the  all-new Yahoo! Mail. [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-1379680980\">hey i&#39;m just trying to find my groups, so i&#39;m sorry for this..<br/>\n \t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Everyone is raving about the  all-new Yahoo! Mail.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2971,
+    "nextTopicId": 2976
+}

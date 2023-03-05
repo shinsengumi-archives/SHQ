@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Location of Nagakura Shinpachi&#39;s  HOme",
+            "postDate": "1116109863",
+            "msgId": 2441,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2NXU3NyttZjllQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2440,
+            "nextInTime": 2443,
+            "topicId": 2441,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please insert http://8614.teacup.com/hijikata/bbs into http://www.nifty.com/globalgate find entry 5/13 and read the post look for the picture of sign w/ senior",
+            "messageBody": "<div id=\"ygrps-yiv-1173346742\">Please insert<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://8614.teacup.com/hijikata/bbs\">http://8614.teacup.com/hijikata/bbs</a><br/>\ninto <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nifty.com/globalgate\">http://www.nifty.com/globalgate</a><br/>\nfind entry 5/13 and read the post<br/>\nlook for the picture of sign w/ senior citizen Nagakura</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2440,
+    "nextTopicId": 2444
+}

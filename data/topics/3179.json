@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New vid to the Shinsengumihq Youtube Channel",
+            "postDate": "1172521890",
+            "msgId": 3179,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVydmczMis4ZmVoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3178,
+            "nextInTime": 3180,
+            "topicId": 3179,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.youtube.com/watch?v=jjFT-Cw6828 and yes I HAD to use the campy Shinsengumi song (^___^)",
+            "messageBody": "<div id=\"ygrps-yiv-1311960254\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=jjFT-Cw6828\">http://www.youtube.com/watch?v=jjFT-Cw6828</a><br/>\n<br/>\nand yes I HAD to use the campy Shinsengumi song (^___^)</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/jjFT-Cw6828?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 3148,
+    "nextTopicId": 3180
+}

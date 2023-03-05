@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RKRC 2003",
+            "postDate": "1094259839",
+            "msgId": 369,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNoYjQ5dituNTJmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 368,
+            "nextInTime": 370,
+            "topicId": 369,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please register to vote... http://tfme.net/rkrc/index.php",
+            "messageBody": "<div id=\"ygrps-yiv-1732426859\">please register to vote...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tfme.net/rkrc/index.php\">http://tfme.net/rkrc/index.php</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 358,
+    "nextTopicId": 371
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [SHQ] Hey",
+            "postDate": "1099980621",
+            "msgId": 1825,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYxNHJQcnZDV082aG0wMDA0NTc0M0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 1822,
+            "nextInTopic": 0,
+            "prevInTime": 1824,
+            "nextInTime": 1826,
+            "topicId": 1822,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello Thanks for letting us know about your condition, however, this sort of thing is better discussed off-list, as it has nothning to do with our content. ",
+            "messageBody": "<div id=\"ygrps-yiv-1040360973\">Hello<br/>\n<br/>\nThanks for letting us know about your condition, however, this sort of thing <br/>\nis better discussed off-list, as it has nothning to do with our content. <br/>\nSorry, but rules are rules. I&#39;ve also noticed you did the same thing for the <br/>\nSpy Division and the PeaceMaker list-- please refrain in those areas, as <br/>\nwell.<br/>\n<br/>\nThanks for understanding.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nExpress yourself instantly with MSN Messenger! Download today it&#39;s FREE! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://messenger.msn.com/\">http://messenger.msn.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hey",
+            "postDate": "1099974456",
+            "msgId": 1822,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtcGd2bys2azIxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1825,
+            "prevInTime": 1821,
+            "nextInTime": 1823,
+            "topicId": 1822,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m getting better now slowly yet surely I am getting there. Though I still suffer from bouts of coughing to the point of I can t breath, but I m going to get",
+            "messageBody": "<div id=\"ygrps-yiv-210626279\">I&#39;m getting better now slowly yet surely I am getting there. Though I <br/>\nstill suffer from bouts of coughing to the point of I can&#39;t breath, <br/>\nbut I&#39;m going to get better.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1813,
+    "nextTopicId": 1830
+}

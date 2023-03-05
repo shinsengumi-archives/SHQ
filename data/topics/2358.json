@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 35628803,
+            "authorName": "Sherlgirl",
+            "from": "Sherlgirl &lt;sherlgirl@...&gt;",
+            "profile": "sherlinelee",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Screencaps from the end of the NHK drama",
+            "postDate": "1111556333",
+            "msgId": 2358,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU3ODMwOTUuMTExMTU1NjMzMzUzNy5KYXZhTWFpbC5yb290QHdhbXVpMDYuc2xiLmF0bC5lYXJ0aGxpbmsubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2357,
+            "nextInTime": 2359,
+            "topicId": 2358,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For a limited time: http://red-bird.org/v-web/gallery/nhk screencaps from 48-49 and the end credits.",
+            "messageBody": "<div id=\"ygrps-yiv-1286339527\">For a limited time:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://red-bird.org/v-web/gallery/nhk\">http://red-bird.org/v-web/gallery/nhk</a><br/>\n<br/>\nscreencaps from 48-49 and the end credits.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1778,
+    "nextTopicId": 2278
+}

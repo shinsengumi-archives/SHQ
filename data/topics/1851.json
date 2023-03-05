@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "Warg3791@****",
+            "from": "Warg3791@...",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Fact or Fiction",
+            "postDate": "1100919393",
+            "msgId": 1852,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDllLjE5ZjMxYmEwLjJlZDAwYzYxQGFvbC5jb20+"
+            },
+            "prevInTopic": 1851,
+            "nextInTopic": 0,
+            "prevInTime": 1851,
+            "nextInTime": 1853,
+            "topicId": 1851,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "My understanding is that they did. I ve read that several times in different places. Probably it s true?  But if so,  it does make you wonder why a better ",
+            "messageBody": "<div id=\"ygrps-yiv-1536002198\">My understanding is that they did. I&#39;ve read that several times in different <br/>\nplaces. Probably it&#39;s true?  But if so,  it does make you wonder why a better <br/>\nguard wasn&#39;t set on those things! <br/>\n<br/>\n-MissB<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fact or Fiction",
+            "postDate": "1100912643",
+            "msgId": 1851,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxOUU5ODAzLjcwMzA4MDhAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1852,
+            "prevInTime": 1850,
+            "nextInTime": 1852,
+            "topicId": 1851,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "While discussing the finer points of  Yashima Norito s portrayal of Takeda Kanryuusai :-)  Sec and I were wondering if there was any truth to the scene where",
+            "messageBody": "<div id=\"ygrps-yiv-1507915555\">While discussing the finer points of  Yashima Norito&#39;s portrayal of <br/>\nTakeda Kanryuusai :-)  Sec and I were wondering if there was any truth <br/>\nto the scene where the Ishin return to the Masuya warehouse/store to <br/>\nretrieve their hidden weapons.<br/>\n<br/>\nHas anyone come across reference to this incident?<br/>\n<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1850,
+    "nextTopicId": 1853
+}

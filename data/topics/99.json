@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "List of New Pictures",
+            "postDate": "1080079387",
+            "msgId": 99,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcWM2cit1ZTg5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 98,
+            "nextInTime": 100,
+            "topicId": 99,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "OK, I ve just posted several new pictures in the Shinsengumi and Related People file. Here s a list: 1. Hotta Masayoshi-- Bakufu (shogunate) senior",
+            "messageBody": "<div id=\"ygrps-yiv-615702179\">OK, I&#39;ve just posted several new pictures in the &quot;Shinsengumi and<br/>\nRelated People&quot; file. Here&#39;s a list:<br/>\n<br/>\n1. Hotta Masayoshi-- Bakufu (shogunate) senior counselor. Successor to<br/>\nAbe Masahiro.<br/>\n<br/>\n2. Miyabe Teizou-- the head of the Choshuu group that met at the<br/>\nIkedaya on the night of July 6, 1864.<br/>\n<br/>\n3. Nariai Kiyoshi-- Unknown, might be a member of the Shinsengumi. I<br/>\nhave to look into him more.<br/>\n<br/>\n4. Kawai Tsugunosuke-- head of the defenders of Nagaoka Castle in<br/>\nsummer 1868, in the months before Aizu fell.<br/>\n<br/>\n5. Satou Hikogorou-- Kondou&#39;s friend from Hino (now in Tokyo),<br/>\npossibly from the Shieikan days. Both letters in the &quot;Historic<br/>\nDocuments&quot; section (by Kondou and Okita) are addressed to him.<br/>\n<br/>\nHopefully more on the way soon.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 96,
+    "nextTopicId": 75
+}

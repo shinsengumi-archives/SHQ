@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182392907,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT: http://www.immortalgeisha.com/ig/index.html",
+            "postDate": "1082416838",
+            "msgId": 105,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2MW1zNis2ZnZyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 104,
+            "nextInTime": 106,
+            "topicId": 105,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.immortalgeisha.com/ig/index.html",
+            "messageBody": "<div id=\"ygrps-yiv-2103101941\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.immortalgeisha.com/ig/index.html\">http://www.immortalgeisha.com/ig/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 89,
+    "nextTopicId": 106
+}

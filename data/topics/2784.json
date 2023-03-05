@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "shikisokuzekukusokuzeshiki8",
+            "from": "&quot;shikisokuzekukusokuzeshiki8&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Citadel Forum",
+            "postDate": "1148354161",
+            "msgId": 2784,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU0dHVwaCttYWE1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2783,
+            "nextInTime": 2785,
+            "topicId": 2784,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi^-^ I ve been posting Shinsengumi stuffs on this forum. http://samurai.threespursdesign.com/index.php Please visit! shikisoku",
+            "messageBody": "<div id=\"ygrps-yiv-172443644\">Hi^-^<br/>\nI&#39;ve been posting Shinsengumi stuffs on this forum.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.threespursdesign.com/index.php\">http://samurai.threespursdesign.com/index.php</a><br/>\n<br/>\nPlease visit!<br/>\n<br/>\nshikisoku</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2783,
+    "nextTopicId": 2785
+}

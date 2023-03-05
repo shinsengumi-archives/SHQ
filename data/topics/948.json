@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 187644690,
+            "authorName": "Chibi Aiko",
+            "from": "Chibi Aiko &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Road to nowhere",
+            "postDate": "1086294954",
+            "msgId": 966,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjAzMjAzNTU0Ljk5Mjk2LnFtYWlsQHdlYjUwMTA2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGM5azdjMStwaXI3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 948,
+            "nextInTopic": 0,
+            "prevInTime": 965,
+            "nextInTime": 967,
+            "topicId": 948,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "LOL that s good for me. I was so pissed when I missed it! I guess I didn t really miss much...I can relax now. I was so mad at myself when I found out I missed",
+            "messageBody": "<div id=\"ygrps-yiv-1713609062\">LOL that&#39;s good for me. I was so pissed when I missed it! I guess I didn&#39;t really miss much...I can relax now. I was so mad at myself when I found out I missed it XD but, how could they mention Taka-what&#39;s-his-face and none of the other guys? *grumbles* Baka peoples...<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Road to nowhere",
+            "postDate": "1086169281",
+            "msgId": 948,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5azdjMStwaXI3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 966,
+            "prevInTime": 947,
+            "nextInTime": 949,
+            "topicId": 948,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For a show called the Tokaido Road they sure didn t have much about it! The mentioned it all of two or three times! They mentioned the 47 Ronin, but then",
+            "messageBody": "<div id=\"ygrps-yiv-495965232\">For a show called the &quot;Tokaido Road&quot; they sure didn&#39;t have much about <br/>\nit! The mentioned it all of two or three times! They mentioned the 47 <br/>\nRonin, but then said that their mass suicide was the act of revenge! <br/>\nI thought their suicide was their punishment for their revenge?! Am I <br/>\nwrong?! They also mentioned (just barely) the fall of the Shogunate, <br/>\nbut not only did they not say anything about the Boshin War, they <br/>\nmade no reference to Saigo, Okubo, or Katsura! They mentioned <br/>\nTakasugi of all people!!! So basically if you missed the program, you <br/>\ndidn&#39;t miss anything the group hasn&#39;t already discussed. -sigh- And I <br/>\nwent and got my hopes up for nothing...<br/>\n<br/>\n-MissBehavin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 964,
+    "nextTopicId": 968
+}

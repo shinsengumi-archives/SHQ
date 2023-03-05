@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SCANS",
+            "postDate": "1102800154",
+            "msgId": 1916,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwZm9lcSthMGJoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1915,
+            "nextInTime": 1917,
+            "topicId": 1916,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://1happyturtle.com/makoto/KYUSHU.zip *more pics about the Seinan War (Satsuma rebellion) amputation Saigou in an Imperial uniform bathing on the",
+            "messageBody": "<div id=\"ygrps-yiv-791004804\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/KYUSHU.zip\">http://1happyturtle.com/makoto/KYUSHU.zip</a><br/>\n*more pics about the Seinan War (Satsuma rebellion)<br/>\namputation<br/>\nSaigou in an Imperial uniform<br/>\nbathing on the battlefield<br/>\nmedals...could not pick out the medal of the Blue Paulownia<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Hakodateuniform.zip\">http://1happyturtle.com/makoto/Hakodateuniform.zip</a><br/>\npics about Hakodate and a pic of uniforms</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1914,
+    "nextTopicId": 1917
+}

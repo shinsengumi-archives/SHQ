@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SH Meets SH Fiction Challenge Modifications",
+            "postDate": "1080021583",
+            "msgId": 37,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzb2pvZitxdTJwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 36,
+            "nextInTime": 38,
+            "topicId": 37,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The guidelines for the SH Meets SH fiction challenge have been modified somewhat because of changes to the list and Masayoshi s wonderful idea of what if",
+            "messageBody": "<div id=\"ygrps-yiv-806817112\">The guidelines for the &quot;SH Meets SH&quot; fiction challenge have been <br/>\nmodified somewhat because of changes to the list and Masayoshi&#39;s <br/>\nwonderful idea of &quot;what if Holmes went to Japan instead?&quot; The new <br/>\ndocument has been uploaded into the Challenges & Contests folder <br/>\nunder Files.  Also in the &quot;SH Meets SH&quot; folder you&#39;ll find incredible <br/>\nnotes on the Jack the Ripper murders, generously provided by <br/>\nMissBehavin&#39;.<br/>\n<br/>\nFor those of you who come to us from lists other than miburo, check <br/>\nit out!<br/>\n<br/>\nphil (who may be AWOL at various times the next couple weeks or so as <br/>\nI help reformat stories for an archive site (not SHQ!) that&#39;s been <br/>\nlost... so much for returning to my own writing)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 36,
+    "nextTopicId": 41
+}

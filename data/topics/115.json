@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Pictures",
+            "postDate": "1080141977",
+            "msgId": 115,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzczlhcCtqYzI5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 114,
+            "nextInTime": 116,
+            "topicId": 115,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "New pictures! New pictures! 1. Abe Masahiro-- Bakufu senior counselor. One of the people who made the decision to open Japan. 2. Mouri (Can t remember his",
+            "messageBody": "<div id=\"ygrps-yiv-1118841213\">New pictures! New pictures!<br/>\n<br/>\n1. Abe Masahiro-- Bakufu senior counselor. One of the people who made<br/>\nthe decision to open Japan.<br/>\n<br/>\n2. Mouri (Can&#39;t remember his name)-- Daimyo of Choshuu.<br/>\n<br/>\n3. Nagakura Shinpachi in armor.<br/>\n<br/>\nEnjoy!<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 101,
+    "nextTopicId": 116
+}

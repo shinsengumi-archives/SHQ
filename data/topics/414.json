@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182392907,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "More on Kon Ichikawa&#39;s &quot;Shinsengumi&quot; 1999",
+            "postDate": "1081992227",
+            "msgId": 414,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1a283Mys5MzUxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 413,
+            "nextInTime": 415,
+            "topicId": 414,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "scroll to the bottom of the page...new pic not on Kodachiko Kureru s site http://www.midnighteye.com/reviews/round-up_002.shtml#shinsengumi",
+            "messageBody": "<div id=\"ygrps-yiv-1213232115\">scroll to the bottom of the page...new pic not on Kodachiko Kureru&#39;s site<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.midnighteye.com/reviews/round-up_002.shtml#shinsengumi\">http://www.midnighteye.com/reviews/round-up_002.shtml#shinsengumi</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 404,
+    "nextTopicId": 389
+}

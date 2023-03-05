@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Manga",
+            "postDate": "1080183792",
+            "msgId": 62,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGk1ZyttdnBlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 61,
+            "nextInTime": 63,
+            "topicId": 62,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In case I hadn t mentioned before, I ve posted a new manga in the Manga Originals section-- Shinsengumi Monogatari: Episode 1 . It s a parody of Jidai",
+            "messageBody": "<div id=\"ygrps-yiv-1304089744\">In case I hadn&#39;t mentioned before, I&#39;ve posted a new manga in the<br/>\n&quot;Manga Originals&quot; section-- &quot;Shinsengumi Monogatari: Episode 1&quot;. It&#39;s<br/>\na parody of Jidai Monogatari, and this particular one is about the<br/>\n::ahem:: action in Chapter 6...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 61,
+    "nextTopicId": 63
+}

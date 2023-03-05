@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New web site additions",
+            "postDate": "1085750376",
+            "msgId": 883,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQjczQzY4LjkwOTA1MDZAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 882,
+            "nextInTime": 884,
+            "topicId": 883,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just wanted to remind everyone to frequently check out the website http://www.shinsengumihq.com I try to add things as time permits and I don t always remember",
+            "messageBody": "<div id=\"ygrps-yiv-1695415521\">Just wanted to remind everyone to frequently check out the website <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com\">http://www.shinsengumihq.com</a> I try to add things as time permits and I <br/>\ndon&#39;t always remember to make note or it on the home page or send a list <br/>\nreminder. We have some quizzes courtesy of Miss Behavin and I finally <br/>\ngot the first few pieces of art up courtesy of our intrepid <br/>\nsecretarytocapt3. Please let me know if they take too long to load I can <br/>\nscale them down if if they do.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 882,
+    "nextTopicId": 884
+}

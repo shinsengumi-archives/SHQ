@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Know They Enemy Pt 1",
+            "postDate": "1085093639",
+            "msgId": 791,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4amN1NytnbmlyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 790,
+            "nextInTime": 792,
+            "topicId": 791,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I posted the first thrilling installment of my report on Katsura, Saigo and Okubo in both the group files and on the ShiinsengumiHQ website in the Facts",
+            "messageBody": "<div id=\"ygrps-yiv-53289571\">I posted the first thrilling installment of my report on Katsura,<br/>\nSaigo and Okubo in both the group files and on the ShiinsengumiHQ<br/>\nwebsite in the &quot;Facts&quot; section.<br/>\n<br/>\nNote to Philalexandros--- the Seagraves (whose book I got the info<br/>\nfrom) appear to be Saigo fans though I refuse to think or refer to him<br/>\nas a gentle bear of a man. _They_ site his greatest flaw as &quot;sincerity&quot;.<br/>\n<br/>\nGo figure<br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 752,
+    "nextTopicId": 696
+}

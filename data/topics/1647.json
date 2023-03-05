@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yet another",
+            "postDate": "1096233016",
+            "msgId": 1650,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzOWxLeThWQkRVZmQwMDAwMjZkMkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 1647,
+            "nextInTopic": 0,
+            "prevInTime": 1649,
+            "nextInTime": 1651,
+            "topicId": 1647,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yorita Makiko!!! Her photo, and Yorita Kikuko s photo, are apparently on the first floor of the Byakkotai Memorial Hall-- Serizawa or Tama-san, could you",
+            "messageBody": "<div id=\"ygrps-yiv-1199739951\">Yorita Makiko!!!<br/>\n<br/>\nHer photo, and Yorita Kikuko&#39;s photo, are apparently on the first floor of <br/>\nthe Byakkotai Memorial Hall-- Serizawa or Tama-san, could you possibly check <br/>\nit out?<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your messages with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yet another",
+            "postDate": "1096228040",
+            "msgId": 1647,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqNzZjOCt1NnRkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1650,
+            "prevInTime": 1646,
+            "nextInTime": 1648,
+            "topicId": 1647,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Other woman s name (without the naginata)-- can t read her family name, but her given name seems to be Chikujo ( bamboo-woman ). --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1406178100\">Other woman&#39;s name (without the naginata)-- can&#39;t read her family<br/>\nname, but her given name seems to be Chikujo (&quot;bamboo-woman&quot;).<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1649,
+    "nextTopicId": 1651
+}

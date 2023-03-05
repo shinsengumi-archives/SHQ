@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Files Reminder from the List Wench",
+            "postDate": "1080143024",
+            "msgId": 116,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjFBQ0IwLjYwOTA2MDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 115,
+            "nextInTime": 117,
+            "topicId": 116,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A reminder for old list members and a bit of FYI for those of you who ve just joined us (belated welcome!) It would be most helpful  if you could upload text",
+            "messageBody": "<div id=\"ygrps-yiv-708479138\">A reminder for &quot;old&quot; list members and a bit of FYI for those of you <br/>\nwho&#39;ve just joined us (belated welcome!) <br/>\n<br/>\nIt would be most helpful  if you could upload text based <br/>\ninformation/files to the group &quot;Files&quot; area and anything having to do <br/>\nwith images to the the &quot;Photos&quot; section.<br/>\n<br/>\nI&#39;ve been going through and trying to gather the entries as they come in <br/>\nto put together pages for the website&#39;s &quot;Facts&quot; section. Hopefully I <br/>\nwill have something up there by the time the weekend rolls around.<br/>\n<br/>\nThank you .<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 115,
+    "nextTopicId": 97
+}

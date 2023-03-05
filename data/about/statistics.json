@@ -1,0 +1,63 @@
+{
+    "numOfMembers": 355,
+    "dateCreated": 1079531219,
+    "name": "SHQ",
+    "membersVis": "SUBSCRIBERS",
+    "groupVis": "ALL",
+    "messagesVis": "SUBSCRIBERS",
+    "filesVis": "SUBSCRIBERS",
+    "linksVis": "SUBSCRIBERS",
+    "calendarVis": "SUBSCRIBERS",
+    "databaseVis": "SUBSCRIBERS",
+    "pollsVis": "SUBSCRIBERS",
+    "photosVis": "SUBSCRIBERS",
+    "replyTo": "LIST",
+    "summary": "ShinsengumiHeadquarters",
+    "categoryId": 1600017756,
+    "categoryPath": "/Entertainment & Arts/Comics and Animation/Anime/",
+    "categoryName": "Anime",
+    "attachments": "ATTACHMENTS_DISABLED",
+    "restricted": "OPEN",
+    "groupHomePage": {
+        "groupId": 12286059,
+        "photoInfo": [
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/homepage/name/6487.jpg?type=sn",
+                "height": 480,
+                "width": 202,
+                "size": 0,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/homepage/name/6487.jpg?type=tn",
+                "height": 96,
+                "width": 40,
+                "size": 0,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/oe4G3HLteNMQA0momA--/homepage/name/6487.jpg?type=hr",
+                "height": 643,
+                "width": 271,
+                "size": 0,
+                "photoType": "hr"
+            }
+        ]
+    },
+    "groupCoverPhoto": {
+        "groupId": 12286059,
+        "hasCoverImage": false,
+        "photoInfo": [
+            {
+                "displayURL": "http://l.yimg.com/ru/defcovers/1600016068/cat.jpg",
+                "height": 0,
+                "width": 0,
+                "size": 0,
+                "photoType": "or"
+            }
+        ]
+    },
+    "emailDomain": "yahoogroups.com",
+    "adult": false,
+    "bucketId": "GB0"
+}

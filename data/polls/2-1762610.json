@@ -1,0 +1,382 @@
+{
+    "groupName": "SHQ",
+    "creator": "spiritus_saitou",
+    "viewerNickname": "qwertyuiop4321@.***",
+    "surveyId": 1762610,
+    "listId": 12286059,
+    "dateCreated": 1124781223,
+    "userIdCreated": 173227807,
+    "dateEnd": 0,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "NORTH AMERICA, SOUTH AMERICA, ASIA, AUSTRALIA\n\nSHQ is an international community of people who share at \nleast one common interest --- the Shinsengumi!  But where in \nthe world do we all live?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 11750438,
+            "selectionText": "Argentina",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750439,
+            "selectionText": "Asia (other)",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 11750439,
+                    "surveyId": 1762610,
+                    "userId": 132213655,
+                    "guid": "ZYOC5SFMI6Q3ZSNW7WZPOT4BKE",
+                    "nickname": "totspurs3814",
+                    "email": "totspurs3814@*..."
+                },
+                {
+                    "selectionId": 11750439,
+                    "surveyId": 1762610,
+                    "userId": 149403639,
+                    "guid": "A4ODQC72T5TC2WHB2GQCWYSNS4",
+                    "nickname": "celeste_yong",
+                    "email": "celeste_yong@*..."
+                },
+                {
+                    "selectionId": 11750439,
+                    "surveyId": 1762610,
+                    "userId": 187975940,
+                    "nickname": "lee_fensiang",
+                    "email": "lee_fensiang@*....sg"
+                },
+                {
+                    "selectionId": 11750439,
+                    "surveyId": 1762610,
+                    "userId": 197627649,
+                    "guid": "OJAP45VASEPRAA5XQISMRJEJZU",
+                    "nickname": "emo_rio",
+                    "email": "emo_rio@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750440,
+            "selectionText": "Australia, New Zealand",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750441,
+            "selectionText": "Brazil",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750441,
+                    "surveyId": 1762610,
+                    "userId": 2682610,
+                    "guid": "CZTOKWQPEKIJ5SJXIIYNRIZLFU",
+                    "nickname": "serizawakamo",
+                    "email": "serizawakamo@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750442,
+            "selectionText": "Canada",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 11750442,
+                    "surveyId": 1762610,
+                    "userId": 172588298,
+                    "guid": "3DP6CVSRRVGCEXR2LO3L7OJWOY",
+                    "nickname": "maryannsfanfic",
+                    "email": "maryannsfanfic@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750443,
+            "selectionText": "China",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750444,
+            "selectionText": "India",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750445,
+            "selectionText": "Japan",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 11750445,
+                    "surveyId": 1762610,
+                    "userId": 240390617,
+                    "guid": "DNJU4MPUMZGTMCP2I5MI3Q64O4",
+                    "nickname": "dogdemonxxx16",
+                    "email": "dogdemonxxx16@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750446,
+            "selectionText": "Mexico",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750447,
+            "selectionText": "Pacific Islands",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750448,
+            "selectionText": "Philippines",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750449,
+            "selectionText": "South America (other)",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 11750449,
+                    "surveyId": 1762610,
+                    "userId": 208954788,
+                    "guid": "TP5J2G2W4OIHCNHEAVB7W6OU74",
+                    "nickname": "nintama_kirimarou",
+                    "email": "nintama_kirimarou@yahoo.es"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750450,
+            "selectionText": "Taiwan",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750451,
+            "selectionText": "Thailand",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750452,
+            "selectionText": "United States (Alaska, Hawaii, Territories)",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 11750453,
+            "selectionText": "United States (midwest)",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 11750453,
+                    "surveyId": 1762610,
+                    "userId": 185890146,
+                    "guid": "VGFITWZCSIOT5WY7HZAO34RIZE",
+                    "nickname": "secretarytocapt3",
+                    "email": "secretarytocapt3@.***"
+                },
+                {
+                    "selectionId": 11750453,
+                    "surveyId": 1762610,
+                    "userId": 205312014,
+                    "email": "shadowlightning89@*..."
+                },
+                {
+                    "selectionId": 11750453,
+                    "surveyId": 1762610,
+                    "userId": 214023305,
+                    "nickname": "happywanderer_2",
+                    "email": "wlstott@****"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750454,
+            "selectionText": "United States (northeast)",
+            "selections": 8,
+            "responses": [
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 71843124,
+                    "nickname": "niwashi_1",
+                    "email": "labaker@snetnsa.com"
+                },
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 180057007,
+                    "nickname": "nakkinomiko12",
+                    "email": "LMTame@webtv.net"
+                },
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 187753429,
+                    "email": "yuukuei02b@****"
+                },
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 210196887,
+                    "guid": "QE73LK55UREQLGJ3VCIEGO5U7A",
+                    "nickname": "jiaxin_nyo",
+                    "email": "jiaxin_nyo@*..."
+                },
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 234203377,
+                    "guid": "GA3ISZLFNQQV3VU5ZJOA27CESQ",
+                    "nickname": "wolverinesg7",
+                    "email": "wolverinesg7@*..."
+                },
+                {
+                    "selectionId": 11750454,
+                    "surveyId": 1762610,
+                    "userId": 256469543,
+                    "nickname": "battosai_laura",
+                    "email": "battosai_laura@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750455,
+            "selectionText": "United States (northwest)",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 11750455,
+                    "surveyId": 1762610,
+                    "userId": 184756756,
+                    "guid": "GMTB6FJ34Y6DLAM3FTYO6VJCMQ",
+                    "nickname": "wwtiala",
+                    "email": "webmiss@cucurbitalane.net"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750456,
+            "selectionText": "United States (southeast)",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 11750456,
+                    "surveyId": 1762610,
+                    "userId": 203797881,
+                    "email": "michaelcarcana@*..."
+                },
+                {
+                    "selectionId": 11750456,
+                    "surveyId": 1762610,
+                    "userId": 252774361,
+                    "email": "kikue.mugen@*..."
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 11750457,
+            "selectionText": "United States (southwest)",
+            "selections": 8,
+            "responses": [
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 438216,
+                    "guid": "HHD6J2A2KU4IOIMKNDGD6I2Z2E",
+                    "nickname": "unsafesects",
+                    "email": "mindglue@io.com"
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 109033547,
+                    "nickname": "andjoysmith",
+                    "email": "andjoysmith@*..."
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 140723811,
+                    "guid": "5CURWXPAUZCOXLA74WK2LK3AKM",
+                    "nickname": "martftx",
+                    "email": "animefantoo@.###"
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 162988835,
+                    "guid": "24EACFQAZHFMNQ3GGGP7S3BO2E",
+                    "nickname": "davidzincavage",
+                    "email": "david.zincavage@aya.yale.edu"
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 173227807,
+                    "guid": "V73YLSBJUTK6UT2ZAXO4XXL6UE",
+                    "nickname": "spiritus_saitou",
+                    "email": "spiritus_saitou@*..."
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 216498584,
+                    "guid": "HYHFQ272W5SR7VW2HOBL4CFXYE",
+                    "nickname": "shenlong71328",
+                    "email": "shenlong71328@*..."
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 258448752,
+                    "guid": "VS42RCYW3F2GJHITBOHQAWW2JE",
+                    "nickname": "mibu_pup",
+                    "email": "mibu_pup@*..."
+                },
+                {
+                    "selectionId": 11750457,
+                    "surveyId": 1762610,
+                    "userId": 174393936,
+                    "email": "okita_souji@otakuoutpost.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 38,
+    "previousSurveyId": 1762611,
+    "nextSurveyId": 0
+}

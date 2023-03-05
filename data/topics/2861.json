@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Sasaki Tadasaburo&#39;s Chainmail garment",
+            "postDate": "1150773538",
+            "msgId": 2861,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3N3BmMitjYWkxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2859,
+            "nextInTime": 2862,
+            "topicId": 2861,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "From our friend Tama in Japan. http://www.kyoto-np.co.jp/article.php?mid=P2006061500129&genre=K1&area=K10 An article on Sasaki Tadasaburo s kusari katabira",
+            "messageBody": "<div id=\"ygrps-yiv-1120904612\">From our friend Tama in Japan.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.kyoto-np.co.jp/article.php?mid=P2006061500129&genre=K1&area=K10\">http://www.kyoto-np.co.jp/article.php?mid=P2006061500129&genre=K1&area=K10</a><br/>\n<br/>\nAn article on Sasaki Tadasaburo&#39;s kusari katabira (chainmail garment).<br/>\nYou can see it in the picture, along with Sasaki&#39;s dried blood.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2814,
+    "nextTopicId": 2857
+}

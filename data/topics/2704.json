@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 203797881,
+            "authorName": "michaelcarcana",
+            "from": "&quot;michaelcarcana&quot; &lt;michaelcarcana@...&gt;",
+            "profile": "michaelcarcana",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Maybe someone here will know",
+            "postDate": "1138406031",
+            "msgId": 2704,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyZWJxZitoMXNiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2703,
+            "nextInTime": 2705,
+            "topicId": 2704,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "About two weeks ago I was looking up different words on Jim Breen s WWWJDic and through the google images link I found a Japanese site that had hachimaki with",
+            "messageBody": "<div id=\"ygrps-yiv-33501901\">About two weeks ago I was looking up different words on Jim Breen&#39;s<br/>\nWWWJDic and through the google images link I found a Japanese site<br/>\nthat had hachimaki with the metal bar on them and the makoto kanji.  I<br/>\nthought I bookmarked it, but apparently I didn&#39;t.  Does anyone know of<br/>\nany sites that have such hachimaki (aside from the anime cosplay<br/>\nsites)?  I&#39;ve tried duplicating my search to no avail.<br/>\n<br/>\nThanks.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2696,
+    "nextTopicId": 2697
+}

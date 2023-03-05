@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Web site update",
+            "postDate": "1087355143",
+            "msgId": 1090,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQ0ZCOTA3LjQwNzA4MDRAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1089,
+            "nextInTime": 1091,
+            "topicId": 1090,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just to let you guys know I added some stuff to the website including fact sheets on Saitou and Nagakura including the cool Grandpa Nagakura faces off Against",
+            "messageBody": "<div id=\"ygrps-yiv-830094144\">Just to let you guys know I added some stuff to the website including <br/>\nfact sheets on Saitou and Nagakura including the cool Grandpa Nagakura <br/>\nfaces off Against the Yakuza Guys tale that Serizawa told us. (That is <br/>\n_so_ how I picture the old wolves of Mibu when they were older) and also <br/>\na bunch of screencaps and Shinsengumi Keppuroku commentary by Masayoshi<br/>\n<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 828,
+    "nextTopicId": 1077
+}

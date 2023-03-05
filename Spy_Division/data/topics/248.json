@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Yamamoto Tatewaki",
+            "postDate": "1084287945",
+            "msgId": 250,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3cXE0OStjMGVhQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM3cGRldStwc3ZnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 249,
+            "nextInTopic": 0,
+            "prevInTime": 249,
+            "nextInTime": 251,
+            "topicId": 248,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, there is actually a photo of him. I posted it in the SHQ s Shinsengumi and Related People section of the Photos section. I ve also just posted under",
+            "messageBody": "<div id=\"ygrps-yiv-2018314895\">Yes, there is actually a photo of him. I posted it in the SHQ&#39;s<br/>\n&quot;Shinsengumi and Related People&quot; section of the &quot;Photos&quot; section.<br/>\n<br/>\nI&#39;ve also just posted under this groups &quot;Illustrations&quot;, a picture of<br/>\na cavalry officer. It&#39;s an image I&#39;ve had in my head for quite some<br/>\ntime now...I know this sounds weird, but I feel like I was there.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 59905708,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Yamamoto Tatewaki",
+            "postDate": "1084242206",
+            "msgId": 249,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3cGRldStwc3ZnQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM3ZmNiZitnbWJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 248,
+            "nextInTopic": 250,
+            "prevInTime": 248,
+            "nextInTime": 250,
+            "topicId": 248,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "M. is there a photo of Yamamoto Tatewaki or this from your imagination? Good work as always from someone who can actually write their names in Japanese:)",
+            "messageBody": "<div id=\"ygrps-yiv-1652913405\">M. is there a photo of Yamamoto Tatewaki or this from your imagination?<br/>\nGood work as always from someone who can actually write their names in<br/>\nJapanese:)<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;Shimazu Masayoshi&quot;<br/>\n&lt;patriot014@h...&gt; wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt; Just posted in &quot;Illustrations&quot;-- Yamamoto Tatewaki, general of the<br/>\n&gt; Nagaoka forces, who fought to the last, and past the fall of his<br/>\n&gt; domain, having been beheaded in Aizu (during the siege/battle) on<br/>\n&gt; September 9, 1868.<br/>\n&gt; <br/>\n&gt; --M. </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yamamoto Tatewaki",
+            "postDate": "1083913391",
+            "msgId": 248,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3ZmNiZitnbWJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 249,
+            "prevInTime": 247,
+            "nextInTime": 249,
+            "topicId": 248,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just posted in Illustrations -- Yamamoto Tatewaki, general of the Nagaoka forces, who fought to the last, and past the fall of his domain, having been",
+            "messageBody": "<div id=\"ygrps-yiv-1124054011\">Just posted in &quot;Illustrations&quot;-- Yamamoto Tatewaki, general of the<br/>\nNagaoka forces, who fought to the last, and past the fall of his<br/>\ndomain, having been beheaded in Aizu (during the siege/battle) on<br/>\nSeptember 9, 1868.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 197,
+    "nextTopicId": 251
+}

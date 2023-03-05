@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "History Channel documentary on the Kaigun",
+            "postDate": "1100374234",
+            "msgId": 1834,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMTEzMTkzMDM0LjM5NTg3LnFtYWlsQHdlYjUxMTA1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1833,
+            "nextInTime": 1835,
+            "topicId": 1834,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "fyi... Primetime tomorrow (11/14), The History Channel is airing a 2-hour history of the Japanese Imperial Navy.  Check local listings for air time. ",
+            "messageBody": "<div id=\"ygrps-yiv-1043943453\">fyi...<br/>\n <br/>\nPrimetime tomorrow (11/14), The History Channel is airing a 2-hour history of the Japanese Imperial Navy.  Check local listings for air time.<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thehistorychannel.com/global/listings/series_showcase.jsp?EGrpType=Series&Id=11988642&NetwCode=THC\">http://www.thehistorychannel.com/global/listings/series_showcase.jsp?EGrpType=Series&Id=11988642&NetwCode=THC</a><br/>\n <br/>\nphil<br/>\n <br/>\n<br/>\n\t\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Check out the new Yahoo! Front Page. www.yahoo.com<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1830,
+    "nextTopicId": 1835
+}

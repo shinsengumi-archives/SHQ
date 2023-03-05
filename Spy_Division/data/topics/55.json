@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New story in files",
+            "postDate": "1080170551",
+            "msgId": 55,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjIxODM3LjgwMzA3MDJAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 54,
+            "nextInTime": 56,
+            "topicId": 55,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The moment no one has been waiting for----I ve uploaded my RK fic THe Wolf s Lady to the files. It s a glimpse of Saitou s life following the Kyoto Arc as told",
+            "messageBody": "<div id=\"ygrps-yiv-1074054929\">The moment no one has been waiting for----I&#39;ve uploaded my RK fic THe <br/>\nWolf&#39;s Lady to the files. It&#39;s a glimpse of Saitou&#39;s life following the <br/>\nKyoto Arc as told mainly from his wife&#39;s pov.  I hope you&#39;ll give it a look.<br/>\n<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 49,
+    "nextTopicId": 56
+}

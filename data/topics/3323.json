@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Tech Question",
+            "postDate": "1194636554",
+            "msgId": 3323,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZoMmNlYSs1bTk0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3321,
+            "nextInTime": 3324,
+            "topicId": 3323,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know -why- this page http://shinsengumihq.livejournal.com/ shows up on Firefox just fine but fails to show up on Explorer? I m posting little",
+            "messageBody": "<div id=\"ygrps-yiv-144883873\">Does anyone know -why-<br/>\nthis page <a rel=\"nofollow\" target=\"_blank\" href=\"http://shinsengumihq.livejournal.com/\">http://shinsengumihq.livejournal.com/</a> <br/>\n<br/>\nshows up on Firefox just fine<br/>\n<br/>\nbut fails to show up on Explorer?<br/>\n<br/>\nI&#39;m posting little updates on the shinsengumi LJ and it&#39;s perplexing <br/>\nto see that none of the entries are visible :: SIGH ::<br/>\n<br/>\nsmart tech people can try to explain things to me at <br/>\nsecretarytocapt3(at)hotmail.com<br/>\n<br/>\nI didn&#39;t design the layout so I have no idea how to solve this issue<br/>\nit used to work on both firefox and explorer without a problem really<br/>\n<br/>\n-----------------------<br/>\nAnnouncement<br/>\n-----------------------<br/>\n<br/>\nIf you are interested in &quot;side issues&quot;<br/>\nwhich may involve Meiji Era discussions<br/>\nand or information regarding Aizu (feudalism in general) etc<br/>\nplease join<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/edojidai/\">http://groups.yahoo.com/group/edojidai/</a><br/>\nrecently we were discussing Fujita Goro (so all Meiji era) and there <br/>\nare translations of bits of Mibugishiden (the novel by Jiro Asada) <br/>\ntoo.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3321,
+    "nextTopicId": 3324
+}

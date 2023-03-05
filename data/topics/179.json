@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Meiji poems",
+            "postDate": "1080273064",
+            "msgId": 181,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0MDliOCs0cGtoQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQwNjM5MDEzLjIwMTAyMDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 179,
+            "nextInTopic": 0,
+            "prevInTime": 180,
+            "nextInTime": 182,
+            "topicId": 179,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is it just me or did Toshi s kimono flap around a bit too much? And the potato...was that an inside joke in reference to the Satsuma samurai...in Remember",
+            "messageBody": "<div id=\"ygrps-yiv-212460394\">Is it just me or did Toshi&#39;s kimono flap around a bit too much?<br/>\nAnd the potato...was that an inside joke in reference to the Satsuma<br/>\nsamurai...in &quot;Remember Aizu&quot; the phrase &quot;potato samurai&quot; is used ALOT.<br/>\n<br/>\nIt would be cool if the Shinsengumi did indeed have their own secret<br/>\nlanguage for their note passing...<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, Barbara Sheridan &lt;bsher213@b...&gt; wrote:<br/>\n&gt; Talk about coincidence---I just finished rewatching the PeaceMaker <br/>\n&gt; episode about the mad quest of young Ichimura to stay alive while<br/>\nhiding <br/>\n&gt; Hijikata&#39;s haiku book and found this site while trying to track down <br/>\n&gt; some info for the time travel story I&#39;m puttering with--Poems by<br/>\nEmperor <br/>\n&gt; Meiji<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.threshold.ca/reiki/japan/URH_Gyosei.html\">http://www.threshold.ca/reiki/japan/URH_Gyosei.html</a><br/>\n&gt; <br/>\n&gt; -- <br/>\n&gt; Barbara Sheridan\t<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Meiji poems",
+            "postDate": "1080266771",
+            "msgId": 179,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjM5MDEzLjIwMTAyMDBAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 181,
+            "prevInTime": 178,
+            "nextInTime": 180,
+            "topicId": 179,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Talk about coincidence---I just finished rewatching the PeaceMaker episode about the mad quest of young Ichimura to stay alive while hiding Hijikata s haiku",
+            "messageBody": "<div id=\"ygrps-yiv-799988154\">Talk about coincidence---I just finished rewatching the PeaceMaker <br/>\nepisode about the mad quest of young Ichimura to stay alive while hiding <br/>\nHijikata&#39;s haiku book and found this site while trying to track down <br/>\nsome info for the time travel story I&#39;m puttering with--Poems by Emperor <br/>\nMeiji<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.threshold.ca/reiki/japan/URH_Gyosei.html\">http://www.threshold.ca/reiki/japan/URH_Gyosei.html</a><br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 180,
+    "nextTopicId": 171
+}

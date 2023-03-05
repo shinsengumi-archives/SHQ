@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 201425847,
+            "authorName": "Bonnie Johnston",
+            "from": "&quot;Bonnie Johnston&quot; &lt;kallipygia@...&gt;",
+            "profile": "persiphatta",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "&quot;Lost,&quot; Chapter 1 -- Sai/Mis AU Lemon",
+            "postDate": "1099004196",
+            "msgId": 422,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEyLUYxNkZqakJzVlZQOUEwMDAyNTA1MUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 421,
+            "nextInTime": 423,
+            "topicId": 422,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, everyone! I ve just posted chapter one of a new fic, Lost: http://adultfan.nexcess.net/aff/story.php?no=38352 A little bit angstier than I usually go,",
+            "messageBody": "<div id=\"ygrps-yiv-585447184\">Hi, everyone!<br/>\n<br/>\nI&#39;ve just posted chapter one of a new fic, &quot;Lost:&quot;<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://adultfan.nexcess.net/aff/story.php?no=38352\">http://adultfan.nexcess.net/aff/story.php?no=38352</a><br/>\n<br/>\nA little bit angstier than I usually go, but it will definitely be lemony as <br/>\nthe story develops.  I&#39;m always trying to improve my writing, so comments <br/>\nand suggestions appreciated -- let me know what you think!<br/>\n<br/>\nKalli</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 421,
+    "nextTopicId": 423
+}

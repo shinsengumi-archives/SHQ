@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182822216,
+            "authorName": "ktamae@****",
+            "from": "ktamae@...",
+            "profile": "tamagot93",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kyoto in 1864",
+            "postDate": "1094439812",
+            "msgId": 1562,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMuMzI4OGEzNWQuMmU2ZDJkODRAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1561,
+            "nextInTime": 1563,
+            "topicId": 1562,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In NHK official site, you can see an old map of Kyoto made in 1864 just before Ikedaya affair. http://www.nhk.or.jp/taiga/topic/kochizu/main1.html You can",
+            "messageBody": "<div id=\"ygrps-yiv-1597318172\">In NHK official site, you can see an old map of Kyoto made in 1864 just <br/>\nbefore Ikedaya affair. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nhk.or.jp/taiga/topic/kochizu/main1.html\">http://www.nhk.or.jp/taiga/topic/kochizu/main1.html</a><br/>\n<br/>\nYou can locate some Shinsengumi related places from the legend on the border <br/>\non the left-hand.<br/>\nYou can simply place your cursor on the legend and can enlarge it with click.<br/>\n<br/>\nThe legend from top to bottom<br/>\n*Panoramic view from Kiyomizu temple<br/>\n*Great Sanjo bridge<br/>\n*Mibu village: including Mibu Temple, Yagi Estate, Shintoku Temple<br/>\n*Ponto cho street ( a kind of detached territory of Gion)<br/>\n<br/>\nClicking the asagi blue part of the bottom of flag, you can superpose the <br/>\nactual Kyoto map.<br/>\nThis is part one of the location series which will be continued until part 5.<br/>\n<br/>\nTama<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1557,
+    "nextTopicId": 1559
+}

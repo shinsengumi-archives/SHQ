@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Environmental Reasons for Fall of Govs",
+            "postDate": "1226245661",
+            "msgId": 3452,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdmNzBtdCs3ZWFnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3451,
+            "nextInTime": 3453,
+            "topicId": 3452,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I found this article today and felt that it also coincided with the pattern in Japan as well: ",
+            "messageBody": "<div id=\"ygrps-yiv-481518993\">I found this article today and felt that it also coincided with the<br/>\npattern in Japan as well:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://news.yahoo.com/s/ap/20081106/ap_on_sc/sci_monsoon_in_history\">http://news.yahoo.com/s/ap/20081106/ap_on_sc/sci_monsoon_in_history</a><br/>\n<br/>\nThe Tokugawa Shogunate before the Bakumatsu era also experienced<br/>\nenvironmental related economic hardships before it collapsed as well.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3451,
+    "nextTopicId": 3453
+}

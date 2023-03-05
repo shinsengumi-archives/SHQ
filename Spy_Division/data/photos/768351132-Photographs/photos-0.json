@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 12287916,
+        "albumId": 768351132,
+        "photoId": 162971700,
+        "photoName": "Makoto calligraphy",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "shimazuryu",
+        "modificationDate": 1080428034,
+        "creationDate": 1080428034,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/tn/4tCSo0DtfNMt2xYNC9o-/name/n_a",
+                "height": 96,
+                "width": 74,
+                "size": 1906,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/sn/4tCSo0DtfNMt2xYNC9o-/name/n_a",
+                "height": 480,
+                "width": 371,
+                "size": 18784,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/lY8n4RDteNMbdXY41A--/hr/4tCSo0DtfNMt2xYNC9o-/name/n_a",
+                "height": 800,
+                "width": 619,
+                "size": 38529,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 241850301,
+            "authorName": "theifbakurasgirl5000",
+            "from": "&quot;theifbakurasgirl5000&quot; &lt;theifbakurasgirl5000@...&gt;",
+            "profile": "theifbakurasgirl5000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Shinsengumi Club",
+            "postDate": "1132437234",
+            "msgId": 2621,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRsbzZ0aSs0MDI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2620,
+            "nextInTime": 2622,
+            "topicId": 2621,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi ^_^ i know im new here, but im definately not a new fan to the Shinsengumi, they ve been with me for a while now! but i wanted to share to you my",
+            "messageBody": "<div id=\"ygrps-yiv-230346656\">Hi ^_^ i know im new here, but im definately not a new fan to the <br/>\nShinsengumi, they&#39;ve been with me for a while now! but i wanted to <br/>\nshare to you my shinsengumi forum, please stop by if you can, we have <br/>\ngreat information developing , rpgs, and more!<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sajun08.proboards2.com/index.cgi\">http://sajun08.proboards2.com/index.cgi</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2620,
+    "nextTopicId": 2627
+}

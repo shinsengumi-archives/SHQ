@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Looking for books on Shinsengumi",
+            "postDate": "1126028767",
+            "msgId": 2553,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRma2trdis4djVyQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRma2Y1cys4N2ZiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2552,
+            "nextInTopic": 0,
+            "prevInTime": 2552,
+            "nextInTime": 2554,
+            "topicId": 2552,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "please search at http://www.shinsengumidb.com Books which mention the Shinsengumi http://www.shinsengumihq.com/misc_facts.htm General books about the political",
+            "messageBody": "<div id=\"ygrps-yiv-1173597746\">please search at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumidb.com\">http://www.shinsengumidb.com</a><br/>\n<br/>\nBooks which mention the Shinsengumi<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/misc_facts.htm\">http://www.shinsengumihq.com/misc_facts.htm</a><br/>\n<br/>\nGeneral books about the political conditions in which the Shinsengumi<br/>\nand revolutionaries operated<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumihq.com/bibliography.htm\">http://www.shinsengumihq.com/bibliography.htm</a><br/>\n***note the Aizu section which would be highly relevant to not only<br/>\nSaitou&#39;s personal biography (and the small group of Shinsengumi who<br/>\nstayed in Aizu) but also the last shogunate stronghold<br/>\n<br/>\nYou may try visiting a local college or university library which<br/>\nshould have a few books on the restoration.  Try not to buy a book<br/>\nbefore you &quot;preview&quot; it at a library first.  If you are not a student<br/>\nat a university yet you may try requesting access to the library<br/>\nwithout borrowing privileges.<br/>\n<br/>\n**I know you want to focus on the Shinsengumi but if you are really<br/>\nshort on time then writing a report on Ryoma Sakamoto may be -easier-<br/>\n(^_^) he is a very well researched figure and you will probably find<br/>\nmany sources on him<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Kai Jun&quot; &lt;ngkaijun1982@y...&gt; wrote:<br/>\n&gt; Hi all I am a student currently doing a project on Japanese samurais,<br/>\n&gt; as a fan of RK, I immediately thought of Saitou and the Shinsengumi.<br/>\n&gt; However I could hardly find any english books from the<br/>\n&gt; library/bookstore about Shinsengumi. Btw I am living in Singapore,<br/>\n&gt; thanks for reading this. </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 226772093,
+            "authorName": "Kai Jun",
+            "from": "&quot;Kai Jun&quot; &lt;ngkaijun1982@...&gt;",
+            "profile": "ngkaijun1982",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Looking for books on Shinsengumi",
+            "postDate": "1126023164",
+            "msgId": 2552,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRma2Y1cys4N2ZiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2553,
+            "prevInTime": 2551,
+            "nextInTime": 2553,
+            "topicId": 2552,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all I am a student currently doing a project on Japanese samurais, as a fan of RK, I immediately thought of Saitou and the Shinsengumi. However I could",
+            "messageBody": "<div id=\"ygrps-yiv-8793601\">Hi all I am a student currently doing a project on Japanese samurais,<br/>\nas a fan of RK, I immediately thought of Saitou and the Shinsengumi.<br/>\nHowever I could hardly find any english books from the<br/>\nlibrary/bookstore about Shinsengumi. Btw I am living in Singapore,<br/>\nthanks for reading this.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2543,
+    "nextTopicId": 2554
+}

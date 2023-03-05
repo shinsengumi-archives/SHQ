@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "noS7O3BZlTtQ3yWo7c85mcv-ANiu6p3ayrMi_A0kNzrGaRRJqe9ftSwOaFIqJXb6OM60nfro0hVBDwI",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New poll for SHQ",
+    "postDate": "1110711077",
+    "msgId": 2296,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDExMTA3MTEwNzcuNjcuMjU0NTcudzEwMkB5YWhvb2dyb3Vwcy5jb20+"
+    },
+    "prevInTopic": 2295,
+    "nextInTopic": 2532,
+    "prevInTime": 2295,
+    "nextInTime": 2297,
+    "topicId": 2292,
+    "numMessagesInTopic": 10,
+    "msgSnippet": "Enter your vote today!  A new poll has been created for the SHQ group: Do you feel that when members post a question it is fairly responded to? o Always o Most",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 86534 invoked from network); 13 Mar 2005 10:51:18 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m30.grp.scd.yahoo.com with QMQP; 13 Mar 2005 10:51:18 -0000\r\nReceived: from unknown (HELO n6a.bulk.scd.yahoo.com) (66.94.237.40)\n  by mta1.grp.scd.yahoo.com with SMTP; 13 Mar 2005 10:51:18 -0000\r\nDomainKey-Signature: \r\nReceived: from [66.218.69.3] by n6.bulk.scd.yahoo.com with NNFMP; 13 Mar 2005 10:51:17 -0000\r\nReceived: from [66.218.66.69] by mailer3.bulk.scd.yahoo.com with NNFMP; 13 Mar 2005 10:51:17 -0000\r\nDate: 13 Mar 2005 10:51:17 -0000\r\nMessage-ID: &lt;1110711077.67.25457.w102@yahoogroups.com&gt;\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Application: poll \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New poll for SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\n\r\n\n\nEnter your vote today!  A new poll has been created for the \nSHQ group:\n\nDo you feel that when members post a \nquestion it is fairly responded to? \n\n  o Always \n  o Most of the time. \n  o Sometimes, but not often enough. \n  o Almost never. \n\n\nTo vote, please visit the following web page:\nhttp://groups.yahoo.com/group/SHQ/surveys?id=1646863 \n\nNote: Please do not reply to this message. Poll votes are \nnot collected via email. To vote, you must go to the Yahoo! Groups \nweb site listed above.\n\nThanks!\n\n \n\n\n\n\n\n\n\n"
+}

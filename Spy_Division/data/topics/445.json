@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Koji Yamamoto Wallpaper",
+            "postDate": "1101406129",
+            "msgId": 445,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvNTczaCt1MWxiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 444,
+            "nextInTime": 446,
+            "topicId": 445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This wallpaper was created based on a special request and it just so happens that TAma sent a great pic of NHK HIjikata wearing western clothes (^_^) *enjoy* ",
+            "messageBody": "<div id=\"ygrps-yiv-1099106571\">This wallpaper was created based on a special request and it just so<br/>\nhappens that TAma sent a great pic of NHK HIjikata wearing western<br/>\nclothes (^_^)<br/>\n<br/>\n*enjoy*<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/KYwallpaper.jpg\">http://1happyturtle.com/makoto/KYwallpaper.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 441,
+    "nextTopicId": 446
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Full Body Chainmail",
+            "postDate": "1087396528",
+            "msgId": 1095,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhcGxyZytxb2R0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1094,
+            "nextInTime": 1096,
+            "topicId": 1095,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Most of us have seen Hijikata s helmet and arm guards already...I recently found full body chainmail in a Japanese Shinsengumi book...I uploaded the pic in the",
+            "messageBody": "<div id=\"ygrps-yiv-655949777\">Most of us have seen Hijikata&#39;s helmet and arm guards already...I <br/>\nrecently found full body chainmail in a Japanese Shinsengumi <br/>\nbook...I uploaded the pic in the PHOTOS&gt;Shinsengumi Artifacts (next <br/>\nto Itou&#39;s hat)...the image is big enough to read the Japanese <br/>\ncaption I wonder who owned this artifact ^_^...<br/>\n<br/>\nThe same image is available at another Japanese Shinsengumi site as <br/>\nwell (but also a black and white image)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1077,
+    "nextTopicId": 1096
+}

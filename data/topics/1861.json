@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Books!!!! Time to go shopping",
+            "postDate": "1101495184",
+            "msgId": 1861,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvN3UyZys2NjliQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1860,
+            "nextInTime": 1862,
+            "topicId": 1861,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Mimawarigumi http://www.amazon.co.jp/exec/obidos/ASIN/4569632890/ref%3Dpd%5Fsr% 5Fec%5Fir%5Fb/249-0279353-0613141 Shinsengumi (manga by Hiroshi Kurogane) ",
+            "messageBody": "<div id=\"ygrps-yiv-594796679\">Mimawarigumi<br/>\nhttp://www.amazon.co.jp/exec/obidos/ASIN/4569632890/ref%3Dpd%5Fsr%<br/>\n5Fec%5Fir%5Fb/249-0279353-0613141<br/>\n<br/>\nShinsengumi (manga by Hiroshi Kurogane)<br/>\nhttp://www.amazon.co.jp/exec/obidos/ASIN/4569554601/qid%<br/>\n3D1101494666/sr%3D1-5/ref%3Dsr%5F1%5F10%5F5/249-0279353-0613141<br/>\n<br/>\n* Hiroshi Kurogane&#39;s manga is AWESOME...I saw scans of it....a <br/>\nmasterpiece!!!<br/>\n<br/>\nWounds/Hajimenokizu please add the 2 books to the database<br/>\n<br/>\nand Tama gave us a step by step guide to buying stuff from <br/>\nAmazon.co.jp<br/>\nhttp://imaginatorium.org/books/aj.htm</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1860,
+    "nextTopicId": 1862
+}

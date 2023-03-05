@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 156728904,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Interesting PMK site",
+            "postDate": "1081272858",
+            "msgId": 313,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0dXBtcStiY243QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMDQwMWM0MWJlZSQxZDE2MTc5MCQwMjAwYThjMEBPbW9pa2FuZT4="
+            },
+            "prevInTopic": 311,
+            "nextInTopic": 0,
+            "prevInTime": 312,
+            "nextInTime": 314,
+            "topicId": 311,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "www.fifay.net has the PMK manga+translation but you need to have a cable/dsl otherwise it may take you a really really long time to download the files.",
+            "messageBody": "<div id=\"ygrps-yiv-1106076766\">www.fifay.net has the PMK manga+translation but you need to have a<br/>\ncable/dsl otherwise it may take you a really really long time to<br/>\ndownload the files.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Jon Mesina&quot; &lt;okita_souji@o...&gt; wrote:<br/>\n&gt; Dunno if any of you have been here yet. Just found it this morning.<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fifay.net/\">http://www.fifay.net/</a><br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 174393936,
+            "authorName": "Jon Mesina",
+            "from": "&quot;Jon Mesina&quot; &lt;okita_souji@...&gt;",
+            "profile": "okitasoji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] Interesting PMK site",
+            "postDate": "1081266295",
+            "msgId": 311,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDQwMWM0MWJlZSQxZDE2MTc5MCQwMjAwYThjMEBPbW9pa2FuZT4=",
+                "referencesHeader": "PDI2MjY1LTQwNzIyNzYxLTQ1NTdAc3RvcmVmdWxsLTMyMzUuYmF5LndlYnR2Lm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 313,
+            "prevInTime": 310,
+            "nextInTime": 312,
+            "topicId": 311,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dunno if any of you have been here yet. Just found it this morning. http://www.fifay.net/ [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-425104449\">Dunno if any of you have been here yet. Just found it this morning.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fifay.net/\">http://www.fifay.net/</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 303,
+    "nextTopicId": 312
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Apology",
+            "postDate": "1097522048",
+            "msgId": 397,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYzOExzeHBUbGpCT2gwMDAwZjBiMUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 396,
+            "nextInTime": 398,
+            "topicId": 397,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m sorry, everyone. In my rush out the door I received that email message about the alleged truth behind the Hitokiri Battousai s existence, and did not",
+            "messageBody": "<div id=\"ygrps-yiv-406943977\">I&#39;m sorry, everyone. In my rush out the door I received that email message <br/>\nabout the alleged truth behind the Hitokiri Battousai&#39;s existence, and did <br/>\nnot bother to read through it carefully. As a historian-in-training, this is <br/>\na true shame on me, and for that, I humbly ask your forgiveness. I&#39;ll try <br/>\nnot to be so stupid from now on.<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your e-mail with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 396,
+    "nextTopicId": 399
+}

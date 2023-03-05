@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Battle of Aizu Painting + Photo of Castle",
+            "postDate": "1103734919",
+            "msgId": 1957,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxYzlhNytlNWlxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1956,
+            "nextInTime": 1958,
+            "topicId": 1957,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://1happyturtle.com/makoto/Aizubattle.jpg The book info is right on the picture sadly the painting was reproduced as a black and white pic...but look",
+            "messageBody": "<div id=\"ygrps-yiv-436258356\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/Aizubattle.jpg\">http://1happyturtle.com/makoto/Aizubattle.jpg</a><br/>\nThe book info is right on the picture<br/>\nsadly the painting was reproduced as a black and white pic...but <br/>\nlook ~carefully~ women with naginata to the left, right and a &quot;room&quot; <br/>\nwith people and heads arranged on the floor<br/>\n*what strikes me is that compared to paintings of the Seinan War <br/>\nthis painting about the fall of Aizu shows women all over the place</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1944,
+    "nextTopicId": 1967
+}

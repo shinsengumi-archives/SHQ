@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [SHQ] Question:Shinsengumi Samurai",
+            "postDate": "1124688699",
+            "msgId": 2524,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMjUwRkNDODhCOTQ3REE4OEUyQkMwRDlGQjYwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRlYm5zOCtrZnRvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2523,
+            "nextInTopic": 0,
+            "prevInTime": 2523,
+            "nextInTime": 2525,
+            "topicId": 2523,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Shinsengumi had several colors of uniforms reported by contemporary accounts, so it s likely that they were rotated. Most commonly, though (in films) you see",
+            "messageBody": "<div id=\"ygrps-yiv-660030330\">Shinsengumi had several colors of uniforms reported by contemporary <br/>\naccounts, so it&#39;s likely that they were rotated. Most commonly, though (in <br/>\nfilms) you see blue with white triangles for &quot;common&quot; Shinsengumi, black <br/>\nwith white triangles for Hijikata, and white with black triangles for <br/>\nKondou.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Question:Shinsengumi  Samurai",
+            "postDate": "1124688584",
+            "msgId": 2523,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlYm5zOCtrZnRvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2524,
+            "prevInTime": 2522,
+            "nextInTime": 2524,
+            "topicId": 2523,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I notice that in the Shinsengumi uniforms there is a black and white color witch members of the clans wore tose color? I thought it was blue and white and the",
+            "messageBody": "<div id=\"ygrps-yiv-156835794\">I notice that in the Shinsengumi uniforms there is a black and white <br/>\ncolor witch members of the clans wore tose color? I thought it was blue <br/>\nand white and the 47 roinin wore black and white. DOMO, JA MATANE</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2517,
+    "nextTopicId": 2525
+}

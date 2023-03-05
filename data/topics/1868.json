@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ] MUST READ site",
+            "postDate": "1101608226",
+            "msgId": 1869,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxQTkzNTIyLjMwMzA4MDhAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNvYWs2bSt2dGdvQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNvYWs2bSt2dGdvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1868,
+            "nextInTopic": 0,
+            "prevInTime": 1868,
+            "nextInTime": 1870,
+            "topicId": 1868,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... For the clueless who are having technical difficulties or something what exactly do you click to get the info? The things I saw mentioning the Shinsengumi",
+            "messageBody": "<div id=\"ygrps-yiv-697455280\">secretary wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://f40.aaa.livedoor.jp/%7Epaulnobu/index.html\">http://f40.aaa.livedoor.jp/%7Epaulnobu/index.html</a><br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>For the clueless who are having technical difficulties or something  <br/>\nwhat exactly do you click to get the info? The things I saw mentioning <br/>\nthe Shinsengumi are not &quot;clickable&quot;. and what was clickable pertained to <br/>\nthe Warring States era<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "MUST READ site",
+            "postDate": "1101583382",
+            "msgId": 1868,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvYWs2bSt2dGdvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1869,
+            "prevInTime": 1867,
+            "nextInTime": 1869,
+            "topicId": 1868,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "translate using http://www.nifty.com/globalgate ***warning Nifty translations show up in green....the page background is ALSO green -_- ***translations on this",
+            "messageBody": "<div id=\"ygrps-yiv-1878999684\">translate using <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nifty.com/globalgate\">http://www.nifty.com/globalgate</a><br/>\n***warning Nifty translations show up in green....the page <br/>\nbackground is ALSO green -_-<br/>\n***translations on this page also &quot;overlap&quot; text on text<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://f40.aaa.livedoor.jp/%7Epaulnobu/index.html\">http://f40.aaa.livedoor.jp/%7Epaulnobu/index.html</a><br/>\n<br/>\ncontains photos and info on the [prison] used in Kyoto (before and <br/>\n*during* the time of the Shinsengumi)<br/>\n<br/>\nphotos and info of the redlight district and explains more about the <br/>\nranking system for geisha<br/>\n<br/>\nthe recurring problems with Kondou (look for the word Tengu &lt;&lt;&lt; <br/>\nreference to the Serizawa Kamo party...the article mentions Saitou, <br/>\nSannan/Yamanami and another man)<br/>\n<br/>\nthe controversy of Akesato&#39;s existence<br/>\n<br/>\nmore details about Nagakura&#39;s petition (a total of 6 guys involved)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1862,
+    "nextTopicId": 1865
+}

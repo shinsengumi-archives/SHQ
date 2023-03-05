@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "k kobayakawa",
+            "from": "&quot;k kobayakawa&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hakodate",
+            "postDate": "1217423831",
+            "msgId": 3421,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkMTk5M2ZlMDgwNzMwMDYxN28yOGIwYmMxOHViNGUwYzdlNTZjZTdmNTUxQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3420,
+            "nextInTime": 3422,
+            "topicId": 3421,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi SHQ members. I traveled Hakodate last month. I posted some pictures on http://forums.samurai-archives.com/index.php Bakumatsu Topic. If anybody interested,",
+            "messageBody": "<div id=\"ygrps-yiv-1456375541\">Hi SHQ members.<br/>\nI traveled Hakodate last month.<br/>\nI posted some pictures on <a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.samurai-archives.com/index.php\">http://forums.samurai-archives.com/index.php</a><br/>\nBakumatsu Topic.<br/>\nIf anybody interested, please check.<br/>\n<br/>\nThanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3419,
+    "nextTopicId": 3418
+}

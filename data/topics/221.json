@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "THe pencilboard scan",
+            "postDate": "1080684915",
+            "msgId": 221,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjlGMTczLjIwNzA0MDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 220,
+            "nextInTime": 222,
+            "topicId": 221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Attention Tiffany and anyone else who s interested. I scanned that pencil board with the PeaceMaker Kurogane Harada in all his fundoshi-wearing glory *snicker*",
+            "messageBody": "<div id=\"ygrps-yiv-665229546\">Attention Tiffany and anyone else who&#39;s interested. I scanned that <br/>\npencil board with the PeaceMaker Kurogane Harada in all his <br/>\nfundoshi-wearing glory *snicker* It&#39;s in the Photos section in the <br/>\nfolder marked &quot;Humor&quot; and you can see the full size closeup version <br/>\ntoo.  One small problem--I had to cut off Tatsu Ichimura spazzing to get <br/>\nSaitou in--Who needs to see a dull accountant anyway?<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 219,
+    "nextTopicId": 220
+}

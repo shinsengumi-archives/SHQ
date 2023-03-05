@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Music",
+            "postDate": "1080182571",
+            "msgId": 61,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGd2YitwNGxoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 60,
+            "nextInTime": 62,
+            "topicId": 61,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Alright, since Yahoo accepted that last post, let me post what I wanted to say again. With regards to Chapter 9, it s best appreciated if read while listening",
+            "messageBody": "<div id=\"ygrps-yiv-766807927\">Alright, since Yahoo accepted that last post, let me post what I<br/>\nwanted to say again.<br/>\n<br/>\nWith regards to Chapter 9, it&#39;s best appreciated if read while<br/>\nlistening to Evanescence&#39;s &quot;Whisper&quot; or &quot;Tourniquet&quot;, particularly<br/>\nduring the battle scene at the Ikeda-ya.<br/>\n<br/>\nThanks. I hope this post makes it...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 60,
+    "nextTopicId": 62
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 257415091,
+            "authorName": "rei shinoda",
+            "from": "rei shinoda &lt;shinoda_rei_goku@...&gt;",
+            "profile": "shinoda_rei_goku",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SHQ] Moeyo ken in English",
+            "postDate": "1232173280",
+            "msgId": 3455,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYwNjU2Ny4yNTc2My5xbUB3ZWIzNjQwMy5tYWlsLm11ZC55YWhvby5jb20+",
+                "inReplyToHeader": "PDY0NDkyMi45OTgwNi5xbUB3ZWI2NTUxMi5tYWlsLmFjNC55YWhvby5jb20+"
+            },
+            "prevInTopic": 3454,
+            "nextInTopic": 0,
+            "prevInTime": 3454,
+            "nextInTime": 3456,
+            "topicId": 3454,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks for share ^_^ ... From: Serizawa Kamo  Subject: [SHQ] Moeyo ken in English To: SHQ@yahoogroups.com  Date:",
+            "messageBody": "<div id=\"ygrps-yiv-1822785930\">Thanks for share ^_^<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- On Sat, 1/10/09, Serizawa Kamo &lt;serizawakamo@...&gt; wrote:<br/>\n<br/>\nFrom: Serizawa Kamo &lt;serizawakamo@...&gt;<br/>\nSubject: [SHQ] Moeyo ken in English<br/>\nTo: &quot;SHQ@yahoogroups.com&quot; &lt;SHQ@yahoogroups.com&gt;<br/>\nDate: Saturday, January 10, 2009, 11:27 AM<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nFor those who might be interested:<br/>\n<br/>\nhttp://moeyoken. blogspot. com/<br/>\n<br/>\nSerizawa Kamo<br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 2682610,
+            "authorName": "Serizawa Kamo",
+            "from": "Serizawa Kamo &lt;serizawakamo@...&gt;",
+            "profile": "serizawakamo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Moeyo ken in English",
+            "postDate": "1231615654",
+            "msgId": 3454,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDY0NDkyMi45OTgwNi5xbUB3ZWI2NTUxMi5tYWlsLmFjNC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3455,
+            "prevInTime": 3453,
+            "nextInTime": 3455,
+            "topicId": 3454,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For those who might be interested: http://moeyoken.blogspot.com/ Serizawa Kamo",
+            "messageBody": "<div id=\"ygrps-yiv-1415274576\">For those who might be interested:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://moeyoken.blogspot.com/\">http://moeyoken.blogspot.com/</a><br/>\n<br/>\nSerizawa Kamo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3453,
+    "nextTopicId": 3456
+}

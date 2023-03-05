@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Gathering",
+            "postDate": "1124775917",
+            "msgId": 2529,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlZWQ1ZCt2OWRrQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEJBWTEwNC1GMjUyOUEzRENBNDUxOENBNjYzQUIzODlGQTkwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 2528,
+            "nextInTopic": 0,
+            "prevInTime": 2528,
+            "nextInTime": 2530,
+            "topicId": 2527,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... even ... well lets do it! lets find out. lets post a messeage asking whos where, beause in the member list some people just don t put it or never set up",
+            "messageBody": "<div id=\"ygrps-yiv-1715132132\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;Hirotada Tokugawa&quot; &lt;patriot014@h...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; That would be interesting...I don&#39;t believe we&#39;ve really tried to <br/>\n </span></blockquote>even <br/>\n<blockquote><span title=\"ireply\"> &gt; figure out where (if any) there are concentrations of members.<br/>\n&gt; <br/>\n&gt; -M.<br/>\n </span></blockquote> well lets do it! lets find out. lets post a messeage asking whos <br/>\nwhere, beause in the member list some people just don&#39;t put it or never <br/>\nset up there profiles. so lets make it happend. this is kind how the <br/>\norginal Shinsengumi started the clan up. so lets give it a try.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "RE: [SHQ] Gathering",
+            "postDate": "1124775528",
+            "msgId": 2528,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMjUyOUEzRENBNDUxOENBNjYzQUIzODlGQTkwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRlZWNpOSt2YjhyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2527,
+            "nextInTopic": 2529,
+            "prevInTime": 2527,
+            "nextInTime": 2529,
+            "topicId": 2527,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That would be interesting...I don t believe we ve really tried to even figure out where (if any) there are concentrations of members. -M.",
+            "messageBody": "<div id=\"ygrps-yiv-1555060064\">That would be interesting...I don&#39;t believe we&#39;ve really tried to even <br/>\nfigure out where (if any) there are concentrations of members.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Gathering",
+            "postDate": "1124775305",
+            "msgId": 2527,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlZWNpOSt2YjhyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2528,
+            "prevInTime": 2526,
+            "nextInTime": 2528,
+            "topicId": 2527,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "it would be cool to have a gathering of members. we can meet in a japanese bar and just have fun. it doesn t have to be all of us in one place because we all",
+            "messageBody": "<div id=\"ygrps-yiv-1486662892\">it would be cool to have a gathering of members. we can meet in a <br/>\njapanese bar and just have fun. it doesn&#39;t have to be all of us in one <br/>\nplace because we all live in different places of the world. so we set a <br/>\ndate and everyone in there area meets up in the bar/restaurant and hang <br/>\nout. we can take pictures and put them in the group photos. we can <br/>\ndress up and just get to know the people in our clan. there should be a <br/>\ndaiymo for each area so it can get organized right. what do you <br/>\nsamurais think?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2525,
+    "nextTopicId": 2530
+}

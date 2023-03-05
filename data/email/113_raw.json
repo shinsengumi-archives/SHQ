@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "FeEsr278f2tz9O0EDfKfcZWPDFW5jqhnJlDzOpUzdqKviX1IU0-OMw-DoJa46-SB22z5QzPUzsHbZG0",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1080139463",
+    "msgId": 113,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwODAxMzk0NjMuNTUyMS44MzQxMS53NDhAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 112,
+    "nextInTopic": 2022,
+    "prevInTime": 112,
+    "nextInTime": 114,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /eri_saitou01.jpg ",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 84166 invoked from network); 24 Mar 2004 14:45:59 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m8.grp.scd.yahoo.com with QMQP; 24 Mar 2004 14:45:59 -0000\r\nReceived: from unknown (HELO n17.grp.scd.yahoo.com) (66.218.66.72)\n  by mta6.grp.scd.yahoo.com with SMTP; 24 Mar 2004 14:45:58 -0000\r\nX-eGroups-Return: notify@yahoogroups.com\r\nReceived: from [66.218.67.170] by n17.grp.scd.yahoo.com with NNFMP; 24 Mar 2004 14:44:28 -0000\r\nReceived: (qmail 83427 invoked by uid 65534); 24 Mar 2004 14:44:23 -0000\r\nDate: 24 Mar 2004 14:44:23 -0000\r\nMessage-ID: &lt;1080139463.5521.83411.w48@yahoogroups.com&gt;\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.218.66.72\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /eri_saitou01.jpg \n  Uploaded by : andjoysmith &lt;andjoysmith@...&gt; \n  Description : Cool Saitou \n\nYou can access this file at the URL\n\nhttp://groups.yahoo.com/group/SHQ/files/eri_saitou01.jpg \n\nTo learn more about file sharing for your group, please visit\n\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nandjoysmith &lt;andjoysmith@...&gt;\n \n\n\n\n\n"
+}

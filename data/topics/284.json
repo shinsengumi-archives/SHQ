@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New group created",
+            "postDate": "1080965065",
+            "msgId": 284,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjYwYkVGWWFtTmZOMVgwMDAxYjc2YUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 283,
+            "nextInTime": 285,
+            "topicId": 284,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone! Just wanted to let everyone know that I ve formed a new group for discussion of the Edo period and of the Tokugawa clan, which can be found at: ",
+            "messageBody": "<div id=\"ygrps-yiv-1004114511\">Hi everyone!<br/>\n<br/>\nJust wanted to let everyone know that I&#39;ve formed a new group for discussion <br/>\nof the Edo period and of the Tokugawa clan, which can be found at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/edojidai/\">http://groups.yahoo.com/group/edojidai/</a><br/>\n<br/>\nI&#39;d be honored if you could check it out!<br/>\n<br/>\n--Masayoshi<br/>\n<br/>\n(a.k.a. Tokugawa Hirotada-- on the new list, anyway)<br/>\n<br/>\n_________________________________________________________________<br/>\nAdd photos to your e-mail with MSN 8. Get 2 months FREE*. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/featuredemail\">http://join.msn.com/?page=features/featuredemail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 275,
+    "nextTopicId": 279
+}

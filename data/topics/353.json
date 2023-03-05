@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 182392907,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Reproduction of S.H.&#39;s Sword",
+            "postDate": "1081619877",
+            "msgId": 353,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1OWNqNSt0aWFkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 352,
+            "nextInTime": 354,
+            "topicId": 353,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "NO no, not the sword he actually used but a reproduction of Demon circular Kunisige Ikeda you have to babelfish.altavista.com the site (quit moaning it s not",
+            "messageBody": "<div id=\"ygrps-yiv-826491887\">NO no, not the sword he actually used but a reproduction of &quot;Demon<br/>\ncircular Kunisige Ikeda&quot;<br/>\n<br/>\nyou have to babelfish.altavista.com the site (quit moaning it&#39;s not<br/>\nthat bad)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.n-p-s.net/saitohajime.htm\">http://www.n-p-s.net/saitohajime.htm</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 352,
+    "nextTopicId": 350
+}

@@ -1,0 +1,30 @@
+{
+    "userId": 462363324,
+    "authorName": "Pen Wandering",
+    "from": "Pen Wandering &lt;thewanderingpen@...&gt;",
+    "profile": "thewanderingpen",
+    "replyTo": "LIST",
+    "senderId": "BSjNY6bdzdwosOfoXhD6EZTurmRAnQS0pRus6vGMCBmW-SdHOeq50sqfUMfmQqGHinpHAbzp2kwkXDYEZE6T5N_AeJVkBqNF-duMJqr4th0",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [SHQ_Spy_Division] Re: Help!",
+    "postDate": "1282701107",
+    "msgId": 942,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDEzNjYyMy44NjgzMS5xbUB3ZWIxMTQ1MDIubWFpbC5ncTEueWFob28uY29tPg==",
+        "inReplyToHeader": "PGk1MXJybCs3MnN2QGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 941,
+    "nextInTopic": 943,
+    "prevInTime": 941,
+    "nextInTime": 943,
+    "topicId": 940,
+    "numMessagesInTopic": 5,
+    "msgSnippet": "Hi Barb, thanks for answering. I clicked on your links and it tells me that I m not a moderator for the group. No files link appears. I m not sure what I m",
+    "rawEmail": "Return-Path: &lt;thewanderingpen@...&gt;\r\nReceived: (qmail 47955 invoked from network); 25 Aug 2010 03:06:28 -0000\r\nReceived: from unknown (98.137.34.45)\n  by m1.grp.sp2.yahoo.com with QMQP; 25 Aug 2010 03:06:28 -0000\r\nReceived: from unknown (HELO n42b.bullet.mail.sp1.yahoo.com) (66.163.168.156)\n  by mta2.grp.sp2.yahoo.com with SMTP; 25 Aug 2010 03:06:28 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1282705588; bh=hwCXQmBm9wSJrP8S6VLdG+L/xPh45cM/JAwFf0cqeVw=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-Received:Message-ID:X-YMail-OSG:X-Received:X-Mailer:Date:To:In-Reply-To:MIME-Version:X-Originating-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:Sender:X-eGroups-Approved-By:X-eGroups-Auth; b=SCh9gCjxfgBxF8sc8oBiPjcOC7UZS1POo1pgHE0xH7IlAOMZZKyirtnzpyNMjZyUentXIZkqncyBEUZnlEp/h40vNlZW09yXiaF3KTFEsEu9eEc7wam82AoGxuAy2xt5\r\nReceived: from [69.147.65.172] by n42.bullet.mail.sp1.yahoo.com with NNFMP; 25 Aug 2010 03:06:28 -0000\r\nReceived: from [98.137.34.36] by t14.bullet.mail.sp1.yahoo.com with NNFMP; 25 Aug 2010 03:06:28 -0000\r\nX-Sender: thewanderingpen@...\r\nX-Apparently-To: shq_spy_division@yahoogroups.com\r\nX-Received: (qmail 90583 invoked from network); 25 Aug 2010 01:51:49 -0000\r\nX-Received: from unknown (66.196.94.106)\n  by m16.grp.re1.yahoo.com with QMQP; 25 Aug 2010 01:51:49 -0000\r\nX-Received: from unknown (HELO n1-vm0.bullet.mail.gq1.yahoo.com) (67.195.23.152)\n  by mta2.grp.re1.yahoo.com with SMTP; 25 Aug 2010 01:51:48 -0000\r\nX-Received: from [98.137.27.132] by n1.bullet.mail.gq1.yahoo.com with NNFMP; 25 Aug 2010 01:51:48 -0000\r\nX-Received: from [98.137.27.128] by t4.bullet.mail.gq1.yahoo.com with NNFMP; 25 Aug 2010 01:51:48 -0000\r\nX-Received: from [127.0.0.1] by omp202.mail.gq1.yahoo.com with NNFMP; 25 Aug 2010 01:51:48 -0000\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: 275645.28288.bm@...\r\nX-Received: (qmail 87535 invoked by uid 60001); 25 Aug 2010 01:51:48 -0000\r\nMessage-ID: &lt;136623.86831.qm@...&gt;\r\nX-YMail-OSG: wIazQeQVM1kk4DKM2jOdHCQEPvErhNJzEz6MDQTZ7YBa2Q4\n Vr2XLV9EoL7Qt5cbfhsBLVBFeKxeamMnXxAjkW39ho0DHBEj6AmepVDQUpUN\n MZM.tGe_zmO34YLFAyZAhnVA07K2DZgiM1V2jz4ip_JY5qCUFn7.utCtWa6o\n I1zWh7L_TI2om9nE.rlF1hgldI5inHmYGIjX9sesIIkREzCqyZGJKxqHt_79\n qrFhsaDLg1K09_fpkdoOyf_8G4uXBpHJxUvfwP4woXn_Bblo_B7URlSBixyn\n c5wJjs6jTuH5qoX9CpA--\r\nX-Received: from [96.233.249.161] by web114502.mail.gq1.yahoo.com via HTTP; Tue, 24 Aug 2010 18:51:47 PDT\r\nX-Mailer: YahooMailClassic/11.3.2 YahooMailWebService/0.8.105.279950\r\nDate: Tue, 24 Aug 2010 18:51:47 -0700 (PDT)\r\nTo: SHQ_Spy_Division@yahoogroups.com\r\nIn-Reply-To: &lt;i51rrl+72sv@...&gt;\r\nMIME-Version: 1.0\r\nFrom: Pen Wandering &lt;thewanderingpen@...&gt;\r\nSubject: Re: [SHQ_Spy_Division] Re: Help!\r\nX-Yahoo-Group-Post: member; u=462363324; y=0qcwQfi94kEL0-6ebhJBMx13AqtpAWLmI2kzWjxqHGW3k4Ubfb2uPS3n\r\nX-Yahoo-Profile: thewanderingpen\r\nContent-Type: text/plain; charset=UTF-8\r\nContent-Transfer-Encoding: quoted-printable\r\nX-eGroups-Approved-By: barbara.sheridan &lt;bsheridanauthor@...&gt; via web; 25 Aug 2010 03:06:26 -0000\r\n\r\nHi Barb, thanks for answering.\n\nI clicked on your links and it tells me tha=\r\nt I&#39;m not a moderator for the group. No files link appears. I&#39;m not sure wh=\r\nat I&#39;m doing wrong. I thought I was signed in. \n\nColor me confused,\nPen\n\n--=\r\n- On Wed, 8/25/10, barbara.sheridan &lt;bsheridanauthor@...&gt; wrote:\n\nFro=\r\nm: barbara.sheridan &lt;bsheridanauthor@...&gt;\nSubject: [SHQ_Spy_Division]=\r\n Re: Help!\nTo: SHQ_Spy_Division@yahoogroups.com\nDate: Wednesday, August 25,=\r\n 2010, 1:32 AM\n\n\n\n\n\n\n\n=C2=A0\n\n\n\n  \n\n\n    \n      \n      \n      So sorry for =\r\nthe delay! Your messages were in the spam thing and I never\n\ngot the notice=\r\n.\n\n\n\nYou should be able to see the files section. Are you signed into the\n\n=\r\nyahoogroups?\n\n\n\nHere&#39;s the direct link to the files:\n\nhttp://groups.yahoo.c=\r\nom/group/SHQ_Spy_Division/files/Archive%20of%20Stor&#92;\n\nies/\n\n&lt;http://groups.=\r\nyahoo.com/group/SHQ_Spy_Division/files/Archive%20of%20Sto&#92;\n\nries/&gt;\n\n\n\nBarb =\r\nSheridan\n\n\n\n[Non-text portions of this message have been removed]\n\n\n\n\n\n    =\r\n\n     \n\n    \n    \n\n\n \n\n\n\n  \n\n\n\n\n\n\n      \n\n[Non-text portions of this messag=\r\ne have been removed]\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "need help",
+            "postDate": "1144852429",
+            "msgId": 2760,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUxajM0ZCs0cnNyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2759,
+            "nextInTime": 2761,
+            "topicId": 2760,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m trying to download the Shinsengumi TV shows on eMule and nothing comes up can someone give me a hand?",
+            "messageBody": "<div id=\"ygrps-yiv-1256155967\">I&#39;m trying to download the Shinsengumi TV shows on eMule and nothing <br/>\ncomes up can someone give me a hand?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2758,
+    "nextTopicId": 2761
+}

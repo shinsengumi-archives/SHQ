@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210196887,
+            "authorName": "Wu Jia-xin",
+            "from": "&quot;Wu Jia-xin&quot; &lt;jiaxin_nyo@...&gt;",
+            "profile": "jiaxin_nyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Fanfiction contest results",
+            "postDate": "1114217471",
+            "msgId": 614,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0YzY1ditzanM4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 613,
+            "nextInTime": 615,
+            "topicId": 614,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Maybe I m a little slow for just noticing, but the Results of the Samurai Archives fanfiction contest are out. http://www.samurai-archives.com/guestart.html ",
+            "messageBody": "<div id=\"ygrps-yiv-349300514\">Maybe I&#39;m a little slow for just noticing, but the Results of the <br/>\nSamurai Archives fanfiction contest are out.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/guestart.html\">http://www.samurai-archives.com/guestart.html</a><br/>\n(scroll down near the bottom)<br/>\n<br/>\nThere are only two Bakumatsu-era ones. Mine is the one entitled &quot;Snow.&quot; <br/>\nIt&#39;s the only Shinsengumi one too. ^^;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 607,
+    "nextTopicId": 615
+}

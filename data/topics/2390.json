@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 180057007,
+            "authorName": "LMTame@webtv.net",
+            "from": "LMTame@...",
+            "profile": "nakkinomiko12",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [SHQ] Uniforms",
+            "postDate": "1112055377",
+            "msgId": 2395,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM2MjUtNDI0ODlFNTEtMjQ0MUBzdG9yZWZ1bGwtMzIzMy5iYXkud2VidHYubmV0Pg==",
+                "inReplyToHeader": "InNvdV9yeXVfc2VuMTQiIDxzb3Vfcnl1X3NlbjE0QHlhaG9vLmNvbT4ncyBtZXNzYWdlIG9mIE1vbiwgMjggTWFyIDIwMDUgMjI6MjA6MTAgLTAwMDA="
+            },
+            "prevInTopic": 2391,
+            "nextInTopic": 0,
+            "prevInTime": 2394,
+            "nextInTime": 2396,
+            "topicId": 2390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I actually have a book that has a haori pattern in it.   I got it through Crafter s Choice book club, but Amazon probably has it. Making Kimono and Japanese",
+            "messageBody": "<div id=\"ygrps-yiv-98288181\">I actually have a book that has a haori pattern in it.   I got it<br/>\nthrough Crafter&#39;s Choice book club, but Amazon probably has it.  <br/>\n<br/>\n&quot;Making Kimono and Japanese Clothes&quot; by Jenni Dobson.  <br/>\nBatsford/Chrysalis Books<br/>\nISBN: 0-7134-8903-0<br/>\n<br/>\nSadly, no gi or hakama patterns.  :-(  Hope this helps even a little.<br/>\n<br/>\n--L.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Uniforms",
+            "postDate": "1112048762",
+            "msgId": 2391,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyYTA5cSthbnYxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGQyOXZ1cStzanJvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2390,
+            "nextInTopic": 2395,
+            "prevInTime": 2390,
+            "nextInTime": 2392,
+            "topicId": 2390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://sarcasm.fanfic.org/hakama_pattern.jpg (Pattern), http://www.shinzen-dojo.net/le_dojo/hakama/mettre_hakama.html (How to put hakama on. In French, but has",
+            "messageBody": "<div id=\"ygrps-yiv-1137674016\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://sarcasm.fanfic.org/hakama_pattern.jpg\">http://sarcasm.fanfic.org/hakama_pattern.jpg</a> (Pattern),<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinzen-dojo.net/le_dojo/hakama/mettre_hakama.html\">http://www.shinzen-dojo.net/le_dojo/hakama/mettre_hakama.html</a> (How to<br/>\nput hakama on. In French, but has pictures, so the text is unnecessary).<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 218996889,
+            "authorName": "sou_ryu_sen14",
+            "from": "&quot;sou_ryu_sen14&quot; &lt;sou_ryu_sen14@...&gt;",
+            "profile": "sou_ryu_sen14",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Uniforms",
+            "postDate": "1112048410",
+            "msgId": 2390,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyOXZ1cStzanJvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2391,
+            "prevInTime": 2389,
+            "nextInTime": 2391,
+            "topicId": 2390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey, I was wondering does anyone know how to make a Shinsengumi uniform? I don t want to buy one, I want to try to make one (or four) for that skit I m trying",
+            "messageBody": "<div id=\"ygrps-yiv-2075713494\">Hey, I was wondering does anyone know how to make a Shinsengumi <br/>\nuniform? I don&#39;t want to buy one, I want to try to make one (or four)<br/>\nfor that skit I&#39;m trying to put together.<br/>\nIf anyone can tell me where I could get, or how I can make a pattern <br/>\nfor the uniform (or a pattern for gi and hakama) that would be very <br/>\nhelpful. Heck, I need to learn how to tie hakama!<br/>\n--A-chan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2386,
+    "nextTopicId": 2385
+}

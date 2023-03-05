@@ -1,0 +1,29 @@
+{
+    "userId": 173227807,
+    "authorName": "spiritus saitou",
+    "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+    "profile": "spiritus_saitou",
+    "replyTo": "LIST",
+    "senderId": "tP7dPsXcCVt6ZwNC-kuFNKnJB0bclmNOhSmM8zgwdPMwcztouTYBbTiO3H6L7fFiACtKL7S2Hc1_fd_gfGUDoX9FaNbU79knRnubV5ldUO39Dg",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Test message",
+    "postDate": "1085459834",
+    "msgId": 272,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwNTI1MDQzNzE0LjE5OTk4LnFtYWlsQHdlYjIxNDA2Lm1haWwueWFob28uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 273,
+    "prevInTime": 271,
+    "nextInTime": 273,
+    "topicId": 272,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "Sorry... please ignore... needed to check something... ... Do you Yahoo!? Friends.  Fun. Try the all-new Yahoo! Messenger [Non-text portions of this message",
+    "rawEmail": "Return-Path: &lt;spiritus_saitou@...&gt;\r\nX-Sender: spiritus_saitou@...\r\nX-Apparently-To: shq_spy_division@yahoogroups.com\r\nReceived: (qmail 73328 invoked from network); 25 May 2004 04:37:14 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m24.grp.scd.yahoo.com with QMQP; 25 May 2004 04:37:14 -0000\r\nReceived: from unknown (HELO web21406.mail.yahoo.com) (216.136.232.76)\n  by mta5.grp.scd.yahoo.com with SMTP; 25 May 2004 04:37:14 -0000\r\nMessage-ID: &lt;20040525043714.19998.qmail@...&gt;\r\nReceived: from [130.13.110.254] by web21406.mail.yahoo.com via HTTP; Mon, 24 May 2004 21:37:14 PDT\r\nDate: Mon, 24 May 2004 21:37:14 -0700 (PDT)\r\nTo: shq_spy_division@yahoogroups.com\r\nMIME-Version: 1.0\r\nX-eGroups-Remote-IP: 216.136.232.76\r\nFrom: spiritus saitou &lt;spiritus_saitou@...&gt;\r\nSubject: Test message\r\nX-Yahoo-Group-Post: member; u=173227807\r\nX-Yahoo-Profile: spiritus_saitou\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nSorry... please ignore... needed to check something...\n\n\t\t\n---------------------------------\nDo you Yahoo!?\nFriends.  Fun. Try the all-new Yahoo! Messenger\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

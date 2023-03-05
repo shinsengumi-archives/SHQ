@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Another thought on Saigou & Sagara",
+            "postDate": "1085268808",
+            "msgId": 832,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4b28wOCt2YjlqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 831,
+            "nextInTime": 833,
+            "topicId": 832,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Something else that s been floating in my mind lately is the idea that Saigou didn t necessarily have to have anything against Sagara personally (e.g. Sagara",
+            "messageBody": "<div id=\"ygrps-yiv-2074508864\">Something else that&#39;s been floating in my mind lately is the idea <br/>\nthat Saigou didn&#39;t necessarily have to have anything against Sagara <br/>\npersonally (e.g. Sagara wasn&#39;t a threat to Saigou&#39;s popularity or <br/>\npower).  He knew Sagara... knew he would follow orders.  He would&#39;ve <br/>\nhad confidence that Sagara would do as he was told and walk into the <br/>\nperfect set-up to provide them with support from the masses.  A <br/>\npawn... pure and simple.<br/>\n<br/>\nphil (who thinks about this WAY too much...)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 793,
+    "nextTopicId": 834
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 178261722,
+            "authorName": "sansei555",
+            "from": "&quot;sansei555&quot; &lt;sansei555x@...&gt;",
+            "profile": "sansei555",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Shinsengumi episodes",
+            "postDate": "1103908431",
+            "msgId": 1967,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxaGlvZis1ODlyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1966,
+            "nextInTime": 1968,
+            "topicId": 1967,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The site that usually has the torrents for the English subbed episodes has gone on hiatus (theppn.org).  Does anyone know if there is any other site with the",
+            "messageBody": "<div id=\"ygrps-yiv-512331559\">The site that usually has the torrents for the English subbed <br/>\nepisodes has gone on hiatus (theppn.org).  Does anyone know if there <br/>\nis any other site with the episodes?<br/>\n<br/>\nThanks very much,<br/>\nmay</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1957,
+    "nextTopicId": 1968
+}

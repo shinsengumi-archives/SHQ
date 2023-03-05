@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mibu gishi den news",
+            "postDate": "1104983042",
+            "msgId": 2015,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxRENCNDAyLjgwNTA3MDlAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2014,
+            "nextInTime": 2016,
+            "topicId": 2015,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This just in form my friend Michael who supplied us with the Shinsengumi filmography-- ",
+            "messageBody": "<div id=\"ygrps-yiv-1546659561\">This just in form my friend Michael who supplied us with the Shinsengumi <br/>\nfilmography--<br/>\n&lt;&lt;&lt;TARTAN UK have been bringing Asian films to the UK for years and now <br/>\nare up and running in the U.S .So my favourite film of 2003 (When the <br/>\nLast Sword is Drawn a/k/a/ Mibu gishi den is first up to be released in <br/>\ntheaters next month&gt;&gt;&gt;<br/>\n<br/>\nIf this film shows up in your neck of the woods GO AND SEE IT!<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2011,
+    "nextTopicId": 2016
+}

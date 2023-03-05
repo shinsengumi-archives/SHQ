@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Descendant",
+            "postDate": "1194911987",
+            "msgId": 3325,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZoYXBkais1c2IxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGZoYW1xOStodDViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3324,
+            "nextInTopic": 0,
+            "prevInTime": 3324,
+            "nextInTime": 3326,
+            "topicId": 3324,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think we have questions (^_^) but if we know which member of the Shinsengumi it would be better so we know what to ask and ofcourse we understand if he or",
+            "messageBody": "<div id=\"ygrps-yiv-2128295024\">I think we have questions (^_^)<br/>\nbut if we know which member of the Shinsengumi it would be better so we <br/>\nknow what to ask<br/>\n<br/>\nand ofcourse we understand if he or she cannot answer immediately <br/>\n<br/>\nthank you so much for keeping us in your thoughts Nefrut we really <br/>\nappreciate it !<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ@yahoogroups.com\">SHQ@yahoogroups.com</a>, &quot;nefret_nubti&quot; &lt;nefret_nubti@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; A friend of mine met a descendant of a shinsengumi member, leaving out<br/>\n&gt; which shinsengumi member it is... I was thinking some one on this site<br/>\n&gt; may have some questions to ask and such. If you do, let me know !<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 304340220,
+            "authorName": "nefret_nubti",
+            "from": "&quot;nefret_nubti&quot; &lt;nefret_nubti@...&gt;",
+            "profile": "nefret_nubti",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Descendant",
+            "postDate": "1194909321",
+            "msgId": 3324,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZoYW1xOStodDViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3325,
+            "prevInTime": 3323,
+            "nextInTime": 3325,
+            "topicId": 3324,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A friend of mine met a descendant of a shinsengumi member, leaving out which shinsengumi member it is... I was thinking some one on this site may have some",
+            "messageBody": "<div id=\"ygrps-yiv-1468199363\">A friend of mine met a descendant of a shinsengumi member, leaving out<br/>\nwhich shinsengumi member it is... I was thinking some one on this site<br/>\nmay have some questions to ask and such. If you do, let me know !</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3323,
+    "nextTopicId": 3326
+}

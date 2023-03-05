@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197635464,
+            "authorName": "Linda Larsson",
+            "from": "Linda Larsson &lt;enma_o@...&gt;",
+            "profile": "enma_o",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [Orders_From_Hijikata] Rikai.com Translation Service!",
+            "postDate": "1107884867",
+            "msgId": 2173,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjA4MTc0NzQ3LjY3MDk3LnFtYWlsQHdlYjg2OTAyLm1haWwudWtsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDIwMDUwMjA4MTIwNjM1Ljg2MjYwLnFtYWlsQHdlYjg2OTAxLm1haWwudWtsLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2172,
+            "nextInTime": 2174,
+            "topicId": 2173,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just realized I should ve sent this to here, too... silly me. http://www.rikai.com/perl/Home.pl Everyone who s in the habit of trawling Japanese pages for",
+            "messageBody": "<div id=\"ygrps-yiv-942047652\">Just realized I should&#39;ve sent this to here, too... silly me.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.rikai.com/perl/Home.pl\">http://www.rikai.com/perl/Home.pl</a><br/>\n<br/>\nEveryone who&#39;s in the habit of trawling Japanese pages for info, but doesn&#39;t know Japanese should look into this. From what I understand it&#39;s an &quot;enter page URL&quot; translation service like several others I&#39;ve run into... except this one still *loads* the page in Japanese, and you can then mouse-over the words to get kanji readings. <br/>\n<br/>\nIt seems to be meant as a learner&#39;s tool, but I thought it could be useful for this community too. Seeing as The Dreaded Fish and its ilk seems usually to spit up *one* translation and that&#39;s not always the best one.<br/>\n<br/>\nOne drawback I can see is, while the readings are in English, there&#39;s no romaji - which pretty much means you need to know hiragana. That&#39;s not hard though, tables are available online in many places, and I learned 90% of them by heart in a couple of weeks when I started Japanese.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n&quot;We are the Shinsengumi! We have business here!&quot; -Okita, Mibu Gishi-Den<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nYahoo! Groups SponsorADVERTISEMENT<br/>\ndocument.write(&#39;&#39;);<br/>\n<br/>\n---------------------------------<br/>\nYahoo! Groups Links<br/>\n<br/>\n   To visit your group on the web, go to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/Orders_From_Hijikata/\">http://groups.yahoo.com/group/Orders_From_Hijikata/</a><br/>\n  <br/>\n   To unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Orders_From_Hijikata-unsubscribe@yahoogroups.com\">Orders_From_Hijikata-unsubscribe@yahoogroups.com</a><br/>\n  <br/>\n   Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2167,
+    "nextTopicId": 2174
+}

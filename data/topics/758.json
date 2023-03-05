@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Update on Saitou family tree",
+            "postDate": "1084902389",
+            "msgId": 758,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjQ4YkM4M25Xd2E2STkwMDAyOWFhMkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 757,
+            "nextInTime": 759,
+            "topicId": 758,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Newest name deciphered: Tokio s sister, Tami. I read about her ages ago, but had otherwise forgotten about her. Back to work! --M. ",
+            "messageBody": "<div id=\"ygrps-yiv-2104883320\">Newest name deciphered: Tokio&#39;s sister, Tami. I read about her ages ago, but <br/>\nhad otherwise forgotten about her.<br/>\n<br/>\nBack to work!<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nThe new MSN 8: smart spam protection and 2 months FREE*  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/junkmail\">http://join.msn.com/?page=features/junkmail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 750,
+    "nextTopicId": 770
+}

@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 187644690,
+            "authorName": "chibi_aiko2000",
+            "from": "&quot;chibi_aiko2000&quot; &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: PeaceMaker!",
+            "postDate": "1096741447",
+            "msgId": 393,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqbXJvNytpOTlwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQxNUQwNDdELjgwMDA1MDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 392,
+            "nextInTopic": 0,
+            "prevInTime": 392,
+            "nextInTime": 394,
+            "topicId": 391,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I like the idea of the manga accompanying the anime dvd, but I think ADV is being pretty stupid.  If someone who s never seen PMK before picks this up, doesn t",
+            "messageBody": "<div id=\"ygrps-yiv-1335492019\">I like the idea of the manga accompanying the anime dvd, but I think <br/>\nADV is being pretty stupid.  If someone who&#39;s never seen PMK before <br/>\npicks this up, doesn&#39;t matter whether they watch the anime or read <br/>\nthe manga first, they&#39;ll still be pretty confused. I know I was <br/>\no.O;; but I had already seen the anime.<br/>\n<br/>\nStill, woo-hoo! I think I&#39;ll have enough by the time it comes out, <br/>\nand my Shinsengumi fangirl friends and I can watch it on halloween.  <br/>\n(And we&#39;re going as miburo this year...too bad it&#39;s on a sunday, and <br/>\nthank goodness haori are warm, considering how friggin&#39; COLD October <br/>\n31st gets in Nebraska...)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [SHQ_Spy_Division] PeaceMaker!",
+            "postDate": "1096615037",
+            "msgId": 392,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNUQwNDdELjgwMDA1MDdAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNqaWM0ZCtpMHQ5QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNqaWM0ZCtpMHQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 391,
+            "nextInTopic": 393,
+            "prevInTime": 391,
+            "nextInTime": 393,
+            "topicId": 391,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I picked up Vol 1 of the manga today and it picks up pretty much where the anime left off and  I m guessing (SIPM) did -- Barbara Sheridan ",
+            "messageBody": "<div id=\"ygrps-yiv-1491809064\">I picked up Vol 1 of the manga today and it picks up pretty much where <br/>\nthe anime left off and  I&#39;m guessing (SIPM) did<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 187644690,
+            "authorName": "chibi_aiko2000",
+            "from": "&quot;chibi_aiko2000&quot; &lt;chibi_aiko2000@...&gt;",
+            "profile": "chibi_aiko2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "PeaceMaker!",
+            "postDate": "1096594381",
+            "msgId": 391,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqaWM0ZCtpMHQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 392,
+            "prevInTime": 390,
+            "nextInTime": 392,
+            "topicId": 391,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes! I got the NewType magazine, and this is what it says... PeaceMaker Vol. 1 DVD coming out on Oct. 12, $29.98 And special collector s edition for $39.98",
+            "messageBody": "<div id=\"ygrps-yiv-1482742147\">Yes! I got the NewType magazine, and this is what it says...<br/>\n<br/>\nPeaceMaker Vol. 1 DVD coming out on Oct. 12, $29.98<br/>\nAnd special collector&#39;s edition for $39.98 that comes with Vol. 1 of <br/>\nthe manga (PMK, mind you, not SIPM)<br/>\n<br/>\nAlso, ADV has a trailer on the site! &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.advfilms.com\">http://www.advfilms.com</a>&gt;.  No <br/>\nvoices though.  I think I heard tetsu once in the trailer, but it <br/>\nsounded like his JPN voice T_T.<br/>\n<br/>\nWoo-hoo! Finally, a shinsengumi anime in english! other than <br/>\nKenshin, but that&#39;s not really shinsengumi-centric...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 389,
+    "nextTopicId": 394
+}

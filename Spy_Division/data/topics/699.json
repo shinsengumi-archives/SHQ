@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "RE: [SHQ_Spy_Division] Shinsengumi fashion",
+            "postDate": "1131681453",
+            "msgId": 700,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwNC1GMThGMzEyNjBFOUU1MDM2NkIwODIzQzlGNTkwQHBoeC5nYmw+",
+                "inReplyToHeader": "PGRrdGx1Yit0a3ZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 699,
+            "nextInTopic": 0,
+            "prevInTime": 699,
+            "nextInTime": 701,
+            "topicId": 699,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Something about that is just wrong...I ve seen the version of her where she wears the authentic Shinsengumi uniform, and THAT looks nice (sorta), but this",
+            "messageBody": "<div id=\"ygrps-yiv-419309945\">Something about that is just wrong...I&#39;ve seen the version of her where she <br/>\nwears the authentic Shinsengumi uniform, and THAT looks nice (sorta), but <br/>\nthis just....looks odd.<br/>\n<br/>\n-M.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 214023305,
+            "authorName": "chickhasstick",
+            "from": "&quot;chickhasstick&quot; &lt;wlstott@...&gt;",
+            "profile": "chickhasstick",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi fashion",
+            "postDate": "1131567883",
+            "msgId": 699,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRrdGx1Yit0a3ZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 700,
+            "prevInTime": 698,
+            "nextInTime": 700,
+            "topicId": 699,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have no words, really ",
+            "messageBody": "<div id=\"ygrps-yiv-336445627\">I have no words, really<br/>\n<br/>\n<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/AZONE-1-6-Shinsengumi-Set-Jenny-Dollfie-Momoko-\">http://cgi.ebay.com/AZONE-1-6-Shinsengumi-Set-Jenny-Dollfie-Momoko-</a><br/>\nPullip_W0QQitemZ5633933761QQcategoryZ36549QQrdZ1QQcmdZViewItem&gt;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 695,
+    "nextTopicId": 701
+}

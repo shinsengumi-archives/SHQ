@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re Question",
+            "postDate": "1091892929",
+            "msgId": 343,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxMTRGNkMxLjQwODA0MDdAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGNmMXNhbCs0aWExQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNmMXNhbCs0aWExQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 342,
+            "nextInTopic": 0,
+            "prevInTime": 342,
+            "nextInTime": 344,
+            "topicId": 342,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I may be wrong but I believe that they had jurisdiction over all criminal activity in t heir patrol zones. Kyoto was broken up into quite a few patrol",
+            "messageBody": "<div id=\"ygrps-yiv-1331392230\">I may be wrong but I believe that they had jurisdiction over all <br/>\ncriminal activity in t heir patrol zones. Kyoto was broken up into quite <br/>\na few patrol districts by group--Shinsengumi, Mimiwarigumi, Shoshidai <br/>\netc and each had their &quot;zones&quot;. We  have a color coded map in the files <br/>\nsection of the main SHQ list (last row bottom of page)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.groups.yahoo.com/group/SHQ/lst\">http://photos.groups.yahoo.com/group/SHQ/lst</a><br/>\n<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 97466505,
+            "authorName": "nana_41175",
+            "from": "&quot;nana_41175&quot; &lt;nana_41175@...&gt;",
+            "profile": "nana_41175",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Question",
+            "postDate": "1091859605",
+            "msgId": 342,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmMXNhbCs0aWExQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 343,
+            "prevInTime": 341,
+            "nextInTime": 343,
+            "topicId": 342,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello! I was wondering if someone knows the extent of the Shinsengumi s responsibilities in policing Kyoto in 1864-1865? Do they also handle crimes that do not",
+            "messageBody": "<div id=\"ygrps-yiv-1433347824\">Hello!<br/>\n<br/>\nI was wondering if someone knows the extent of the Shinsengumi&#39;s <br/>\nresponsibilities in policing Kyoto in 1864-1865? Do they also handle <br/>\ncrimes that do not seem to be a threat to the Shogunate, or do they <br/>\njust limit themselves to matters involving the Shogunate? If not, is <br/>\nthere a separate agency that handles these crimes?<br/>\n<br/>\nI&#39;d really appreciate any answers. Thanks.<br/>\n<br/>\nNana</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 337,
+    "nextTopicId": 346
+}

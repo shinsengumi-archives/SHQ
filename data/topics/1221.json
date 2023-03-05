@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Good Website on Aizu",
+            "postDate": "1087835061",
+            "msgId": 1221,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNiNzIzbCtmbG84QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1220,
+            "nextInTime": 1222,
+            "topicId": 1221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.geocities.co.jp/SilkRoad-Lake/6618/index.html also has a pic of the town taken in the 37th year of the Meiji...pretty densely populated---lots of",
+            "messageBody": "<div id=\"ygrps-yiv-438269078\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.co.jp/SilkRoad-Lake/6618/index.html\">http://www.geocities.co.jp/SilkRoad-Lake/6618/index.html</a><br/>\nalso has a pic of the town taken in the 37th year of the<br/>\nMeiji...pretty densely populated---lots of buildings<br/>\n<br/>\nfuthermore the site discusses the heroic women of Aizu<br/>\nincluding Yamamoto Yaeko...ever wonder how she learned how to use a<br/>\ngun?  Her father(?) was an instructor in gunnery...and the whole bit<br/>\nabout cutting hair is because she and other women had to disguise<br/>\nthemselves as men<br/>\n<br/>\nI can&#39;t believe I found this link from reading a humorous/silly fanfic<br/>\ninvolving Yamaguchi Jiro wearing a western uniform at Aizu (all the<br/>\nmen around him noticed how handsome he looked wearing it) and learning<br/>\nhow to use a gun...and just about every guy (including Hijikata)<br/>\naround him chasing after him @_@</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1220,
+    "nextTopicId": 1227
+}

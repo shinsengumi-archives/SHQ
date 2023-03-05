@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Character sketch",
+            "postDate": "1080428350",
+            "msgId": 79,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0NTB2dStzdHBoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 78,
+            "nextInTime": 80,
+            "topicId": 79,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yay! Shinobu-chan s here! lol... Right (straightens up). Ahem. I ve posted a pic of Shinobu, Hiro and Yuki s daughter, in Single Originals . She may not be",
+            "messageBody": "<div id=\"ygrps-yiv-1127532112\">Yay! Shinobu-chan&#39;s here! lol...<br/>\n<br/>\nRight (straightens up). Ahem. I&#39;ve posted a pic of Shinobu, Hiro and <br/>\nYuki&#39;s daughter, in &quot;Single Originals&quot;. She may not be appearing for <br/>\nseveral chapters, but she&#39;s going to make her presence known very <br/>\nsoon...^_^<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 78,
+    "nextTopicId": 80
+}

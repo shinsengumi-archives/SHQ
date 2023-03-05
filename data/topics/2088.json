@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "bsher213",
+            "from": "&quot;bsher213&quot; &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "A Request from our intrepid Secretary",
+            "postDate": "1106335873",
+            "msgId": 2088,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzcmxhMStvNXFvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2087,
+            "nextInTime": 2089,
+            "topicId": 2088,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Our madcap  Secretarytocaptthree has asked me to pass on the request for anyone who can, to email her with the known sword style of their favorite Shinsengumi",
+            "messageBody": "<div id=\"ygrps-yiv-1397240740\">Our madcap  Secretarytocaptthree has asked me to pass on the request<br/>\nfor anyone who can, to email her with the known sword style of their<br/>\nfavorite Shinsengumi member. You may do so at<br/>\nScretarytocaptthree(at)hotmail.com  <br/>\nReplace the (at) with @<br/>\n<br/>\nWe now return you to your regular list programming :)<br/>\n<br/>\nBarb Sheridan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2085,
+    "nextTopicId": 2089
+}

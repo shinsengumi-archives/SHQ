@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Chat Fri 5/21 Starting soon",
+            "postDate": "1085186907",
+            "msgId": 827,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4bTgwcisycGZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 826,
+            "nextInTime": 828,
+            "topicId": 827,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just a reminder We will begin chatting in 15 minutes",
+            "messageBody": "<div id=\"ygrps-yiv-1752741367\">Just a reminder<br/>\nWe will begin chatting in 15 minutes</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 805,
+    "nextTopicId": 793
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Humor fic",
+            "postDate": "1085105066",
+            "msgId": 254,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwQUQ2M0FBLjkwNjAwMDNAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 253,
+            "nextInTime": 255,
+            "topicId": 254,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I uploaded a bit of humor that Masayoshi and I came up with awhile back --Why Did the Chicken Cross the Road Edo/Balumatsu Style--please feel free to toss any",
+            "messageBody": "<div id=\"ygrps-yiv-720992981\">I uploaded a bit of humor that Masayoshi and I came up with awhile back <br/>\n--Why Did the Chicken Cross the Road Edo/Balumatsu Style--please feel <br/>\nfree to toss any additions my way and use RK/PMK/Historic folk /yourself<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 252,
+    "nextTopicId": 154
+}

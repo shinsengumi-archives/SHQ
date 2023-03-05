@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Music for Jidai Monogatari Chapter 9",
+            "postDate": "1080179849",
+            "msgId": 64,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGVhOSt1OHZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 63,
+            "nextInTime": 65,
+            "topicId": 64,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just a note-- Jidai Monogatari Chapter 9 is best read while listening to Evanescence s Whisper . Or, if you prefer, Tourniquet . ESPECIALLY during the battle",
+            "messageBody": "<div id=\"ygrps-yiv-546774642\">Just a note--<br/>\n<br/>\nJidai Monogatari Chapter 9 is best read while listening to<br/>\nEvanescence&#39;s &quot;Whisper&quot;. Or, if you prefer, &quot;Tourniquet&quot;. ESPECIALLY<br/>\nduring the battle scene.<br/>\n<br/>\nOK. Thanks!<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 63,
+    "nextTopicId": 65
+}

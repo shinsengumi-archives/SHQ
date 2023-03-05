@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Itou&#39;s hat",
+            "postDate": "1080664734",
+            "msgId": 216,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0YzdxdStpdWExQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 215,
+            "nextInTime": 217,
+            "topicId": 216,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Have posted a picture of Itou s hat, under Artifacts . --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1603108774\">Have posted a picture of Itou&#39;s hat, under &quot;Artifacts&quot;.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 193,
+    "nextTopicId": 217
+}

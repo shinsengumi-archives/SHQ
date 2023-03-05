@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Test message... please ignore",
+            "postDate": "1079796377",
+            "msgId": 30,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzaG5xcCthbzAzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 29,
+            "nextInTime": 31,
+            "topicId": 30,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just tweaking things...",
+            "messageBody": "<div id=\"ygrps-yiv-924865404\">Just tweaking things...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 29,
+    "nextTopicId": 31
+}

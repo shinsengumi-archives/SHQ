@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Does anyone know if..",
+            "postDate": "1098161685",
+            "msgId": 413,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsMjZtbCs2N28zQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 412,
+            "nextInTime": 414,
+            "topicId": 413,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There will be any other anime/manga series with the Shinsengumi in it?",
+            "messageBody": "<div id=\"ygrps-yiv-323330544\">There will be any other anime/manga series with the Shinsengumi in it?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 412,
+    "nextTopicId": 398
+}

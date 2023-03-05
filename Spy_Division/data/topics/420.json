@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Saitou&#39;s Halloween Jack O&#39; Lantern",
+            "postDate": "1098821807",
+            "msgId": 420,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsbWJiZitlMGloQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 419,
+            "nextInTime": 421,
+            "topicId": 420,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "first watch the animation at the bottom of http://www3.nhk.or.jp/taiga/topic/inside/f_inside2.html and now a very likely Halloween Jack O Lantern carved by",
+            "messageBody": "<div id=\"ygrps-yiv-1665280824\">first watch the animation at the bottom of <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www3.nhk.or.jp/taiga/topic/inside/f_inside2.html\">http://www3.nhk.or.jp/taiga/topic/inside/f_inside2.html</a><br/>\n<br/>\nand now a very likely Halloween Jack O&#39; Lantern carved by NHK Saitou!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/pumpkinfundoshi.gif\">http://1happyturtle.com/makoto/pumpkinfundoshi.gif</a><br/>\n<br/>\nsecretarytocapt3<br/>\nAiM = badgerturtle</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 415,
+    "nextTopicId": 421
+}

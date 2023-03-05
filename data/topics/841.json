@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sakura Wars/Shinsengumi connection",
+            "postDate": "1085280704",
+            "msgId": 841,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4cDNrMCtqOGY2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 840,
+            "nextInTime": 842,
+            "topicId": 841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In the Sakura Wars movie, in the part where the armored airship Shogei Maru launches, there s a guy who turns to 2 minor characters and says So, what re we",
+            "messageBody": "<div id=\"ygrps-yiv-1530273587\">In the &quot;Sakura Wars&quot; movie, in the part where the armored airship <br/>\nShogei Maru launches, there&#39;s a guy who turns to 2 minor characters <br/>\nand says &quot;So, what&#39;re we about to see here?&quot;. And these guys <br/>\nrespond, &quot;Shogei Maru is about to launch! You had no idea?! Have you <br/>\nbeen living in a cave?!&quot; The thing is-- the guy who had no idea what <br/>\nwas going on looked a lot like Saigou Takamori! loL! And the creator <br/>\nof Sakura Wars, Ouji Hiroi, has another series about the Shinsengumi--<br/>\n so perhaps this was intended!! Hah! Take THAT, Saigou...&quot;Cave <br/>\ndweller...&quot;...incidentally, he committed seppuku in a cave...strange, <br/>\nhuh?<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 838,
+    "nextTopicId": 844
+}

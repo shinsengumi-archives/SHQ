@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus saitou",
+            "from": "spiritus saitou &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Adobe Acrobat Reader (free)",
+            "postDate": "1085352640",
+            "msgId": 844,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTIzMjI1MDQwLjg5MjQxLnFtYWlsQHdlYjIxNDA0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 843,
+            "nextInTime": 845,
+            "topicId": 844,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Source found.  If you need a copy of the reader, go to: http://www.adobe.com/products/acrobat/readstep2.html phil ... Do you Yahoo!? Yahoo! Domains - Claim",
+            "messageBody": "<div id=\"ygrps-yiv-2031131195\">Source found.  If you need a copy of the reader, go to:<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.adobe.com/products/acrobat/readstep2.html\">http://www.adobe.com/products/acrobat/readstep2.html</a><br/>\n<br/>\nphil<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Domains - Claim yours for only $14.70/year<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 841,
+    "nextTopicId": 846
+}

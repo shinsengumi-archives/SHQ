@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yamamoto Yaeko fanart",
+            "postDate": "1087400915",
+            "msgId": 1098,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhcHE0aitwdXJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1097,
+            "nextInTime": 1099,
+            "topicId": 1098,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www5e.biglobe.ne.jp/~asaki/yaeko.htm Very interesting-- I think that the words on the side are a quote by her right before the fall of the castle (or",
+            "messageBody": "<div id=\"ygrps-yiv-1221431290\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www5e.biglobe.ne.jp/~asaki/yaeko.htm\">http://www5e.biglobe.ne.jp/~asaki/yaeko.htm</a><br/>\n<br/>\nVery interesting-- I think that the words on the side are a quote by<br/>\nher right before the fall of the castle (or something like that).<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1096,
+    "nextTopicId": 1101
+}

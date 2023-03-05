@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 216498584,
+            "authorName": "Bunny ^_^",
+            "from": "Bunny ^_^ &lt;shenlong71328@...&gt;",
+            "profile": "shenlong71328",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "ukiyo-e prints",
+            "postDate": "1273877325",
+            "msgId": 3490,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU5NDg5MC4zMDYwMi5xbUB3ZWIzODAwMS5tYWlsLm11ZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3489,
+            "nextInTime": 3491,
+            "topicId": 3490,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey all, Seems like this site has died out, how very sad. Anywho, I was wondering if there were ever any ukiyo-e prints of the shinsengumi made... I don t mean",
+            "messageBody": "<div id=\"ygrps-yiv-1687828958\">Hey all,<br/>\n<br/>\nSeems like this site has died out, how very sad.<br/>\n<br/>\nAnywho, I was wondering if there were ever any ukiyo-e prints of the shinsengumi made... I don&#39;t mean modern ones, but something made back in the day they were alive or even sometime after there disbandment... I was particularly interested in finding one of Saitou Hajime.<br/>\n<br/>\nThanks<br/>\n-G<br/>\n<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3489,
+    "nextTopicId": 3491
+}

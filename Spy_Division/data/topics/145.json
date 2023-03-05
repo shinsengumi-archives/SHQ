@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andjoysmith@*...",
+            "from": "andjoysmith@...",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Birthday Calendar",
+            "postDate": "1083165587",
+            "msgId": 145,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYzNjc5MjAuMTA4MzE2NTU4NzIwMy5KYXZhTWFpbC5BZG1pbmlzdHJhdG9yQHdpbjAyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 144,
+            "nextInTime": 146,
+            "topicId": 145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I am creating a birthday calendar for myself. Can you please click on the link below and enter your birthday for me. Don t worry it is quick, and you don t",
+            "messageBody": "<div id=\"ygrps-yiv-1149210391\">Hi, <br/>\n<br/>\nI am creating a birthday calendar for myself. Can you please click on the link below and enter your birthday for me. Don&#39;t worry it is quick, and you don&#39;t have to enter your year of birth:-). <br/>\n<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.BirthdayAlarm.com/dob/15240128a859891758b905\">http://www.BirthdayAlarm.com/dob/15240128a859891758b905</a> <br/>\n<br/>\nThanks, <br/>\nAndie</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 140,
+    "nextTopicId": 146
+}

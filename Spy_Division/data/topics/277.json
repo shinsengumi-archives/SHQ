@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yet another 2 drawings waiting to be scanned",
+            "postDate": "1085681418",
+            "msgId": 277,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5NWF1YStxYnZhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 276,
+            "nextInTime": 278,
+            "topicId": 277,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "2 more on the way: 1. Katsu Kaishuu, the commander of the Bakufu navy. 2. Original manga (Jidai Monogatari side story) of Hiro and Yuki at Edo Castle. --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1349395786\">2 more on the way:<br/>\n<br/>\n1. Katsu Kaishuu, the commander of the Bakufu navy.<br/>\n<br/>\n2. Original manga (Jidai Monogatari side story) of Hiro and Yuki at <br/>\nEdo Castle.<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 274,
+    "nextTopicId": 278
+}

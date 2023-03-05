@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210196887,
+            "authorName": "jiaxin_nyo",
+            "from": "&quot;jiaxin_nyo&quot; &lt;jiaxin_nyo@...&gt;",
+            "profile": "jiaxin_nyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Dai-Bosatsu Toge and misc. Shinsengumi notes",
+            "postDate": "1111883974",
+            "msgId": 2375,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyNHZjNitvdXJkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2374,
+            "nextInTime": 2376,
+            "topicId": 2375,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I remember seeing links for the Dai-Bosatsu Toge novels before . . . Can anyone give me the links again? (I didn t have the chance to download when I saw them",
+            "messageBody": "<div id=\"ygrps-yiv-994168005\">I remember seeing links for the Dai-Bosatsu Toge novels before . . . <br/>\nCan anyone give me the links again? (I didn&#39;t have the chance to <br/>\ndownload when I saw them TT_TT )<br/>\n<br/>\nAlso, I&#39;m currently working on compiling notes from everything <br/>\ncurrently on my computer and what I have in my head. I&#39;ll put up a link <br/>\nwhen I&#39;ve got it all down. ^^;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2374,
+    "nextTopicId": 2367
+}

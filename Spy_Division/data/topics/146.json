@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 59905708,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Journal Software/Writing Aid?",
+            "postDate": "1083178819",
+            "msgId": 146,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2b3YwMys5ZTRxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 145,
+            "nextInTime": 147,
+            "topicId": 146,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I know, any wordprocessing program is fine...but I downloaded the trial version (45days) of a journal program here: http://www.davidrm.com/ what makes it cool",
+            "messageBody": "<div id=\"ygrps-yiv-1690835157\">I know, any wordprocessing program is fine...but I downloaded the<br/>\ntrial version (45days) of a journal program here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.davidrm.com/\">http://www.davidrm.com/</a><br/>\nwhat makes it cool is that you can insert spreadsheets in it (helpful<br/>\nfor those story timelines I guess)<br/>\nand it has a &quot;notebook&quot; feature where you can group ideas and stuff<br/>\nthe program is very easy to use with lots of neat features</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 145,
+    "nextTopicId": 115
+}

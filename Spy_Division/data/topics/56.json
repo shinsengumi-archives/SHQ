@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: So, who&#39;s posting next???",
+            "postDate": "1080175801",
+            "msgId": 57,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdGFicCtiNXJlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQwNjIxOEFFLjMwNTAyMDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 56,
+            "nextInTopic": 0,
+            "prevInTime": 56,
+            "nextInTime": 58,
+            "topicId": 56,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "HOW could you possibly forget Masayoshi???  Tsk, tsk... shame on you, Barb.  :-)  And he s more original than the rest of us. phil (who still hasn t received",
+            "messageBody": "<div id=\"ygrps-yiv-1928870444\">HOW could you possibly forget Masayoshi???  Tsk, tsk... shame on you, <br/>\nBarb.  :-)  And he&#39;s more original than the rest of us.<br/>\n<br/>\nphil (who still hasn&#39;t received this message in her mailbox... <br/>\nsomething screwy goin&#39; on with yahoo...)<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, Barbara Sheridan <br/>\n&lt;bsher213@b...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Phil, Miss B and I have posted stories what about the rest of <br/>\n </span></blockquote>you??? <br/>\n<blockquote><span title=\"ireply\"> &gt; C&#39;mon we&#39;re waiting to see how _you_ view the world of the <br/>\n </span></blockquote>Shinsengumi,<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; -- <br/>\n&gt; Barbara Sheridan\t<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "So, who&#39;s posting next???",
+            "postDate": "1080170670",
+            "msgId": 56,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwNjIxOEFFLjMwNTAyMDdAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 57,
+            "prevInTime": 55,
+            "nextInTime": 57,
+            "topicId": 56,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Phil, Miss B and I have posted stories what about the rest of you??? C mon we re waiting to see how _you_ view the world of the Shinsengumi, -- Barbara",
+            "messageBody": "<div id=\"ygrps-yiv-1686825650\">Phil, Miss B and I have posted stories what about the rest of you??? <br/>\nC&#39;mon we&#39;re waiting to see how _you_ view the world of the Shinsengumi,<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 55,
+    "nextTopicId": 60
+}

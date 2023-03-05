@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Police Uniforms",
+            "postDate": "1080658266",
+            "msgId": 214,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0YzFncStsNmxxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 213,
+            "nextInTime": 215,
+            "topicId": 214,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have looked and looked using yahoo.co.jp for police uniforms from the Meiji...and I can t find any pics.  I know there is a police museum but I can t find",
+            "messageBody": "<div id=\"ygrps-yiv-432502686\">I have looked and looked using yahoo.co.jp for police uniforms from <br/>\nthe Meiji...and I can&#39;t find any pics.  I know there is a police <br/>\nmuseum but I can&#39;t find their main site...other sites list the <br/>\nmuseum&#39;s address and phone number etc...I have also seen *really* <br/>\nfancy military uniforms...lots of embroidery on the sleeve cuffs.<br/>\n<br/>\nIf anyone knows where I can find a pic of a regular police uniform <br/>\nlet me know.  I noticed that in the anime S.H.&#39;s uniform is a <br/>\nlighter blue than in the OVA Remembrance (very dark navy blue)...it <br/>\nmay be due to the production of the series but I&#39;m wondering how <br/>\nthese uniforms really look like.<br/>\n<br/>\nIs there a live action movie from this period which features <br/>\npolicemen?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 183,
+    "nextTopicId": 193
+}

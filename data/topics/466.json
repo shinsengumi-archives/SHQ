@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:  Harada Fansite?",
+            "postDate": "1082336652",
+            "msgId": 468,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwODMyNThDLjQwMjA3MDlAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGM1djZ1cStocGV2QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGM1djZ1cStocGV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 466,
+            "nextInTopic": 0,
+            "prevInTime": 467,
+            "nextInTime": 469,
+            "topicId": 466,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I braved the dreaded babelfish for this. And while I m not getting much out of it it s worth looking up for the person photo studio button at the  bottom",
+            "messageBody": "<div id=\"ygrps-yiv-237943602\">I braved the dreaded babelfish for this. And while I&#39;m not getting much <br/>\nout of it it&#39;s worth looking up for the &quot;person photo studio&quot; button at <br/>\nthe  bottom under &quot;Index&quot; There are pictures of Takasugi and Ryoma <br/>\nSakamoto I hadn&#39;t seen before and a bunch of other guys whose <br/>\nbabelfish-ese weird name translations I haven&#39;t come across before <br/>\nenough to hazard a guess as to who they are.<br/>\n<br/>\nLuckily everyone&#39;s favorite Vice-chief &quot;Manual Laborer Year Three&quot; is <br/>\nincluded in the line up.<br/>\n<br/>\nTiffany wrote:<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 182392907,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Harada Fansite?",
+            "postDate": "1082335002",
+            "msgId": 466,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1djZ1cStocGV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 468,
+            "prevInTime": 465,
+            "nextInTime": 467,
+            "topicId": 466,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ~think~ it is a Harada Fansite http://homepage3.nifty.com/ponpoko-y/",
+            "messageBody": "<div id=\"ygrps-yiv-1068303912\">I ~think~ it is a Harada Fansite<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://homepage3.nifty.com/ponpoko-y/\">http://homepage3.nifty.com/ponpoko-y/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 467,
+    "nextTopicId": 471
+}

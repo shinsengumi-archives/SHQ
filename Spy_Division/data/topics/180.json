@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 59905708,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT:  Tales of the Otori",
+            "postDate": "1083444727",
+            "msgId": 180,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3MTJsbis2cDlwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 179,
+            "nextInTime": 181,
+            "topicId": 180,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think I posted about this back on the miburo list...but I ll be redundant as usual...it may be made into a live action film...I ve heard so many good things",
+            "messageBody": "<div id=\"ygrps-yiv-2066929570\">I think I posted about this back on the miburo list...but I&#39;ll be<br/>\nredundant as usual...it may be made into a live action film...I&#39;ve<br/>\nheard so many good things about this series but then again some people<br/>\nsay it is Harry Potter in the warring states period Japan<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.theotori.com/bookgeneral/default.asp\">http://www.theotori.com/bookgeneral/default.asp</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 177,
+    "nextTopicId": 109
+}

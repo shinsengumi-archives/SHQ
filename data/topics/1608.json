@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 188101279,
+            "authorName": "GBattista (hajimenokizu)",
+            "from": "&quot;GBattista (hajimenokizu)&quot; &lt;wounds@...&gt;",
+            "profile": "mg_batt",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Booklist",
+            "postDate": "1095723938",
+            "msgId": 1611,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpbnEzMitpNHJlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNpbjFpNSt0ZXZyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1608,
+            "nextInTopic": 0,
+            "prevInTime": 1610,
+            "nextInTime": 1612,
+            "topicId": 1608,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I will do so. Sorry we got cut off last night.. AIM logged me off and I couldn t logon anymore. ~wounds",
+            "messageBody": "<div id=\"ygrps-yiv-1478146406\">--- In SHQ@yahoogroups.com, &quot;secretary&quot; &lt;secretarytocapt3@h...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I uploaded a general booklist in the &quot;FILES&quot; section...the books may<br/>\n&gt; be added to the database (http://www.shinsengumidb.com) under the<br/>\n&gt; keywords used in the &quot;subjects&quot; line<br/>\n&gt; <br/>\n&gt; I will add more books which I used to better understand swords and<br/>\n&gt; journal articles I am using for my Tokyo Metropolitan Police<br/>\n&gt; Department and SEinan War report when I get a chance.<br/>\n&gt; <br/>\n&gt; Your Loyal Retainer<br/>\n&gt; Secretarytocapt3<br/>\n<br/>\n<br/>\n </span></blockquote>I will do so. Sorry we got cut off last night.. AIM logged me off and <br/>\nI couldn&#39;t logon anymore.<br/>\n<br/>\n~wounds</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Booklist",
+            "postDate": "1095698821",
+            "msgId": 1608,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpbjFpNSt0ZXZyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1611,
+            "prevInTime": 1607,
+            "nextInTime": 1609,
+            "topicId": 1608,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I uploaded a general booklist in the FILES section...the books may be added to the database (http://www.shinsengumidb.com) under the keywords used in the",
+            "messageBody": "<div id=\"ygrps-yiv-2082245640\">I uploaded a general booklist in the &quot;FILES&quot; section...the books may<br/>\nbe added to the database (http://www.shinsengumidb.com) under the<br/>\nkeywords used in the &quot;subjects&quot; line<br/>\n<br/>\nI will add more books which I used to better understand swords and<br/>\njournal articles I am using for my Tokyo Metropolitan Police<br/>\nDepartment and SEinan War report when I get a chance.<br/>\n<br/>\nYour Loyal Retainer<br/>\nSecretarytocapt3</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1610,
+    "nextTopicId": 1612
+}

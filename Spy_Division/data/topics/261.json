@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sometime today I will WAKE UP",
+            "postDate": "1085240381",
+            "msgId": 261,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM4bnM3dCs4NDVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 260,
+            "nextInTime": 262,
+            "topicId": 261,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Corrected URL... it s http://www.nfiction.com .  duh...",
+            "messageBody": "<div id=\"ygrps-yiv-1857148492\">Corrected URL... it&#39;s <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nfiction.com\">http://www.nfiction.com</a> .  duh...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 154,
+    "nextTopicId": 263
+}

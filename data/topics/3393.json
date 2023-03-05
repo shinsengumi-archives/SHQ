@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Welcome New Member ryhorikawa & SHQ NEWS",
+            "postDate": "1212273662",
+            "msgId": 3393,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGcxc2s1dSs3N2tsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3392,
+            "nextInTime": 3394,
+            "topicId": 3393,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Welcome to all new members of this mailing list and user ryhorikawa who is associated with the UW. I lived in Madison WI for a few years and in fact a bulk of",
+            "messageBody": "<div id=\"ygrps-yiv-1242234500\">Welcome to all new members of this mailing list and user ryhorikawa <br/>\nwho is associated with the UW.<br/>\n<br/>\nI lived in Madison WI for a few years and in fact a bulk of the research <br/>\nfor SHINSENGUMIHQ (SHQ ) was completed at the UW&#39;s Memorial <br/>\nLibrary and the Wisconsin State Historical Society.  There are <br/>\nmany &quot;little&quot; treasures and artifacts right in Memorial Union from the <br/>\nMeiji Era and some Wisconsinites had interesting connections to 19th <br/>\ncentury Japan. <br/>\n<br/>\nYou may all have already asked yourselves...&quot;well WHAT happened to <br/>\nSHQ.com?&quot;<br/>\n<br/>\nEarlier this year, the SHQ hosting company must have experienced a <br/>\ntechnical glitch which erased an html file which is basically where all <br/>\npages of the website are stored (a database pulls info from this html <br/>\nfile).  The html file was deleted and it&#39;s not clear what happened.  <br/>\nFOrtunately Barbara Sheridan had a back up file of everything and from <br/>\nthis file an e-book will be written.<br/>\n<br/>\nThe e-book will be designed to be user friendly for people new to this <br/>\nslice of history and yet written and cited in such a way to make it a <br/>\nhelpful research resource.  The e-book will be in a pdf format for easy <br/>\ndownload and should any new additional information be added, it will be <br/>\nmentioned on an update page.<br/>\n<br/>\nFrom examining the SHQ server, it was obvious to me that new visitors <br/>\ntended to dwell on popular pages and never visited the really really <br/>\ndetailed timeline (if one studies it the Shinsengumi narrative emerges).  <br/>\nHopefully by writing an e-book, visitors will be able to have everything in <br/>\nfront of them and will be able to understand the Shinsengumi and their <br/>\nworld better.<br/>\n<br/>\nIt took all of us many years of growth, research and reflection on not <br/>\nonly the Shinsengumi but Aizu-han as well to realize that our fansite can <br/>\nbe a helpful starting point for people who have just discovered the <br/>\nfascinating/notorious/controversial Shinsengumi.<br/>\n<br/>\nThe site will move to a new server and will continue to host fanwork, <br/>\nart, vids, stories etc.<br/>\n<br/>\nThis summer, 2008, a first draft of the book will be completed and <br/>\nundergo an editing process.<br/>\n<br/>\nWe would also like to throw a &quot;re-opening&quot; party if possible and look <br/>\nforward to reconnecting with everyone.<br/>\n<br/>\n~secretarytocapt3</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3368,
+    "nextTopicId": 3394
+}

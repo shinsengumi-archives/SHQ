@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "A truly outstanding youtube vid &quot;SHINSENGUMI SPROUTING&quot;",
+            "postDate": "1181497955",
+            "msgId": 841,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY0aGRwMytxdTZ2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 840,
+            "nextInTime": 842,
+            "topicId": 841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This vid was recommended to me by freedomxfighter and I was glad to have gotten this tip http://www.youtube.com/watch?v=SWHG8GDA_dg please give this a rating",
+            "messageBody": "<div id=\"ygrps-yiv-580378305\">This vid was recommended to me by freedomxfighter and I was glad to <br/>\nhave gotten this tip<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=SWHG8GDA_dg\">http://www.youtube.com/watch?v=SWHG8GDA_dg</a><br/>\n<br/>\nplease give this a rating and comment for a job well done!<br/>\nI have favorited this vid to <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/shinsengumihq\">http://www.youtube.com/shinsengumihq</a><br/>\nalready.<br/>\n<br/>\nI&#39;m really impressed with this fanvid and interestingly it captures <br/>\nalot of what the professional media released by NHK (for promo <br/>\npurposes) could not do.  MangakaRob really has a grasp of the best <br/>\nideals of the Shinsengumi.</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/SWHG8GDA_dg?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 840,
+    "nextTopicId": 842
+}

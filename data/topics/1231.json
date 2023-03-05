@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "BarbaraSheridan",
+            "from": "BarbaraSheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Filmography complete!",
+            "postDate": "1087957822",
+            "msgId": 1231,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwRDhFQjNFLjIwOTAyMDZAYmVsbGF0bGFudGljLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1230,
+            "nextInTime": 1232,
+            "topicId": 1231,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yes the Filmography is complete and I have some of the titles links to posters/dvd covers and commentary, some of which I ve taken from the message board, Phil",
+            "messageBody": "<div id=\"ygrps-yiv-944747415\">yes the Filmography is complete and I have some of the titles links to <br/>\nposters/dvd covers and commentary, some of which I&#39;ve taken from the <br/>\nmessage board, Phil & Sec if you don&#39;t wish me to use your comments or <br/>\nwould like to make changes let me know<br/>\n<br/>\nAnd remember people you too can add comment to any of our anime/film/tv <br/>\nsections or whatever!<br/>\n<br/>\n-- <br/>\nBarbara Sheridan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a><br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1230,
+    "nextTopicId": 1183
+}

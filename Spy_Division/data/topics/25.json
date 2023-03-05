@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Need a guinea pig ASAP",
+            "postDate": "1079660890",
+            "msgId": 25,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzZGpncSszaXUxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 24,
+            "nextInTime": 26,
+            "topicId": 25,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is there anybody here who has *never* registered with LiveJournal? (Not you Barb... you were registered once) I need someone to represent some lost soul who",
+            "messageBody": "<div id=\"ygrps-yiv-1309733989\">Is there anybody here who has *never* registered with LiveJournal? <br/>\n(Not you Barb... you were registered once) I need someone to <br/>\nrepresent some lost soul who comes upon the LJ address and wants to <br/>\nread some delicious miburo fiction.  I need them to access the <br/>\njournal and tell me what happens.<br/>\n<br/>\nI know that it won&#39;t let me see anything but the main entry --- <br/>\neverything behind the lj-cut (which will have to be done when posting <br/>\nstories) and comments are denied --- when I&#39;m not logged on, but I <br/>\nwant to make sure it&#39;s the same for someone LJ would never recognize.<br/>\n<br/>\nThe address is <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.livejournal.com/~shq_spy_office/\">http://www.livejournal.com/~shq_spy_office/</a><br/>\n<br/>\nPlease, don&#39;t anyone start trying to join!!!  I&#39;m just getting set up <br/>\nand need to do some experimenting before turning it loose.  There&#39;s <br/>\nnothing for you to see anyway at this point.  It&#39;s nothing but an <br/>\nempty shell.<br/>\n<br/>\nThanks!!!<br/>\npachi</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1,
+    "nextTopicId": 26
+}

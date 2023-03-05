@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 234203377,
+            "authorName": "Logan",
+            "from": "&quot;Logan&quot; &lt;wolverinesg7@...&gt;",
+            "profile": "wolverinesg7",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Who?",
+            "postDate": "1124853932",
+            "msgId": 2534,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlZ3BiYytqZThwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2533,
+            "nextInTime": 2535,
+            "topicId": 2534,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "i wanted to know who is the head of this Shinsengumi clan? and is the poll just to see where we all are located or is it for the gathering?",
+            "messageBody": "<div id=\"ygrps-yiv-349677589\">i wanted to know who is the head of this Shinsengumi clan? and is the <br/>\npoll just to see where we all are located or is it for the gathering?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2531,
+    "nextTopicId": 2292
+}

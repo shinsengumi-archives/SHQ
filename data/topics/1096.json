@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sword Scars (why?)",
+            "postDate": "1087397646",
+            "msgId": 1096,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNhcG11ZStycWNzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1095,
+            "nextInTime": 1097,
+            "topicId": 1096,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know the point of purposefully (?) inflicting sword scars on posts/furniture etc.  I understand if the interior of a building gets damaged due to a",
+            "messageBody": "<div id=\"ygrps-yiv-709527603\">Does anyone know the point of purposefully (?) inflicting sword <br/>\nscars on posts/furniture etc.  I understand if the interior of a <br/>\nbuilding gets damaged due to a fight but it seems that these sword <br/>\nscars are everywhere, in temples etc too.  Were these ever done on <br/>\npurpose?  I posted a link to a site which contains short videos to <br/>\ntours of Shinsengumi related sites and in one segment the guide was <br/>\npointing out a damaged door/window (removed from the main structure) <br/>\nbut he seemed kind of enthusiastic not at all serious so it made me <br/>\nwonder if guys just slashed at stuff for fun(?). The book from which <br/>\nI scanned the full body chainmail also contains MORE sword scars <br/>\nthan those seen on websites...did our guys get a little too rowdy at <br/>\ntimes?<br/>\n<br/>\nFor people who haven&#39;t seen my sig at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinsengumimb.com\">http://www.shinsengumimb.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/sig10.jpg\">http://1happyturtle.com/makoto/sig10.jpg</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1095,
+    "nextTopicId": 1098
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kondou Isami & Sasaki Tadasaburo",
+            "postDate": "1171499201",
+            "msgId": 814,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVyMDljMSsxZDFsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 813,
+            "nextInTime": 815,
+            "topicId": 814,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We all know who Kondou is... Sasaki Tadasaburo was in charge of the Mimawarigumi http://homepage2.nifty.com/mmmasayuki/kondosasaki.jpg this has got to be the",
+            "messageBody": "<div id=\"ygrps-yiv-643175597\">We all know who Kondou is...<br/>\nSasaki Tadasaburo was in charge of the Mimawarigumi<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://homepage2.nifty.com/mmmasayuki/kondosasaki.jpg\">http://homepage2.nifty.com/mmmasayuki/kondosasaki.jpg</a><br/>\n<br/>\nthis has got to be the BEST KONDOU FANART I&#39;VE EVER SEEN</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 811,
+    "nextTopicId": 815
+}

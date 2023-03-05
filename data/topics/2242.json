@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Example of Seinan War coverage",
+            "postDate": "1110241647",
+            "msgId": 2242,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwaXJoZitibjV0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2241,
+            "nextInTime": 2243,
+            "topicId": 2242,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "https://mywebspace.wisc.edu/tnamwong/web/EiriShimbunAug1877.zip from the Eiri Shimbun newspaper Aug 1877 (I couldn t read the days ofcourse just using info on",
+            "messageBody": "<div id=\"ygrps-yiv-1732616827\"><a rel=\"nofollow\" target=\"_blank\" href=\"https://mywebspace.wisc.edu/tnamwong/web/EiriShimbunAug1877.zip\">https://mywebspace.wisc.edu/tnamwong/web/EiriShimbunAug1877.zip</a><br/>\nfrom the Eiri Shimbun newspaper Aug 1877 (I couldn&#39;t read the days <br/>\nofcourse just using info on the microfilm divider slides)<br/>\n<br/>\nand even found a pic of a guy shooting from a tree MissB (^_^)<br/>\nin fact that seems to be the preferred way of sniping at the enemy <br/>\n(because there&#39;s alot of artwork depicting it)<br/>\nI scanned one very short article for people who study Japanese so <br/>\nthey can see the change in the language and one pic needs no <br/>\ntranslation at all<br/>\n<br/>\nI picked Aug 1877 just to get a feel for the coverage coming in that <br/>\nmonth (it was also when the article mentioning Fujita Goro was <br/>\nprinted in the Tokyo Nichinichi but the battle occurred in July---<br/>\ntelegraph lines were cut so communication back to Tokyo was real <br/>\nslow).</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2235,
+    "nextTopicId": 2210
+}

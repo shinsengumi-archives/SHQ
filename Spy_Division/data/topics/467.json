@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 173227807,
+            "authorName": "spiritus_saitou",
+            "from": "&quot;spiritus_saitou&quot; &lt;spiritus_saitou@...&gt;",
+            "profile": "spiritus_saitou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: I&#39;m new! ^_^",
+            "postDate": "1102474425",
+            "msgId": 468,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwNXFicCs3Ym1pQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNwNWlnZCtoM2c3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 467,
+            "nextInTopic": 0,
+            "prevInTime": 467,
+            "nextInTime": 469,
+            "topicId": 467,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Welcome!! You have it absolutely right... art goes in the Photos section and fiction in the Archive of Stories folder in the Files section.  Be sure to check",
+            "messageBody": "<div id=\"ygrps-yiv-1926687542\">Welcome!!<br/>\n<br/>\nYou have it absolutely right... art goes in the Photos section and <br/>\nfiction in the Archive of Stories folder in the Files section.  Be <br/>\nsure to check out the guidelines for posting and uploading, fiction <br/>\nparticularly.<br/>\n<br/>\nI&#39;m sure everyone here will enjoy new art & fic!<br/>\n<br/>\nphil<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;Kikane&quot; &lt;woaisoujirou@y...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; <br/>\n&gt; Hajimemashite, my name is Kikane! Yoroshiku onegaishima-su! If I <br/>\n&gt; have fanart, where should I put it? In the photos section? I only <br/>\n&gt; have one fanfiction ^.^;; does that go in the files section? <br/>\n&gt; --Arigatou gozaimsu!!<br/>\n&gt;   --Kikane </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 170869054,
+            "authorName": "Kikane",
+            "from": "&quot;Kikane&quot; &lt;woaisoujirou@...&gt;",
+            "profile": "woaisoujirou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "I&#39;m new! ^_^",
+            "postDate": "1102466381",
+            "msgId": 467,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwNWlnZCtoM2c3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 468,
+            "prevInTime": 466,
+            "nextInTime": 468,
+            "topicId": 467,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hajimemashite, my name is Kikane! Yoroshiku onegaishima-su! If I have fanart, where should I put it? In the photos section? I only have one fanfiction ^.^;;",
+            "messageBody": "<div id=\"ygrps-yiv-2063123158\">Hajimemashite, my name is Kikane! Yoroshiku onegaishima-su! If I <br/>\nhave fanart, where should I put it? In the photos section? I only <br/>\nhave one fanfiction ^.^;; does that go in the files section? <br/>\n--Arigatou gozaimsu!!<br/>\n  --Kikane</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 424,
+    "nextTopicId": 470
+}

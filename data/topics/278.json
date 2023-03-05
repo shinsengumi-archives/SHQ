@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 176343463,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saitou in Detention? (Serizawa & Shimazuryu) -PIC-",
+            "postDate": "1080960943",
+            "msgId": 278,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0bDkzZitvNTdiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 277,
+            "nextInTime": 279,
+            "topicId": 278,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No pressure...everyone is busy...but if you are bored and need something to do... 180 kb...the smallest I could get it and still legible ",
+            "messageBody": "<div id=\"ygrps-yiv-1956593512\">No pressure...everyone is busy...but if you are bored and need<br/>\nsomething to do...<br/>\n<br/>\n180 kb...the smallest I could get it and still legible<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/makoto/SHandDetention.jpg\">http://1happyturtle.com/makoto/SHandDetention.jpg</a><br/>\n<br/>\n*I will crop and post just the pic later the above image is for anyone<br/>\nwho is wants to take a look at the paragraph in question concerning<br/>\nSaitou Hajime and the Detention Center</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 272,
+    "nextTopicId": 275
+}

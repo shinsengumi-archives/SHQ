@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Poll on where the SHQ is now.",
+            "postDate": "1110711323",
+            "msgId": 2297,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxMTY2citwdnBqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2296,
+            "nextInTime": 2298,
+            "topicId": 2297,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We are soon to reach our One Year anniversary here at the SHQ. At this point it would be appropriate to hear from you, the Shinsengumi fans, and find out if",
+            "messageBody": "<div id=\"ygrps-yiv-1453547815\">We are soon to reach our One Year anniversary here at the SHQ. At <br/>\nthis point it would be appropriate to hear from you, the Shinsengumi <br/>\nfans, and find out if the SHQ is living up to your expectations. <br/>\nPlease take a moment to answer the questions in the &quot;Polls&quot; section <br/>\nand tell us what you truly feel about the SHQ.<br/>\n<br/>\nThank you.<br/>\n<br/>\n-MissB</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2287,
+    "nextTopicId": 2309
+}

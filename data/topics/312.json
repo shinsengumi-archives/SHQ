@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 156728904,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shinsengumi Menu Complete",
+            "postDate": "1081274244",
+            "msgId": 314,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0dXIyNCtwanRmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGM0dXE0aStuZjkwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 312,
+            "nextInTopic": 0,
+            "prevInTime": 313,
+            "nextInTime": 315,
+            "topicId": 312,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "reminder http://www.tamahito.com/aizu/ tour+description of major locations oops, forgot to mention that S.H. is [005] -NOT- [003]",
+            "messageBody": "<div id=\"ygrps-yiv-2132555110\">reminder <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.tamahito.com/aizu/\">http://www.tamahito.com/aizu/</a> tour+description of major locations<br/>\n<br/>\noops, forgot to mention that S.H. is [005] -NOT- [003]<br/>\n<blockquote><span title=\"qreply\"> &gt; How about dessert?<br/>\n&gt; Cake...insert your favorite cake and decorate with:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.furuta.co.jp/products/candytoys/rekishi/index.htm#03\">http://www.furuta.co.jp/products/candytoys/rekishi/index.htm#03</a><br/>\n&gt; yes, Saitou is now a cake decoration...<br/>\n&gt; furuta.co.jp is a confectionary company of some sort...but I&#39;m not<br/>\n&gt; sure if the decorations are edible </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 156728904,
+            "authorName": "Tiffany",
+            "from": "&quot;Tiffany&quot; &lt;tnamwong@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi Menu Complete",
+            "postDate": "1081273298",
+            "msgId": 312,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0dXE0aStuZjkwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 314,
+            "prevInTime": 311,
+            "nextInTime": 313,
+            "topicId": 312,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Okay...we already have the Kondo + Hijikata beer Now we need a main dish: Insert the link below into http://babelfish.altavista.com ",
+            "messageBody": "<div id=\"ygrps-yiv-1496347569\">Okay...we already have the Kondo + Hijikata beer<br/>\n<br/>\nNow we need a main dish:<br/>\nInsert the link below into <a rel=\"nofollow\" target=\"_blank\" href=\"http://babelfish.altavista.com\">http://babelfish.altavista.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.katch.ne.jp/~o-4093/menyu.htm\">http://www.katch.ne.jp/~o-4093/menyu.htm</a><br/>\nall our favorite persons and ingredients are on the menu ;P<br/>\n<br/>\nHow about dessert?<br/>\nCake...insert your favorite cake and decorate with:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.furuta.co.jp/products/candytoys/rekishi/index.htm#03\">http://www.furuta.co.jp/products/candytoys/rekishi/index.htm#03</a><br/>\nyes, Saitou is now a cake decoration...<br/>\nfuruta.co.jp is a confectionary company of some sort...but I&#39;m not<br/>\nsure if the decorations are edible<br/>\n<br/>\nNow that you&#39;ve stuffed yourself how about finishing the day with a<br/>\nnice warm bath with Shinsengumi bath salts...<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aestheticism.com/visitors/editor/kitty/kyotophotojournal/\">http://www.aestheticism.com/visitors/editor/kitty/kyotophotojournal/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 311,
+    "nextTopicId": 320
+}

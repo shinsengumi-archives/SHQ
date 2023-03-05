@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 1533100,
+            "authorName": "Barbara Sheridan",
+            "from": "Barbara Sheridan &lt;bsher213@...&gt;",
+            "profile": "bsher213",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Pictures moved",
+            "postDate": "1081891571",
+            "msgId": 387,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwN0M1QUYzLjEwNjA3MDJAYmVsbGF0bGFudGljLm5ldD4=",
+                "inReplyToHeader": "PGM1aGlucisyNTdqQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGM1aGlucisyNTdqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 386,
+            "nextInTopic": 0,
+            "prevInTime": 386,
+            "nextInTime": 388,
+            "topicId": 386,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "FYI : I moved the pictures to the photos section to the folder The Many Incarnations of Saitou and put the original contributor s name with the description. --",
+            "messageBody": "<div id=\"ygrps-yiv-2061097110\">FYI : I moved the pictures to the photos section to the folder The Many <br/>\nIncarnations of Saitou and put the original contributor&#39;s name with the <br/>\ndescription.<br/>\n<br/>\n-- <br/>\nBarbara Sheridan\t<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.barbarasheridan.net\">http://www.barbarasheridan.net</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166729753,
+            "authorName": "warg3791",
+            "from": "&quot;warg3791&quot; &lt;Warg3791@...&gt;",
+            "profile": "warg3791",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Pictures in the text files",
+            "postDate": "1081888315",
+            "msgId": 386,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM1aGlucisyNTdqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 387,
+            "prevInTime": 385,
+            "nextInTime": 387,
+            "topicId": 386,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There are three Saito pictures uploaded in the files section. While I appreciate a good pic of the Wolf as much as the next fangirl, I would like to remind",
+            "messageBody": "<div id=\"ygrps-yiv-1428681136\">There are three Saito pictures uploaded in the files section. While I <br/>\nappreciate a good pic of the Wolf as much as the next fangirl, I <br/>\nwould like to remind everyone that the files section is for text <br/>\nfiles only. Pictures take up much needed space in the files section <br/>\nand we have folders in the photo section for Saito pics. Please <br/>\nremove the pics and place them there within the next couple of days. <br/>\nThis is the last warning that will be given. The next pics found in <br/>\nthe text files will be forced to follow Shinsengumi law and be made <br/>\nto commit seppuku. (In other words they will be deleted without <br/>\nwarning.)<br/>\n<br/>\nSorry to be so harsh, but one of us moderators has to do it. I guess <br/>\nI&#39;ve just spent too much time reading up on Hijikata-sama. He&#39;s <br/>\nbeginning to influence me...<br/>\n<br/>\n-MissBehavin<br/>\nHijikata&#39;s Chamber Maid</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 380,
+    "nextTopicId": 388
+}

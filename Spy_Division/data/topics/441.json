@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: NHK Shinsengumi Soundtrack",
+            "postDate": "1101053274",
+            "msgId": 442,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNucWVncStmb3VlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNucDFqbCtlbjZxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 441,
+            "nextInTopic": 0,
+            "prevInTime": 441,
+            "nextInTime": 443,
+            "topicId": 441,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please see http://groups.yahoo.com/group/SHQ/message/1800 *Yes* you can buy the official NHK shinsengumi soundtrak online :) ... appreciate If I could ... sure",
+            "messageBody": "<div id=\"ygrps-yiv-59629063\">Please see <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/SHQ/message/1800\">http://groups.yahoo.com/group/SHQ/message/1800</a><br/>\n*Yes* you can buy the official NHK shinsengumi soundtrak online :)<br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:SHQ_Spy_Division@yahoogroups.com\">SHQ_Spy_Division@yahoogroups.com</a>, &quot;aishiterukouji&quot; <br/>\n&lt;aishiterukouji@y...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; Hello!<br/>\n&gt; <br/>\n&gt; Does anyone have the NHK Shinsneugmi Soundtrack? If you do I would <br/>\n </span></blockquote>appreciate If I could <br/>\n<blockquote><span title=\"ireply\"> &gt; have at least the main songs. I tried to buy it online but I&#39;m not <br/>\n </span></blockquote>sure whether I can buy <br/>\n<blockquote><span title=\"qreply\"> &gt; stuff from Japanese Websites. Please respond. Thank You!<br/>\n&gt; <br/>\n&gt; -yuki-san </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 199224493,
+            "authorName": "aishiterukouji",
+            "from": "&quot;aishiterukouji&quot; &lt;aishiterukouji@...&gt;",
+            "profile": "aishiterukouji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Shinsengumi Soundtrack",
+            "postDate": "1101007285",
+            "msgId": 441,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNucDFqbCtlbjZxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 442,
+            "prevInTime": 440,
+            "nextInTime": 442,
+            "topicId": 441,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello! Does anyone have the NHK Shinsneugmi Soundtrack? If you do I would appreciate If I could have at least the main songs. I tried to buy it online but I m",
+            "messageBody": "<div id=\"ygrps-yiv-185549401\">Hello!<br/>\n<br/>\nDoes anyone have the NHK Shinsneugmi Soundtrack? If you do I would appreciate If I could <br/>\nhave at least the main songs. I tried to buy it online but I&#39;m not sure whether I can buy <br/>\nstuff from Japanese Websites. Please respond. Thank You!<br/>\n<br/>\n-yuki-san</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 440,
+    "nextTopicId": 445
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "We seriously need Shinsengumi businesscards",
+            "postDate": "1180073966",
+            "msgId": 840,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYzNXY1ZSt1OWVxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 839,
+            "nextInTime": 841,
+            "topicId": 840,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "come on you guys can come up with better ones (^_^) http://i162.photobucket.com/albums/t270/secretarytocapt3/FGcard.jpg I was gonna make one for Tokio because",
+            "messageBody": "<div id=\"ygrps-yiv-1881221002\">come on you guys can come up with better ones (^_^)<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://i162.photobucket.com/albums/t270/secretarytocapt3/FGcard.jpg\">http://i162.photobucket.com/albums/t270/secretarytocapt3/FGcard.jpg</a><br/>\n<br/>\nI was gonna make one for Tokio because I have a reduplicate of <br/>\nauthentic letter head used by the Ministry of Education (the Tokyo <br/>\nWomen&#39;s/Womens/Female Normal School used this letterhead as well) but I <br/>\nmay have misplaced by scan.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 837,
+    "nextTopicId": 841
+}

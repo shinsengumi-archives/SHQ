@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Fujita Goro worked here...",
+            "postDate": "1190611232",
+            "msgId": 3308,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkN2hmMCtpODJlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3307,
+            "nextInTime": 3309,
+            "topicId": 3308,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "well somewhere in here It s a map of the school from 1903-1904 so he was on campus for atleast 4 years. ",
+            "messageBody": "<div id=\"ygrps-yiv-503308926\">well somewhere in here<br/>\n<br/>\nIt&#39;s a map of the school from 1903-1904 so he was on campus for atleast <br/>\n4 years.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://1happyturtle.com/T-sensei/TWNS1903-1904mappic.jpg\">http://1happyturtle.com/T-sensei/TWNS1903-1904mappic.jpg</a><br/>\n<br/>\nit&#39;s still cool historical minutia<br/>\n<br/>\njust wanted to share<br/>\n<br/>\nimagine all the locations where dorm mothers like Tokio would just hang <br/>\nout and kill time (^_^)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3306,
+    "nextTopicId": 3314
+}

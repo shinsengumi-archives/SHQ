@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150650663,
+            "authorName": "darkmalik",
+            "from": "&quot;darkmalik&quot; &lt;jcolburn1@...&gt;",
+            "profile": "darkmalik",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT or Not OT?",
+            "postDate": "1098934713",
+            "msgId": 1777,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNscHBqcCsybDIzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1776,
+            "nextInTime": 1778,
+            "topicId": 1777,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Okay I m not sure if this is off topic or not but here goes. Okay I recently saw that a there is going to be released soon but there s no release date as of",
+            "messageBody": "<div id=\"ygrps-yiv-838678340\">Okay I&#39;m not sure if this is off topic or not but here goes. Okay I <br/>\nrecently saw that a there is going to be released soon but there&#39;s no <br/>\nrelease date as of yet for a Boy&#39;s Love game called Shinsengumi, and <br/>\nI wonder if it&#39;s really about the Shinsengumi or not?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1770,
+    "nextTopicId": 1674
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Hirotada Tokugawa",
+            "from": "&quot;Hirotada Tokugawa&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nagakura",
+            "postDate": "1098147923",
+            "msgId": 1740,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTIyLUYyM1Jlb3pUSUF3MTkwMDAxNWVhY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1739,
+            "nextInTime": 1741,
+            "topicId": 1740,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If what Sec says is right, today is Nagakura s birthday.....so happy birthday to him! --M. _________________________________________________________________ ",
+            "messageBody": "<div id=\"ygrps-yiv-585426457\">If what Sec says is right, today is Nagakura&#39;s birthday.....so happy <br/>\nbirthday to him!<br/>\n<br/>\n--M.<br/>\n<br/>\n_________________________________________________________________<br/>\nDon&#39;t just search. Find. Check out the new MSN Search! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.msn.com/\">http://search.msn.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1739,
+    "nextTopicId": 1734
+}

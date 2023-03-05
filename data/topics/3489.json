@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretarytocapt3",
+            "from": "&quot;secretarytocapt3&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "[COMING SOON] Book which re-evaluates the &quot;revolution&quot; of 1868",
+            "postDate": "1259116893",
+            "msgId": 3489,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhlaTVndCs3NWNhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3488,
+            "nextInTime": 3490,
+            "topicId": 3489,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Meiji Restoration: Monarchism, Mass Communication and Conservative Revolution by Alistair Swale Release date:  December 2009 Available on Amazon and other",
+            "messageBody": "<div id=\"ygrps-yiv-1071998476\">The Meiji Restoration: Monarchism, Mass Communication and Conservative Revolution<br/>\nby<br/>\nAlistair Swale <br/>\n<br/>\nRelease date:  December 2009<br/>\n<br/>\nAvailable on Amazon and other online bookstores.<br/>\n<br/>\n&quot;The Meiji Restoration of 1868 is one of the most astonishing political events of the modern era, yet it doesn&#39;t fit easily with Western precedents of mass mobilization and social transformation. This book challenges some of the preconceptions that have hindered the Restoration being understood on its own terms.&quot;<br/>\n<br/>\nWords like revolution, and democracy have always been associated with the Meiji Era but studies of the Meiji Constitution, mass militarization of the population, not to mention the blatant power monopoly of the victors tarnish the golden era image.<br/>\n<br/>\nSwale completed a very decent work called The Political Thought of Mori Arinori: A Study in Meiji Conservatism and I hope this new text will further solidify his position in the new wave of Meiji studies.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3488,
+    "nextTopicId": 3490
+}

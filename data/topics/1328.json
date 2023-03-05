@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsengumi ad",
+            "postDate": "1088903609",
+            "msgId": 1328,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjN2xqcCtuaWQyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1327,
+            "nextInTime": 1329,
+            "topicId": 1328,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just to let everyone know, I posted a Shinsengumi ad in the Photos section of this and the Spy Division site. I think you ll like it. ... --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1269253923\">Just to let everyone know, I posted a &quot;Shinsengumi ad&quot; in the Photos<br/>\nsection of this and the Spy Division site. I think you&#39;ll like it.<br/>\n<br/>\n:-D<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1289,
+    "nextTopicId": 1313
+}

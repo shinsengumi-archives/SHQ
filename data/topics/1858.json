@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185890146,
+            "authorName": "secretary",
+            "from": "&quot;secretary&quot; &lt;secretarytocapt3@...&gt;",
+            "profile": "secretarytocapt3",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Inoue Genzaburo + Rintaro Okita Document",
+            "postDate": "1101492885",
+            "msgId": 1858,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvN3JxbCt0aWozQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1857,
+            "nextInTime": 1859,
+            "topicId": 1858,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "originally from http://8614.teacup.com/hijikata/bbs pic of document and location of discovery http://blog.drecom.jp/hinojyukuhonjin_kentoukai/ {Tama} gave a",
+            "messageBody": "<div id=\"ygrps-yiv-1610878926\">originally from<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://8614.teacup.com/hijikata/bbs\">http://8614.teacup.com/hijikata/bbs</a><br/>\n<br/>\npic of document and location of discovery<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://blog.drecom.jp/hinojyukuhonjin_kentoukai/\">http://blog.drecom.jp/hinojyukuhonjin_kentoukai/</a><br/>\n<br/>\n{Tama} gave a quick summary............<br/>\n<br/>\nthe document is a {{copy}} of an original<br/>\nthe original has -not- been discovered<br/>\n<br/>\nthe document is a petiton signed when Roushi tai was formed around <br/>\nKiyokawa <br/>\n<br/>\nwhat we know now is that Inoue Genazaburo and *Rintaro Okita&#39;s names <br/>\nare on the list<br/>\n<br/>\n*Rintaro Okita was Okita Mitsu&#39;s husband.....basically Okita&#39;s <br/>\nbrother-in-law<br/>\n<br/>\nit was discovered in an old house in the Yamanashi Prefecture<br/>\n<br/>\nthe house was owned by the descendent of Hayakawa Buntaro (1st unit <br/>\nRoushi tai)<br/>\n<br/>\na historian visited the home and the {{copy}} was discovered</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1857,
+    "nextTopicId": 1860
+}

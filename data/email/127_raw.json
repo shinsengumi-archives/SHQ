@@ -1,0 +1,30 @@
+{
+    "userId": 176343463,
+    "authorName": "Tiffany",
+    "from": "&quot;Tiffany&quot; &lt;makoto@...&gt;",
+    "profile": "secretarytocapt3",
+    "replyTo": "LIST",
+    "senderId": "M7jNp8MMTA0OI22aTiZ_M2cbOKzNiCyWyvl7-_dPZVuPJc-VgnrdubKhUYVWj-gjP4UayhzdQfU7mjxWMLWBYqd_6RqGzl5wpuk",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: Book recommendation",
+    "postDate": "1080171039",
+    "msgId": 127,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGMzdDVtdisyZm1sQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDE4NTFDOUYyLjNBOTg0NTJCLjAwODU2MTU5QGFvbC5jb20+"
+    },
+    "prevInTopic": 123,
+    "nextInTopic": 129,
+    "prevInTime": 126,
+    "nextInTime": 128,
+    "topicId": 122,
+    "numMessagesInTopic": 9,
+    "msgSnippet": "fundoshi is not showing up!",
+    "rawEmail": "Return-Path: &lt;makoto@...&gt;\r\nX-Sender: makoto@...\r\nX-Apparently-To: SHQ@yahoogroups.com\r\nReceived: (qmail 39158 invoked from network); 24 Mar 2004 23:31:01 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m5.grp.scd.yahoo.com with QMQP; 24 Mar 2004 23:31:01 -0000\r\nReceived: from unknown (HELO n15.grp.scd.yahoo.com) (66.218.66.70)\n  by mta2.grp.scd.yahoo.com with SMTP; 24 Mar 2004 23:31:01 -0000\r\nReceived: from [66.218.67.178] by n15.grp.scd.yahoo.com with NNFMP; 24 Mar 2004 23:30:40 -0000\r\nDate: Wed, 24 Mar 2004 23:30:39 -0000\r\nTo: SHQ@yahoogroups.com\r\nMessage-ID: &lt;c3t5mv+2fml@...&gt;\r\nIn-Reply-To: &lt;1851C9F2.3A98452B.00856159@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 28\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-eGroups-Remote-IP: 66.218.66.70\r\nFrom: &quot;Tiffany&quot; &lt;makoto@...&gt;\r\nSubject: Re: Book recommendation\r\nX-Yahoo-Group-Post: member; u=176343463\r\nX-Yahoo-Profile: secretarytocapt3\r\n\r\nfundoshi is not showing up!\n\n\n"
+}

@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "SHQ@yahoogroups.com",
+    "from": "SHQ@yahoogroups.com ",
+    "replyTo": "LIST",
+    "senderId": "dNgWOwZc_SusfkznZ8-2Li-Sf5NvcxDdGI_XPi6HKtMKPLCn-UjwVTV6ms2ccYRPHgQ2Nr4SpGZZvss",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "New file uploaded to SHQ",
+    "postDate": "1080139575",
+    "msgId": 111,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDEwODAxMzk1NzUuMTAwOC41NzMzNi53MzRAeWFob29ncm91cHMuY29tPg=="
+    },
+    "prevInTopic": 56,
+    "nextInTopic": 112,
+    "prevInTime": 110,
+    "nextInTime": 112,
+    "topicId": 13,
+    "numMessagesInTopic": 24,
+    "msgSnippet": "Hello, This email message is a notification to let you know that a file has been uploaded to the Files area of the SHQ group. File        : /Hajime Saitou.jpg ",
+    "rawEmail": "Return-Path: &lt;notify@yahoogroups.com&gt;\r\nReceived: (qmail 24418 invoked from network); 24 Mar 2004 14:48:06 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m19.grp.scd.yahoo.com with QMQP; 24 Mar 2004 14:48:06 -0000\r\nReceived: from unknown (HELO n37.grp.scd.yahoo.com) (66.218.66.105)\n  by mta2.grp.scd.yahoo.com with SMTP; 24 Mar 2004 14:48:05 -0000\r\nX-eGroups-Return: notify@yahoogroups.com\r\nReceived: from [66.218.67.155] by n37.grp.scd.yahoo.com with NNFMP; 24 Mar 2004 14:46:15 -0000\r\nReceived: (qmail 57502 invoked by uid 65534); 24 Mar 2004 14:46:15 -0000\r\nDate: 24 Mar 2004 14:46:15 -0000\r\nMessage-ID: &lt;1080139575.1008.57336.w34@yahoogroups.com&gt;\r\nX-eGroups-Application: files \r\nX-Yahoo-Group-Post: system\r\nFrom: SHQ@yahoogroups.com \r\nTo: SHQ@yahoogroups.com \r\nSubject: New file uploaded to SHQ \r\nMIME-Version: 1.0\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Remote-IP: 66.218.66.105\r\n\r\n\nHello,\n\nThis email message is a notification to let you know that\na file has been uploaded to the Files area of the SHQ \ngroup.\n\n  File        : /Hajime Saitou.jpg \n  Uploaded by : andjoysmith &lt;andjoysmith@...&gt; \n  Description : Saitou piccie2 \n\nYou can access this file at the URL\n\nhttp://groups.yahoo.com/group/SHQ/files/Hajime%20Saitou.jpg \n\nTo learn more about file sharing for your group, please visit\n\nhttp://help.yahoo.com/help/us/groups/files\n\nRegards,\n\nandjoysmith &lt;andjoysmith@...&gt;\n \n\n\n\n\n"
+}

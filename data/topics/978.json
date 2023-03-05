@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 108589066,
+            "authorName": "Shimazu Masayoshi",
+            "from": "&quot;Shimazu Masayoshi&quot; &lt;patriot014@...&gt;",
+            "profile": "shimazuryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nevermind",
+            "postDate": "1086380542",
+            "msgId": 978,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5cWxsdStqMzZmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 977,
+            "nextInTime": 979,
+            "topicId": 978,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nevermind, I found Yamazaki-san s page... --M.",
+            "messageBody": "<div id=\"ygrps-yiv-1936702975\">Nevermind, I found Yamazaki-san&#39;s page...<br/>\n<br/>\n--M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 949,
+    "nextTopicId": 979
+}
