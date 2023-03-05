@@ -19,7 +19,7 @@ def rewriteFiles(path):
                 except:
                     fh = open(path+file, "r", encoding=charsets[2])
                     f = fh.read()
-            i = f.lower().find('charset=')+8
+            i = f.lower().rfind('charset=')+8
             j = f.find('"', i)
             charset = f[i:j]
             fh.close()

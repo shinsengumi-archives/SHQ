@@ -19,7 +19,7 @@ def getListing(type, path, file):
 
 
 def getFilesInDirectory(type, content, group, path, dir, lev):
-    subfiles = sorted(os.listdir('..'+group+'/'+path), key=lambda f: f if f.find('_') == 2 else '0'+f)
+    subfiles = sorted(os.listdir(group+path), key=lambda f: f if f.find('_') == 2 else '0'+f)
     if len(subfiles) <= 1:
         return content, False
         
@@ -27,7 +27,7 @@ def getFilesInDirectory(type, content, group, path, dir, lev):
     for subfile in subfiles:
         if subfile.endswith('.json'):
             continue
-        if isdir('..'+group+'/'+path+'/'+subfile):
+        if isdir(group+path+'/'+subfile):
             content, added = getFilesInDirectory(type, content, group, path+'/'+subfile, subfile, lev+1)
         else:
             content = content + getListing(type, path+'/'+subfile, subfile)
@@ -36,18 +36,18 @@ def getFilesInDirectory(type, content, group, path, dir, lev):
     return content, True
 
 def gen(type, group):
-    templateFile = open('../templates/'+type+'.html', "r", encoding="utf8")
+    templateFile = open('templates/'+type+'.html', "r", encoding="utf8")
     template = templateFile.read()
 
     content = ''
     directories = []
-    files = sorted(os.listdir('..'+group+'/'+dataPath+type), key=lambda f: f if f.find('_') == 2 else '0'+f)
+    files = sorted(os.listdir(group+dataPath+type), key=lambda f: f if f.find('_') == 2 else '0'+f)
     for file in files:
         if file.endswith('.json'):
             continue
             
         path = dataPath+type+'/'+file
-        if isdir('..'+group+'/'+path):
+        if isdir(group+path):
             content, added = getFilesInDirectory(type, content, group, path, file, 3)
             if added:
                 directories.append(file)
@@ -61,12 +61,12 @@ def gen(type, group):
     output = template.replace('{{group}}', group.replace('_', ' ').replace('/',' '))
     output = output.replace('{{table-of-contents}}', nav)
     output = output.replace('{{list}}', content)
-    out = open('..'+group+'/'+type+'.html', "w", encoding="utf8")	
+    out = open(group+type+'.html', "w", encoding="utf8")	
     out.write(output)
     out.close()
     templateFile.close()
 
 gen('files', '')
 gen('photos', '')
-gen('files', '/Spy_Division')
-gen('photos', '/Spy_Division')
+gen('files', 'Spy_Division/')
+gen('photos', 'Spy_Division/')
