@@ -30,6 +30,7 @@ def rewriteFiles(path):
             fh = open(path+file, "r", encoding=charset)
             f = fh.read()
             f = f.replace('charset='+charset, 'charset=utf-8')
+            f = f.replace('CHARSET='+charset, 'CHARSET=utf-8')
             out = open(path+file, "w", encoding="utf8")	
             out.write(f)
             out.close()
