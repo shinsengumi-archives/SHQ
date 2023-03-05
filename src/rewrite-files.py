@@ -19,15 +19,18 @@ def rewriteFiles(path):
                 except:
                     fh = open(path+file, "r", encoding=charsets[2])
                     f = fh.read()
-            i = f.find('charset=')+8
+            i = f.lower().find('charset=')+8
             j = f.find('"', i)
             charset = f[i:j]
             fh.close()
             
             print(file, charset)
-            fh = open(path+file, "r", encoding="windows-1252")
+            if len(charset) == 0:
+                continue
+            fh = open(path+file, "r", encoding=charset)
             f = fh.read()
-            out = open(path+'t-'+file, "w", encoding="utf8")	
+            f = f.replace('charset='+charset, 'charset=utf-8')
+            out = open(path+file, "w", encoding="utf8")	
             out.write(f)
             out.close()
             fh.close()
@@ -35,4 +38,5 @@ def rewriteFiles(path):
         if isdir(path+file):
             rewriteFiles(path+file+'/')
 
-rewriteFiles('data/files/3_Saitou-Hajime-Info/t/')
+rewriteFiles('data/files/')
+rewriteFiles('Spy_Division/data/files/')
