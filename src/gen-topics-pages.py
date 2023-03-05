@@ -14,8 +14,14 @@ def genPage(group, tid, md):
     templateFilepath = 'templates/topic.html'
     outputPage = group+'forum/'+str(tid)+'.html'
     
-    f = open(topicJsonFile, encoding='iso-8859-1')
-    topic = json.load(f)
+    try:
+        f = open(topicJsonFile, encoding='utf-8')
+        topic = json.load(f)
+        f.close()
+    except:
+        f = open(topicJsonFile, encoding='iso-8859-1')
+        topic = json.load(f)
+        f.close()
     
     templateFile = open(templateFilepath, "r", encoding="utf8")
     template = templateFile.read()
@@ -86,10 +92,16 @@ def genIndex(group):
 
     metadataList = []
     for mf in metadataFiles[group]:
-        f = open(dataPath+mf, encoding='iso-8859-1')
-        md = json.load(f)
+        try:
+            f = open(dataPath+mf, encoding='utf-8')
+            md = json.load(f)
+            f.close()
+        except:
+            f = open(dataPath+mf, encoding='iso-8859-1')
+            md = json.load(f)
+            f.close()
         metadataList.extend(md['messages'])
-        f.close()
+        
 
     print(len(metadataList))
 
