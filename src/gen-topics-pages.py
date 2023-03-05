@@ -7,6 +7,9 @@ from datetime import datetime
 isTest = False
 testTids = [1]
 
+def decodeJapanese(content):
+    return content.encode('iso-8859-1', 'ignore').decode('shift_jis', 'ignore')
+
 def readEncodedFile(file):
     try:
         f = open(file, encoding='utf-8')
@@ -45,8 +48,6 @@ def genPage(group, tid, md):
             content = content + ' '+str(msg['msgId'])+' '+str(msg['prevInTopic'])+' '+str(msg['nextInTopic'])+'\n'
             
         content = content + '<h3>'
-        if msg['prevInTopic'] != 0:
-            content = content + '<a href="#msg-'+str(msg['prevInTopic'])+'">&gt;</a> '
         subject = '(no subject)'
         if 'subject' in msg:
             subject = msg['subject']
