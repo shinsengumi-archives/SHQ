@@ -3,12 +3,32 @@ import os
 from os.path import isdir
 import json
 from datetime import datetime
+import html
+
 
 isTest = False
 testTids = [1]
 
-def decodeJapanese(content):
-    return content.encode('iso-8859-1', 'ignore').decode('shift_jis', 'ignore')
+def decodeJapanese(content):    
+    #content = html.unescape(content)
+    ichars = [i for i in range(len(content)) if ord(content[i]) > 127]
+    istart = -1
+    chunks = []
+    for i in range(len(ichars)):
+        if i == len(ichars)-1 or ichars[i+1] - ichars[i] > 1:
+            if i - istart > 2:
+                chunk = ichars[istart+1:i+1]
+                if (i-istart)%2==1:
+                    chunk.append(chunk[-1]+1)
+                chunks.append(chunk)
+            istart = i
+    
+    key = '-'
+    orig = [content[chunk[0]:chunk[-1]+1] for chunk in chunks]
+    encoded = key.join(orig).encode('iso-8859-1', 'xmlcharrefreplace').decode('shift_jis', 'replace').split(key)
+    for i, s in enumerate(orig):
+        content = content.replace(s, encoded[i])
+    return content
 
 def readEncodedFile(file):
     try:
@@ -62,7 +82,7 @@ def genPage(group, tid, md):
             author = msg['from']
         content = content + 'by <i>'+author+'</i>\n<br/><br/>\n'
         
-        content = content + msg['messageBody']+'\n<br/>\n'
+        content = content + decodeJapanese(msg['messageBody'])+'\n<br/>\n'
         
         if msg['prevInTopic'] != 0:
             content = content + '<a href="#msg-'+str(msg['prevInTopic'])+'">[Previous #'+str(msg['prevInTopic'])+']</a> '
