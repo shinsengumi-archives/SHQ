@@ -7,6 +7,23 @@ from datetime import datetime
 isTest = False
 testTids = [1]
 
+def readEncodedFile(file):
+    try:
+        f = open(file, encoding='utf-8')
+        content = json.load(f)
+        f.close()
+    except:
+        try:
+            f = open(file, encoding='shift_jis')
+            content = json.load(f)
+            f.close()
+        except:
+            f = open(file, encoding='iso-8859-1')
+            content = json.load(f)
+            f.close()
+    return content
+
+
 def genPage(group, tid, md):
     dataPath = group+'data/topics/'
     topicJsonFile = dataPath+str(tid)+'.json'
@@ -14,14 +31,7 @@ def genPage(group, tid, md):
     templateFilepath = 'templates/topic.html'
     outputPage = group+'forum/'+str(tid)+'.html'
     
-    try:
-        f = open(topicJsonFile, encoding='utf-8')
-        topic = json.load(f)
-        f.close()
-    except:
-        f = open(topicJsonFile, encoding='iso-8859-1')
-        topic = json.load(f)
-        f.close()
+    topic = readEncodedFile(topicJsonFile)
     
     templateFile = open(templateFilepath, "r", encoding="utf8")
     template = templateFile.read()
@@ -92,14 +102,7 @@ def genIndex(group):
 
     metadataList = []
     for mf in metadataFiles[group]:
-        try:
-            f = open(dataPath+mf, encoding='utf-8')
-            md = json.load(f)
-            f.close()
-        except:
-            f = open(dataPath+mf, encoding='iso-8859-1')
-            md = json.load(f)
-            f.close()
+        md = readEncodedFile(dataPath+mf)
         metadataList.extend(md['messages'])
         
 
