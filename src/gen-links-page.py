@@ -9,10 +9,11 @@ outputPage = 'links.html'
 
 f = open(jsonFile)
 data = json.load(f)
+f.close()
 
 content = ''
 for link in data['links']:
-    content = content + '<li><a href="'+link['url']+'">'+link['title']+'</a> - '+link['description']+' (<i>added by '+link['owner']+'</i>)</li>\n'
+    content = content + '<li><a href="'+link['url']+'">'+link['title']+'</a> - '+link['description']+' - <i>'+link['owner']+'</i></li>\n'
 
 templateFile = open(templateFilepath, "r", encoding="utf8")
 template = templateFile.read()
