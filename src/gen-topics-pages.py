@@ -1,13 +1,14 @@
 import sys
 import os
-from os.path import isdir
+from os.path import isdir, exists
 import json
 from datetime import datetime
 import html
+import base64
 
 
 isTest = False
-testTids = [1]
+testTids = [1208]
 
 def decodeJapanese(content):    
     content = html.unescape(content)
@@ -30,7 +31,35 @@ def decodeJapanese(content):
         content = content.replace(s, encoded[i])
     return content
 
+
+
+def getFromBase64(email, iBase64):
+    istart = email.find('\r\n\r\n', iBase64)+4
+    ieq = email.find('==', istart)
+    ienter = email.find('\r\n\r\n', istart)
+    iend = min((ieq if ieq > 0 else 9223372036854775800)+2, (ienter if ienter > 0 else 9223372036854775807))
+    encoded = email[istart:iend].replace('\\r\\n', '\r\n')
+    if isTest:
+        print(istart, iend, encoded)
+        t = base64.b64decode(encoded)
+        print(t)
+        print([x for x in t])
+    return base64.b64decode(encoded).decode('utf-8', 'backslashreplace').replace('\n', '<br/>')
+
+
+def getFromEmail(content, email):
+    iBase64 = email.find('Content-Transfer-Encoding: base64')
+    if iBase64 != -1:
+        content = getFromBase64(email, iBase64)
+    iBase64 = email.find('Content-Transfer-Encoding: base64', iBase64+10)
+    if iBase64 != -1:
+        content = content + getFromBase64(email, iBase64)
+    return content
+    
+
 def readEncodedFile(file):
+    if not exists(file):
+        return False
     try:
         f = open(file, encoding='utf-8')
         content = json.load(f)
@@ -82,7 +111,11 @@ def genPage(group, tid, md):
             author = msg['from']
         content = content + 'by <i>'+author+'</i>\n<br/><br/>\n'
         
-        content = content + decodeJapanese(msg['messageBody'])+'\n<br/>\n'
+        body = msg['messageBody']
+        email = readEncodedFile('data/email/'+str(msg['msgId'])+'_raw.json')
+        if email:
+            body = getFromEmail(body, email['rawEmail'])
+        content = content + decodeJapanese(body)+'\n<br/>\n'
         
         if msg['prevInTopic'] != 0:
             content = content + '<a href="#msg-'+str(msg['prevInTopic'])+'">[Previous #'+str(msg['prevInTopic'])+']</a> '
