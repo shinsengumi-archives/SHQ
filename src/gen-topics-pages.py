@@ -64,9 +64,9 @@ def genPage(group, tid, md):
         content = content + msg['messageBody']+'\n<br/>\n'
         
         if msg['prevInTopic'] != 0:
-            content = content + '<a href="#msg-'+str(msg['prevInTopic'])+'">[Previous]</a> '
+            content = content + '<a href="#msg-'+str(msg['prevInTopic'])+'">[Previous #'+str(msg['prevInTopic'])+']</a> '
         if msg['nextInTopic'] != 0:
-            content = content + '<a href="#msg-'+str(msg['nextInTopic'])+'">[Next]</a>'
+            content = content + '<a href="#msg-'+str(msg['nextInTopic'])+'">[Next #'+str(msg['nextInTopic'])+']</a>'
             
         content = content + '\n</div>\n<hr/>\n\n'
         
